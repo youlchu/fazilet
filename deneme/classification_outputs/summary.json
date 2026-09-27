@@ -1,0 +1,11 @@
+{
+  "total_files": 513,
+  "net": 23,
+  "partial": 0,
+  "ambiguous": 486,
+  "multi_product": 0,
+  "unopenable": 4,
+  "csv": "inventory.csv",
+  "report": "classification_report.md",
+  "html": "control.html"
+}

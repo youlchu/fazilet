@@ -1,0 +1,6 @@
+Create one photorealistic e-commerce studio product image using the supplied photographs as strict identity references.
+
+The product identity is: {product_name}.
+
+Preserve the exact physical product shape, proportions, colors, materials, controls, attachments, accessories, brand logo, model markings and all readable text. Do not invent features, redesign the product, alter a logo, change a model number, add accessories, or guess text that is not readable. If packaging and the physical product are both visible, create a clean hero image of the physical product, not a redesigned package. Show only the identified product, centered on a seamless pure white background, with soft realistic studio lighting and a subtle contact shadow. No hands, people, shelves, price labels, promotional writing, watermarks, borders, or unrelated objects. Square 1:1 catalog composition.
+

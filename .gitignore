@@ -1,0 +1,21 @@
+.DS_Store
+**/.DS_Store
+
+# Secrets: never commit real API credentials.
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated candidates and local API state
+generated_candidates/
+generation/*.jsonl
+generation/*.json
+generation/*.html
+generation/*.log
+

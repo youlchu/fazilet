@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "image_naming": {
+    "original": "past_*",
+    "clean_product": "product_hero.png",
+    "boxed_product": "product_box.png"
+  },
+  "products": [
+    {
+      "folder": "cvs-dn-4727-acrobat-dik-supurge",
+      "brand": "CVS",
+      "model": "DN 4727",
+      "name": "Acrobat Pratik Dik Süpürge",
+      "identity_confidence": "high",
+      "source": "https://www.epey.com/supurge/cvs-dn-4727-acrobat.html"
+    },
+    {
+      "folder": "cvs-dn-5482-belize-buharli-utu",
+      "brand": "CVS",
+      "model": "DN 5482",
+      "name": "Belize 2600 W Seramik Tabanlı Buharlı Ütü",
+      "identity_confidence": "high",
+      "source": "https://www.akakce.com/utu/en-ucuz-cvs-belize-dn-5482-2600-w-buharli-fiyati%2C1420960170.html"
+    },
+    {
+      "folder": "cvs-dn-7511-sifir-kesim-tiras-makinesi",
+      "brand": "CVS",
+      "model": "DN 7511",
+      "name": "Sıfır Kesim Saç-Sakal Tıraş Makinesi",
+      "identity_confidence": "high",
+      "source": "https://www.epey.com/tiras-makinesi/cvs-dn-7511.html"
+    },
+    {
+      "folder": "cvs-dn-7518-9in1-erkek-bakim-seti",
+      "brand": "CVS",
+      "model": "DN 7518",
+      "name": "9 in 1 Erkek Bakım Seti",
+      "identity_confidence": "high",
+      "source": "https://www.akakce.com/erkek-bakim-seti/en-ucuz-cvs-dn-7518-9in1-fiyati%2C776269444.html"
+    },
+    {
+      "folder": "homenist-3000w-duvar-tipi-infrared-isitici",
+      "brand": "Homenist",
+      "model": null,
+      "name": "3000 W Duvar Tipi Infrared Isıtıcı",
+      "identity_confidence": "medium",
+      "note": "Marka ve güç kutudan okunuyor; model kodu görünmüyor."
+    },
+    {
+      "folder": "kristal-moonlight-pembe-tek-kisilik-nevresim-takimi",
+      "brand": "Kristal",
+      "model": "Moonlight Pembe",
+      "name": "Tek Kişilik Ranforce Nevresim Takımı",
+      "identity_confidence": "medium",
+      "note": "Desen ve Moonlight adı ambalajdan; eski çevrimiçi kayıtlar sınırlı."
+    },
+    {
+      "folder": "minisan-dp-1200q-quartz-isitici",
+      "brand": "Minisan",
+      "model": "DP 1200Q",
+      "name": "Elektrikli Quartz Isıtıcı",
+      "identity_confidence": "high",
+      "source": "https://isari.store/en/minisan-dp-1200q.html"
+    },
+    {
+      "folder": "pirantech-cb702-buharli-mop",
+      "brand": "PiranTech",
+      "model": "CB702",
+      "name": "1250 W Buharlı Mop",
+      "identity_confidence": "high",
+      "source": "https://pirantech.com.tr/pirantech-cb702-buharli-mop-1250w-guc-180-donebilen-baslik-hali-ve-sert-zemin-temizleyici"
+    },
+    {
+      "folder": "pirantech-es-98-kablosuz-dikey-supurge",
+      "brand": "PiranTech",
+      "model": "ES-98",
+      "name": "Kablosuz Dikey Süpürge",
+      "identity_confidence": "high",
+      "source": "https://pirantech.com.tr/es-98-kablosuz-dikey-supurge-11-kpa-guclu-emis-hepa-filtreli-sarjli-supurge"
+    },
+    {
+      "folder": "simfer-4552-45l-mekanik-midi-firin",
+      "brand": "Simfer",
+      "model": "4552",
+      "name": "45 L Beyaz Mekanik Turbo Midi Fırın",
+      "identity_confidence": "high",
+      "source": "https://simfer.com.tr/simfer-4552-beyaz-45-litre-turbo-midi-firin-1706"
+    },
+    {
+      "folder": "simfer-4558-45l-dijital-midi-firin",
+      "brand": "Simfer",
+      "model": "4558",
+      "name": "45 L Beyaz Dijital Turbo Midi Fırın",
+      "identity_confidence": "high",
+      "source": "https://www.indea.com.tr/simfer-m4558-cift-cam-midi-firin-45-l-turbo-beyaz-dijital-gomulebilir-lamba-8181"
+    },
+    {
+      "folder": "tac-besiktas-efsane-tek-kisilik-nevresim-takimi",
+      "brand": "Taç",
+      "model": "Beşiktaş Efsane",
+      "name": "Lisanslı Tek Kişilik Nevresim Takımı",
+      "identity_confidence": "high"
+    },
+    {
+      "folder": "zorlu-besiktas-kartal-battaniye-160x220",
+      "brand": "Zorlu",
+      "model": "Beşiktaş Kartal",
+      "name": "Lisanslı Battaniye 160 x 220 cm",
+      "identity_confidence": "high",
+      "note": "Marka, ürün adı ve 160 x 220 cm ölçüsü özgün ambalajdan doğrulandı."
+    },
+    {
+      "folder": "tac-fenerbahce-efsane-tek-kisilik-nevresim-takimi",
+      "brand": "Taç",
+      "model": "Fenerbahçe Efsane",
+      "name": "Lisanslı Tek Kişilik Nevresim Takımı",
+      "identity_confidence": "high"
+    },
+    {
+      "folder": "tac-galatasaray-kirmizi-logo-tek-kisilik-nevresim-takimi",
+      "brand": "Taç",
+      "model": "Galatasaray Kırmızı Logo",
+      "name": "Lisanslı Tek Kişilik Nevresim Takımı",
+      "identity_confidence": "high",
+      "source": "https://www.evimkolayavm.com/tac-galatasaray-kirmizi-logo-lisansli-nevresim-takimi"
+    },
+    {
+      "folder": "tefal-gv9820-pro-express-vision-buhar-kazanli-utu",
+      "brand": "Tefal",
+      "model": "GV9820",
+      "name": "Pro Express Vision Buhar Kazanlı Ütü",
+      "identity_confidence": "high",
+      "source": "https://www.tefal.com.tr/pro-express-gv9820-vision-buhar-kazanli-utu-1830008265/"
+    },
+    {
+      "folder": "tefal-x-force-flex-9-60-sarjli-dikey-supurge",
+      "brand": "Tefal",
+      "model": "X-Force Flex 9.60",
+      "name": "100 Air Watt Kablosuz Şarjlı Dikey Süpürge",
+      "identity_confidence": "high",
+      "source": "https://www.tefal.com.tr/ty2098wo-x-force-flex-9-60-animal-care-kablosuz-sarjli-dikey-supurge-100-air-watt-7211005342/"
+    }
+  ]
+}
