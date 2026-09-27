@@ -72,7 +72,7 @@ def discover_jobs(input_dir: Path, output_dir: Path) -> list[ProductJob]:
                 ProductJob(
                     slug=product_dir.name,
                     source_images=images,
-                    output_path=output_dir / product_dir.name / "product_hero.png",
+                    output_path=output_dir / product_dir.name / "product_hero.jpg",
                 )
             )
     return jobs
@@ -102,6 +102,14 @@ def product_title(slug: str) -> str:
 
 def prompt_for(job: ProductJob, template: str) -> str:
     return template.replace("{product_name}", product_title(job.slug))
+
+
+def display_path(path: Path) -> str:
+    """Keep result logs useful when references live outside the repository."""
+    try:
+        return str(path.relative_to(ROOT))
+    except ValueError:
+        return str(path)
 
 
 def mime_type(path: Path) -> str:
@@ -191,7 +199,7 @@ def run_sync(args: argparse.Namespace, jobs: list[ProductJob], template: str) ->
                     "mode": "sync",
                     "model": args.model,
                     "product": job.slug,
-                    "sources": [str(path.relative_to(ROOT)) for path in job.source_images],
+                    "sources": [display_path(path) for path in job.source_images],
                     "output": str(job.output_path.relative_to(ROOT)),
                 },
             )
@@ -326,7 +334,7 @@ def fetch_batch(args: argparse.Namespace, output_dir: Path) -> None:
         if not slug or image is None:
             print(f"Sonuc atlandi (anahtar/gorsel yok): {slug or '?'}", file=sys.stderr)
             continue
-        output = output_dir / slug / "product_hero.png"
+        output = output_dir / slug / "product_hero.jpg"
         if output.exists() and not args.force:
             print(f"Mevcut, atlandi: {output.relative_to(ROOT)}")
             continue
@@ -338,7 +346,7 @@ def fetch_batch(args: argparse.Namespace, output_dir: Path) -> None:
 
 def write_review(output_dir: Path) -> Path:
     cards: list[str] = []
-    for output in sorted(output_dir.glob("*/product_hero.png")):
+    for output in sorted(output_dir.glob("*/product_hero.jpg")):
         slug = output.parent.name
         source_dir = env_path("PRODUCT_INPUT_DIR", "new_images") / slug
         sources = sorted(
@@ -441,4 +449,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

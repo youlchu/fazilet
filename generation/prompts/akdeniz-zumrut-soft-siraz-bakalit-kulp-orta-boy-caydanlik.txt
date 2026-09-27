@@ -1,0 +1,12 @@
+Use case: product-mockup
+Asset type: premium e-commerce catalog hero image
+Primary request: Create a new photorealistic studio product photograph of the exact Akdeniz Zümrüt Soft Şiraz Bakalit Kulp Orta Boy Turkish double teapot shown in the reference images.
+Input images: Treat every supplied image only as a factual product reference. Preserve the real product's shape, proportions, polished 304 stainless-steel body, stacked two-pot construction, lids, spouts, and dark burgundy “Soft Şiraz” Bakelite handles and knobs.
+Scene/backdrop: seamless warm-white to very-light-gray studio background with a faint tasteful burgundy glow far behind the product.
+Subject: one complete stacked Turkish teapot set, clean and unused, viewed at a flattering three-quarter angle.
+Style/medium: premium commercial product photography, highly realistic, natural metal reflections, crisp edges.
+Composition/framing: square image, product centered and filling about 75% of the frame, generous clean margins, entire product visible.
+Lighting/mood: large softbox key light, gentle rim light, controlled reflections, soft grounded shadow, elegant and trustworthy.
+Materials/textures: mirror-polished stainless steel and smooth dark-burgundy Bakelite; physically plausible reflections and joins.
+Constraints: product identity and geometry must match the references; exactly two stacked pots; no invented accessories; no packaging; no people; no text; no logo recreation; no watermark.
+Avoid: copper or gold body, red handles, distorted spouts, duplicated handles, extra lids, floating parts, exaggerated CGI styling, harsh reflections.

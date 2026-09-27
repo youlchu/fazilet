@@ -1,0 +1,12 @@
+Use case: product-mockup
+Asset type: premium e-commerce catalog hero image
+Primary request: Create a new photorealistic studio product photograph of the exact Arnica Lotus Trend ET14000 navy-blue bagged canister vacuum shown in the reference images.
+Input images: Treat every supplied image only as a factual product reference. Preserve the authentic rounded low-profile navy-blue body, silver-rimmed circular front hose port, top controls and handle, wheel placement, black hose, telescopic metal tube, and floor head.
+Scene/backdrop: seamless white to very-light-cool-gray studio background with a restrained soft navy gradient accent.
+Subject: one complete Arnica Lotus Trend ET14000 vacuum, clean and unused, with hose connected and tube/floor head arranged in a graceful practical curve.
+Style/medium: high-end realistic appliance catalog photography, faithful to the actual product rather than a redesign.
+Composition/framing: square image, flattering three-quarter front angle, appliance centered, all essential accessories visible, clear silhouette and balanced margins.
+Lighting/mood: broad diffused studio lighting, subtle blue rim light, controlled reflections, soft grounded shadow, clean and dependable.
+Materials/textures: authentic glossy navy molded plastic, satin silver trim, flexible black hose, brushed metal tube.
+Constraints: this is a bagged canister vacuum, not a cyclone model; match ET14000 geometry and color; no packaging; no people; no room furniture; no text; no watermark.
+Avoid: transparent dust bin, upright or stick-vacuum form, purple body, invented display, extra wheels, distorted hose, futuristic redesign.

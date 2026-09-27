@@ -67,7 +67,7 @@ python3 scripts/generate_product_images.py run \
 Çıktı şurada oluşur:
 
 ```text
-generated_candidates/evia-holiday-ea-4603-1100-w-seyahat-utusu/product_hero.png
+generated_candidates/evia-holiday-ea-4603-1100-w-seyahat-utusu/product_hero.jpg
 ```
 
 Kaynak fotoğraf değiştirilmez. Mevcut çıktı da `--force` verilmeden değiştirilmez.
@@ -127,4 +127,3 @@ python3 scripts/generate_product_images.py run \
 - Ürün ve marka görsellerini kullanmak için gerekli haklara sahip olduğunuzdan emin olun.
 
 Resmi belgeler: [görsel üretme](https://ai.google.dev/gemini-api/docs/image-generation), [Batch API](https://ai.google.dev/gemini-api/docs/batch-api), [fiyatlandırma](https://ai.google.dev/gemini-api/docs/pricing).
-

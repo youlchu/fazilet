@@ -1,0 +1,12 @@
+Use case: product-mockup
+Asset type: premium e-commerce catalog hero image
+Primary request: Create a new photorealistic studio product photograph of the exact Aksu T11 Ken Fry 2.2 L 1600 W white electric deep fryer shown in the reference images.
+Input images: Treat every supplied image only as a factual product reference. Preserve the actual compact white/off-white body, dark upper rim and lid, front controls and indicator layout, side handles, proportions, and conventional deep-fryer construction.
+Scene/backdrop: seamless clean white to very-light-warm-gray studio background with a barely visible warm amber gradient accent.
+Subject: one complete Aksu T11 Ken Fry countertop fryer, clean and unused, lid closed.
+Style/medium: realistic commercial appliance photography, not a concept redesign and not an air fryer.
+Composition/framing: square image, centered three-quarter front view, entire appliance visible, balanced margins.
+Lighting/mood: soft diffused studio lighting, subtle rim highlight and grounded shadow, bright and dependable.
+Materials/textures: realistic molded plastic, dark translucent or glossy top components, crisp control markings without adding readable text.
+Constraints: match the real product silhouette and control placement from the references; no food; no basket outside the appliance; no packaging; no people; no added text; no watermark.
+Avoid: modern drawer-style air fryer, digital screen, black body, stainless-steel redesign, extra knobs, distorted lid, fantasy details.

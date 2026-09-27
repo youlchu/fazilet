@@ -1,0 +1,12 @@
+Use case: product-mockup
+Asset type: product-family e-commerce catalog hero image
+Primary request: Create one photorealistic studio lineup showing the three real Altus AL 606 bagless vacuum variants from the references: AL 606 SG gray, AL 606 ST metallic navy-blue, and AL 606 SR red-and-black.
+Input images: Treat every supplied image only as a factual product reference. Preserve the shared AL 606 body design, transparent cyclone dust container, yellow latch/detail, large side wheels, hose connection, and the distinct authentic colorway of each variant.
+Scene/backdrop: seamless white to very-light-gray studio background with an extremely subtle cool gradient.
+Subject: exactly three complete canister vacuums in a clean, orderly family lineup; each unit clearly visible and visually distinct by color.
+Style/medium: highly realistic commercial appliance photography with faithful materials and proportions.
+Composition/framing: square image, three-quarter front views, SG on one side, ST centered slightly forward, SR on the other side; balanced spacing; no overlap hiding key parts.
+Lighting/mood: broad softbox lighting, controlled highlights on plastic, soft floor shadows, premium and technical.
+Materials/textures: realistic glossy and satin molded plastic, clear dust bins, rubber wheels, metallic telescopic tubes.
+Constraints: exactly three vacuums; preserve product-family geometry; include neatly arranged hose/tube/floor-head components without clutter; no packaging; no people; no text labels; no watermark.
+Avoid: upright vacuum shapes, dust bags, cordless-stick designs, invented screens, wrong colors, duplicated units, floating accessories, distorted hoses.

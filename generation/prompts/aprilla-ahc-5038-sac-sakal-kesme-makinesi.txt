@@ -1,0 +1,12 @@
+Use case: product-mockup
+Asset type: premium e-commerce catalog hero image
+Primary request: Create a new photorealistic studio product photograph of the exact Aprilla AHC-5038 rechargeable hair and beard trimmer shown in the reference image.
+Input images: Treat the supplied image only as a factual product reference. Preserve the real slim metallic-gold body, ornate dark dragon-style engraving, black T-blade assembly, power-button placement, proportions, and included accessories.
+Scene/backdrop: seamless warm-white to very-light-gray studio background with a restrained burgundy-and-gold glow behind the product.
+Subject: the trimmer standing upright as the hero, with four black guide combs and the USB Type-C charging cable arranged neatly at its base.
+Style/medium: luxury grooming-product photography, highly realistic, tasteful and clean.
+Composition/framing: square image, centered trimmer, full product visible, accessories symmetrically arranged, generous margins.
+Lighting/mood: soft studio key light, precise gold edge highlights, gentle grounded shadow, premium barbershop character without adding a room scene.
+Materials/textures: brushed and polished gold-tone metal, crisp engraved pattern, matte black plastic combs, realistic steel blade.
+Constraints: retain the exact AHC-5038 visual identity and accessory count; no packaging; no person, hair, beard, hands, or barber props; no added text; no watermark.
+Avoid: electric shaver foil heads, silver body, plain body without engraving, extra combs, altered blade shape, exaggerated jewelry styling.
