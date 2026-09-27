@@ -72,6 +72,21 @@ generated_candidates/evia-holiday-ea-4603-1100-w-seyahat-utusu/product_hero.jpg
 
 Kaynak fotoğraf değiştirilmez. Mevcut çıktı da `--force` verilmeden değiştirilmez.
 
+Farklı bir görsel türü üretmek için hedef dosya adı belirtilebilir:
+
+```bash
+python3 scripts/generate_product_images.py run \
+  --only akdeniz-zumrut-soft-siraz-bakalit-kulp-orta-boy-caydanlik \
+  --output-name product_box.jpg \
+  --prompt generation/prompts/box/akdeniz-zumrut-soft-siraz-bakalit-kulp-orta-boy-caydanlik.txt
+```
+
+İlk beş ürünün doğrulanmış Türkçe bilgi kartlarını yeniden oluşturmak için:
+
+```bash
+python3 scripts/create_product_info_cards.py
+```
+
 ## 6. On ürünlük kalite testi
 
 ```bash

@@ -54,7 +54,7 @@ class ProductJob:
     output_path: Path
 
 
-def discover_jobs(input_dir: Path, output_dir: Path) -> list[ProductJob]:
+def discover_jobs(input_dir: Path, output_dir: Path, output_name: str) -> list[ProductJob]:
     jobs: list[ProductJob] = []
     if not input_dir.is_dir():
         raise SystemExit(f"Girdi klasoru bulunamadi: {input_dir}")
@@ -72,7 +72,7 @@ def discover_jobs(input_dir: Path, output_dir: Path) -> list[ProductJob]:
                 ProductJob(
                     slug=product_dir.name,
                     source_images=images,
-                    output_path=output_dir / product_dir.name / "product_hero.jpg",
+                    output_path=output_dir / product_dir.name / output_name,
                 )
             )
     return jobs
@@ -277,6 +277,7 @@ def submit_batch(args: argparse.Namespace, jobs: list[ProductJob], template: str
         "request_file": str(request_file.relative_to(ROOT)),
         "uploaded_file": uploaded.name,
         "products": [job.slug for job in jobs],
+        "output_name": args.output_name,
     }
     job_file = generation_dir / "latest_batch.json"
     job_file.write_text(json.dumps(record, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -334,7 +335,7 @@ def fetch_batch(args: argparse.Namespace, output_dir: Path) -> None:
         if not slug or image is None:
             print(f"Sonuc atlandi (anahtar/gorsel yok): {slug or '?'}", file=sys.stderr)
             continue
-        output = output_dir / slug / "product_hero.jpg"
+        output = output_dir / slug / record.get("output_name", "product_hero.jpg")
         if output.exists() and not args.force:
             print(f"Mevcut, atlandi: {output.relative_to(ROOT)}")
             continue
@@ -389,6 +390,11 @@ def build_parser() -> argparse.ArgumentParser:
         subparser.add_argument("--limit", type=int)
         subparser.add_argument("--max-references", type=int, default=3)
         subparser.add_argument("--force", action="store_true")
+        subparser.add_argument(
+            "--output-name",
+            default="product_hero.jpg",
+            help="Her urun klasorunde olusturulacak dosya adi",
+        )
 
     plan = subparsers.add_parser("plan", help="Ucret olusturmadan is listesini goster")
     shared(plan)
@@ -427,8 +433,10 @@ def main() -> None:
 
     input_dir = resolve_cli_path(args.input, "PRODUCT_INPUT_DIR", "new_images")
     template = args.prompt.read_text(encoding="utf-8")
+    if Path(args.output_name).name != args.output_name:
+        raise SystemExit("--output-name yalnizca dosya adi olmali; klasor icermemeli.")
     jobs = select_jobs(
-        discover_jobs(input_dir, output_dir),
+        discover_jobs(input_dir, output_dir, args.output_name),
         only=args.only,
         limit=args.limit,
         force=args.force,

@@ -1,0 +1,12 @@
+Use case: product-mockup
+Asset type: clean e-commerce packaging image
+Primary request: Reconstruct a clean, photorealistic retail box for the exact Aksu Ken Fry T11 white deep fryer shown in the references.
+Input images: The photographed white, light-gray and red Aksu carton is the authoritative packaging reference; the clean fryer image is the authoritative product reference. Preserve the real conventional deep-fryer form.
+Scene/backdrop: seamless light gray studio background.
+Subject: one closed, undamaged near-cubic retail carton at a slight three-quarter angle, front and right side visible.
+Packaging design: predominantly white carton with a sweeping red band at the top, pale-gray linear accents, authentic Aksu logo area, and clear photos of the white fryer.
+Text (verbatim): "aksu"; "Ken Fry T11"; "DEEP FRYER"; "2,2 L"; "1600 W".
+Composition/framing: square catalog image, box centered and fully visible with balanced margins.
+Lighting/mood: clean softbox lighting, realistic cardboard texture, subtle grounded shadow.
+Constraints: exact supplied text only; correct white T11 product pictured on the carton; no air-fryer drawer design; no loose appliance; no people; no price label; no watermark.
+Avoid: black product, digital display, misspelled brand/model, extra marketing claims, open box, damaged packaging.

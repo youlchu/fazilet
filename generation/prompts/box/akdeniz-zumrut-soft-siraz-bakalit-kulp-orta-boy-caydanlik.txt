@@ -1,0 +1,12 @@
+Use case: product-mockup
+Asset type: clean e-commerce packaging image
+Primary request: Reconstruct a clean, photorealistic retail box for the exact Akdeniz Zümrüt Soft Şiraz Bakalit Kulp Orta Boy Çaydanlık shown in the references.
+Input images: The photographed yellow-and-burgundy Akdeniz box is the authoritative packaging reference; the clean teapot image is the authoritative product reference. Preserve their identity, proportions, colors, and handle shade.
+Scene/backdrop: seamless light gray studio background.
+Subject: one closed, undamaged rectangular retail carton, standing at a slight three-quarter angle so the front and right side are visible.
+Packaging design: warm mustard-yellow carton, horizontal dark-burgundy band, large polished teapot image, restrained authentic Akdeniz styling.
+Text (verbatim): "AKDENİZ"; "LEZZET AŞKINA"; "zümrüt"; "orta boy çaydanlık".
+Composition/framing: square catalog image, box centered, entire box visible with clean margins.
+Lighting/mood: soft commercial studio lighting and a natural grounded shadow.
+Constraints: render the supplied text exactly and only once on the front; match the real box rather than inventing new packaging; the printed product must have burgundy Soft Şiraz handles; no loose product beside the box; no people; no price label; no watermark.
+Avoid: modern luxury redesign, red handles, misspelled Turkish, extra claims, damaged cardboard, open flaps, duplicated teapots.
