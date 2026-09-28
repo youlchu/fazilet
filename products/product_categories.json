@@ -1,0 +1,301 @@
+{
+  "schema_version": 1,
+  "source": "product_manifest.json",
+  "product_count": 195,
+  "category_count": 14,
+  "categories": [
+    {
+      "id": "supurgeler",
+      "name": "Süpürgeler",
+      "product_count": 14,
+      "products": [
+        "altus-al-606-sg-st-sr-toz-torbasiz-supurge",
+        "arnica-et14401-red",
+        "arnica-lotus-trend-et14000-toz-torbali-elektrikli-supurge",
+        "arzum-ar-4075",
+        "arzum-ar4087",
+        "cvs-dn-4727-acrobat-dik-supurge",
+        "fakir-bl-3048",
+        "fakir-lucid-elektronik",
+        "fantom-dc-3000",
+        "fantom-p-1250",
+        "goldmaster-by-5506k-kirmizi",
+        "pirantech-es-98-kablosuz-dikey-supurge",
+        "samsung-vc07t357mhb-blue",
+        "tefal-x-force-flex-9-60-sarjli-dikey-supurge"
+      ]
+    },
+    {
+      "id": "buharli_temizlik_ve_yikama",
+      "name": "Buharlı Temizlik ve Yıkama Makineleri",
+      "product_count": 9,
+      "products": [
+        "bright-elegance-be-3440",
+        "dsp-kd2047u",
+        "farg-pro-clean-epa-1609",
+        "kiwi-ksc-4210",
+        "pirantech-cb-103a",
+        "pirantech-cb-107c",
+        "pirantech-cb702-buharli-mop",
+        "pirantech-kt-503-800-w-3-l",
+        "sinbo-ssc-6423"
+      ]
+    },
+    {
+      "id": "utuler",
+      "name": "Ütüler",
+      "product_count": 42,
+      "products": [
+        "arzum-ar6020-pressa-black-red",
+        "arzum-ar690",
+        "cvs-dn-1770-2800-watt",
+        "cvs-dn-1770-venus-2800-watt-kirmizi",
+        "cvs-dn-5475-lucia-2200-w-mor",
+        "cvs-dn-5479-3000-watt",
+        "cvs-dn-5481",
+        "cvs-dn-5481-3000-watt",
+        "cvs-dn-5482-belize-buharli-utu",
+        "cvs-dn-5483-3000-watt",
+        "evia-ea-4603",
+        "fakir-be6020-3200-w",
+        "fakir-mercy-2200-w",
+        "fakir-spring",
+        "goldmaster-buharli-utu",
+        "king-kbu700-larsen-mavi",
+        "king-kbu701-karina-kirmizi",
+        "king-kbu703-osborn-kirmizi",
+        "kiwi-ksi-6344-2200-watt",
+        "maximus-kutu-vantilator-black-orange",
+        "philips-5000-series",
+        "philips-azur",
+        "philips-azur-7000-series",
+        "philips-azur-7500-series-3200-w-dst7510",
+        "philips-azur-8000-series",
+        "philips-dst7022-40-siyah-kirmizi",
+        "philips-dst7510-80-mavi-altin",
+        "sunday-climator-100",
+        "sunday-climator-145-10-litre-130w",
+        "tefal-easygliss-plus-fv5770-mavi",
+        "tefal-fv2868-2500-w",
+        "tefal-fv5770-2700-w",
+        "tefal-fv8042",
+        "tefal-fv8042-2900w-50g-min-270g-boost",
+        "tefal-fv9e50e0",
+        "tefal-gv9820-pro-express-vision-buhar-kazanli-utu",
+        "tefal-puregliss-3000-50-280",
+        "tefal-puregliss-fv8042-fv8042",
+        "tefal-ultimate-power-pro-fv9e50",
+        "tefal-ultimate-power-pro-fv9e50-3200-85-300",
+        "tefal-ultimate-pure",
+        "tefal-ultragliss-anti-calc-plus-2800-w-260-g"
+      ]
+    },
+    {
+      "id": "cay_kahve_ve_su_isiticilar",
+      "name": "Çay, Kahve ve Su Isıtıcıları",
+      "product_count": 16,
+      "products": [
+        "arzum-okka-minio",
+        "cvs-dn-1529-red",
+        "cvs-dn-1548-teame-plus",
+        "cvs-dn-1553",
+        "cvs-dn-1557",
+        "fakir-kaave-mono",
+        "goldmaster-by-5315-kirmizi",
+        "goldmaster-gm-7321-papatya",
+        "inova-expert-inox-siyah",
+        "king-teapro-black",
+        "king-teapro-glass",
+        "king-teapro-inox",
+        "king-teapro-red",
+        "ozkent-k-410-siyah",
+        "philips-3300-series-lattego",
+        "philips-hd7301-00"
+      ]
+    },
+    {
+      "id": "firin_airfryer_ve_izgaralar",
+      "name": "Fırın, Airfryer ve Izgaralar",
+      "product_count": 15,
+      "products": [
+        "aksu-t11-ken-fry-2-2-l-1600-w-beyaz-fritoz",
+        "cvs-dn-3906-gurme-40-lt",
+        "cvs-dn-39077-burgundy",
+        "cvs-dn-3908-red-50-lt",
+        "goldmaster-gm-7477",
+        "goldmaster-gm-7478-siyah",
+        "king-k462-grillmaster",
+        "luxell-borekci-buyuk-boy-yuvarlak-tepsili",
+        "philips-hd6301-90-2200w",
+        "samdan-mini-firin",
+        "sarex-sr-7000-easy-fit-1500-w",
+        "schafer-fitfry",
+        "simfer-4552-45l-mekanik-midi-firin",
+        "simfer-4558-45l-dijital-midi-firin",
+        "simfer-sk-6704-siyah"
+      ]
+    },
+    {
+      "id": "blender_ve_mutfak_hazirlik",
+      "name": "Blender ve Mutfak Hazırlık",
+      "product_count": 11,
+      "products": [
+        "cetintas-evii-kea-034-ir-1700-watt",
+        "fakir-mr-chef-quadro-1000-w",
+        "goldmaster-gm-7240",
+        "korkmaz-a1817-rosagold",
+        "korkmaz-elektro-set",
+        "pirantech-yh-1420",
+        "raks-pera-plus",
+        "range-multi-blend-1700w",
+        "silver-crest-suzuka-scu-15-10000w",
+        "sinbo-turbo-blender",
+        "stilevs-tropix-pro"
+      ]
+    },
+    {
+      "id": "tencere_ve_sofra",
+      "name": "Tencere, Çaydanlık ve Sofra",
+      "product_count": 20,
+      "products": [
+        "akdeniz-zumrut-soft-siraz-bakalit-kulp-orta-boy-caydanlik",
+        "falez-rapid-8-lt",
+        "falez-serafit",
+        "falez-serafit-24-cm",
+        "gulsan-cakir-cam-kapak-6-parca",
+        "gulsan-sahin-10-parca",
+        "kahramanlar-brown-kare-tutku-24-parca",
+        "kahramanlar-mokka-series-7-prc",
+        "kahramanlar-sirma-10-parca",
+        "kahramanlar-stone-28-cm",
+        "kahramanlar-yagmur-8-parca",
+        "korkmaz-tombik-a1807-8-pcs",
+        "lines-aycan-aile",
+        "lines-silver-8-lt-8-lt",
+        "mehtap-orkide-plus",
+        "mimarsinan-matik-plus-5-litre-kirmizi",
+        "oz-life-nova-gold-handles",
+        "ozkent-lotus-8-pcs-set-stainless-steel",
+        "ozlife-vigo",
+        "schafer-vals-inox"
+      ]
+    },
+    {
+      "id": "iklimlendirme_ve_isitma",
+      "name": "İklimlendirme ve Isıtma",
+      "product_count": 15,
+      "products": [
+        "baleno-mf-16-bbm-16",
+        "cvs-burgaz-1-8-litre",
+        "cvs-dn-2345",
+        "cvs-dn-91059-12",
+        "cvs-dn-91060-85-watt",
+        "cvs-dn-91061-18",
+        "cvs-dn-91062-16-inch-50-watt",
+        "cvs-dn-9312",
+        "homenist-3000w-duvar-tipi-infrared-isitici",
+        "kiwi-air-cooler",
+        "kiwi-kfan-7429",
+        "kiwi-kule-tipi-vantilator-white",
+        "maximus-3002-turbo-fan-inox-36-lt",
+        "minisan-dp-1200q-quartz-isitici",
+        "troya-tr-516-black-with-red-blades"
+      ]
+    },
+    {
+      "id": "sac_sakal_bakimi",
+      "name": "Saç ve Sakal Bakımı",
+      "product_count": 26,
+      "products": [
+        "aprilla-ahc-5038-sac-sakal-kesme-makinesi",
+        "braun-st710-iontec-technology-slim-plates",
+        "cvs-dn-7511-sifir-kesim-tiras-makinesi",
+        "cvs-dn-7518-9in1-erkek-bakim-seti",
+        "fakir-pixie",
+        "fakir-poly",
+        "goldmaster-gm-7171",
+        "goldmaster-gm-8184",
+        "grundig-mgk-6841",
+        "leader-fm304",
+        "leader-l-ws01-black-purple",
+        "leader-l-ws01-blue-rose-gold",
+        "leader-l-ws18",
+        "leader-lt-13",
+        "leader-lt-13-black-chrome",
+        "leader-lt-56",
+        "leader-lt-58",
+        "pirantech-ks-103",
+        "pirantech-ks-92",
+        "powertec-tr-3500",
+        "remington-grooming-kit-trimmer-set",
+        "remington-pg6130-titanium-coated-blades",
+        "remington-s8540",
+        "remington-s9100",
+        "remington-wet-2-straight",
+        "sinbo-shc-4375"
+      ]
+    },
+    {
+      "id": "epilasyon_ve_masaj",
+      "name": "Epilasyon ve Masaj",
+      "product_count": 11,
+      "products": [
+        "cvs-dn-132",
+        "cvs-dn-144",
+        "dsp-70569",
+        "dsp-skin-spa-your-deluxe-set-shaver-epilator",
+        "farg-lunivia-fg-1215",
+        "kiwi-kep-6833",
+        "philips-2000",
+        "pirantech-bhrl-10",
+        "pirantech-bhrl-15",
+        "powertec-ipl-buz-lazer-epilasyon",
+        "powertec-tr-999"
+      ]
+    },
+    {
+      "id": "ses_sistemleri",
+      "name": "Ses Sistemleri",
+      "product_count": 7,
+      "products": [
+        "leader-lp-5010",
+        "leader-lp-5020",
+        "leader-lp-6050",
+        "leader-lp-6540",
+        "leader-lp120",
+        "leader-lp121",
+        "leader-r205"
+      ]
+    },
+    {
+      "id": "su_sebilleri",
+      "name": "Su Sebilleri",
+      "product_count": 2,
+      "products": [
+        "starger-water-dispenser-hot-normal-cold",
+        "sunday-sicak-soguk-su-sebili"
+      ]
+    },
+    {
+      "id": "ev_tekstili",
+      "name": "Ev Tekstili",
+      "product_count": 6,
+      "products": [
+        "kristal-coco-a-gri-tek-kisilik",
+        "kristal-moonlight-pembe-tek-kisilik-nevresim-takimi",
+        "tac-besiktas-efsane-tek-kisilik-nevresim-takimi",
+        "tac-fenerbahce-efsane-tek-kisilik-nevresim-takimi",
+        "tac-galatasaray-kirmizi-logo-tek-kisilik-nevresim-takimi",
+        "zorlu-besiktas-kartal-battaniye-160x220"
+      ]
+    },
+    {
+      "id": "urun_aksesuarlari",
+      "name": "Ürün Aksesuarları",
+      "product_count": 1,
+      "products": [
+        "leader-fm304-s"
+      ]
+    }
+  ]
+}
