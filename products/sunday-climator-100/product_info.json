@@ -1,0 +1,36 @@
+{
+  "folder": "sunday-climator-100",
+  "brand": "Sunday",
+  "model": "Climator 100",
+  "name": "Hava Soğutucu Air Cooler",
+  "variant": "",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "sunday-hava-sogutucu"
+  ],
+  "source_images": [
+    "new_images/sunday-hava-sogutucu/past_sunday-hava-sogutucu_00000422.jpg"
+  ],
+  "readable_evidence": [
+    "sunday",
+    "Hava Soğutucu",
+    "Air Cooler",
+    "Serin ve konforlu kalın!",
+    "Düşük Güç Sarfiyatı"
+  ],
+  "issues": [
+    "The folder contains multiple distinct primary products: Sunday Climator 145 air cooler in images 00000286 and 00000423, and a different air cooler model in image 00000422.",
+    "The model badge text below 'sunday' on the unit in image 00000422 is blurry and partially illegible (appears to be Climator/Klimatör 100).",
+    "An Amboss Enio pressure cooker box is partially visible at the top of image 00000423 as a secondary object."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [],
+  "verification_notes": [
+    "The image set contains multiple distinct primary products, including Sunday Climator 145 and a separate air cooler unit.",
+    "The model designation badge on the unit in image 00000422 is blurry and partially illegible.",
+    "Due to conflicting products and illegible model markings in the source images, the exact model identity cannot be confirmed."
+  ]
+}

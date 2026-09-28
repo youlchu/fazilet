@@ -1,0 +1,60 @@
+{
+  "folder": "ozkent-lotus-8-pcs-set-stainless-steel",
+  "brand": "Özkent",
+  "model": "Lotus",
+  "name": "Lotus 4'lü Tencere Seti",
+  "variant": "8 pcs Set / Stainless Steel",
+  "identity_confidence": "high",
+  "source_folders": [
+    "ozkent-lotus-celik-tencere-seti"
+  ],
+  "source_images": [
+    "new_images/ozkent-lotus-celik-tencere-seti/past_ozkent-lotus-celik-tencere-seti_00000119.jpg"
+  ],
+  "readable_evidence": [
+    "ÖZKENT",
+    "LOTUS 4'LÜ TENCERE SETİ",
+    "8 pcs Set",
+    "Stainless Steel",
+    "www.ozkent.com.tr"
+  ],
+  "issues": [
+    "A neighboring box on the right edge is partially visible ('ÖZKENT', 'GURM... TENCERE...'), but the product line name is cropped and not fully readable."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Malzeme",
+      "value": "18/10 Cr-Ni 304 kalite paslanmaz çelik",
+      "source_url": "https://www.ozkent.com.tr/urun/lotus-4-lu-guvec-tencere-seti-gumus"
+    },
+    {
+      "label": "Taban Yapısı",
+      "value": "Isıyı eşit dağıtan üç kat kapsül taban",
+      "source_url": "https://www.ozkent.com.tr/urun/lotus-4-lu-guvec-tencere-seti-gumus"
+    },
+    {
+      "label": "Ocak Uyumluluğu",
+      "value": "İndüksiyon dahil tüm ocak tipleriyle uyumlu",
+      "source_url": "https://www.ozkent.com.tr/urun/lotus-4-lu-guvec-tencere-seti-gumus"
+    },
+    {
+      "label": "Set İçeriği",
+      "value": "20 cm derin tencere, 22 cm derin tencere, 24 cm derin tencere, 24 cm kısa tencere",
+      "source_url": "https://www.ozkent.com.tr/urun/lotus-4-lu-guvec-tencere-seti-gumus"
+    },
+    {
+      "label": "Temizlik",
+      "value": "Bulaşık makinesinde yıkanabilir",
+      "source_url": "https://www.ozkent.com.tr/urun/lotus-4-lu-guvec-tencere-seti-gumus"
+    }
+  ],
+  "source_urls": [
+    "https://www.ozkent.com.tr/urun/lotus-4-lu-guvec-tencere-seti-gumus"
+  ],
+  "verification_notes": [
+    "Üretici ürün kodu K-404 olarak da listelenmektedir."
+  ]
+}

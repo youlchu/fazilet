@@ -1,0 +1,63 @@
+{
+  "folder": "arnica-et14401-red",
+  "brand": "Arnica",
+  "model": "ET14401",
+  "name": "Pika Toz Torbasız Elektrikli Süpürge",
+  "variant": "Red",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "arnica-pika-et14410-elektrikli-supurge"
+  ],
+  "source_images": [
+    "new_images/arnica-pika-et14410-elektrikli-supurge/past_arnica-pika-et14410-elektrikli-supurge_00000231.jpg"
+  ],
+  "readable_evidence": [
+    "arnica",
+    "PIKA",
+    "Toz Torbasız Elektrikli Süpürge",
+    "Bagless Vacuum Cleaner",
+    "ET14401",
+    "2,5 L",
+    "CYCLONE MAX",
+    "H13 HEPA 13"
+  ],
+  "issues": [
+    "The printed model number beneath 'Bagless Vacuum Cleaner' reads as ET14401 rather than ET14410 as named in the folder; due to compression and shrinkwrap reflections, confidence is kept at medium."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Motor Gücü",
+      "value": "899 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFVn7ymQiorgIqkEnWuWwNWxwUve1pEP46KFadebTgUvVy26aTwWMmA0TatfxBN8dDuntzO9IAui4AQyG2s1PldeoWbOtwUeOS3PzK9cTRYZLw5q3B2h--QiHUAS2SdCmtz1vqKZnRQXJWtC0Nk4aW7wPQXCv2VzpQemVptvEUbKFNmipFKXYZ2ejK"
+    },
+    {
+      "label": "Toz Haznesi Kapasitesi",
+      "value": "2,5 L",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFVn7ymQiorgIqkEnWuWwNWxwUve1pEP46KFadebTgUvVy26aTwWMmA0TatfxBN8dDuntzO9IAui4AQyG2s1PldeoWbOtwUeOS3PzK9cTRYZLw5q3B2h--QiHUAS2SdCmtz1vqKZnRQXJWtC0Nk4aW7wPQXCv2VzpQemVptvEUbKFNmipFKXYZ2ejK"
+    },
+    {
+      "label": "Kablo Uzunluğu",
+      "value": "5 m",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFVn7ymQiorgIqkEnWuWwNWxwUve1pEP46KFadebTgUvVy26aTwWMmA0TatfxBN8dDuntzO9IAui4AQyG2s1PldeoWbOtwUeOS3PzK9cTRYZLw5q3B2h--QiHUAS2SdCmtz1vqKZnRQXJWtC0Nk4aW7wPQXCv2VzpQemVptvEUbKFNmipFKXYZ2ejK"
+    },
+    {
+      "label": "Erişim Alanı",
+      "value": "8 m",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFVn7ymQiorgIqkEnWuWwNWxwUve1pEP46KFadebTgUvVy26aTwWMmA0TatfxBN8dDuntzO9IAui4AQyG2s1PldeoWbOtwUeOS3PzK9cTRYZLw5q3B2h--QiHUAS2SdCmtz1vqKZnRQXJWtC0Nk4aW7wPQXCv2VzpQemVptvEUbKFNmipFKXYZ2ejK"
+    },
+    {
+      "label": "Filtre",
+      "value": "Yıkanabilir AFS filtre",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFVn7ymQiorgIqkEnWuWwNWxwUve1pEP46KFadebTgUvVy26aTwWMmA0TatfxBN8dDuntzO9IAui4AQyG2s1PldeoWbOtwUeOS3PzK9cTRYZLw5q3B2h--QiHUAS2SdCmtz1vqKZnRQXJWtC0Nk4aW7wPQXCv2VzpQemVptvEUbKFNmipFKXYZ2ejK"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFVn7ymQiorgIqkEnWuWwNWxwUve1pEP46KFadebTgUvVy26aTwWMmA0TatfxBN8dDuntzO9IAui4AQyG2s1PldeoWbOtwUeOS3PzK9cTRYZLw5q3B2h--QiHUAS2SdCmtz1vqKZnRQXJWtC0Nk4aW7wPQXCv2VzpQemVptvEUbKFNmipFKXYZ2ejK"
+  ],
+  "verification_notes": [
+    "Confirmed that ET14401 is the specific model number for the red version of the Arnica Pika bagless vacuum cleaner, whereas ET14410 designates the purple variant."
+  ]
+}

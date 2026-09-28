@@ -3,9 +3,349 @@
   "image_naming": {
     "original": "past_*",
     "clean_product": "product_hero.png",
-    "boxed_product": "product_box.png"
+    "boxed_product": "product_box.png",
+    "product_information": "product_info.png"
   },
   "products": [
+    {
+      "folder": "akdeniz-zumrut-soft-siraz-bakalit-kulp-orta-boy-caydanlik",
+      "brand": "Akdeniz",
+      "model": "Zümrüt Soft Şiraz",
+      "name": "Bakalit Kulp Orta Boy Çaydanlık",
+      "identity_confidence": "high"
+    },
+    {
+      "folder": "aksu-t11-ken-fry-2-2-l-1600-w-beyaz-fritoz",
+      "brand": "Aksu",
+      "model": "Ken Fry T11",
+      "name": "2,2 L 1600 W Beyaz Fritöz",
+      "identity_confidence": "high"
+    },
+    {
+      "folder": "altus-al-606-sg-st-sr-toz-torbasiz-supurge",
+      "brand": "Altus",
+      "model": "AL 606 SG / ST / SR",
+      "name": "Toz Torbasız Elektrikli Süpürge",
+      "identity_confidence": "high"
+    },
+    {
+      "folder": "aprilla-ahc-5038-sac-sakal-kesme-makinesi",
+      "brand": "Aprilla",
+      "model": "AHC-5038",
+      "name": "Şarjlı Saç ve Sakal Kesme Makinesi",
+      "identity_confidence": "high"
+    },
+    {
+      "folder": "arnica-et14401-red",
+      "brand": "Arnica",
+      "model": "ET14401",
+      "name": "Pika Toz Torbasız Elektrikli Süpürge",
+      "variant": "Red",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFVn7ymQiorgIqkEnWuWwNWxwUve1pEP46KFadebTgUvVy26aTwWMmA0TatfxBN8dDuntzO9IAui4AQyG2s1PldeoWbOtwUeOS3PzK9cTRYZLw5q3B2h--QiHUAS2SdCmtz1vqKZnRQXJWtC0Nk4aW7wPQXCv2VzpQemVptvEUbKFNmipFKXYZ2ejK"
+      ],
+      "note": "Confirmed that ET14401 is the specific model number for the red version of the Arnica Pika bagless vacuum cleaner, whereas ET14410 designates the purple variant."
+    },
+    {
+      "folder": "arnica-lotus-trend-et14000-toz-torbali-elektrikli-supurge",
+      "brand": "Arnica",
+      "model": "Lotus Trend ET14000",
+      "name": "Toz Torbalı Elektrikli Süpürge",
+      "identity_confidence": "high"
+    },
+    {
+      "folder": "arzum-ar-4075",
+      "brand": "Arzum",
+      "model": "AR 4075",
+      "name": "Pronto Lux 2'si 1 Arada Dikey Elektrikli Süpürge",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtvCw-BOUyIILB3QHKqcU4x56s4ppexXPsb6QXKibwJcuB_6unufnHosU9H3G0P_XzrxAIZYPZ5D8V7w_WqMd1_sqPOG-47V62KJg2dIT3AnpzbNcNnSBKK5rZRiCfi03ZCXdztBvzGOMXsYJMfrLqOny2b8fFmJbINJjCxDKJhwhsj-e0nEl8vq0z"
+      ]
+    },
+    {
+      "folder": "arzum-ar4087",
+      "brand": "Arzum",
+      "model": "AR4087",
+      "name": "Gırgır 2'si 1 Arada Dikey Elektrikli Süpürge",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTvNnBW8qKRUMoRcyOLNmLTX8bmkbE7jQWvHYbHYPhG2gRn_tpYpw7cny3v8YBFR2G3QYiCS8JCbG4bkcb_9SFRJC9590q5oYcHmpQb2fDFvDPEbBaIxBTiX2uZq5HaNb2QG_zK7uiAJmT57-Rmt04H1y3wxn50op-OJ6RFvo7cBPwTIpnGQ==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGP9fznjdT2jK_9fK5j4zygSCURtNtjH_41M8LCB7jbcbsl4qZPyixyI4y3Fdvnd0GHSwiKrsNj41Q3-PkugVwGg072K9lcwHCJm3qHrQD2Q_Z_fIWmltN0LqIPVRX_nOT-zfx_r4H-5nVq8fD0KfVFhRAAOH1dFEoZzPiTgVDpT37V_CJP5OuH097rEZ1T6h70vRk3qCxXO1Bv1vwwfH0GvTzp4W8EC1eh2XS07XtcaKCus4VGTxc7hbxi1KFWPRj0c9Y="
+      ],
+      "note": "The candidate model AR4087 was verified via official manufacturer documentation and retail catalog entries, clarifying the discrepancy with the folder naming."
+    },
+    {
+      "folder": "arzum-ar6020-pressa-black-red",
+      "brand": "Arzum",
+      "model": "AR6020 Pressa",
+      "name": "Arzum AR6020 Pressa 2400 W Buharlı Ütü",
+      "variant": "Black/Red",
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://www.evkur.com.tr/arzum-pressa-buharli-utu"
+      ],
+      "note": "Model adı üretici ve perakende kayıtları doğrultusunda AR6020 Pressa olarak netleştirilmiştir."
+    },
+    {
+      "folder": "arzum-ar690",
+      "brand": "Arzum",
+      "model": "AR690",
+      "name": "Tripper Seyahat Ütüsü",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://www.evkur.com.tr/arzum-ar690-tripper-seyahat-utusu-mor"
+      ],
+      "note": "Arzum'un Tripper serisi seyahat ütüsünün resmi model kodu AR690'dır. Görsel denetim notlarında belirtilen ikinci ürün (Evia Holiday) haricinde, Arzum Tripper ürünü doğrulanarak model kodu güncellenmiştir."
+    },
+    {
+      "folder": "arzum-okka-minio",
+      "brand": "Arzum",
+      "model": "OKKA MINIO",
+      "name": "Türk Kahvesi Makinesi",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmb2So5OJG-G-7DzivE56e_wiRSOr_1klg0-ubGZCJNMrDAI8CF87bP02tqh9ZZ6vS5P0GL_L94YoYcB05GEsnCy0zwg_TkJrb9RcTdXM4nOzm9E7G7SZSl3Yn54HOsbffs9CPpqVc7R3fETur5PkXf7_WN-S32oRP1LU="
+      ]
+    },
+    {
+      "folder": "baleno-mf-16-bbm-16",
+      "brand": "BALENO",
+      "model": "MF 16 BBM",
+      "name": "Baleno MF 16 BBM Buharlı Vantilatör",
+      "variant": "16\"",
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFogB7omMJzOijfAJZ1njBiVkm2_pr2X2edNmcWkxv2AIgqFQAJMLJnMGZgvAf-EIE_XGKkUKrZ3nlb5iSOPGHWznwjKmWAZ3b3-V-q9QqUu-aE4zO1U2w6TujzY0IkaCW-55aTnn27rxmLvDQ=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF-_Jy-_rRMSYFeIvI_VRbx9Ji0jALkf31wErOLIqBv6PxwCJxRPMAxpR6Vt_SBYt_WBKwmb_qF6udsd2bk3Yc19LWph-NLjAHNjK6y-jExHB9EunqpI-mGf7oVdPbo_YtOPXB3QXoLS8o6V9ICQVUdLNm9BUjwIAFhUCa"
+      ],
+      "note": "Kutuda model kodu belirtilmemiş olsa da 16 inç buharlı Baleno modeli piyasada ve distribütöründe MF 16 BBM (MF16 BBM) model koduyla satışa sunulmaktadır."
+    },
+    {
+      "folder": "braun-st710-iontec-technology-slim-plates",
+      "brand": "Braun",
+      "model": "ST710",
+      "name": "Satin Hair 7 Straightener",
+      "variant": "IONTEC Technology / Slim Plates",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://www.trendyol.com/braun/satin-hair-7-iontec-st710-sac-duzlestirici-81652831-p-1383863",
+        "https://www.teknosa.com/braun-satin-hair-es2-st710-sac-duzlestirici-p-120200232",
+        "https://www.vatanbilgisayar.com/braun-st-710-es-2-sac-duzlestirici.html"
+      ],
+      "note": "Ürün Braun Satin Hair 7 ST710 (ES2) IONTEC saç düzleştirici olarak doğrulanmıştır. Görseldeki üst kutuda yer alan kısmi metin başka bir ürüne ait olup ana ürünü etkilememektedir."
+    },
+    {
+      "folder": "bright-elegance-be-3440",
+      "brand": "Bright Elegance",
+      "model": "BE-3440",
+      "name": "Multifunction Steam Cleaner",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTlu18Otn7AfDdZupWFsMBhArrlv7NhjPRfZKyaRqu0SbUy_Eus4wxCvDUvh_M_1F5Sgy3LCpHQUAL5s3mBB4GaA4UUPX4BARp4-R_wwZ1EqQBVFbmrQxE1cRS2u23CZcB_nqdlU8AI0RRh0gZFevO2r4OqRTbaduJVGTYETBcc9-QoLrs82o4I4Vh9fPBaVtkLocI441fSO1mpF64P385ZqZqEZfJLgY-nyYH3BHpEA=="
+      ],
+      "note": "The model BE-3440 is confirmed as an exact product model under Bright Elegance. The secondary model code CB-107C seen in the background corresponds to a different branded product (PiranTech CB-107C)."
+    },
+    {
+      "folder": "cetintas-evii-kea-034-ir-1700-watt",
+      "brand": "Çetintaş evii",
+      "model": "KEA 034 IR",
+      "name": "Multi Blender Seti",
+      "variant": "1700 WATT",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiSTcqlVMpPSoLPrK2Q_hAxiDGhHCqRh97W33NRBKz2YEHfCb2ZqQpoqee9kY98BE1xXfH3OijBHkZQEG1u36Def_QA8OSdA_X9dtaMB1Ib4EsNkXMpiLxl8SLQXnBX51iZypL_1EDc5UNx7sydy2p041-9q5i43tfBWOX"
+      ],
+      "note": "The product is officially listed under Çetintaş Beyaz Eşya's Evii line as KEA 034 IR Blender Seti with 1700 Watt power rating."
+    },
+    {
+      "folder": "cvs-burgaz-1-8-litre",
+      "brand": "CVS",
+      "model": "Burgaz",
+      "name": "Elektrikli Su Isıtıcı",
+      "variant": "1,8 litre",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://www.teknosa.com/cvs-burgaz-18-l-inox-celik-kettle-p-786690591"
+      ],
+      "note": "Ürün Türk perakende pazarı ve e-ticaret sitelerinde yaygın olarak CVS DN 2318 (veya DN-2318) Burgaz Çelik Su Isıtıcısı model kodu ile listelenmektedir."
+    },
+    {
+      "folder": "cvs-dn-132",
+      "brand": "CVS",
+      "model": "DN 132",
+      "name": "Şarjlı Masaj Aleti",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp7XSFRw1b29Y3Nj63ZkfEnOUHFAdNSAPyktMn4g-YGSlqEXVPMqNAfwtb1SWG33MkkttbxxGj4e-Q4YZIDjjIqH084nJwdPItG3CuNoJ5hx9NhI8xulQVXer_4lQ94jTu2p1qC_SfKaODbwNHY8KwyF0KY3TE-NlsEo65YQ1f",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnQwF5fhkLNQhXpK5-Va2eJOHmxZaukvtlvcPLY6oEVNADjyQPls1ComS1ZM5PnOXP4y3Ytw31IocYxuryVnrf1YvVwqSIWIfgIMrjHmv_gXjl7QCIKErevAiR8b1K-nscVE0PGirSEkpSGjdL0xf8LzPKHCCbf_33uaXGLNLkzJV_TANBNZ6g_w=="
+      ],
+      "note": "Ürün Türkiye pazarında CVS DN 132 / DN-132 Şarjlı Sporcu Masaj Aleti olarak listelenmektedir."
+    },
+    {
+      "folder": "cvs-dn-144",
+      "brand": "CVS",
+      "model": "DN 144",
+      "name": "Omuz ve Boyun Masaj Aleti",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8_zgTf00lCHIKpelxJ8rvToGiEKKvFnTKVetAA159qpm-_1ksD5Wi65gX0szFIxxIC8YymhhEeByQIGFtlhh4TFzVnKC8QBMxND8MPQq1M-AVy0lQJV6XKmVxXeUidNBfkW6HsA3BqRCv_SqN-jwt3kf7aYMxeKlGVjwwCuk="
+      ],
+      "note": "The model DN 144 / DN144 is confirmed as CVS Şarjlı Omuz ve Boyun Masaj Aleti, consistent with the box text."
+    },
+    {
+      "folder": "cvs-dn-1529-red",
+      "brand": "CVS",
+      "model": "DN 1529",
+      "name": "Suadiye Elektrikli Çay Makinesi",
+      "variant": "Red",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR-5hA-TcM57B5Ggm0MZKCCPB8GSAoB41jqhNEG_bCxgftO4XAhs27_3cXlH5JT8cdCws8LIekTnvziG6VKCUxghKCveQiWUOd6pd7tnMtWqnOj1ZdFSrfeXO5F5aYF85j_u2Pm3ezzWfRZ5Lj05WNgrWt",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzdbBICikJNMNT_m4OyzsaEwd9K5YhvMGdXvchBGAu86ALhS5sRjXlaE5m2csKwOw8ajWtryzxJ5rQLvrMALQtfhswpVXjTYO8oJ2bIq4DR_iUBZAssqfOh1Qc0IYPxO3e5Nr2_ylobCFMDCKjtlHrlx0L9u0Wm09MIdw8rA=="
+      ],
+      "note": "CVS DN 1529 Suadiye Elektrikli Çay Makinesi confirmed across Turkish retailer listings, including the red color variant."
+    },
+    {
+      "folder": "cvs-dn-1548-teame-plus",
+      "brand": "CVS",
+      "model": "DN 1548 TeaME Plus",
+      "name": "Elektrikli Çay Makinesi",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuGQWrk1SAzizzfz79egFxrndgdep2BpDAxtV_DfSJ3Ed7J07GiFDF1eTt4E8O4Ji_p0v0EGplA1sJ4OBBle7vIpQqh7Rr0fBGzCGNr0rr9mQ0NWGfM09YQlUaQhSyTnThhTV53FzT-aEixP1lVtVz7vv0GmwDmq1crv3P2vlO6Bd5x3fyCqshIE32BSdI14ZDnR8wIJEs9MlzNwB7Om0gywWHWG8BLudRAdrALNbQY-Vh__GqFT1KyGgCe56u",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvzlDYOddZqKIZLPswcZxtSRfufkR_piiij3US_3v4AB-r76WNP2BXcfK-wbFsDUFVdv6UZGzHyTVkg2udw2Zi4x2h3CsbVJRJFvt8FbYtjya0vnRPs_N7eNQD2m-Dxs-ryOfoWHGEcLoPRJ6D3Lw2inlJM2FeFN9DCv1F9UbS06O6dI_R_AYtaEmqJJ0o"
+      ],
+      "note": "The blurred model code on the CVS Tea ME Plus packaging corresponds to catalog model DN 1548."
+    },
+    {
+      "folder": "cvs-dn-1553",
+      "brand": "CVS",
+      "model": "DN 1553",
+      "name": "DIGITEA Isı Ayarlı Dijital Çay Makinesi",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgkcx7k6Q2AmJK82qruJrB-bQGemUnDkas71HnqY48rI3HJj76U9OYKifpLiBkXCePHgZWsYxgmh1bz4mW5EoD7r9ZzPZMRcywWczf13bIEemvROlhKinfefEsldg_IUuCuOxzpJCoLRfUad4kfxctHcnKPGdVZSEBKAJ_E4e3XRXcRxmq2_FmVW551lIBgDQAn3CqtQGU5g=="
+      ]
+    },
+    {
+      "folder": "cvs-dn-1557",
+      "brand": "CVS",
+      "model": "DN 1557",
+      "name": "DIGITEA+ Isı Ayarlı Dijital Çay Makinesi",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://www.hepsiburada.com/cvs-dn-1557-celik-isi-ayarli-digitea-cay-makinesi-pm-HBC0000DTRRKP",
+        "https://www.trendyol.com/cvs/dn-1557-celik-isi-ayarli-digitea-cay-makinesi-p-749666060"
+      ]
+    },
+    {
+      "folder": "cvs-dn-1770-2800-watt",
+      "brand": "CVS",
+      "model": "DN 1770",
+      "name": "Venüs Seramik Tabanlı Buharlı Ütü",
+      "variant": "2800 WATT",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjR0MzwPH5fd4I27zl0AXicuFLl_zRgaRXgXtda1iD4yIaAV9BDegSCar4zas03LmS1rgmlLjnN5hjsICb_6S7ML1gPmD1cQwtxphkwWX3NL2yUpPPSMUu60sYGXVwS2gx_9UhC1f_YRd-fgvFyaJaQcak6Uxaeh98O3f7N_dQjdjsrO1A9U1Gv1YegONbYwjNxeGl74cLDRdIMMkZsMOMkOtv",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLf1BgTnK-EHqugGwQH6Dj3_FwrHKy2ATG9bLyrf9TslrCR8t9Ih1SP_qrL3blncLD5DR2byt531t4qARDPdh1PUi0ypYyongjvM0H3Da7vjkBvNul_gZeJ5HEdYGnKOLsSNhijm3tRs90pxRVdG14MGNZhaSpTN5RTTjpPQF3CgJGvlmmtXVlYw=="
+      ]
+    },
+    {
+      "folder": "cvs-dn-1770-venus-2800-watt-kirmizi",
+      "brand": "CVS",
+      "model": "DN 1770 Venüs",
+      "name": "Seramik Tabanlı Buharlı Ütü",
+      "variant": "2800 WATT, Kırmızı",
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXIV8zNX0HBzquZE-iC_J7XnUvvTV4f7MHl0AS7UNRCC-G8vcJXWePCVzZ3c7uWZFZdVkfa10AJOq8_o_Vz4gxq-W17G2Gq-33-MSVA7IAfC6xl6_6Z0w-ycCG_VPz7cf54XPWDJj3HG6etiK1x4vM9DmpCBwqK2oCzHh3DMNPHtQjwMPXvHGIVL9K2Bz5tpiT",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlpj5E1PZ4v8PbEszOnW1P1pQ_KnyP_Ziu55kKeP6ZRPfM1gAVqW39oiuFQGREY1TgaykEPzg8bEODUAN_eKEafNeYVAtUhYwpPKibIlUERXJv5zpktPOkzynAKXtUSWrTlE7MrGx8Ij4cXi-fsRavHK95E5zLky2QNMwBKBRNj_bIf4izFgY="
+      ],
+      "note": "Model adı üretici/satıcı kodlamasına uygun olarak 'DN 1770 Venüs' (kırmızı renk için DN-1770-K) olarak tamamlanmıştır. Birlikte görüntülenen diğer model 'DN 5475 Lucia' serisine aittir."
+    },
+    {
+      "folder": "cvs-dn-2345",
+      "brand": "CVS",
+      "model": "DN 2345",
+      "name": "Elektrikli Su Isıtıcı Electric Kettle",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8_2hxDNl3rvb0dXsug1T0p9dLr0dGF96a5ooqgqjITY4qtWDSrWaZK7P_rpqVMykwvG20UrYdMnvHznqUq-TSsHb5tCOz2b-2alL3QTrCACyV5v8tbzRMG5nQaYb6HQpvsYcH4LXtCNP42-NAE9byJlahs6Py87N2",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES-SaJBcJ81fwAiToeJBBv7Uf2WH20Hufd9jKI9U4HWqgxrSIfin2dRhJj5Czx3wSr6icQL18ds1YnKoByke2p4rV2uozDd5P0KP0UA4BMoVV-iU21Fk1-vGW-PlCfEYv4UVF3qNTWkY91VDxE4ehXKnC2KIju2D5YzlUmAf826eIGaO4JrlTU1tljNwVUQUFnvQ=="
+      ],
+      "note": "The source image showed two separate products stacked together; this verification strictly pertains to the CVS DN 2345 kettle."
+    },
+    {
+      "folder": "cvs-dn-3906-gurme-40-lt",
+      "brand": "CVS",
+      "model": "DN 3906 Gurme",
+      "name": "Elektrikli Midi Fırın",
+      "variant": "40 Lt",
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXDlDZ4W-hnr6B3Rdn4vEPrH-vf3lrJwfOxIdpTVqQ7hyyLYaTeFg3q-XoRPhXAHZ_HHgk-ArT2mSadtgv6oFe-sXU2aMs1lA5Dc_HhFxY75xC7w0dQOR8",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq4Yfp46cSfUjwplOe1lJXGQ7tevK0MAObsU_auC6v2qX9SG7PIdx1qAwJJTAPUsu9WeUF6yGOLhmk753G1pexM7zuAYE5Fd9QI4h-_hr0CzmyOkTYPo-0TOT0adbI_Td18_RGwoYOEXEvl40YChq8-TDvICAtbzg7xWyPFniXPoHcL2_N_QAcfAkhAnLTYumn4c1rmsED1l4VPhvrOOCn0IXjaa0c1oDaiwgAyA02nbzpVjXDFUHtkqxlZCZSHg-kpsg="
+      ],
+      "note": "CVS Gurme 40 Lt Elektrikli Midi Fırın'ın resmi üretici model kodu DN 3906 olarak doğrulanmıştır."
+    },
+    {
+      "folder": "cvs-dn-39077-burgundy",
+      "brand": "CVS",
+      "model": "DN 39077",
+      "name": "Gurme Plus TURBO 45 Lt Geniş Hacim Fırın",
+      "variant": "Burgundy",
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "note": "No manufacturer or retailer records could be found confirming exact model 'DN 39077'. While related CVS oven models such as DN 3907 and DN 3978 exist in retail listings, substituting similarly named models is avoided per instructions. Per instructions, the visually read model and product identity are preserved as unverified."
+    },
+    {
+      "folder": "cvs-dn-3908-red-50-lt",
+      "brand": "CVS",
+      "model": "DN 3908",
+      "name": "Gurme Maxi Zaman Ayarlı Elektrikli Fırın",
+      "variant": "Red 50 Lt",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlKeUJoJvdRp9GOBZskkCUU7rGHVoh4HI7_83XCVacRBkdsTHR0yvupWmxaHXGCSzIJkQUhCXcJORGrJKSbrFTVgIk7iv27C-KTt9-wib0OA9zR4YJNoX7X1ltpx6_vCoWHHKusICNY7LydKI9az0d6PtsLh3tU4CGriTzap-dT9rk",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlMbSil3Er07McETzaLR0ZwTDJZwfFcpKYPH7KKqNZ4pTi6ZB6gzJwvFYnTimCM2P9pmsnx-KmBpky_9GWxTGJRzDPXBKnuSNhI_PqKQDfWTI0S146sYPQXKjENz3CwK-ufx1gfMIQcgPdlel8piCYGXCMB2A0PY4a9piDV8BSiONtCmHJFVDGYrzobWjHVC_7pA=="
+      ],
+      "note": "Product verified under Turkish retail listings as CVS DN 3908 Gurme Maxi / Gurme Maxx 50 Lt Midi Fırın."
+    },
     {
       "folder": "cvs-dn-4727-acrobat-dik-supurge",
       "brand": "CVS",
@@ -15,12 +355,84 @@
       "source": "https://www.epey.com/supurge/cvs-dn-4727-acrobat.html"
     },
     {
+      "folder": "cvs-dn-5475-lucia-2200-w-mor",
+      "brand": "CVS",
+      "model": "DN 5475 Lucia",
+      "name": "Seramik Tabanlı Buharlı Ütü",
+      "variant": "2200 W, Mor",
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgO-JnkQprAj2rmZp-6hzKvddiuWfLZiwXbrB236WQYQ9LH_Nkes2EXKPBxH-SbsVwKaKfQiPbUMvEYAmLPrndtB6HD1Vdq3STit2KaP3RXNtloy0UfGikZwPOmiqx8I9jtDhO1dDFdGvLJQRvgpp0emDuB27b7ykAtlklOpuiCCVWb34gKh2z"
+      ],
+      "note": "The partially visible model code ending in '6475' corresponds to model code DN 5475. The product is confirmed as the CVS DN 5475 Lucia 2200 W Buharlı Ütü. The conflation in the visual audit references two distinct CVS models: Venüs (DN 1770) and Lucia (DN 5475)."
+    },
+    {
+      "folder": "cvs-dn-5479-3000-watt",
+      "brand": "CVS",
+      "model": "DN 5479",
+      "name": "SmartIron",
+      "variant": "3000 WATT",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO7jr3sbeaYglnJyR2_4dl5maMn5YaVxY1B7vMLR4uOMcsbRHVTHS9oGKqICYy1tDpO4kScQ5R9lRuZMZH0jqtztdGjx2HBI9BiMPVyY8-_W53ARbm4Uj6lxI6jwsmllYXkPhyPwUvoDtOyAN_NKITnm90s6FEfuY82bRvkYXh3rKDQtN5wDZYxVmGdkDK",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBl8l2padRKeZNi-FMWF2fVF1KYIdKP0ccL_UkV99R8MwQ_GbY7CVy-usAeTw9mW8BQ5zsHlfg_esSlF5cpOAhMwTxgK-MBeQeBwOOrubOyO1k_sTg-ygXQL-7YEC3V2sVwJTsbg49q_z_35HyxQXKfs-cUBC2NAGEAHLuFdvSjhJzHbb7Nc6Fj2dZcCSRToFRfcA29AA="
+      ],
+      "note": "The primary product shown across the packaging stack is the CVS DN 5479 SmartIron 3000 Watt steam iron."
+    },
+    {
+      "folder": "cvs-dn-5481",
+      "brand": "CVS",
+      "model": "DN 5481",
+      "name": "Alberto",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://www.trendyol.com/cvs/dn-5481-alberto-seramik-tabanli-3000-w-utu-p-804104277",
+        "https://www.hepsiburada.com/cvs-dn-5481-alberto-3000w-utu-pm-HBC00006L2B5E",
+        "https://www.akakce.com/utu/en-ucuz-cvs-alberto-dn-5481-3000-w-buharli-fiyati,644675545.html"
+      ],
+      "note": "The packaging displays 'CVS ALBERTO DN 5481 3000 WATT SERAMİK TABANLI BUHARLI ÜTÜ', which fully matches Turkish retail product listings."
+    },
+    {
+      "folder": "cvs-dn-5481-3000-watt",
+      "brand": "CVS",
+      "model": "DN 5481",
+      "name": "Alberto Seramik Tabanlı Buharlı Ütü",
+      "variant": "3000 WATT",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://www.trendyol.com/cvs/dn-5481-alberto-seramik-tabanli-3000-w-utu-p-875225139",
+        "https://www.hepsiburada.com/cvs-dn-5481-alberto-3000w-utu-pm-HBC000078O355"
+      ]
+    },
+    {
       "folder": "cvs-dn-5482-belize-buharli-utu",
       "brand": "CVS",
       "model": "DN 5482",
-      "name": "Belize 2600 W Seramik Tabanlı Buharlı Ütü",
+      "name": "Belize Seramik Tabanlı Buharlı Ütü",
+      "variant": "2600 WATT",
       "identity_confidence": "high",
-      "source": "https://www.akakce.com/utu/en-ucuz-cvs-belize-dn-5482-2600-w-buharli-fiyati%2C1420960170.html"
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP0j0QW_UzjSv2yWZzGjOJExYY2EP3Kk90MSxHDQuGwGDRSZfM7N9ET1YBfMyGplbbj3tWapYy_yDH-ALkxjrQGKo5mwgtnPT8U1LEshReJ5CkCTWqkz7XRFZm5ZFDHyA1SjWP022Mif4O1wNT3KKZ21zobBKohhaiQJFwj9MLosaxWBM2HYQiu_dK_bPLZP6E",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0aCf5EJki-sWL36fS0sZzfW5-l2toEa5LnAPLFKYcRwi_NqDeV_GLkoASkwszgBtuAFztaJPu795whNbGTHi0XUWe870D6Sq_so0FDMBZRyDtIuf2UtHirSTUKhtdFhELrYuWHyfNZt9TOwHHMg8PCFDwzx5FJJaMljwTZf0QLADQaVyb5bfnkDcHJT5VbuQYkDpPXaAk3w=="
+      ]
+    },
+    {
+      "folder": "cvs-dn-5483-3000-watt",
+      "brand": "CVS",
+      "model": "DN 5483",
+      "name": "FİRUZE Seramik Tabanlı Buharlı Ütü",
+      "variant": "3000 WATT",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMIKW5Ywm5Z1KzLSCFpk_GO1J8y60XmGkdeAwhlxwsUDUrYoRWdGD-mFuHQlplAfxK8SfgduqbldAzr0r7MWwitEfgH_nfS2qhnTqowC0dAJX_gKgLltvyjMHy4osnxi7TcKVRjbHn4YPHiPR5ZkjPq6Xkc0w3nHK_nY-pPdNxT3FBYjfi18KWCA=="
+      ]
     },
     {
       "folder": "cvs-dn-7511-sifir-kesim-tiras-makinesi",
@@ -39,12 +451,814 @@
       "source": "https://www.akakce.com/erkek-bakim-seti/en-ucuz-cvs-dn-7518-9in1-fiyati%2C776269444.html"
     },
     {
+      "folder": "cvs-dn-91059-12",
+      "brand": "CVS",
+      "model": "DN 91059",
+      "name": "Masaüstü Vantilatör",
+      "variant": "12\"",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3oFbnHRsLwceuwrL1ZAPVfA05Zk4Be9wThWMgMavYQS8lzkGD_WDNr6lg4aqZsykDVd9-_f1awqppoFI8MPBABn-OiFHMzV9HME8N4W_6rpEqyo8fnkT0cIStOC-tQyE_oFs0BHKmRpG2Jk49uekkxUvjSm1Ah5vl2v9HjHgzD5e9zg=="
+      ]
+    },
+    {
+      "folder": "cvs-dn-91060-85-watt",
+      "brand": "CVS",
+      "model": "DN 91060",
+      "name": "18'' Ayaklı Vantilatör Stand Fan",
+      "variant": "85 Watt",
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5bl0jxLXFQQ5fyOFE0Dpt8g23URn8LfXNADunt_0sRCWNVCuDMmn6Lr5aIHN6Eg_F0pfD_64qH4ZwTVR816BDWyLxrSqRnMsyrAt6NPg2hVnzDYPds31bSVFlGcMEG9fL-jbEMv6-eBUsksVS6sp9TkVUKQ==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqG_JGlV8uyUiyMGbd-4S277ep6K-73mgsKmcnsU5-Bz48Snx7GqpDeBZLrQq1wuJw_TZDf5tB9AMj7-eAaGQYYiNgZMfJQzTswnsXn75dEqzlJC3s5R0uvbwU1eiz51oUDKBaAzPccnPF8ZwuHB9kzOZi9gmx-vGVcjV8WpNfpnmwSQFgXA=="
+      ],
+      "note": "Ambalaj üzerinde yer alan 18 inç çap, 85 Watt motor gücü ve 6 kanatlı pervane özellikleri doğrultusunda ürün model kodunun CVS DN 91060 olduğu teyit edilmiştir."
+    },
+    {
+      "folder": "cvs-dn-91061-18",
+      "brand": "CVS",
+      "model": "DN 91061",
+      "name": "Endüstriyel Vantilatör Industrial Fan",
+      "variant": "18\"",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdnffsQj95lFc7I-KVv9DZX1nHfCeSLEM403xLnYpZY0Zk5mE1CVtNcIm3-bso2HBly-VnLPNPHj4bos0co9gUL0tK9_wdUGIe0j41dCsa8CuO1mkN7xElYtLtOpu60mPmW_zIa7ZpDpJ81lDBQmECfTe3E0k=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfuemk4KGUrx8GwUS5Fk9iJhbQcoQ-PyrG0_PHfjZteerfWYbq_gLbcMmXLmeYTyfJ9Qn6FlGkCPycUgS8PpopO-kj948Ud8jxE742zrYZEioMyJzB8D-7QWVtfPy67KqopSincmWRDOGLIE4xWGTBrqT2oZv79gzWMB_6rxF5x1gQzBMy",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9jonTae8rshudWIRyfe9_DiWl3fnj3PeLynm4-OZlWWfJ7_TbeX0C71G0AyGWZuLH2G2cFqCLfDhNF01RLjZ8UGlG3LY9oE1izKZZDHo6-GCpit4C-lKtRN8-_8kIOaA_ISo0FE6hJCYkd5hOP_OTlMUJtiEro5CoXeGjSf4ke7iUIPQhK6FppkeftnK6FL5Wusd8DA=="
+      ],
+      "note": "Product verified across major Turkish e-commerce listings as CVS DN 91061 / DN91061 Sanayi Tipi / Endüstriyel Vantilatör."
+    },
+    {
+      "folder": "cvs-dn-91062-16-inch-50-watt",
+      "brand": "CVS",
+      "model": "DN 91062",
+      "name": "16\" Ayaklı Vantilatör",
+      "variant": "16 inch / 50 Watt",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg6oM2bsFs32QMWo-nH2k8XxcqpH-K7w1LD5AuJQhuraFYlxvAvKrm7d8fUJCQQE75tuzYmi7kCfdD6m-Jv7MRdpwqhZHnG-iQC6q3Nin9SVIFNafJvEirhMvcZAQtMa_a1TPBoqPRKF63aYlTPeaaRJaeVoAOnN3gjqprHA==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnXFQgVc069zG9bUeklvS66kk1McEVFZNZ25Emc-i5CA47nVVrbRHfGFOAusDJYbkCIMn6vxJAHnJhIJw1OwwMqIS77zbzRrDv9t-v6FOr45x341nlE2mdvNA_0OU0wXIugztH0pCuI8dyFi7bdev_kKtwlt0tzU0U9Z6Bw-so"
+      ]
+    },
+    {
+      "folder": "cvs-dn-9312",
+      "brand": "CVS",
+      "model": "DN 9312",
+      "name": "Yaşam Elektrikli Su Isıtıcısı",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0uEplyvbkojzg9NKXZkAIhbPIF50dckAsG8f6xVdiEfSzHBfpw1rzZVOoI3DSNnzfsMLVDHT7cCOSckQj3QZNbMiWIMfTspk_vpJ_TipwVUphF1wPMcC18ioN7A75db5a6W-bNRmngrRo2XtX1YVdyUQwYnYOp2K-IKeb1XU=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-QRYYTXGEbdC0nzD1nr1eXTKcw5e_HP8JPQgivPR-bNxTX2gFlkmDw6bD6H5-pxlyW1HgyNpEVrW54D0SMKFZC3KxWwBd5aUhfzXU7sREIdW1rl8Kb6Lgsg7EHR0RCpBTOni1oJR6vbDXk7X8TQm9s9939uFq8E_xvJ3k-0OM"
+      ]
+    },
+    {
+      "folder": "dsp-70569",
+      "brand": "DSP",
+      "model": "70569",
+      "name": "IPL Hair Removal",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBtPe6YjzEnn6pxp3HPdZx-D94D4u9iKiYuJDIL5mcnsgSYRid5MpztGcm8iY603AWAsdOptiO2WvdR-HLkzPA8VrGHq6oJqRgT0Fc6ZL1SF6SG0YcMlROlZS_xl99Z7LHrv9N0Jj9BpZ-eWyQNO3Ko-ZixfExnF4kfmMxFhYkAt_rLS_gTWgz1ayNDcWTKwhOJsLjHMxZjhTssND1TlSI_2EdsAI1iw==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0oFHa6Nil0f3UaacjueJbNVY697qag0K1ngH077HCERHI0T9HLcKkhYeeb_jeVJaxp95LnR4b33zLDC6zzWjEBbKeVb79lq4liFHoB92c8eMl9VDQ0KfW4Bo="
+      ]
+    },
+    {
+      "folder": "dsp-kd2047u",
+      "brand": "DSP",
+      "model": "KD2047U",
+      "name": "Steam Spot Cleaner 3in1",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-SxQhVo7rC6IyaVomVx2lklB9x3gswUDb8BJgih1fjBm3MQZKxfMjKotEivVzwpXPegQC5UlexN4GPy9EZMNneq30DdBc8tastyIRopC9VJQ_nmwgo-joEA0=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7vlNXXkxgClRsbFNdTpYRLWib1CHpwcke0HUf2XsZpEtIeR-mf7t3XN7p-qnXE4pKFsteTTrAsQ__MOImpKaotUCpTQq8ct3t_XiCAgwbSdOAFwN8bkeED2m1x792qKsZ1-GJ7ItSI0ApLcJQ4puYpxp--NiOxTuDUeGYpxTOy8EKa1UTUQA="
+      ],
+      "note": "The exact model KD2047U is confirmed across Turkish retail listings and DSP regional product listings under both 'Steam Spot Cleaner 3in1' and 'Vacuum Spot Cleaner Ultra Power'."
+    },
+    {
+      "folder": "dsp-skin-spa-your-deluxe-set-shaver-epilator",
+      "brand": "dsp",
+      "model": null,
+      "name": "SKIN SPA Your DELUXE set Shaver & Epilator",
+      "variant": null,
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "note": "The model number printed beneath the DSP logo is illegible due to severe motion blur and defocus in the source image. No authoritative manufacturer or retailer records confirm an exact model number for a DSP product marketed under the text 'SKIN SPA Your DELUXE set Shaver & Epilator'."
+    },
+    {
+      "folder": "evia-ea-4603",
+      "brand": "Evia",
+      "model": "EA-4603",
+      "name": "Holiday Seyahat Ütüsü",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://www.goldmaster.com.tr/idea/jy/08/myassets/products/262/b5e900545ad64738b6767aff7029fe5c-1.jpg?revision=1747381356",
+        "https://www.akakce.com/buharli-utu/en-ucuz-evia-holiday-ea-4603-1100-w-fiyati,614349339.html"
+      ],
+      "note": "Evia markası Goldmaster bünyesinde yer alan bir küçük ev aletleri markasıdır. Ürün Goldmaster ve perakende satış kanallarında 'Evia Holiday EA-4603 Şok Buharlı Katlanabilir Dikey Ütüleme Özellikli Seyahat Ütüsü' olarak listelenmektedir."
+    },
+    {
+      "folder": "fakir-be6020-3200-w",
+      "brand": "Fakir",
+      "model": "BE6020",
+      "name": "INTENSE",
+      "variant": "3200 W",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGajipD1nE6Iq8UW5-Y4uzMA24zAgE9uXy6ZtRLKdYpqy0elpJQ5KhqcWoyiAXm6aftOvUZ8ZRs0iRgo931GqFF1PetIMTnPBMEScG6OXprUbySmIB4kAvckg_1jmk-SBgjKeLVZh0X6w0=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcbboXlE4Q8e6V5oQaPDZ5h79XzCs9SrtHzhzbLq3J_pZaPehsOIUj6DWsz3Y6drUvmydGM2j_bK6Vkf7_lxNv69XEqaUfXX2dSi3acjZ9zF7flddYG76Bq95vOKGk1atcVujUc1k9jdMSONU4XvLCzu05aGrSIOPgpogq_-YQ8StH9mvN2tcn"
+      ]
+    },
+    {
+      "folder": "fakir-bl-3048",
+      "brand": "Fakir",
+      "model": "BL 3048",
+      "name": "COOPER",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrTXv9QEkvSWpF3LlMyNK63BHs9XzSc6SNLTgaM9JoI9Ydw665n3nz---ss_i9VSYTKrFy06sSY4S5luGTESJa6y4ISz4ZbDVQMwLfRpZpxy13Q0MJ9udkIviGE3t-pFQExeNx4hLvY3W1h01Gycz1w5m6UlmpW-QyAZmq_ohSFbBuSQ==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKiK_91cXhEAwJBZPfaoi8jdswFp6YTPCnFl_IglMOqJq1d3rzYf6r4rJd7e1x2u35A_80y7snKgN8fiiW7ot-T9GDZ30-TttblPIorJXFTLoMoFflAWijKVH3H2ksVhwpVjmv_pQSy61n1_Y9sffg3AEDwyez8XkoIT6c1viSzDL5QOZYJugJqCOnHbQpF895xj4="
+      ]
+    },
+    {
+      "folder": "fakir-kaave-mono",
+      "brand": "Fakir",
+      "model": "Kaave Mono",
+      "name": "Kaave Mono Türk Kahvesi Makinesi",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETB5FO_2gUVnV6etldtdEx9U9VArUCL_5CZNqH6Ky9zisXGpdXtJMES50M65lVCYaQBJkooiT0UfHwLMxtxSPEjldpRGdB-H8vkaOQxGq_51dg_9iahAAhLyAFR0bJDNLmdqurXJpyTtahBW0wF4g4UA7glo4=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLDtP276eIxEQX_1sGyqPXwO_8uHXjUKHKwS6d9r07gvrkhGM9XKQZ32rLBWkXwe0yxCvbyCU3Da5SZv-luMo8Hu3XyxmiMeRK-hdaA7li2TcYPfCXkajwHLwbtlD0-ZSOGNv1GI3KorN_krZ-hY2oSDCefiQnv_c0KReGNpvByp1L7rZJpw=="
+      ],
+      "note": "The source image shows two separate retail items stacked together; this entry verifies the Fakir Kaave Mono Turkish coffee maker. The packaging features German and English subtitles ('Türkische Kaffeemaschine / Turkish Coffee Maker') alongside the primary product name."
+    },
+    {
+      "folder": "fakir-lucid-elektronik",
+      "brand": "Fakir",
+      "model": "Lucid Elektronik",
+      "name": "Bagless Vacuum Cleaner",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEgtq6jy5G2ttuKUDrnuowHgOcXYxpiPChQ0zDLxiP5SzlnJ9XRDLM8QOz4JsJWAOLscpvSwm2zRxV4s6YGCErEe55qFRBgMA63wAtyiA7cLMiGwaSUYz2Ssr37WwnNx_629vE1_R0tHYq_wsJgLML7kR3jpnC5vPYamaPjD_xQt3JEtIWm3ZjwM_zBgFVwrjXi_h2e3vqolTVl8l7b4L0VqzsZRQ="
+      ],
+      "note": "The product is also marketed in Turkey under the affiliated Saruhan / Fakir sub-line branding Range Lucid Elektronik Toz Torbasız Süpürge."
+    },
+    {
+      "folder": "fakir-mercy-2200-w",
+      "brand": "Fakir",
+      "model": "Mercy",
+      "name": "Steam iron",
+      "variant": "2200 W",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM4BZr_Epx0gw6XjlggggRKJ-6UoOOKCwYBPtvt8hnEBAL1ptTfsv6RjBlGCedJm3UsyNh4KRoal8aBjkEHTHuCgY25ia1f5l0CzpKpRqenZfgsCJGeSiU9z1YmgFpP9vMOXivRBqYmQzBrYFiBz-rrXLZ_SQyDPeT-aDC",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWqnI8SrO0Td6k-9B4nIg9Cgy-kZlC0R01Bmi9teRS3Sry08oZq13EGQea3D7RiqikqQM5rNEWsMG2gNqBQVAHziUxZgl2ieBa_g_g-YD70teWIE15ReNvBPyrmnxH-4mN87YD39-pSZtlqNLSzaUEWn_CpTxdjlrZ"
+      ]
+    },
+    {
+      "folder": "fakir-mr-chef-quadro-1000-w",
+      "brand": "Fakir",
+      "model": "MR CHEF QUADRO",
+      "name": "Stabmixer Set / Blender Set",
+      "variant": "1000 W",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBgDkN33FUTLcSdumtAVFgOmz-K11Nai_M2TkSKMM214IkZZ_Yaz8ZtnBpVHzlLFlMkIaLNhT05AAuSEdWHW3Zn0Bhn-TDDTu9AQhNjC90dkI5omKcdItp-xYk_eO_R8801p9LnEBwKp_7yXHKj3Y=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOeOvdD0a9z_Nggb_ZfeQ8j6dpBuAgKdv5sBVs87bYkchiwudg1O5flKnpyHIMRLAFJVh3cgaABn2pRefOkNNIg-g7ZmgZ6JMK4JJV7b-DpqWEAm3JKU_pjwNwKebGdlHHaXoRmT9UxEUkSk7uYAOzzwHhq4jURHX41DynVUK4aNKGjGAU3vljWQ=="
+      ]
+    },
+    {
+      "folder": "fakir-pixie",
+      "brand": "Fakir",
+      "model": "Pixie",
+      "name": "Hair Styling Set",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEumKJ030RL3bfZPqc_y2bptcpU1vL8gjvkMc0VG8qM4i2yTfzWtf9H68rQ07Oj3CNdmlMTGbZC7p6qTvekK7a-qQ4-tB8bHAoSP5MlydEuLFYndMqfoit26FYsIH6GTqZc5Tn8VXJ7eLff0cLxRCGdr96kGxOV723EvwiUWw==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe5pm0cwConxXWtode7kAeenI3Y2V2n7-2LHqQB4OhxYAR7FYT9msFIGsX0WhFKn0J8Bv28iwfv5yTkbCRW-fz7pAXx95tPlyQauwcHZxCEhuCO-uHyPjFaeN6Yj3AsGffbv0M5rGrFz2-hXDrKjBtQ2CGLbdF61OD7lyQRa4x1RbgRI7Zwx8OhO7KDzuF6r6nkqGSN-dXd5Gd37MGyFU9F94ROY9vKQ=="
+      ]
+    },
+    {
+      "folder": "fakir-poly",
+      "brand": "Fakir",
+      "model": "POLY",
+      "name": "Haar Styling Sets 5 in 1",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Fx-ftpV2P7VPgyCjhx3oy_u0JBnYLROpTwIREslqxxMDOpsXqQb2e7y_hB4Fc08M6tgCSyGfIhlJKyhk49PaZLVTjkzlIlF4tfpdhxOkTj6Omkg9MnigSKZF2M-jFR8viyyu3utvIE-mTDntjM0y72dwpCYj"
+      ],
+      "note": "The product packaging uses the German/multilingual branding 'POLY Haar Styling Sets 5 in 1', while Turkish retailers commonly list it as 'Fakir Poly Saç Şekillendirme Seti'."
+    },
+    {
+      "folder": "fakir-spring",
+      "brand": "Fakir",
+      "model": "Spring",
+      "name": "Buharlı Ütü",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHciel9oEM013sITovmMSaRhT-9626cgatJCBt-Rnuz4aJLKRxxkEdDMN9fP2uQXUfEIe22a0JaHW8iCbWoksQhV0TkRyPvrV-370Ijs7bVFichJCMVHQwO0d6ow1kPM4tijxtczKGVum70BcyWp6SyiF-kj9vFXAto9Eh4TZ9UllG-Q=="
+      ],
+      "note": "The product is confirmed as Fakir Spring 2600 W Buharlı Ütü."
+    },
+    {
+      "folder": "falez-rapid-8-lt",
+      "brand": "Falez",
+      "model": "RAPID",
+      "name": "Falez RAPID 8 LT düdüklü tencere",
+      "variant": "8 LT",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvsW2UMMoizx5HK468baP2bPlh_MEFLyFwXZXsfWvbN8wr9_byiBxNr4nbj6Mm7JhXRDgjJvdKVrLO46znObsyfKHyrtmNobmfP5wMLV3IqCh6Xw1YUoxouGhD"
+      ]
+    },
+    {
+      "folder": "falez-serafit",
+      "brand": "Falez",
+      "model": "Serafit",
+      "name": "7 Parça Set",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJzm-6RGkIalsrppYSVHBAGGJmHmAelu5rQir2fkSxNzTEW1SIIX9FsoZ7dW_o2X4COT_r5gv9nq_rQYYfnI8czzv_nVRtRr3_JdNTc1sJjZ7qlMtDWY_CyCAIrU7TIvhrUxzuN7cHHp9SDD-ssPyBJsydX6DPvlj7wQ61PFUpmEvLLaFaw6cJtA==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErLc0Q3SirdnA7JfVageY0reSiS70mrtSV9al9I2Did-4zxhk0nmqKb2ys5kmEViZlxCu9931obQFasi_HMThoqGnQ3SVZN3W0bq4N5J7pLrtT9hSynOeH_13SeycTtkzZdUUb9ddyFVOxDftCWP_MYaNBBdLhDht5JD7HS7lNx6PeBNDBvqJJ9Ns="
+      ],
+      "note": "Ürün üretici sitesinde Falez Serafit 7 Parça Seramik Kaplama Tencere Seti olarak listelenmektedir. Model kodu bazı perakendecilerde SRT1017 olarak geçmektedir."
+    },
+    {
+      "folder": "falez-serafit-24-cm",
+      "brand": "Falez",
+      "model": "Serafit",
+      "name": "Karnıyarık",
+      "variant": "Ø 24 cm",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://falezonline.com/products/serafit-seramik-kaplama-karniyarik-tencere"
+      ],
+      "note": "Ürünün ambalajında 'Ø 24 cm KARNIYARIK' ibaresi yer almakta olup üreticinin resmi kataloğunda Serafit serisi 24 cm karnıyarık tenceresi olarak doğrulanmıştır."
+    },
+    {
+      "folder": "fantom-dc-3000",
+      "brand": "Fantom",
+      "model": "DC 3000",
+      "name": "Çekici DC 3000",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE6PNNRWJ1MOYV8MKu2qtYMEIB19iqcwFGlpcbsab8v3dnRJURVj0EP5kCLWWHrTx5N6Suib7uYpHsIWNlz3cvBGDHLhk_M7YS4uBK0-gFdcf1tgSee7Q6T48ZfwE="
+      ],
+      "note": "Kutu üzerinde serinin ticari adı 'Çekici' öne çıkarılsa da Fantom üretici belgelerinde ve ürün kataloğunda model numarası DC 3000 olarak tanımlanmaktadır."
+    },
+    {
+      "folder": "fantom-p-1250",
+      "brand": "Fantom",
+      "model": "P 1250",
+      "name": "Pratic Air Power",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr_D58u1xqhGbj9ExZGk4X_XcrVv2lfSiHrNbzQKJfNGIAbVvOtI5nMfKDmYzcZDLQGrUgxllwKScjZeMjn49l26FUmC6W-sTn39wtTmZRx5QgNb7Rnk1j3QOTs8NWYlK6j-O8nZy5"
+      ]
+    },
+    {
+      "folder": "farg-lunivia-fg-1215",
+      "brand": "Farg",
+      "model": "Lunivia FG-1215",
+      "name": "IPL Lazer Epilasyon Cihazı",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_LHiGtaJIRsiDibCH7HiSQq_hfDIZHy2TWhu6kQkCZ5nHFh070LnaZd33JHZ0DvWxqWBZsg986iR0mz8sRUXbOvzpMyFVlDs-TGl8lqOs-TlF3PsKgMcLcXiKA9UdogfW_xTa7eaGXg2zljwgFaJjnwZginTIKyCiVD2GgUxYpxY9163s50gkpI4VJYLYl6R_cTCbt2RR9YniDriF85RAfCktlAYU",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLZmr0L_lJ9qlnSL4UW_veB8FMxWpLZ9uGN8PgjY3iCFQwAa3FwfEHxcsrbH75VG2j45-sCSsLUPTNsbbv1b0imRagLsFGgiNMqyxOkbP3dmBnInOfuxsuqOlgubUUfz7OI63_cOAGnksnq9dSuq4tNh30wBh1YCZztyJBgImDncF5zW6APLRACQ4NsIwE4Mlxk1Hz4BHw-1Zdl-IRcIrYc5kyNN475DauLzh8XJ8hXQ1X3k-WkJspN9Uc0-JbCQ==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbliLu2BpMDmsfN9baxFSJUFTUq1c_SuW1h5dHZdzEScG5S2LiRAjpYuwK9Ohz9YZn0TyMzylhW7u4P8nfCgD9Ut7yOPQlBfWXjpwNyYgCJw7y8K8DFbJEM_EBQeH6rHRHVbrHRuxLU62smAAvVbAOOoU0bg8n5ZTgA4YX6Z4al4B4Fs3pAPFPoLMIHMiwUFTILA1HAN-zCGtQ6qsGtT43H6uteub6kHG4fouRBe8ED2njgQcgygM3U0PGEQ=="
+      ],
+      "note": "Ürün perakende ve pazar yeri listelemelerinde 'Farg Lunivia FG-1215' olarak adlandırılmaktadır."
+    },
+    {
+      "folder": "farg-pro-clean-epa-1609",
+      "brand": "farg",
+      "model": "Pro Clean Epa-1609",
+      "name": "Buharlı Temizlik Makinesi",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExnImXXDm7A_KvMyNa5AQPB2yTRNzzT5LbvJ4lg93OVUYAmFyGDQGxZ0GO0ab8wytFaAPoBVuSEYz1KFW5165ZPWxWXw4jgjaLc66ZPUZvY9V_9bA8NPdcRpyVyV3cFH-Lcri3W2bTFwvPszjkx3tAFLDgD0lFVvdHTFbZ5UPrGd0F"
+      ],
+      "note": "Ürün üreticinin resmi web sitesinde 'Farg Pro Clean Epa-1609 Çok Fonksiyonlu Buharlı Temizlik Makinesi' olarak teyit edilmiştir."
+    },
+    {
+      "folder": "goldmaster-buharli-utu",
+      "brand": "Goldmaster",
+      "model": null,
+      "name": "Buharlı Ütü",
+      "variant": null,
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "note": "The model designation on the packaging is illegible due to blur and low resolution. The image contains two distinct products from different brands (Goldmaster and CVS) stacked on a store shelf. Without a readable model code, the exact Goldmaster steam iron model cannot be confirmed."
+    },
+    {
+      "folder": "goldmaster-by-5315-kirmizi",
+      "brand": "Goldmaster",
+      "model": "BY-5315",
+      "name": "Dem Çay Makinesi",
+      "variant": "Kırmızı",
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeNIWpOzvzMZsSgYNtqc6uvRCwDvzEXOm4F3DOpfrL0ff8cqFAN-QXlM7aN7EU21VhDIYDV4h8gOZGFS1HsPiCOpvv1SZymwPZFqVGiZe4xx-XiapuET0A9lWQPkWm_Z7AXJDd2bl_TFozCyzYAY9s1WlXuivIVq_VyEhqnfpketan5HBbZdQ9qWEcjAvh6ME-IgIVIe6R6nHEu2BIogrfWJwAv5_ndGFjRT9c",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGywTRFwE01e58hoiMVeApEvfuNL5NkwzahkYu0z0kqeNPYXSn2wA1x3pndN25dhuUX4YXNmU_C8anA4A-nWOMw6fkBUMwMpGZPEm6CzFs8xcSZua1YL0s3nII0uxKwcBbUOZXCJXKu_UJBTzPUAIF5v_fINZseR0AVg9GdGMT9S8Fu7TqvRK6cJlV26b990BoYtEaQ8l9RrPYQm6E8Ov6-JEGLcyocwBa3rYY6"
+      ],
+      "note": "The blurred secondary model code beneath 'ÇAY MAKİNESİ' is confirmed to be BY-5315 (with the red variant code listed as BY-5315TK). The model series name is 'DEM', while the primary technical model code is BY-5315."
+    },
+    {
+      "folder": "goldmaster-by-5506k-kirmizi",
+      "brand": "Goldmaster",
+      "model": "BY-5506K",
+      "name": "Goldmaster Fuerza BY-5506K Elektrikli Süpürge",
+      "variant": "Kırmızı",
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_R63C4dvgNDaA439lJD3sC6RRChmt-pu8oIaTZ-XQRH2-S_MYNORUa3Vvcy3ULO2lvdYrzJAJqMhGWYkvgXfW_Vk4oVcuNxzyWj7c9hpyrgfTCFnL4_M4zj14TY6nsblivg-nrlxz3UKj9wyPGGWRBdus1sh9qFAcZ_N11FmjC_bCnBAe4vDS6Zj-vEs_SnrEYOhypMkO_lbr9usFEIPw09V4n0LRcaWOVga8NWNhsNy1QyMFOCgRQ8NWkKNShRPBlKGrUEwflQ==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdQ8Bg_-tuOT82R0P-NkMNNsmByXMI1uFBpx7zG8WwtlwAOrwD95OAWye-tbmg8FMJWptNhU_mHUSi4DPYZUfQ7Gjqfvnlk4fdXhU1XosCRmR3At775DMdK0KgZ_nhgPyiUXcwLkXEBtbRTYEyxc-Ioa60ViGJRKXLmSwRbD8qebl6KFcBU9DovDqRk7_1KOqy16K4vNgeq6niIduVSBR_4lpyYiyJ89zqzb9aMjVoLGYPY7Ypi8L7RHcJ"
+      ],
+      "note": "The obscured prefix preceding '-5506K' corresponds to 'BY', representing model BY-5506K (the 'K' designates the red / Kırmızı colorway). Motor wattage is 900 W, not 2000 W."
+    },
+    {
+      "folder": "goldmaster-gm-7171",
+      "brand": "Goldmaster",
+      "model": "GM-7171",
+      "name": "Filinta 9 in 1 Erkek Bakım Seti",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUaAdNb9k1AiwxlOvbwIFqmLzIXt4wlvpwHJxTtW6bJDGTyz4dwDRGO22EnyKV-ukyBllnP_mVM-o9bslE9dfaNkf-b-zwE1Oet7x0mFTZXbO-Rqa9HuwEDODJIKBEMasRLzFfy4Gs-h9hvdGcFP0w4fI63-cyMKntaYSYSWut_pcxpQ==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwopUWj9m3ts1UNgEPpkVPkvnJIhTUClb0yUNrD4wg7lcf9M6EmphGPz07WFi0atJG9CXoj5sOw6pDcUOZFLhehBL8Ckr-_vHaUPKtWmKRCKQNau-uGSCjXc0a9lbFz5xnXdXbwgNl6rfA2PRYJnd-Yd45jLxGJb0FNHfiHBgtpd_Qys5iGNeXvaeqq6rWxtxF--LczaDznJ97J214ZxM2jMjypQ_NUKfEGJ4840aQtPp4EYrcWwrRN5NOYV6yt6KxCd9KucUvbsYPjwHJfnOrPgYViN98V90pKAUsYvbQ"
+      ],
+      "note": "Goldmaster Filinta serisine ait 9'u 1 arada erkek bakım setinin resmi model kodu GM-7171 olarak doğrulanmıştır."
+    },
+    {
+      "folder": "goldmaster-gm-7240",
+      "brand": "GOLDMASTER",
+      "model": "GM-7240",
+      "name": "Yasemin Blender Seti",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESkySyLrPUaODLC7fa3Dbx4xgyYg0do2tDSxsw9PF9UBy9pLdDdHcanT_l18wt_kRVmFdA-HYNnTAdttZSrJEImyQR4LwCYI-86KdA0yIORYYfp2DzAMEN1D5Rdv2zzl4K_uyzLqkxVwkMA-uXDQn_lMxw_pzUwofvZMFcRyMflkIiXPbHt-GcqHMSFWesiVxthtrhlhc_7Q-KoECDwlGoO2p-4c9PYSEXKlfUZdk-bv2_Qg==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG52WqRzvCrjq-2JFaKh5kCdQjC5F6NyUEGt3SMjaIiGWEmJ9g14vm4uIbFqWQHsPmhlxhQD5oxBOezdDvg30wiMMuLAz00WNkEkeX_06TKChY0Ij7zNwEAdNFCff5Ibwk8F9i8EKjyZS_cJHYJ-gdaHWlHBc0P0dGiuCRWCoqBA4bRvoialBTznKnfhF43W8vb7P9zJs="
+      ],
+      "note": "Model GM-7240 is confirmed as a Goldmaster 3-in-1 blender set. Although the box displays 'myCook Blender Set', Turkish retail listings and catalogs uniformly identify model GM-7240 under the product name 'Yasemin' ('Yasemin Blender Seti')."
+    },
+    {
+      "folder": "goldmaster-gm-7321-papatya",
+      "brand": "Goldmaster",
+      "model": "GM-7321 Papatya",
+      "name": "Çay Makinesi",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGulGYQ9zCf_MCHPwqf6wTjS0CptXdPfQ9kre-yVy1dfkfvyk51xsvWaAWROMJusxZG41HMSdwD2OuzIWyG_Hy1eQSExV4yWdak5vCfENYtaRw5p4ZzBBVYXmR5vn4SA_XT-JWL3rB51x-1gWoBMB9ep676uUnGAnkwkcwBmfSa9JK73tIdByojCYIFvKFCPYUEHjQ="
+      ],
+      "note": "Goldmaster Papatya çay makinesinin resmi model kodu GM-7321 olarak doğrulanarak model bilgisi güncellenmiştir."
+    },
+    {
+      "folder": "goldmaster-gm-7477",
+      "brand": "Goldmaster",
+      "model": "GM-7477",
+      "name": "Vital Air Fryer",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjwRLiH9w9TypxjcPD-fs6UEf5RS1kkmA8KWWmTSc0x-MGlDP44vpp4T6Mu5bFDLogra_5bx0kwTj_J9wPqRxqBECcKF37ufA_QDQ1PS7tZBH42dVDN7DF-aNVmU6wBZ-XnfgoeszfjrGM0eHW_SwxwsoQhl_mHZDXONy0yzsg_RvPvTE7rZRsNdEEeTzZQ0Tjxw=="
+      ]
+    },
+    {
+      "folder": "goldmaster-gm-7478-siyah",
+      "brand": "Goldmaster",
+      "model": "GM-7478",
+      "name": "Porto Airfryer",
+      "variant": "Siyah",
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqUT1U7Ea76FPb0QAkFH4CQX0r5nmoxKipit4BqxqIDdVkq_GJ42WJVr-gtGTqc5vgZecPJoYMRelxGuSHID4gyGznaIecYqIRM2-KZRY834t_nfl5M7dXURx32MJgYXyhJv8_nLz3gPJxOzS_JTdOk4ksKqzvXhkXEwTCRw0yepmShnDmu46vT10PUHWdHAcKDseHouUgowcYrzmL0MdXyaXdauIIQKXjW2zQtJgm6Z0TRnDRRnSSsUTH2OFKbvo=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD1dOeF4DHP6iSz1_ff3gU6V_NNkJQZYpUHC-8XAy1nhqPMXWCExR3KkJt4arGoTUFoST7SX_KuqsbvCq_FiVBslu3N_X4IpZw-bPUVTrgK2Q96K179qrKyTUsKo-tah1SdaO5lDQr7288boSEzpsLS1wR0NNGF78ygWKTXuOk-xTayBSy2vaeI1PMLAdmW9-W0aH_mozAVD_skARRlex7Aa3N9TilhSdV7g2OHt57Yk4zrtm-H9Jux2Mae4oz4kvDOjv9BVEOSsClHhicPg==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGES4tL0FgXqS2i-O6a063m_06-30-_oUkfRBt5iXV1D4qm96rDO2x6_JnWbrn-pYrp9VYfu0vqLlOH4ISlUc-Hvkk8PtrvqZOH74LH1nZfCx1KsXuPhvkbW0T4NPlvsMyQo62Kcl2dbGCR50-X9Kd2_u-7KJv5PCMjeHJwpYaHPG5fnA=="
+      ],
+      "note": "Model code is cataloged under Goldmaster GM-7478 Porto."
+    },
+    {
+      "folder": "goldmaster-gm-8184",
+      "brand": "Goldmaster",
+      "model": "GM-8184",
+      "name": "FENOMEN 9in1 Erkek Bakım Seti",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHustrbMvKQCvG1KObWrDFDSsPuEdE_srf1-Do2c6OeCjb0CaOCAfuFkbyMSNahMx68X0ETHadkjSQA9PdtVVNypnluCY_Dgym4vCF0YT8MmG5EN1XOOUxIge4nbAXOSuDEOVZ1g42-s6OAMRJ9i4nr07YLYavqTEAEb7FHxCBFc0L7L8q0ag==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1Wvk9Ag5ozTRG98qBOvGdRgwg3u2ukgs154n1G2D72wO1QaVbWFpkOgEWsE9mxrgMwhy2LDcIthMltotdD1-GErHdT850rDWLgedNg5TCGEGwzBWNnudnszzLVg70RmvvinZrK7aTmknFUOXmm1GxJFGQf5OQsJidKVMHeMbFX11iM955Pz_KL4NHuxf2UsqgLvv6ojCA9AS8FUJyhyUhCxGyoGaTHPF0lnewdRw9YZPZw8ZqwpTHOpLw74tjBpsUDNDPdjlvRupHSTHLCOspECul4jDeE4Vdwwg="
+      ]
+    },
+    {
+      "folder": "grundig-mgk-6841",
+      "brand": "GRUNDIG",
+      "model": "MGK 6841",
+      "name": "Multihaarschneideset mit Ladestation",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://www.grundig.com/de-de/elektro-kleingeraete/koerperpflege/men-s-care/mgk-6841"
+      ],
+      "note": "The model and German packaging name 'Multihaarschneideset mit Ladestation' match official Grundig specifications for model MGK 6841."
+    },
+    {
+      "folder": "gulsan-cakir-cam-kapak-6-parca",
+      "brand": "Gülsan",
+      "model": "Çakır",
+      "name": "Güveç Set",
+      "variant": "Cam Kapak 6 Parça",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://www.gulsanstore.com/gulsan-cakir-6-parca-tencere-seti-cam-kapakli"
+      ],
+      "note": "Ürün kutusunda ve resmi üretici kayıtlarında belirtildiği üzere set 3 adet tencere ve 3 adet cam kapaktan oluşan 6 parçalık Çakır modelidir; klasör başlığındaki 10 parça ibaresi hatalıdır."
+    },
+    {
+      "folder": "gulsan-sahin-10-parca",
+      "brand": "Gülsan",
+      "model": "Şahin",
+      "name": "Paslanmaz Çelik Tencere Seti",
+      "variant": "10 Parça",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUy0u_q3FCr1-9cE0DrbtnIQ4yi3mJCox_NZybGD2hMoTq6kO_lj1SRmD8wVZuXYwOEjpJr2tNMbB5JVXkRhDxqVmUTZiw3LoVzKmPiSm-mIJ-HJLrwYuT-XSvnn24_IytyDRo5JJWQUyQkW4RWPDf3tnbcjAp9ldc"
+      ],
+      "note": "Ürün üreticinin resmi satış platformunda 'Gülsan Şahin Mega 10 Parça Tencere Seti' adıyla listelenmektedir."
+    },
+    {
       "folder": "homenist-3000w-duvar-tipi-infrared-isitici",
       "brand": "Homenist",
       "model": null,
       "name": "3000 W Duvar Tipi Infrared Isıtıcı",
       "identity_confidence": "medium",
       "note": "Marka ve güç kutudan okunuyor; model kodu görünmüyor."
+    },
+    {
+      "folder": "inova-expert-inox-siyah",
+      "brand": "iNOVA",
+      "model": "EXPERT+",
+      "name": "Çay Makinesi",
+      "variant": "Inox/Siyah",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1kyZt1kISi9erep2LnjyT_cBLnndcMp03jqUqWLmDVmpddRuO0GZypn8eYbfA8YLTMiWc94js-xFTjFXx3BehgHqB4xIUXZAa9til0szHqGs_ysHG4DV_eNoj5hQNyztrldVVqO2Y9DLS6QUscwA="
+      ],
+      "note": "Model adı kutu üzerinde belirtildiği ve Türk perakendecilerinde listelendiği gibi 'EXPERT+' olarak doğrulanmıştır. Kutuda okunan 1.8L ibaresi su ısıtıcı haznesinin 1,8 litrelik kapasitesine karşılık gelmektedir."
+    },
+    {
+      "folder": "kahramanlar-brown-kare-tutku-24-parca",
+      "brand": "KAHRAMANLAR",
+      "model": "BROWN KARE",
+      "name": "Porselen Yemek Takımı",
+      "variant": "Tutku 24 Parça",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGznqXRa_c4a8YvFrMYTF0jaLq3aYsBY7zYYdtdAckfs283MjInq-waLdGOaBVkYC0Lxey01qaRpwJyX6kDdHk2KDqpn1-RMYf6nGVwytaG4LpdSuFSte-dhV9h22mr59yS00E-lnbdXFYmNHls28I3T26UJVp7IxnF_weLOFohMdlx",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfAifevZiFhpOUo3YGCkMU8J3N3otNzhy7VUX7naW067zarUXByQipI3r7HCb4smoxMFC2nhG0-YuzzXViQsinmHljNihM-MSuDVaFfsaPv3ScH-Z10Ll8zHT0wtwGsSpnP4sdKKFw_AMgSj7KAdNvePTiZxaeIw=="
+      ],
+      "note": "The product is confirmed as Kahramanlar Brown Kare 24-piece porcelain dinner set (product code 5603), with Tutku denoting the specific motif variant."
+    },
+    {
+      "folder": "kahramanlar-mokka-series-7-prc",
+      "brand": "KAHRAMANLAR",
+      "model": "MOKKA SERIES",
+      "name": "Tencere Seti",
+      "variant": "7 PRÇ",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN7rdr0MC-urZ0l939q5GJNJ8XKca28jkWx6hMKjIX1o_lVJT5nC18KykCcwyjgKidygBpydQ2bOjvoBtKohFsMupIHZ_odg1OWrlhMIUG_qPSuteDUes5_6IBlnsXjQk_7sk2XWyQfM0Bb7U=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3CP1YI4A7nghfR4Eyy3rLI4v6Lm3xs1o_7Rcg1Us4_guNdAa33fGPW2Z2sDDWcElk3mQL4XV870AjiQk6ADFeZl7TdSRSrOH6B6e1vQYy_pCfszaBlvV9gfjd3mTNBPL9WoguMCENEXkXV5EUR_olDA=="
+      ],
+      "note": "Confirmed exact product matching packaging text: Kahramanlar Mokka Series 7-piece cookware set. Resolved visual audit issue: The correct series name is confirmed as 'MOKKA' (not 'mokha'), and the cookware is non-stick/granite-coated aluminium rather than steel ('celik')."
+    },
+    {
+      "folder": "kahramanlar-sirma-10-parca",
+      "brand": "Kahramanlar",
+      "model": "Sırma",
+      "name": "Çelik Tencere Seti",
+      "variant": "10 Parça",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7nqGXJSBAHLno-CIvL0_NC1FNjP83WRLYMCOJM_vCFH7wnVerLEmBxpb-lGPiqCZrmlW22wd2vWSakhdvoAvpvBrFatqeZozs7lct1bQIihhr_563MONGk-ZQALqLf2brYZQp748I8wfbgoT9Z411RDAyrwbGcboR5Mkzg6pLjCE9rEWj-5NEyLfWsg=="
+      ],
+      "note": "Model ve ürün kodu piyasada D-775 / 775 olarak da geçmektedir. Paket görselinde yer alan 10 parça ibaresi 5 tencere gövdesi ve 5 cam kapağı kapsamaktadır."
+    },
+    {
+      "folder": "kahramanlar-stone-28-cm",
+      "brand": "KAHRAMANLAR",
+      "model": "STONE",
+      "name": "BASIK TENCERE",
+      "variant": "28 CM",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJcywgbOtz9yBBmZW3EoazPeiZ0CBQvAW9-KYJjXStxwSqM4h7j628zeRaaoTy9uDR1KXZdikWsTJJKH2DARJOLu2fCe-FxvzcNg0TpeB4Ove8MnCstIB_7QihcuZFU4A6OAI-rKKyFnExU17lz1N9eSmtxCQjXHV3WAKX2IPSqewvm4ioLtZGzUlj8Si54uT4Ziv_wGbV35PTaV6b",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQvQwKSsIsnhLBWseCOa81wxN7ZiKbJBDjYGOBpd3LwV1yy8JX2K4SIC2-czgXtTJDgSwsJPZK7lqPPpvpHnzPF9kii01ffsJNrU63YBKMKhwi9aNHcmnbwI6VZKyS6DatmTMjquXp4a6VY302cfDwPBREYSBaAv3gKdgW6Q6A1FVsE0XTsMK-Zos0Fctts60="
+      ],
+      "note": "The product is cataloged under manufacturer and retailer listings as Kahramanlar Stone Basık/Karnıyarık Tencere (Product Code: 3402), 28 cm."
+    },
+    {
+      "folder": "kahramanlar-yagmur-8-parca",
+      "brand": "Kahramanlar",
+      "model": "Yağmur",
+      "name": "Yağmur İndüksiyon Tabanlı 8 Parça Tencere Seti",
+      "variant": "8 Parça",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://www.zuccaciyecim.com/uploads/urunler/kahramanlar-yagmur-8-parca-tencere-takimi-9005-6291.webp",
+        "https://cdn.akakce.com/z/kahramanlar/kahramanlar-yagmur-induksiyon-tabanli-8-parca-seti.jpg"
+      ],
+      "note": "The centered primary product in the visual audit corresponds to Kahramanlar Yağmur 8 Parça Tencere Seti, confirming the visually identified details over the folder naming."
+    },
+    {
+      "folder": "king-k462-grillmaster",
+      "brand": "King",
+      "model": "K462 GrillMaster",
+      "name": "K462 GrillMaster Izgara ve Tost Makinesi",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://www.vatanbilgisayar.com/king-k462-grill-master-izgara-ve-tost-makinesi.html",
+        "https://www.king.com.tr/products/k462-grillmaster-tost-makinesi-2000-watt"
+      ],
+      "note": "King GrillMaster 2000W modelinin üretici katalog ve ticari model numarası K462'dir (K-462). Görselde raf kenarında kısmen görünen KSM-2448 kodu bu ürüne değil, yan rafta bulunan Kiwi KSM-2448 tost makinesine aittir."
+    },
+    {
+      "folder": "king-kbu700-larsen-mavi",
+      "brand": "King",
+      "model": "KBÜ700 Larsen",
+      "name": "King KBÜ700 Larsen Buharlı Ütü",
+      "variant": "Mavi",
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHKhQTlGDk66gb15DXesfaJW8k_IPGQsKzOMtd3gAHKrvpo6aibg1Qip6snJfatWo4j_kt546SU3sgVl7oqzm1NkFlsN5muL3Y_fCYWSkYAFFP7UzktzTTMuGMsjCkkVV9fgC9jEj4jn66KINUp1RWiylZUg==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQghTiUgSRSEL3uErkf_aOXv8CXekx3A4pKi2Y8MZGHp1g6SRDJO9_47HshjkFNHd4xdB8NZ5-yM8c3AwqU9GfnpeanVDbs3crryioiZFa2CgohC4H_qsFY3FDKCUUm7QfhoC042GCbRRlLrRu8O_qp32g5EOmA2A="
+      ],
+      "note": "The official manufacturer model code for the King Larsen steam iron is KBÜ700. The source image shows multiple stacked boxes; this verification covers the King Larsen buharlı ütü."
+    },
+    {
+      "folder": "king-kbu701-karina-kirmizi",
+      "brand": "King",
+      "model": "KBÜ701 Karina",
+      "name": "KBÜ701 Karina Buharlı Ütü",
+      "variant": "Kırmızı",
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV1lugjqdmA91RmXGeDoWxXBH_SHtFF5jQGOWAVkA_N4zRZskbRYlMNUw8XB4h5ugU9b0WXfodqLzBdfA37PhQsWrPd7o255i8eNRelRZ99D9GixUF5MQXVf3zLg-8251drY2mmZt2rbGg-zI5SNTc"
+      ],
+      "note": "Üretici model kodu KBÜ701 olarak doğrulanarak model bilgisi güncellenmiştir."
+    },
+    {
+      "folder": "king-kbu703-osborn-kirmizi",
+      "brand": "King",
+      "model": "KBÜ703 Osborn",
+      "name": "King KBÜ703 Osborn Buharlı Ütü",
+      "variant": "Kırmızı",
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4bd6J2sl4zYbQq2E6zn8QZvJyA-RswGuOlq2ADm2gB05iEblU9APbhX3F0oGOahFAqYc2ziT26O8eovzqKISeMhxt1jSCWrgU7qO_7L0QI1pflVzOvTZZKuBZyyGtwKkh4VPEdYJIpoe2mfSWsN4DzX0="
+      ],
+      "note": "Model adı ve kodu üretici kataloğunda KBÜ703 Osborn olarak tanımlanmıştır. Ürünün orijinal renk seçeneği üreticide Kırmızı / Rose olarak geçmektedir."
+    },
+    {
+      "folder": "king-teapro-black",
+      "brand": "King",
+      "model": "TeaPro",
+      "name": "TeaPro Plastic Tea Maker",
+      "variant": "Black",
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "sources": [
+        "https://www.king.com.tr"
+      ],
+      "note": "The image set depicts four distinct models/material variants of the King TeaPro series (KCM330 glass, KCM331 inox, and KCM332 plastic in multiple colors) with no single primary product. Because an exact model cannot be confirmed from the multi-product imagery, the visually read candidate identity is preserved with an unverified verdict."
+    },
+    {
+      "folder": "king-teapro-glass",
+      "brand": "King",
+      "model": "TeaPro",
+      "name": "TeaPro Cam Çay Makinesi",
+      "variant": "Glass",
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjc4afMl6lT5uwZpdg4d0X3wdljQ5xQwnDhgZskSjO1Fg-3X1racv-ULIeQqLiko7k5m22ljPkBaG615Mi5pISIyTi6s5fGqh_X7P9-qn0FB2XTWYF529cZZsrkCjsddSN8pmEGAGnrtQDSJ6kXaYH_omr-Gb278Tun4aJQA=="
+      ],
+      "note": "Fotoğraf setinde King TeaPro serisine ait birden fazla farklı model ve gövde materyali (KCM330 Cam, KCM331 Inox, KCM332 Plastik gibi) yer aldığından ve tek bir birincil ürün bulunmadığından kesin model teyit edilememiştir."
+    },
+    {
+      "folder": "king-teapro-inox",
+      "brand": "King",
+      "model": "TeaPro",
+      "name": "TeaPro Inox Çay Makinesi",
+      "variant": "Inox",
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhSdFnpe3lN1rsCgTug5APik12EbtW_faAg6mEeB7tM4OlPdAQQProEFJQ9LEjGDqXpRymBk5bZlWch9O-rXuxBX17cYAlD5wfISq0wW7ZpuIcwQbrgee9zrESsqqqh498cNax0nPPRWGQstEcHf5FdfKY9ZjPZcVMCBdP"
+      ],
+      "note": "The source photographs depict multiple distinct models and material variants of King TeaPro tea makers (including Red Inox, Black Plastic, Glass, and Inox/Silver), precluding the confirmation of a single primary product. Per instructions, when an exact model cannot be confirmed due to conflicting product representations, the verdict is marked unverified and the visually read candidate identity is preserved."
+    },
+    {
+      "folder": "king-teapro-red",
+      "brand": "King",
+      "model": "TeaPro",
+      "name": "TeaPro Inox Tea Maker",
+      "variant": "Red",
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjTHVUnW2vKodY--DGZrL7kX-D_NmRfAi70bZaIK0y8q1QQMvV0whefGTQz_yrGa4wu_a2dmOfIagSCj0PCJ_CCOv9JvnjFZSMFyaB6nwKBy6NAvyVObcZP74QkKpiFr37bUsxZND8Xvg3dfR1xfPPFUPwmiPPk8bl2DZDBGk=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmTCb3geX_HoT2USWQ-wqMQyHwVwLeIv6_5KKFj7cHYtK-6tEqgr_8q0uVJAI5PmuSVuBB1Qvzzwm47ctYYPdMSWZyEVxvmLmxTuVCCC9Ht2f1nQC1w4zMyC5tLqgo8aUBbAxGSzAUw-_853ksZkvEwEOtbUKrSDLc1Hwk4Q=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyEpNJf5kqAN7dQuuDho3tT3dQbFyAnMlqxiPT_bfGEL_ZuB8RQ_TBarCJeT1LN4VU9wtbhYQB1NN4sTcxFB4_KtkaEtIKW00yJSJBvbDVV9RIg-FFq89Ugq_U-Na2M5lfES2-VrCHvNQ8GlX-FHwJu9qFn73JGmTngk1DwJShu_vE6uxVB_TG56Vfw_DIfU8GfCN24NdmooFxydb8mpqyc9BzXcc="
+      ],
+      "note": "The source photos display multiple distinct models and material variants from the King TeaPro product line, including KCM330 (glass), KCM331 (inox), and KCM332 (plastic). Because the image set contains multiple conflicting products with no single primary product identified, the exact model cannot be confirmed."
+    },
+    {
+      "folder": "kiwi-air-cooler",
+      "brand": "Kiwi",
+      "model": null,
+      "name": "Air Cooler",
+      "variant": null,
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "note": "The brand Kiwi is identifiable, but the specific model number is not visible on the unit. Kiwi offers several evaporative air cooler models (such as KFAN-7494, KFAN-7495, and KFAN-7497), making exact identification impossible without visible model designations or differentiating visual evidence."
+    },
+    {
+      "folder": "kiwi-kep-6833",
+      "brand": "Kiwi",
+      "model": "KEP-6833",
+      "name": "IPL Hair Removal",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmLNzJcjP4nniMF1zImO4Bjq-5JUybblHxlVhbdLhx4tZ4XB-k7aGod2Oz7O0-lj-juuF2CO-p6iOsgtf-9TalJoXw7pc5dunlozgYlM_WcVWDyX9_gUmjBKe1VL1omcQcQ00VrmY11xO5QU-0ubE7WZU9zGnCv_PY3nP9MRZuwc-I"
+      ]
+    },
+    {
+      "folder": "kiwi-kfan-7429",
+      "brand": "Kiwi",
+      "model": "KFAN-7429",
+      "name": "Tower Fan",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC04QhBKOgCur9PDsLceAckt_gG_7x1364BlCIkG5SU037c9R2Aa7_4KutPP_6K55_63vf1fUN9GQZXpB3_WgnTi1SmDULD12ymMdFzW23u-gtKNYRE8feltuIEeYHqJI4j3gygNuJiBv_PJZWQvEp5_ocbWq8V5UD4x9S"
+      ]
+    },
+    {
+      "folder": "kiwi-ksc-4210",
+      "brand": "Kiwi",
+      "model": "KSC-4210",
+      "name": "Buharlı Temizleyici",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEix2wVd_ZSRQFA9vtjSJQ57O7LJhdDZTniIk8U9EAjvBeeypkTXrKC4TrVZ8cBjSN9RdjVZXdefJRUYB7ULaAXMPvbnenJ4RW4U4iBirpJWmaKwt4SEAwVODKma7KUliKwS-NCfYK0PSvIZfhzlsq8cAcjMkcJpvKCNKdiQYYiM9buamw="
+      ]
+    },
+    {
+      "folder": "kiwi-ksi-6344-2200-watt",
+      "brand": "Kiwi",
+      "model": "KSI-6344",
+      "name": "Buharlı Ütü",
+      "variant": "2200 Watt",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWBqk1t1EeOVrD64FwHlyuL7C0SvII7v3IWCoODbYzoNYuP_bBMPZtCG0HYGUKFuqx2getg8OlqBp47T0llKfyMYE0Tw44UC6kOx--A7LleO2CEb1QvrB9lfHFC4HSIoBMFH-8vffB1MBkXQgm0Y_buDywHYMvXh0KdkEEqwih2Zug",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaeWjog2N50dFRg0wmoqy_s0hB2b5LhZJkrHHZmZfgvggkKVvEWmaOOo66tEhtpy7ji9-ipnfqQ8RIBlbfN0gShiFWLd2jUtvss6T6DcSMgJfoOgH9uM7jY0k_95JzdNQaEkRfcQ5EIifogkHyWfQh6sfC9q8D6_HypXEKX7k689Lpk5zOYYiGJkxUN5s-a7FT3KwikluRB98nRGhOxcnezgITwFF79jZ4fA=="
+      ],
+      "note": "The model KSI-6344 corresponds exactly to the Kiwi 2200 W ceramic soleplate steam iron shown in Turkish retail listings."
+    },
+    {
+      "folder": "kiwi-kule-tipi-vantilator-white",
+      "brand": "kiwi",
+      "model": null,
+      "name": "Kule Tipi Vantilatör",
+      "variant": "White",
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "sources": [
+        "https://www.akakce.com/vantilator/kule-tipi,kiwi.html"
+      ],
+      "note": "The specific model designation is not visible on the unit. Multiple white tower fan models are produced under the Kiwi brand (such as KFAN-7429 and KFAN-7670), preventing definitive identification."
+    },
+    {
+      "folder": "korkmaz-a1817-rosagold",
+      "brand": "Korkmaz",
+      "model": "A1817",
+      "name": "Rosagold 14 Parça Elektro Set",
+      "variant": "Rosagold",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6UgXgidOx8QplBM_efumcOL3hJdoQBE2zHXmN_b-CDm57UqQHXGsNwMNhtVFLY0w4qVwAxnWslduDt3cdObovB-OSOkrdN4Qi_Y4ZlonsQRVFO_I72-YB-_-W75em60VR3kOaUicSiGOw5BQcmb3nEA76dR_IsZqVvAQ7Fzd_5FmhkkAihxrZwzXcdvWP3W5ZhA==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcaPsa0oMh2tlsVC6t6PRS7atSSG8nwqUMSr3UQbRn_aX6aQeNScwD-YVL2Y_HiKqolXIvrEvAcPIkSLJllKzJnFdeWl8bkOuiiAhk41yorCeCkL0nJn1tw_7ZCiv_ljl3bIjLr3Y6de2XNysvEQu5O8PgwCUvOq5BmpUcPAx1wEduPfiSHc1wHaDWy3Jz"
+      ],
+      "note": "Korkmaz A1817 corresponds to the 14-piece Rosagold Elektro Set (Elektronik Çeyiz Seti). The 14-piece bundle consists of Korkmaz Çaytema tea maker (4 pcs), Kahvekolik Turkish coffee maker (2 pcs), Mia Mega blender set (7 pcs), and Tostema Midi toaster (1 pc)."
+    },
+    {
+      "folder": "korkmaz-elektro-set",
+      "brand": "Korkmaz",
+      "model": "Elektro Set",
+      "name": "Elektro Set 14 Pcs",
+      "variant": null,
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv-9941JYVnvB6acTqyAxflBFf1zvRGSrjiD-nPycr3m9ZvovD_c_PcYfKFiZmwOg2c3qKQvMjNtw0y7OhKN9r7Ch5tnTJDvPBVQKp6gM4-qyYSaZvx9bwdkURwaZu5kdlV2SEFc4VzCUGURRzUHWU-dsQ1KergAUdAWvUyuffrIfRciyR6Ey_7ThLb9npPzjUVOc5U5XqiU8baal2DA0QD5oJijvZpKg69MqWF-O8ujEOIOZZGVmYg0rceVbcqi5M5M4="
+      ],
+      "note": "The 14-piece Korkmaz Elektro Set package bundles Çaytema, Kahvekolik, Tostema, and Mia Mega appliances. Multiple model and color codes exist for this 14-piece configuration (including A1817 Rosagold and A1819 Azura, both visible on outer shipping cartons). Because the retail display packaging does not show an explicit alphanumeric model number or definitive colorway designation, the specific model code cannot be confirmed."
+    },
+    {
+      "folder": "korkmaz-tombik-a1807-8-pcs",
+      "brand": "Korkmaz",
+      "model": "Tombik A1807",
+      "name": "Cookware Set / Tencere Seti",
+      "variant": "8 Pcs",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwt41s45WtKgi88-rdXOC4DBYI5iui4IVH_m8XYd954FryWNxxThgp9wgk3dPoKomu5MFJjNUdLk7XqQ9-5FQRmztp_CCPD7yshYsKwOVEThazV_FCe832LrojQ7n8argz-PjuABehCpeteauzJQSJnBq3UsAXPL4="
+      ]
+    },
+    {
+      "folder": "kristal-coco-a-gri-tek-kisilik",
+      "brand": "KRİSTAL",
+      "model": "COCO",
+      "name": "PİKE TAKIMI",
+      "variant": "A.GRİ TEK KİŞİLİK",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqAeYi3Aq-VFc5ephWYbg93zzjSMcDF2LCNFHO1tjAKIltTtFFLgGp3cNyldgYMXM41UDFaxj4Dyh3UicTuKFenXVnBnWY_KF80CH2oz8HcfV3rfelzurlwWhqjTlFOKtAHQ==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ1ihFLgSf4CFLDzSe80e0MLK73RAcDLbj_oQGUhqpdEbdOhHUM-3Ruil5PdbWYmEI-RNL5mb758fXyRdt9sUWL469sQjLYnuUqhZm-wyjvrwFrDXbgrAD13ySgZwLMFXv8EoF63h132zLLQzeL53Tkm75GL3q_t-ef2RL2votTDuaGPuHCZ-r3xx14eso4bHfp0IH"
+      ],
+      "note": "Kristal is a home textile brand produced by Zorlu Tekstil / Taç. The Coco single pique set (Tek Kişilik Pike Takımı) in light grey (A.Gri / Gri) is cataloged under barcode 8698285081306."
     },
     {
       "folder": "kristal-moonlight-pembe-tek-kisilik-nevresim-takimi",
@@ -55,12 +1269,552 @@
       "note": "Desen ve Moonlight adı ambalajdan; eski çevrimiçi kayıtlar sınırlı."
     },
     {
+      "folder": "leader-fm304",
+      "brand": "LEADER",
+      "model": "FM304",
+      "name": "Süpersonik Hızlı Saç Kurutma Makinesi",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLryJG2VmY7r361zyEpcdLwmtz2reYKSRH3l5chCCIqbNZWBDJJJbqkft-b39ht1sDdosWxPYBhaheSvTyfFHp0LCXmtzioFXJ4RLdRFFHt_N9vatOU1gKUK_Vku9yt92GIBHpT3cx2rgLzv4JEQl4n2FYTdQYHOfQhM1R23LqRLSwwvz_YP4hXyjfAYfo0uHS6xIx0b5fWzQSTrk8",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXgQ5KFfn7SQDGar2pjHZFv6JXz8pLRR9ANDqtnIWfP5yc5m6gsxspOWTPME6yWKMf6h5UEW6PhLWvq5DhctwDgmJhpusfc0pz6zNtZfWyrazCCp1kL_pZL_QJAbKCIcVpcTvRhkNQsZCxvPyd_tib_79ueqLShXPK1S6R"
+      ],
+      "note": "Model code is frequently listed by Turkish retailers as FM-304 or FM304. The holder/stand visible in background displays is sold separately or packaged as a promotional accessory."
+    },
+    {
+      "folder": "leader-fm304-s",
+      "brand": "Leader",
+      "model": "FM304-S",
+      "name": "Yüksek Hızlı Saç Kurutma Makinesi Standı",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPrZUINBW17_DI-PY_SfnP1pLlcu1QcpoI5N2PRAvzYf0hJtqgLQbjWgm4EMXiXLuHQI-2azzSfSF67tAh9kPv51EdsaXf1m5DIOnZN6q-zK3Yu8RTp0ILUfih-Cx52gRSuM51HyUsaTM9Xbd6Ylz7UsCv4dPS5D54R81D"
+      ],
+      "note": "Leader markası perakendeci listelemeleri üzerinden FM-304 / FM-304-S model eşleşmesiyle doğrulanmıştır. Kutu üzerinde 'Sıtandı' olarak yazılan kelime Türkçe standart yazımı olan 'Standı' şeklinde düzeltilmiştir."
+    },
+    {
+      "folder": "leader-l-ws01-black-purple",
+      "brand": "LEADER",
+      "model": "L-WS01",
+      "name": "WindStraight",
+      "variant": "Black / Purple",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKypVS_4nNG9iVhNBE8L3f4gtrdCwDOi6Qk6WjOBSrPaZeNoSrPpT99Gs1ypa-_PvrwdG5-D5462C0oPRYRn1BzndRwuFZwRyXzZWYrxx6LYfG932YcIEeoSrpkTIFj-znDhuqwodUomw_f93hUpMKb0SAdaXOM8OQhh97JfAmhyAZZoWHoZDrlDuVHG2Pduf72G77oTovY1o0",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBqXUXpUhhplxSQIXnWof2l1c11TvOSRseccdXBZq4ULaOQmdU3fNE3nZhPJDD16hJ2jatqf_xpq4ilxdOt9JMzfE95YMv50xNCmcMdCoq9pbvNnMEqC0_CTcOna43HwBtKfIuK8Yi62IwqLKERHs8lw9kRODRFlvNCOTiY3_ozS8eCT6fvwtqCjOhiFTxVKhXIwc=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0t9VkmJHQcgnClCQwXuUS_qswUhs4WoirfQaoGjZkySpmB4O1VUG-v7iH6RJdpnLgIwJyssa3KAv7GGrieQI_xV8LY1LNZhF29fE12nefFJQnZI49KbvijRBkGVxs061pddpaojsq-pnydNE-PMAVlDc2SGxNBRHvSJf8I1-NSm2reCc8"
+      ],
+      "note": "The product model L-WS01 and name WindStraight are verified through Turkish retail listings. The device is marketed as a hot air hair straightener (sıcak havalı saç düzleştirici)."
+    },
+    {
+      "folder": "leader-l-ws01-blue-rose-gold",
+      "brand": "LEADER",
+      "model": "L-WS01",
+      "name": "WindStraight",
+      "variant": "Blue / Rose Gold",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoPYNS2NZCwKFjVlKkyzNf840-BaApOp_jBmniXclu_MEpXaZ49ptoIrDTobVWNEMQ1OPO5PVQ78gqvIiEJHM4rblRQNAMjIjBlI96axdsGI-psZhbpQspYyNe0VnDRvxN0nAY3XOZz6MWnTmaaUDWhgbwSyl9KSopIHxIl7DVOxhDHSCWE7JsvIfJt7vnlmKMvIU=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGXgMhnRd6JXWCr0SXYDNGQpi5TpYRej1b7W_kOFIW38ANKwA7M37RnIWHpTjvZ16Tu7dwnptsHZlHG_O5haya2_FD5U7SCVxaKVI58-w8EeXoeAZVm-UgWnRfaAuIIfymRU1U-KJAoGo07aJeJRW-Us3nCmttTtFnWm1BDVem1CDBDLct9dIWpnmjbA9ZAkrrFR5K98W6QVA6OQ=="
+      ],
+      "note": "The model Leader L-WS01 WindStraight (Sıcak Havalı Saç Düzleştirici) is confirmed via Turkish retail listings including Trendyol and Hepsiburada. The candidate's visual identification matches the blue and rose gold variant shown on the packaging."
+    },
+    {
+      "folder": "leader-l-ws18",
+      "brand": "LEADER",
+      "model": "L-WS18",
+      "name": "WINDSHAPE 8 i 1 Arada Saç Kurutma ve Şekillendirici",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk-wQB6u7ij-M7IzhWrVDekmHn662lkSjKSjMSZCp4VcLYqNxTACocQt4JYg482HrP2ZDo0QOTmTkqkUbGWfyUJC6BLbfB_LbZdWekV73bZAWRcxi-Obz6pwU2sotLFyhh_ezg3xstnv0-B-f-f9kEDNjVCUHKrmlZOvvaJ-2CKi8InwWCnp2ukm1KLzI6HTV39DFMHkGNMCQN",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3a8EHCLi4cSL77UN5rf-zASRtEXXTfM_Elr4-ARsE4gRI_hdIU2sPqe9xj9un4UVKPLbQ7M4FritUk8fIMBm7P1yefDWK2BGBxxfIe-ASoqn7EVB321FfhCpdAKEBtAP_bnxYkq0o-K1Kw5XSZPbCeszkCY5DzGS9nNd8P4NqT-RERMbqSwLbvU8OPbBv_gLc",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzFSq4Ddrt_yUlazwo_chcx4bW32UobeoG37flRM2U-QpkLSVCkbPoj5uy9uAEwPuYsq_yDLoVBuF_eYPeSlmcXVWtpSyRwT1fQYOsnkNlMei91P9FMs00i1veV5r0iW9OartAtBbasqLtVscWirZTjmWjVntbyekP9tgGRw=="
+      ],
+      "note": "The model L-WS18 WindShape is confirmed as an 8-in-1 hot air hair styler and dryer by Leader. The 'LP-8100' markings visible on the background packaging belong to a Leader portable speaker box, not this hair styler product."
+    },
+    {
+      "folder": "leader-lp-5010",
+      "brand": "LEADER",
+      "model": "LP-5010",
+      "name": "Taşınabilir Ses Sistemi",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe_m3FDD6yKylN2W5Vq3_40QlHWRaZYTDpoa7GzE9MgR0tQ3R4K7j7BS2SdsK-b-bdg9fYQc35V8UC-peFSQxpJI0dlupb1jzN3CCLoAC1AyDPltb9hT63Or9CkXpUfpIb_x3PgIEZpzHK2Td6_61E2sOXn8YMK_FvZBygeONfFPLN3Q==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjlrcjt3mZExFMB3HUi--eIslbbTwGB-p3l1L1ZKOd52KzuEqhkvCHvCcBOgUfBqcL0mgUH4EYb3BV5x5ZqBL2kMoSqUK1p8WoUZafRfUSjC7W4UC6do6zwesR18CygosXdGkLAyD27_CeOZiPZjwWT-sYETL8dOFeKmXnAaKtHCCWq0_6KsQ-GgG5vTjQh8sidIXAP1TxqXoz3tb3TUuyMtw="
+      ],
+      "note": "Product verified across major Turkish retail marketplaces including Pazarama and Akakçe under the exact brand and model designation LEADER LP-5010 Taşınabilir Ses Sistemi."
+    },
+    {
+      "folder": "leader-lp-5020",
+      "brand": "LEADER",
+      "model": "LP-5020",
+      "name": "Taşınabilir Ses Sistemi",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJh5VDVn_9BTwqCdm2CHGDNhBcEv-5FGjSw_HicVRhsb5TTWbGV5BcE4cytFqL9VXYnIbRci4JNs5_Clwhb9znjvhXBcf4kcX8VSht2FYJ2PDPDfmEmjsdcblO2KNfvhJed7o1sKfLQm-NPDK1RklzJtlKfV66pe6sF9uSgBSC1e9sl5wV_f7iJjc-pw=="
+      ],
+      "note": "Ürün piyasada 'Leader LP-5020 Portatif Aktif Ses Sistemi' ve 'Leader LP-5020 Taşınabilir Ses Sistemi' adlarıyla listelenmektedir."
+    },
+    {
+      "folder": "leader-lp-6050",
+      "brand": "LEADER",
+      "model": "LP-6050",
+      "name": "Portatif Aktif Ses Sistemi",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZToIBCgHns_syRBdyLA0_GvlUNGVgGdvlSgwVAGM_drPSn9DnZyYIqMUD61CABHSTg4ao9bY5ohbfsP3JVeQKxQceATVuliAWsTQzsORmJ96OJ3RF5yu7L2RLg2txng8X4IqZv15CFuMxqrqlKSAf1w==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnWWDcMGmpUWh9iHTZxOU0_pAaHAHfMZr3YO8lV1tn_cfwzBOjP2ET2RQXDIXp4TSW9v489td65GKVILPhqdzxqwvXX3m2Bhm4K_hOdxDx-5AD2RUSyy2S_pJOShz6Pv2KRfDKu-rS3Wd1nkQ1BgmGX8cQY4Vzd-Mw4S3OjMPic8H37LcEd0Fe1CRtnLymFQ=="
+      ]
+    },
+    {
+      "folder": "leader-lp-6540",
+      "brand": "LEADER",
+      "model": "LP-6540",
+      "name": "Portatif Aktif Ses Sistemi",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://www.hepsiburada.com/leader-lp-6540-portatif-aktif-ses-sistemi-siyah-renkli-40-w-guclu-bluetooth-5-0-ozellikleriyle-pm-HBC00006L36O5",
+        "https://www.trendyol.com/leader/lp-6540-portatif-aktif-ses-sistemi-p-766750383"
+      ]
+    },
+    {
+      "folder": "leader-lp120",
+      "brand": "LEADER",
+      "model": "LP120",
+      "name": "Portatif Kablosuz Hoparlör",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7rg2arv9S1aKGt1YDLh4qGrDDXKMrjRWHZHoZZcDy1RR6rjRMLk6WiyCkeaH0jItPNoc39cmlelBjsmfZl4tc1o5IN0OLpYjjpHezzOLzPru5r946Iw8PVNvqGoLV-4e7fGHhIIPEgSTGL0IgRxlFrjDJLhsT6sJpCnSLX6wtHMrbZn-TjpuXt_iO6M4jT3LkgCVnN80W75O3qJWhIajgFofHoLhuF7fuRFvFnYbR8jbW_rgHBx0rxIpQaPqHtfp3"
+      ],
+      "note": "Candidate brand, model, and product name match the packaging text and listings across Turkish retailers. Stacked secondary products visible in the frame (CVS, Fantom, and Fakir) are separate packaging boxes and not part of this item."
+    },
+    {
+      "folder": "leader-lp121",
+      "brand": "LEADER",
+      "model": "LP121",
+      "name": "PORTABLE WIRELESS SPEAKER",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIJeD-fQmNQW4PUqmGoZHXIlN2Y8kcvQK7JIdSx6xYD76WZ0EAsE_GljywGnXiIoz65fr4-4sgI7yXHcByfYliBG1BSQ7CjUn9NMUGVcS3Utv5UJ8CqA8dKcfKFPpsgpKp4AdCbWF7muuI2gXMSoYtGqEwrPu51-X-tnq4IS_KUZQI97lsxaJk1hNLPJk=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUio8eBGE2ic4VPHiNsUixnfkVe4DIUT7QNOloEcYl9dZDt-BS915LaEl6L7Y9wrBcylNu-_JmRmFtJGU4FbektLOOF6xX2_UYwMr0O1Q8ZRKQJAuZm-wAFfWmatCFvWMrKao2vM3biCPNyNmIFT77J3EL0dw8O6Whvu2GKRyeqtusPTVw8S_vZTK8Zg6KluGsclBrmYe1xn802mf5BPeqJXAo92MEriOBqGlsP0a5TLbyi9xlYEqffmhP0w=="
+      ],
+      "note": "Turkish retail listings commonly list the model as 'Leader LP121 / LP-121 Taşınabilir Toplantı Amfisi / Bluetooth Hoparlör', matching the visual packaging designation 'PORTABLE WIRELESS SPEAKER'."
+    },
+    {
+      "folder": "leader-lt-13",
+      "brand": "LEADER",
+      "model": "LT-13",
+      "name": "13 in 1 Kişisel Tıraş Bakım Seti",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4VIbQScyJo-LTYB2Zx4s6IyJ8RY7TyRC2AJXcu0Fgzm32-ZQ1uAsf_Iu8CFyhGC6uBfvVuWXuSdL6Y1qL6QzBhKqrCRVyEbD3XbZtEQX0J7fO282XxCw22AJmG8VPiWB58w4KcNnfvSh4DpguuRdfvkgAb4pD32kpVydbbw1c-VzQaQ==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdRzN856FSPckyaLcdBHjS1IWg0xNfpAL5_YEPpZbJchC-C2gzw-vrWksD7RNADCDFMULt9idPRi_F7nDDhOgsShqNpNGJVVrWTGg6dxPD74hRtVE7AbDplcWAp6G77_RMRGF6NwHnmQnhNOanKG1T2bsch6fzZRzPRn_nhU7_FBTaODkYj0GI6cvWoWNjl3gDaoAbZ6rKgcd1gPCYysNdAyw="
+      ],
+      "note": "Model standardly listed in retail as Leader LT-13 (LT13) 13'ü 1 Arada Kişisel Tıraş Bakım Seti. Background items and non-integrated accessories from visual audit noted and excluded from product identity."
+    },
+    {
+      "folder": "leader-lt-13-black-chrome",
+      "brand": "LEADER",
+      "model": "LT-13",
+      "name": "13 in 1 Kişisel Tıraş Bakım Seti",
+      "variant": "Black / Chrome",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtrgDVYFOZ3789xfkq0wWA2nu8EdPj_-jtIAsl-E_vJq24ZCIfhaq1Iu-2B72qJPpoL0wTDBIkLVtuVbL8XHIzSP1SZuzldlJj-2FGOi9pfJNBvgoqwQGgUL7cIflKpDHbQN3x8vOs7QiEH0IJilxTeyq0A77DhVIZ0gsbV-cSxRjNWQ==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVUNhEpGxrIwbeNzqrQeb5b0FktNevkMla-FMjw69RnwmYUTQWmXd2s5zfl_f1-UVaq9BK9Lg-tFW4znBwbgpiUMgVZgoir1kxiQt5t_oR-chGZzXlzT-p6XcX2KieCDzYPFP0e930NbDyY87UWx0VGaLBRQ4hR9zWJgNyYkdg3Q==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3_vq9Pznu_jzPgoCckEyPEIM3GoCwhIuOMBOYc0JO1oaCD2Q6_DeXndZF1KO9GQH6LvM9mXYuBghh7pcIBkA3Wanqj0e4xe9k5LGiOlDg9CcGbuQ3c9K54Kd-oRdFr_uwfaEJ-CD5sLiJK708YGVM7MTOlImLULhPQWEx_Prs8wvQ-ErHLRVcGpteIOO7"
+      ],
+      "note": "The model designation LT-13 corresponds directly to Leader's 13-in-1 multi-grooming personal care kit listed across major Turkish retailers."
+    },
+    {
+      "folder": "leader-lt-56",
+      "brand": "LEADER",
+      "model": "LT-56",
+      "name": "Profesyonel Traş Makinesi",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl3fpMzSYB1C22EHBNF_FhF2MswkMXGtaaC67fZyZQ3K84Kk_R2qomeHC2oonri2KsmgxYavzBTqtpK2rbeRz5miQjt6ijaI-10-VOOcO1B0WdODRycLuyxixk3OM=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMhD0v_Mn1OwH5AdHQsGGjQehf6x3GnmFR_fAvYyuHvIGOWuTWw8fJqDNrB81SP-VgZEUY8dZGNT9LY0j-79FPPpTujQ3ncG0eIbXF6fHJt-WRVjPH_55Xn27tiR7pfMItB9MLCQ_hKoY4jCAY8_A5Iiw2sDof9ieLQHdKKo5QSBFN5p5vDGX_7jkrWanymOIFPEk=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv1pW_LOWiq3P2l-xDO2kpli8Ss8cVFGODNp9AMxSZ4pbPInZqnCNG09tNNCbQ9FysXQOIQw9CxgmYeP0eWBAufSP_jo0sZXW1T6QDwIw8k5218jZwoAz3Sh6OkEf8_h3Uv8L0oy432tp8mpKwU-DPDIzPwuS9YwkRKbhc"
+      ],
+      "note": "Product verified matching the visual audit candidate Leader LT-56 Profesyonel Traş Makinesi."
+    },
+    {
+      "folder": "leader-lt-58",
+      "brand": "LEADER",
+      "model": "LT-58",
+      "name": "Profesyonel Traş Makinesi Saç Sakal Düzeltici",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVtCjU-0XskpBMmISD7Mnp9b4xpKAijwSbcxw3iyUCLaFyk-kaAH_TWkqVkJYY4jLTL1e0A3arhC1hgoQQ06arjBwdT3kfJysEwvF2I6agTBw3C0pG84lR18rV2MROyvTUJze_EFwpZM4oZ95up8LPmWY26p6Xb1SvvLStrpg6o64="
+      ]
+    },
+    {
+      "folder": "leader-r205",
+      "brand": "LEADER",
+      "model": "R205",
+      "name": "2.1 Ev Sinema Ses Sistemi",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkWczn1EZfW4eg7EM2ldS-eqIV3ggMuFk88jeaCwDO4CB7jWzvMj0IpKaHWfwsba2uiukIG-O5jL0PML3o5P9-I0mYOfgTLLVyKvkTBW2nv8gtmW4w8cLYYi0IRo-HONzsrbiPQIA67qkR_TF4G8wLxGiGkddu76KNYwE1oZVUvsLKha36X6qWAOLYqkY9ERv2x8krX5nB6-FfBbs="
+      ]
+    },
+    {
+      "folder": "lines-aycan-aile",
+      "brand": "Lines",
+      "model": "Aycan",
+      "name": "Çaydanlık",
+      "variant": "Aile",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAS8B1zphgASBXv9MMqslQlgxyc3pqFzri7j85XP_3Dag5TPHV10OTaierGZCKz-3Xw0mYCkr_SHyl94UsAnXNEf47slmGttHVOCr5C6VmurORvd1DyBk7l9090wWixgrgG-3N2mYK1ZRb7cSBfJw=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT_Fa4EXnaXQZKV57T6AUuwF0EWG997SWi6UqZTulkpse3QfCpah8eOKPUU4EMC7J-5ObaVoGSknyzZ_bsS8c-dHZJTbKCTvg4N2v1qF66ZaCbtWMRV8kQ1OS1Famv1-dth_HJj4R233OggMyXjrlfrr8RZCXZimPcqAtvcy0pJhPjMW87z455Qh6hHUU0BABHKFvLH3em6ZbfspdP1ZkiyYSsjw="
+      ],
+      "note": "The packaging confirms the product identity as Lines Aycan Çaydanlık (Aile boy), resolving the folder name discrepancy. Official manufacturer listings verify that the 'Aile Boy' Aycan teapot has a 1.75 L upper pot and a 3.00 L lower water pot."
+    },
+    {
+      "folder": "lines-silver-8-lt-8-lt",
+      "brand": "Lines",
+      "model": "Silver 8 LT",
+      "name": "Düdüklü Tencere",
+      "variant": "8 LT",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHGurEjSSYHBV7RGpaNJQpn7EDw20zarQ55s0uAfX6bvbDLGEAX0EvRXoLgZI7pLhqy7MIXlN6btUyyGe46FRl3NOIwAkmorVjCANJA3PWjESbxjRzOTwI8pYW-zSRyI6nM1oWZ7YDASipwgJxkn3tCOIGftL_cuqcNVRQcvF8ep_EdWqylBf4",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQx95D1vs3UDB3Q6C_PfSleHiEFIxAl2PSco8y5oioQNgiq7HCVLvqNENhmt-_RkcdH9Tzj0iQ5gc5lKzCdiNijF92byH7pQYHsNreiJfXdICqbTy_TmZ1fLe2G4SczyqJ101kt_h0_r59qRAOkNlTJjJGmUxqi6RxZ5sQua57eUnO9h3duMuQ3dAQZE_9y1RQR7tJ7kQrweworepiNum2KUBxO4dXJDz6L--slqIj8vO1YqqzBlcdGTsR"
+      ],
+      "note": "The product is confirmed as Lines Silver 8 LT Düdüklü Tencere. The packaging text 'SILVER 8 LT' and 'haydi durma LİNES BU KUTUDA' matches the candidate specification. Resolved directory misidentification issue (the folder named 'ines-cam-cay-makinesi' erroneously cut off the 'L' and incorrectly labelled the product type)."
+    },
+    {
+      "folder": "luxell-borekci-buyuk-boy-yuvarlak-tepsili",
+      "brand": "Luxell",
+      "model": "Börekçi",
+      "name": "Elektrikli Fırın / Electrical Oven",
+      "variant": "Büyük Boy Yuvarlak Tepsili",
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "note": "The packaging displays the brand Luxell and product line Börekçi along with 'Büyük Boy Yuvarlak Tepsili' and 'Mix Grill Apparatus', but the specific alphanumeric model code (such as LX-3675, LX-9625, LX-9320, etc.) is not visible on the box. Because Luxell manufactures multiple distinct Börekçi series mini and midi ovens with varying capacities, power ratings, and features, the exact model cannot be confirmed without the specific model number."
+    },
+    {
+      "folder": "maximus-3002-turbo-fan-inox-36-lt",
+      "brand": "MAXIMUS",
+      "model": "3002",
+      "name": "MIDI OVEN",
+      "variant": "TURBO FAN INOX 36 LT",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAe0SIohe_21S8V2mHrtIhuDhrfzE_opNNzkKA40HDw-YBbM4Mhsoo9BGL-mn3EIJTPXbALS54Yo5c2LPaMBNFuJ-nmgQjXrwwudZtYeqv96FDrHgJOdPuYTKjRLda0Q25-KSldCNsvqofPl-4MzuTO9-QHmic8ypcxAHbwlU3"
+      ],
+      "note": "Confirmed exact product as Maximus (by Minisan) 3002 (also referenced by part code MX-20101) Turbo Fan Inox 36 L Midi Fırın. The 3001 and 3002 models share common retail packaging; 3002 specifically corresponds to the turbo fan Inox variant with 36 L capacity."
+    },
+    {
+      "folder": "maximus-kutu-vantilator-black-orange",
+      "brand": "MAXIMUS",
+      "model": null,
+      "name": "Kutu Vantilatör",
+      "variant": "Black / Orange",
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "note": "A MAXIMUS box fan (kutu vantilatör) in a black and orange color variant could not be matched to an exact model number or product listing in Turkish retailer or manufacturer catalogs."
+    },
+    {
+      "folder": "mehtap-orkide-plus",
+      "brand": "Mehtap",
+      "model": "Orkide Plus",
+      "name": "7 Parça Set",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpPs_1UMnVALrHk4Opxk8aOpYuD97MEx7LasZK0tl6beL2mdKcBVvppm4PPPudBzCUirz72og73eH0Wm4OH4iX2mgS54CZ_Dhb_kXyEJvuG6SHAowl30VbWyz6",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEva8SbN575YilMNDVgiAnANHJDX1UUEnB_II7jKJ3b9mgSywECCmQkEDCeNrtuqNMrjprFBL7RwUWCvBuRam0mbjxrx3XUhMVFv6pASsGrXqd-aci9rlBuIQY87CYUweBcicTI2OpsfZM6KA8usLriMvCTJkZKUh6BVXFkwMgK7FxyyA=="
+      ],
+      "note": "Product verified on the official manufacturer catalog (EMEHTAP) and major retail platforms under the exact name Mehtap Orkide Plus 7 Parça Set / Tencere Seti."
+    },
+    {
+      "folder": "mimarsinan-matik-plus-5-litre-kirmizi",
+      "brand": "mimarsinan",
+      "model": "Matik Plus",
+      "name": "Matik Plus Düdüklü Tencere",
+      "variant": "5 Litre / Kırmızı",
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "note": "No online retailer or manufacturer catalog listings could be found matching the 'Matik Plus' pressure cooker under the Mimarsinan brand. Per instructions, when an exact model cannot be confirmed online, verdict is unverified and the visually read candidate identity is retained without fabricated features."
+    },
+    {
       "folder": "minisan-dp-1200q-quartz-isitici",
       "brand": "Minisan",
       "model": "DP 1200Q",
       "name": "Elektrikli Quartz Isıtıcı",
       "identity_confidence": "high",
       "source": "https://isari.store/en/minisan-dp-1200q.html"
+    },
+    {
+      "folder": "oz-life-nova-gold-handles",
+      "brand": "Öz Life",
+      "model": "Nova",
+      "name": "18 Parça Çelik Çeyiz Seti",
+      "variant": "Gold handles",
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "note": "No manufacturer or retail listings could be found confirming an Öz Life 18-piece dowry set under the model name 'Nova'. In Öz Life's catalog, the 'Nova' designation is primarily used for pressure cooker lines (e.g., Nova 4L, 6L, 8L, 10L, 13L, 15L düdüklü tencere), whereas 18-piece stainless steel dowry sets are sold under series names such as Alaz (SKU 4023/4024), Enza, Ceylin, Dolce, and Irmak. Per instructions, because exact model evidence for 'Nova 18 Parça Çelik Çeyiz Seti' cannot be confirmed and cannot be definitively corrected from the visible 'Nov...' text, the verdict is set to unverified and the visually read identity is retained."
+    },
+    {
+      "folder": "ozkent-k-410-siyah",
+      "brand": "Özkent",
+      "model": "K-410",
+      "name": "Gurme Çay Keyfi Elektrikli Çay Makinesi",
+      "variant": "Siyah",
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJWv83zE2aM5W_LYaMjEbdkuvI_0_dJgmDR8n7ov-Ckb48bQL8401RsWn4KcP0zqFAwWPyPSJM3jNhj-qOoAcVKGk4g3ovGRmwCk0VLcJQJXQHwS5017WM3th13KfILI0mHQSJFz7bC98k"
+      ],
+      "note": "The package displays the series name 'Gurme Çay Keyfi' on the front panel without a model code. Official manufacturer product documentation identifies the numerical model code for the Gurme Çay Keyfi electric tea maker as K-410."
+    },
+    {
+      "folder": "ozkent-lotus-8-pcs-set-stainless-steel",
+      "brand": "Özkent",
+      "model": "Lotus",
+      "name": "Lotus 4'lü Tencere Seti",
+      "variant": "8 pcs Set / Stainless Steel",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://www.ozkent.com.tr/urun/lotus-4-lu-guvec-tencere-seti-gumus"
+      ],
+      "note": "Üretici ürün kodu K-404 olarak da listelenmektedir."
+    },
+    {
+      "folder": "ozlife-vigo",
+      "brand": "Özlife",
+      "model": "VIGO",
+      "name": "3 Parça Granit Çaydanlık Seti",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://www.e-celik.net/UserFiles/Fotograflar/org/5393-ozlife-cayd-aile-boy-vigo-granit-siyah-cgv-1030-1.jpg"
+      ],
+      "note": "Ürün pazarda 'Özlife Vigo Granit Çaydanlık Takımı / Seti' olarak listelenmektedir."
+    },
+    {
+      "folder": "philips-2000",
+      "brand": "Philips",
+      "model": "2000",
+      "name": "Epilatör 2000",
+      "variant": null,
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNH1dLall2kbmCfrojcPUg_ggHVQVbO6kmKrJ_LquDd5OqDjBtutB8-ulCEi-fSph_PClEQPektud12fq14qNeB8YRTx4pUiXHgI6JBUeBkUdeOg8xjEQ8RJ5coSj8gnv0wXtHTRHj8jzqguUs634FoCfrKaILINgV2tzasfho-Aq75N_-GQ=="
+      ],
+      "note": "Ambalaj üzerinde yalnızca seri adı '2000' okunabilmekte olup, Philips Epilator Series 2000 altında birden fazla model (ör. BRE228/05, BRE237/05) bulunduğu için spesifik model kodu doğrulanamamıştır."
+    },
+    {
+      "folder": "philips-3300-series-lattego",
+      "brand": "PHILIPS",
+      "model": "3300 series",
+      "name": "Fully automatic espresso machine with LatteGo",
+      "variant": "LatteGo",
+      "identity_confidence": "medium",
+      "verification": "unverified",
+      "sources": [
+        "https://www.philips.com.tr/c-p/EP3347_90/3300-serisi-tam-otomatik-espresso-makinesi"
+      ],
+      "note": "The packaging confirms a Philips 3300 Series LatteGo fully automatic espresso machine offering 6 drink selections. Multiple sub-model variants share this packaging identification (such as EP3347/90, EP3341/50, and EP3343/50); since the specific alphanumeric product code is not discernable from the packaging text, the exact sub-model remains unverified."
+    },
+    {
+      "folder": "philips-5000-series",
+      "brand": "Philips",
+      "model": "5000 Series",
+      "name": "Buharlı Ütü",
+      "variant": null,
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "note": "Ambalaj üzerindeki spesifik model kodu (DST serisi varyant numarası) okunamadığı ve rafta birden fazla ürün bulunduğu için tam model doğrulanamamıştır."
+    },
+    {
+      "folder": "philips-azur",
+      "brand": "Philips",
+      "model": "Azur",
+      "name": "Steam Iron",
+      "variant": null,
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "note": "The shelf photo displays multiple iron products without a clear single subject. Motion blur and low resolution make the specific alphanumeric model number illegible, preventing exact model confirmation."
+    },
+    {
+      "folder": "philips-azur-7000-series",
+      "brand": "Philips",
+      "model": "Azur 7000 Series",
+      "name": "Steam iron",
+      "variant": null,
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "note": "The source photograph depicts warehouse shelf storage with multiple products and no clearly isolated subject. Only the series designation 'Philips Azur Steam Iron 7000 Series' is visible on the packaging; specific model numbers (such as DST7022) cannot be legibly verified. Because the exact sub-model cannot be confirmed, the product identity remains unverified with candidate values unchanged."
+    },
+    {
+      "folder": "philips-azur-7500-series-3200-w-dst7510",
+      "brand": "Philips",
+      "model": "Azur 7500 Series",
+      "name": "Azur 7500 Series",
+      "variant": "3200 W / DST7510",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCXgYj4qoqTtWfBdoicmFNdxAszfhcUetEub9XcyZtQWuDxd9ER_lTwtyu6WVYWt2mt9qlHzBGl-TRyDrAuKu2zXb5HeixdtOtoFJygklutJq6Jn881jrC9hIFBQMjLgu5sOrQMsg2Kwkv_DT9mfdyTqR-FQ14fNg="
+      ],
+      "note": "Ürünün üretici nezdindeki tam model kodu DST7510/80 olarak geçmektedir."
+    },
+    {
+      "folder": "philips-azur-8000-series",
+      "brand": "Philips",
+      "model": "Azur 8000 Series",
+      "name": "Steam Iron 8000 Series",
+      "variant": null,
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "note": "The specific alphanumeric model number (such as DST8050/20, DST8040/30, or DST8021/30) cannot be read from the packaging. While the product is clearly identified as a Philips Azur 8000 Series steam iron, the exact model code cannot be confirmed without legible sub-model markings."
+    },
+    {
+      "folder": "philips-dst7022-40-siyah-kirmizi",
+      "brand": "Philips",
+      "model": "DST7022/40",
+      "name": "7000 Serisi HV Buharlı Ütü",
+      "variant": "Siyah/Kırmızı",
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHDgto0xbuT_jdfRTbxrYcoilJknhWJwAQdtdgdiSnuWN9o-to9ydm9_n9fKLERUMv9tBQbwHzRERk7izXfEJDyt9BznmsqbKLl2qCDmhjfR937077nCagKzOcwYh1jCvGcUXyCRiLIiOkQhUZtisUjDVnAi5N46b3HJd-W-OGHRba"
+      ],
+      "note": "Kırmızı/siyah renk kombinasyonu ve 250 g şok buhar özelliğine sahip Philips Azur 7000 serisi modelinin resmi model kodu DST7022/40 olarak teyit edilmiştir."
+    },
+    {
+      "folder": "philips-dst7510-80-mavi-altin",
+      "brand": "Philips",
+      "model": "DST7510/80",
+      "name": "Azur 7500 Serisi Buharlı Ütü",
+      "variant": "Mavi / Altın",
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7__yMkGkUhb1ELJ4JJyAOCXMuhIZ28r47aRB_9ZbYMVROXLJB6EPX1L7q_md9jcZ_n-WtjzsfvxgBBnhWRAZuK1oC0oEAPM6IGsa35lJ-5ZdP4o0GGbN1p2Id9MzOZnsy11GtUo6bM4ep9RGA9yTYXWK8-zDymmE="
+      ],
+      "note": "Raf etiketinde DST 7510 olarak belirtilen modelin tam üretici ve pazar kodu Philips DST7510/80 olarak doğrulanmıştır."
+    },
+    {
+      "folder": "philips-hd6301-90-2200w",
+      "brand": "Philips",
+      "model": "HD6301/90",
+      "name": "5000 Series Contact Grill",
+      "variant": "2200W",
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYwU_05ogTAdK5RpIGFFs4R2w1frHHGkpBoxym48Ob8ZCzpNePzMZxyq2a9yhqBnfmDPUqpzRT01maihXWu7OYG1zMBKUN2uo6cfsRLBB-xss4GWHY3VKGasGiMVjxXZ6NQ3CA7OXDyWukLpdzKUrVdDg3-xA="
+      ],
+      "note": "Model corrected from the generic series name '5000 Series' to the exact manufacturer model number HD6301/90."
+    },
+    {
+      "folder": "philips-hd7301-00",
+      "brand": "PHILIPS",
+      "model": "HD7301/00",
+      "name": "Tea Maker",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://www.philips.com.tr/c-p/HD7301_00/daily-collection-cay-makinesi"
+      ],
+      "note": "Packaging marked 'PHILIPS Tea Maker 3000 Series' corresponds to model HD7301/00, historically also known under the Daily Collection series. The model designation was corrected from '3000 Series' to the exact alphanumeric model number HD7301/00 based on manufacturer catalog records."
+    },
+    {
+      "folder": "pirantech-bhrl-10",
+      "brand": "PiranTech",
+      "model": "BHRL-10",
+      "name": "IPL Lazer Epilasyon Cihazı",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTNck08HV5Cb3CK5M7S163Od6I_CGv9VUWq8Fw4ixg6pOVxdPam94XNCxptvso_fDacNwGR96Sfi4o1O6H8s7_HExmexxAQUq4PnOOs3DFpzczlK0gYas65pH-1xqLrbZ8-6oaQrFQ1mTl9WtmOtT_spPDQzPNkcjzZzcfi-PbKCU_i3z-_YvYYMyaLzp2YmTVE8IyXXlr3LMgrJ-3MKflkarVeJaT1k7y",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvvWQyi_hRpmkEFQWQxbYeNPbGrZOeJaj5I7dNWfTCQI-TYRmCDv6oFKm4E4VptZEYOjtK-je2ua3kcPJd-Ldr35H6UXzlJIMmRjEvpUsfmho2VomZiNN_OqF3jy92FFpfXnlWSBn61iCWGve25RG2_Yyx6d-hHRA0PEoZJk5Vk8kXeMcrNZwpjafdZQskUES9bWyUtKuLaT3KmuVQLIut9N5Ed_t4eDNhpuroCy9nZySEAkdPztlMosOhiZ6C"
+      ],
+      "note": "The model BHRL-10 is produced and marketed in both white and gold/bronze color options under the same base model number."
+    },
+    {
+      "folder": "pirantech-bhrl-15",
+      "brand": "PiranTech",
+      "model": "BHRL-15",
+      "name": "IPL Lazer Epilasyon Cihazı",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8n9tyAyg74EJfAuBPqrT_WtBvtPAXGKMzUovQ_cAALbnsCXWzhzdS-NHpBenWy5xG-DUSL81JHu-pBbHSZaIRjvVYtS0lRiWprvJGTnqaIW8b4DeobzEwhQ5tcQKX-v0wIk_WwylG99H63CwEvDUckHHdWWZ3ZaqADzWwB1J_xlzwhZ2bbyv1_jR2Nf2o2eZ1PI4ju3Tvpr1BigQ7Bv-u5Xmwlr0bkziH4CZBX6REoEk=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyOxeP2VCd70574FgENnXgVCo7gPa3w9910KlMiYddXAASYmnStvCiAoJJlwGqGuKeytCkBp7tBJqUX1HmMJ1KCqC78TqIwPaEUOAw94Hv8gAZ6YCdTljCqsXr_Z2rElhiRnraV2EccAJ13r_njyJ9sYTuTI6MLHQo63zYJcM0NdkuhO9fccDzjfE87VIqTN4mTabhyTGW8zPjo2ARzhh6heqmWX9i0Zu8X_H35vfXx9Y1"
+      ],
+      "note": "The packaging label 'BHRL-15' was confirmed as the correct model number across official listings and major Turkish retail platforms."
+    },
+    {
+      "folder": "pirantech-cb-103a",
+      "brand": "Pirantech",
+      "model": "CB-103A",
+      "name": "Buharlı Temizlik Makinesi",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdMbrtyW3eSSd4hQiK1CHQEFD0-H6Qb3bdyEmi-svk0JxcNwEbmEop4RVJMvRuhoCLw9WJhe487yJaYH-_IQJUdNs8x3yAh-eD0laLxTxiFfB1Pojf5OLcvOCeBqYz7QKtcO7mYqn5m0vC7u-Uh0MpxHjaIU1u",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0jau5T5CI0pPjRX9K-0qQ987d3Vo2hvfsr0UrEaSKV1TS4XD2e4agX5zRXwaAvWXQDNyHbqXCQS1VF4AaqpvPmJyTwj5V8yA0lQczKF27ZSEPTAF-pjmm_ACq8Ah7j07XMAE_AGdiRENUNBZr-5WYjc0BVU6SrL5gFVrVAOz24ihUOc1nM37SAa4FHIOBgerkZS60VT6suGfTBG3ImqJ9r7S4o36L1RY="
+      ],
+      "note": "Ürün marka, model adı ve teknik özellikleri (2000W, 4 bar, 1.0L su kapasitesi) resmi üretici web sitesi ve yetkili satış kanalları üzerinden doğrulanmıştır."
+    },
+    {
+      "folder": "pirantech-cb-107c",
+      "brand": "Pirantech",
+      "model": "CB-107C",
+      "name": "Çok Fonksiyonlu Buharlı Temizlik Makinesi",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://www.mediamarkt.com.tr/tr/product/_pirantech-cb-107c-%C3%A7ok-fonksiyonlu-buharl%C4%B1-temizlik-makinesi-beyaz-1238380.html",
+        "https://www.dr.com.tr/elektronik/ev-aletleri/pirantech-cb-107c-2000-w-beyaz-buharli-temizleyici/urunno=0002221659001"
+      ],
+      "note": "The candidate model 'CB-1070' has been corrected to 'CB-107C'. The partially cut-off character following 'CB-107' represents the letter 'C' rather than the digit '0'."
     },
     {
       "folder": "pirantech-cb702-buharli-mop",
@@ -79,6 +1833,260 @@
       "source": "https://pirantech.com.tr/es-98-kablosuz-dikey-supurge-11-kpa-guclu-emis-hepa-filtreli-sarjli-supurge"
     },
     {
+      "folder": "pirantech-ks-103",
+      "brand": "PiranTech",
+      "model": "KS-103",
+      "name": "Airbreeze",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd8UZ2RJZLz64wZgu-rJOWJKsCP5mhJUn5f70dOi1XZJxZzFbLmhrB1NOmxmB1fmu8sPNMPP9bMlicvTD1kybvhHRhlN2jKRKzde7TX-I3u6VBFXS3Oxq9XMTiKnFznCu5S6xyas2LpxITUMQcQB3O3UFsiZiYjQicB76Q223DW7Liy2WvmeDIujqHBjUUNX1o"
+      ]
+    },
+    {
+      "folder": "pirantech-ks-92",
+      "brand": "PiranTech",
+      "model": "KS-92",
+      "name": "PiranTech KS-92 Profesyonel Saç Kurutma Makinesi ve Şekillendirici",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://www.cakapazarlama.com/pirantech-ks-92-iyonlu-profesyonel-sac-kurutma-makinesi-ve-sekillendirici",
+        "https://www.trendyol.com/pirantech/ks-92-profesyonel-sac-kurutma-makinesi-ve-sekillendirici-negatif-iyon-teknolojisi-p-994646194"
+      ],
+      "note": "The barcode 0 757279 262553 corresponds directly to the PiranTech KS-92 hair styler and dryer set. The package attachment list (Hızlı Kurutma, Hacimlendirici, Fön, Düzleştirme, Bukle) corresponds to the 5-in-1 accessory setup of model KS-92."
+    },
+    {
+      "folder": "pirantech-kt-503-800-w-3-l",
+      "brand": "PiranTech",
+      "model": "KT-503",
+      "name": "Koltuk ve Halı Yıkama Makinesi",
+      "variant": "800 W 3 L",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw1dU7e1snKHD-Y7ZGJuPZrgvGyVQg4itf16bDgUE7crVV7iTzbZ9OlYtzsJUmJqVBmzvopVqmaQZ6wmK47mOyNo9U-oAr-Y4ZmWnEgk-Z1p3lAqseqlcKBOiG6qdV4jC2xXT55A77N6l9H1I-HEuYUlwjSUNmr3uJ"
+      ]
+    },
+    {
+      "folder": "pirantech-yh-1420",
+      "brand": "PiranTech",
+      "model": "YH-1420",
+      "name": "Mutfak Robotu",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNCCyxFVVZEYfLxrmc3QTUKlcdCIPmqXO01Xuhe5s_Qq6bSkYGURwTqLTJAQnphN-e_kO3OiWpdclACrs_t0VaNpi76_wxX3EL5aT0ebJZBf5NoGdLbmJ3EXVVPZlXs98RfowE-zH4TBopyF_uQWSAFd74Sm9E68C73sNje1cCaOkyUyW-B7rQyouwYUnNH7quPOgZDx_R2KenRR0TL-azNSRaCUnZnsK_"
+      ]
+    },
+    {
+      "folder": "powertec-ipl-buz-lazer-epilasyon",
+      "brand": "POWERTEC",
+      "model": null,
+      "name": "IPL Buz Lazer Epilasyon",
+      "variant": null,
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4XtUwnR0murPOArS_pqNlQn_xg-CSy2wun14kkRuSK49c8vysGTEwOpb9BO-8l7J-d4OCUoLKGS-OZyiO1kDHvDm3-2NQ45Q_rQzwV64W2ixrQZmRa06ElZWFDBotPvNGQy1cjsynr4XI0-Wr"
+      ],
+      "note": "The readable text on the packaging indicates a Powertec IPL laser epilator, but the exact model code is obscured by motion blur. Powertec offers multiple IPL epilator models in this category (including TR-999 and TR-9999), preventing definitive confirmation of the exact model."
+    },
+    {
+      "folder": "powertec-tr-3500",
+      "brand": "POWERTEC",
+      "model": "TR-3500",
+      "name": "POWERTEC TR-3500",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqibivavYz2hBAuQqfrHlZLO98rlFfcneeW_iFaN80jPeJtPNwy-U1KtB90GPabvk62eqATzMLy2tw9R1rN4lxzzPeDzaxDvxIs7-brci1flpZBW823AOXBBwDwQAvUzf72PYIWfmMeTatwEUsHbH9prRnUlrwEexp276dAm0XByB_"
+      ]
+    },
+    {
+      "folder": "powertec-tr-999",
+      "brand": "POWERTEC",
+      "model": "TR-999",
+      "name": "IPL BUZ LAZER EPİLASYON",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLaKhCpE7M47Uax5V8hDdqWX_o6bVev2XXNRfo78kQ2Xac66EQax3EwfyetqBz9yZcJNDuRn5V2D7WBgG70bwlfUMcBtTcX_bIpFSs_RuoR4_d6ELZp8dn4Glpu319BFlehyxmbMJz8ImVQw9gotjw-u2-SM4XyWnPINkcQF7e6yI0bhzyG_EcnfLunPUMXMjqMhDnog=="
+      ],
+      "note": "The product model Powertec TR-999 IPL is confirmed directly on the official Powertec shop website."
+    },
+    {
+      "folder": "raks-pera-plus",
+      "brand": "RAKS",
+      "model": "PERA PLUS",
+      "name": "EL BLENDERI",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoFB0LFDaVHSiMNmAHjsmHDIe_tUy4JhIuhEOGFaiCX4jzrxmrSP7Ms5z-LQ6eqgkASEKeOjtWT_Od__8z9VXDxswlAB3t386RlJQJZyrTE2NH5XtqsZ2BE-5zcyzA6HrgKsZZ"
+      ]
+    },
+    {
+      "folder": "range-multi-blend-1700w",
+      "brand": "RANGE",
+      "model": "MULTI BLEND",
+      "name": "Blender Seti",
+      "variant": "1700W",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWOSVOAEcpod-tgnO6gW6NItFy8fSImnw-K1btCuwCvYBQxR9HL4xLBmfzMgw0c8p3GC8fdC9noezA7yO0R8Yx2CRN37pRpbW6mxyjdJfI_r1NSdJJShtAyZ9Q9yMrM3f2hWE0LYXI5NFp",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq-Gl5FDqSu7dmqepBY8-l1dxMagr2PW9x1PCh0IPr49gkKVxbEPmFaz5zjSWRsPrC5iipUWpgYCvomWI34Y4_K9ZyW8klfJA7O6NhAxUo5BQ7qJc2oQVYrMe0TPwfYSerdcazKXuv-m5GMdA3319o4EcXZzBJYaZrgbu7j22D"
+      ],
+      "note": "Product verified on the manufacturer website and major Turkish retail listings."
+    },
+    {
+      "folder": "remington-grooming-kit-trimmer-set",
+      "brand": "REMINGTON",
+      "model": null,
+      "name": "Grooming Kit / Trimmer Set",
+      "variant": null,
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "note": "Specific model number is not visible on this packaging side panel. Multiple Remington grooming kits (including PG180, PG6030, PG6060, and PG6130) feature the identical set of attachment heads ('Wide Trimmer', 'Detail Trimmer', 'Nose & Ear Trimmer', 'Mini Foil Shaver'), making unique model confirmation impossible without the model code or front panel."
+    },
+    {
+      "folder": "remington-pg6130-titanium-coated-blades",
+      "brand": "REMINGTON",
+      "model": "PG6130",
+      "name": "Groomkit",
+      "variant": "Titanium Coated Blades",
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://www.vatanbilgisayar.com/remington-pg6130-11-i-bir-arada-erkek-bakim-kiti.html",
+        "https://www.teknosa.com/remington-pg6130-11i-1-arada-erkek-bakim-kiti-p-120240840"
+      ],
+      "note": "Kutu üzerindeki 'Groomkit', 'Titanium Coated Blades', '4 washable heads' ve 'UPTO 40 MINUTES' ibareleri Remington PG6130 modeline aittir."
+    },
+    {
+      "folder": "remington-s8540",
+      "brand": "Remington",
+      "model": "S8540",
+      "name": "Keratin Protect Straightener",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://www.mediamarkt.com.tr/tr/product/_rem%C4%B1ngton-s8540-sac-duzlestirici-bej-1180295.html",
+        "https://www.teknosa.com/remington-s8540-keratin-protect-seramik-sac-duzlestirici-p-787870261"
+      ],
+      "note": "Kutudaki 'Advanced Ceramic coating infused with Keratin and Almond Oil', 'Fast 15 second heat up' ve '9 temperature settings up to 230°C' teknik özellikleri üzerinden ürünün Remington Keratin Protect serisine ait S8540 modeli olduğu doğrulanmıştır."
+    },
+    {
+      "folder": "remington-s9100",
+      "brand": "Remington",
+      "model": "S9100",
+      "name": "PROluxe Saç Düzleştirici",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://uk.remington-europe.com/products/s9100-proluxe-hair-straightener",
+        "https://www.teknosa.com/remington-s9100-proluxe-seramik-bej-sac-duzlestirici-p-787870332"
+      ],
+      "note": "Kutudaki PROLUXE, OPTIheat ve ONE PASS ibareleri ürünün tam model kodu olan S9100 ile eşleştiğini doğrulamaktadır."
+    },
+    {
+      "folder": "remington-wet-2-straight",
+      "brand": "REMINGTON",
+      "model": "Wet 2 Straight",
+      "name": "Straightener for use on wet or dry hair",
+      "variant": null,
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "note": "The specific alphanumeric model number (such as S7300 or S7350) is not visible on the front packaging. Remington produces multiple different hair straighteners under the Wet 2 Straight line (e.g., S7300 slim plate and S7350 wide plate). Because the exact alphanumeric model code cannot be definitively confirmed without substitution, the candidate identity is kept unchanged as unverified."
+    },
+    {
+      "folder": "samdan-mini-firin",
+      "brand": "Şamdan",
+      "model": null,
+      "name": "Mini Fırın",
+      "variant": null,
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "note": "The packaging displays general branding and marketing text ('Şamdan', 'Mini Fırın', 'PREMIUM QUALITY OVEN', 'TURBO FAN', 'İÇ AYDINLATMA') without revealing the specific model number. Şamdan produces several mini oven models featuring turbo fan and internal lighting (such as the 2003 and 2005 series in various capacities), making it impossible to confirm the exact model without the specific model label."
+    },
+    {
+      "folder": "samsung-vc07t357mhb-blue",
+      "brand": "Samsung",
+      "model": "VC07T357MHB",
+      "name": "VC3500TM CycloneForce Toz Torbasız Elektrikli Süpürge",
+      "variant": "Blue",
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoavQDyCS9GtLb4PTQfttIJrSr4eT-WsmZsa_jfanco-dEMVogxXqLj8qBYi0trZxP4gS-D7SUyBsX38s6LTTwTHK8uXz8KNwvQYliiXiOErvuhBxyyxHAx-eCinq6v01cI2fr7qedd_494AKCAdJKnkTml1bwEzFt7FrOggQlK2fn0KkNHDUuFIiJIPZ4AvFRbKI=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzQBaHsaVGv5P1WwBQggtiDK-n7xkKUHaEReUvZz46woFm_-q1_4npg3JScPjV8r31bAsWEOCpqvRd_0SdcGFgCAxsexlUPfuGKQNsEy60kiXNKEqjiNiXGEE59lJwkZXBhsEr6TxDIfHl93DQ8qt3-A7JqTYll_AKpXB84f-gZi4uDYuEdoNUnGPnWbiyUyPB_1h7X5nrUJzRSICFBE44uvI=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdMbblRd4Vf4DATLCz3WBOh5VRfc-6WAPgjnNiBpDVGjevqkxUpwx3oRuuS1fDn9mXuN0UfwgEDMFtJh4l8mE7wkmKzczonHaONtkrOIGftMEjlWgqIfjqAh2VLdY0mvZcItnGwPnpHuXUloyus41DmEYrL4eiPeHMyWLnV87mybn101aY3amFyc5Asy26FmnB1WNz1rBvZ_AbnpBD1z7rWoHv7R5adGvU3RSaUTiNqnXHJAv065dy-lpNXhI="
+      ],
+      "note": "The partial model code 'VC07T35...' visible on the label corresponds to the Samsung VC3500TM series. For the Blue color variant in Turkey, the full model code is VC07T357MHB (also listed as VC07T357MHB/TR), whereas VC07T357MHR denotes the Red version."
+    },
+    {
+      "folder": "sarex-sr-7000-easy-fit-1500-w",
+      "brand": "Sarex",
+      "model": "SR-7000 Easy Fit",
+      "name": "SR-7000 Easy Fit Sıcak Hava Fritözü",
+      "variant": "1500 W",
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_5w6KcOx0Jw0CDQ153Oqzvb7yKneh8Ifh1OFnbTH13Pi_2xfx2YjMErxWHZbzQvG84nIqoYt4caEx4uu4gz_O0r5ys_uehYS1_AI81M_2sUND_GSB0EDavDLNAhg2x88NyRSyImd3g1VZwnDHdnOSEAAGkdRS"
+      ],
+      "note": "The product model code is officially designated as SR-7000 Easy Fit by Sarex."
+    },
+    {
+      "folder": "schafer-fitfry",
+      "brand": "SCHAFER",
+      "model": "FitFry",
+      "name": "FitFry Sıcak Hava Fritözü",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIJXTwnICXfk1IFASJ9k6RnI42DOcwMohMh9Vwoi_FzBJ7i1LyUam2qqRZS0nWJEx_m9RSyH-GYC6Eihza76c08hCC5MkYPusmH8I02Z97hmoexTxhKKPh3WYCfsSECMNahhAcgpNlKyKRHKXu05WbFXGinM6dVEcorSJM0jpr"
+      ],
+      "note": "Ürün pazarda Schafer Fit Fry veya FitFry Sıcak Hava Fritözü adıyla satılmaktadır."
+    },
+    {
+      "folder": "schafer-vals-inox",
+      "brand": "SCHAFER",
+      "model": "Vals",
+      "name": "Vals 7 Parça Çelik Tencere Seti",
+      "variant": "Inox",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl0GADZH8VzRIp2yxcQ3Lzs7L3-bmA5VYknSK6Pcvw0peFjo2Its4WzOUTJ1ArmCejh4RtTGJI-u6scVVURLo7ycM9FhDDfb-Zhazsx1kvApvTWJW3MOO3Bwsa88Xg_fYx5JdWylBd6ic8BWNpAfCD2cUnRSDfFcsLcVNmAkmF7o7X",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqRWiFWZTgeDTUg-UKffCdvUBAoOVjJbDJhbu0iq-Uzzns0ufNApTKJ9EmB2R7CBnL7PI9PU06gffjGpQ8S67eY78so-PZlGmZeEnDHwrHmJcUgLbYT-rUc9oh6jeLJg1-y3WMesMCowCfWfZ68eqNjUL-DXbOHs67Vnsk",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEmic3EuPtrC0muTo927OSdI4dSGuL18iIJaUybInqrlQMyXgPNDb0NwBQyQwx5mTjgNTZ_m0B9O1hIZsGEGG-t4TZh5tVyY6SINQ953TK1kBToU1mDCFTKmMDrCQFG_GT9U1CxYWC7-EpM418xT74ChJHwgWt6JcDG5ROrigeE7KUUlQVUQ=="
+      ]
+    },
+    {
+      "folder": "silver-crest-suzuka-scu-15-10000w",
+      "brand": "SILVER CREST SUZUKA",
+      "model": "SCU-15",
+      "name": "2 in 1 BLENDER",
+      "variant": "10000W",
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdSB6mJ5rgtMXct05WKqND1ni8JhM_db4Ia8ossnUcxbbqC38go_pFLzrKOTm5X3vA4vVWVTmIOciqQyAbBofzBQMjk7EGM2IKahARzKOSi2X4OywmQSRq3mtMPX1R-Pf92zhm4NkQBhSX3yC8OKqqIZQWrnnrST5elRbGoVEvuQ8W2vdJKAjEv6AjEZ06M0jvk03D1hATMXOJgZuG1AGdkBuYMTNKLNMc8C9iZpaXnsgWBhzFKXvU15_90T61G3W0zQ=="
+      ],
+      "note": "No official manufacturer listing or reputable Turkish retail documentation was found for SILVER CREST SUZUKA SCU-15 (10000W). Comparison site records (such as Cimri) list a Silvercrest SCU-15 model with no active retail sellers and no verification of the SUZUKA branding or 10000W power rating. In accordance with instructions, because the exact model cannot be confirmed, the verdict is set to unverified and the visually read candidate identity is kept unchanged."
+    },
+    {
       "folder": "simfer-4552-45l-mekanik-midi-firin",
       "brand": "Simfer",
       "model": "4552",
@@ -95,19 +2103,125 @@
       "source": "https://www.indea.com.tr/simfer-m4558-cift-cam-midi-firin-45-l-turbo-beyaz-dijital-gomulebilir-lamba-8181"
     },
     {
+      "folder": "simfer-sk-6704-siyah",
+      "brand": "Simfer",
+      "model": "SK-6704",
+      "name": "Air Fry Smart 8L",
+      "variant": "Siyah",
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zLEZJcR25bUQuOCwI5AqGRvCT-H59GgoiY3G_JzB_Rut2E4NcDcuNB0-b1zKE_URf6c7pHyJYhLY4oBPZnn4nuhK-WhPeca2v55tIDlmFxRUh0HxUc8JIMxn94kU1zE_2xjXc9XHvfoZeg5XwjXASlfiEb95wYyM"
+      ],
+      "note": "Model code SK-6704 confirmed via official Simfer product catalogue for the 8-litre Air Fry Smart model. The truncated text 'TO -401' visible on the edge belongs to an adjacent item or unrelated packaging text."
+    },
+    {
+      "folder": "sinbo-shc-4375",
+      "brand": "Sinbo",
+      "model": "SHC 4375",
+      "name": "Saç Kesme Makinesi / Hair Trimmer",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://www.ciceksepeti.com/sinbo-shc-4375-tiras-makinesi-sac-sakal-kesme-duzeltme-makinesi-vucut-tiras-evrensel-duzeltici-kcm47335553",
+        "https://www.ciceksepeti.com/sinbo-vucut-tras-makinesi-shc-4375-kcm9056131",
+        "https://www.akakce.com/tiras-makinesi/en-ucuz-sinbo-shc-4375-vucut-fiyati,48560061.html"
+      ]
+    },
+    {
+      "folder": "sinbo-ssc-6423",
+      "brand": "Sinbo",
+      "model": "SSC-6423",
+      "name": "Çok Fonksiyonlu Buharlı Temizlik Makinesi",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGULKq-LLmSLyWzk4DZNuY_qd-YuiN8Ye6PwOpL59Ppn23jSrt7TWheTK8mGAi2yvYCcvTcCe9N4nteStkHUCzeCpJJ6Ld-O5BXTSxxklsHWKaB1X2pDz8J3kor-KNsltZJo3oOgfQ8uDwi7xfQet_G3XXulKw2ifncE3hvA5tQ848ExIQ6iigsnWRJ2qpkKIv9tcvG9oU-6UHTzYL0qIySXlczTD5KYthe48PeS7Q60-yTfc666Se_pur3gTCttQ==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg65AtMMffW10ndZACxpSpdadQ9fmOdy8SdhRVLh1q4J-zamalp6UqzE2yYUdRyKNPr0D2TDqbFrsC3iOyMCRZp6QOAY5o8jpkv3A0AyZiNUEa_PD8enCDv7hHgOh2i2AQ3Z4lbhISib05duR_eOXx6xuF_D7K5SbMxF-4Z8WRRsXWt5l9M4VIg_BNqgl-LKaNJIw="
+      ],
+      "note": "The product packaging displays the English title 'Steam Cleaner' along with key specs '1200 ml Capacity' and '4.5 Bar Steam Power'. In the Turkish market, the product is primarily marketed as 'Sinbo SSC-6423 Çok Fonksiyonlu Buharlı Temizlik Makinesi' or 'Sinbo SSC-6423 Buharlı Temizleyici'."
+    },
+    {
+      "folder": "sinbo-turbo-blender",
+      "brand": "sinbo",
+      "model": null,
+      "name": "Turbo Blender",
+      "variant": null,
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "sources": [
+        "https://www.sinbo.com.tr/urunler/blenderlar"
+      ],
+      "note": "The model number is illegible on the packaging due to image blur. Sinbo offers several distinct models marketed as 'Turbo Blender' (including SHB-3062, SHB-3056, SHB-3113, and SHB-7516). Without confirmation of the exact model identifier, the product cannot be definitively verified."
+    },
+    {
+      "folder": "starger-water-dispenser-hot-normal-cold",
+      "brand": "starger",
+      "model": null,
+      "name": "WATER DISPENSER",
+      "variant": "HOT & NORMAL & COLD",
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "note": "No manufacturer records, official listings, or reputable retail entries could be found for a 'starger' water dispenser. Without a verifiable model number or matching catalog entry, the product cannot be confirmed."
+    },
+    {
+      "folder": "stilevs-tropix-pro",
+      "brand": "Stilevs",
+      "model": "Tropix Pro",
+      "name": "Kişisel Blender",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe4XWmZQx2vhrfx5_YFUoO6BxDz8fU5hFa_zU-Q-ir25Bb4msxE4zLloLnLkx_emCxMQPxoGutO_HPlQGupmO2MmJ0ZpRzMbeweDmwjf-kP3E56RxsFYgef1VcejwchZRqDfb26d0Ya-WdcX1aFixsPoGBKdtZ82TErZ7MlByyhO35",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi09Vi3HiJ8QWektN06RpH46bbuMlPzAccBCH9VbEyDwGuE_QO2TSCAmFKvGnxnUz2kq6Ki2plowM6ZIhwPN3xgj5l25ZN8a12mnROLQwka8WAIj4pRnyQOT7MJTpJmF3dRBqoTcX6Ae839KXGKema_eYojjXtDkbd7LUalUlu08bK"
+      ],
+      "note": "Candidate model 'TROPIK PRO' was corrected to the official product name 'Tropix Pro'."
+    },
+    {
+      "folder": "sunday-climator-100",
+      "brand": "Sunday",
+      "model": "Climator 100",
+      "name": "Hava Soğutucu Air Cooler",
+      "variant": null,
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "note": "The image set contains multiple distinct primary products, including Sunday Climator 145 and a separate air cooler unit. The model designation badge on the unit in image 00000422 is blurry and partially illegible. Due to conflicting products and illegible model markings in the source images, the exact model identity cannot be confirmed."
+    },
+    {
+      "folder": "sunday-climator-145-10-litre-130w",
+      "brand": "Sunday",
+      "model": "Climator 145",
+      "name": "Hava Soğutucu Air Cooler",
+      "variant": "10 Litre / 130W",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN9qfpjKbj45tdUisiNcxtK18htwZhf05OiYCdS5gC7TaywKWrEDL4w5xb-FftlCziAUgVTX9WfvF0fJTvTTdtFq8_2pXrimJpwSi1MzpKwl-SclqxZS9QFZw2ojvKjG_dRNqPuJXOXF2Z6ehB2fKkEinMw7X-yAak7gLkOLJ1YF-aVFUUwCRTLbmK9iGX3UWxUDKEq9JvaFVhmg=="
+      ],
+      "note": "The product is widely listed by Turkish retailers under both 'Sunday Climator 145' and 'Sunday Climatör 145 Hava Soğutucu'."
+    },
+    {
+      "folder": "sunday-sicak-soguk-su-sebili",
+      "brand": "Sunday",
+      "model": null,
+      "name": "Sıcak & Soğuk Su Sebili",
+      "variant": null,
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEuYoNjTWxvJOn8uQ3Tjtiw1-JCAfPo960V1V7s5-2_pj5iEmWP870X1gy5ucWHM5P6_ALz7Yz7RKKLjDiOQp-HXah1_jVwVhVb_cBIDRPcvBYlabGkTzxRnvEhh6WNuPfOfwgS9Xj0CguFeyoNk25PYXbFz1FtMeJgUwKXw-CIS_ECKLJpcfp-Q=="
+      ],
+      "note": "The visible packaging text only identifies the brand and category ('Sunday Sıcak & Soğuk Su Sebili') alongside shared technical descriptions. Multiple models under the Sunday brand (such as SWD A503, SWD C302, and SWD E103) share identical packaging descriptions and specifications, making it impossible to confirm the specific model code without additional markings."
+    },
+    {
       "folder": "tac-besiktas-efsane-tek-kisilik-nevresim-takimi",
       "brand": "Taç",
       "model": "Beşiktaş Efsane",
       "name": "Lisanslı Tek Kişilik Nevresim Takımı",
       "identity_confidence": "high"
-    },
-    {
-      "folder": "zorlu-besiktas-kartal-battaniye-160x220",
-      "brand": "Zorlu",
-      "model": "Beşiktaş Kartal",
-      "name": "Lisanslı Battaniye 160 x 220 cm",
-      "identity_confidence": "high",
-      "note": "Marka, ürün adı ve 160 x 220 cm ölçüsü özgün ambalajdan doğrulandı."
     },
     {
       "folder": "tac-fenerbahce-efsane-tek-kisilik-nevresim-takimi",
@@ -125,6 +2239,87 @@
       "source": "https://www.evimkolayavm.com/tac-galatasaray-kirmizi-logo-lisansli-nevresim-takimi"
     },
     {
+      "folder": "tefal-easygliss-plus-fv5770-mavi",
+      "brand": "Tefal",
+      "model": "Easygliss Plus FV5770",
+      "name": "Easygliss Plus FV5770 Buharlı Ütü",
+      "variant": "Mavi",
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpmBzb-FD-r4ggC04-hiEocJ-F6Qz__s3fTk-FEA4X038Gtm0vuX-S98W_vyS6yvXn99A_EPsDEBnmqVYV--l4uz0sul6PqM0QkVStT8U3HtadvsT2b6IjLQNTnN2uJQQzWy91wJgmptiIa8V1LtL6KeXeklbiagZzJ3ps"
+      ],
+      "note": "The readable specifications on the box (2700 W, 50 g/min continuous steam, 240 g/min steam boost, and Auto Off) specifically uniquely identify the Tefal Easygliss Plus FV5770 (SKU 1830008461) steam iron in the Turkish market. The model was corrected from 'Easygliss Plus' to 'Easygliss Plus FV5770'."
+    },
+    {
+      "folder": "tefal-fv2868-2500-w",
+      "brand": "Tefal",
+      "model": "FV2868",
+      "name": "Express Steam+ Buharlı Ütü",
+      "variant": "2500 W",
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPCh2oXhNitZfn-5SN6J31LoTRvJqfmtfrE-3lwDOslJBqK49-IB8CBrDFNTslWx5Wb3YBFLquIvC__6BQftlw72U2M11t4zRR_etSng6Wf48B7BOFRp6eIb1nHwzZALz9T7Si8b6jGeXngcxlM790kf2GXoZOydAOFgZfLp6G",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmvxob7kM0CJN4HHMWjHuVUQbuvp317--V1omNkqM6LAJwRz04bQUbDd0aj_GtFG_X3TiMoOUA7wik13WWD7H0NbrweWVkUmDGeAGEqWcuUgIh1JUv1i55gBMFUCcp62Zb_U558kSVGomw37oQexIXeiWjIqCu72Mxj7U_tbznkhAprzjXhmfBszxSsd9cPxwiTXXYsaPSjwnBBjE="
+      ],
+      "note": "Candidate model name was updated with the exact manufacturer product code FV2868 (FV2868E1 / 4300007578), which corresponds to the Express Steam+ / Express Steam Max 2500W model."
+    },
+    {
+      "folder": "tefal-fv5770-2700-w",
+      "brand": "Tefal",
+      "model": "FV5770",
+      "name": "Tefal Easygliss Plus FV5770 Buharlı Ütü",
+      "variant": "2700 W",
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWDu46reb9Okux_1Lzezm2evtZQUW4CEJ1H5pwCqLTT9trzK2HkJvHrhzOEvxO-nroaBKa5ak3Fzi_nVexqt0eKnB3SJvDLXmf6xAO0OkGsreQE190O3Ebf3wm5u-I_rRTr-iJtCW1llBzML0mnZc-E08LZnnO9jKj6rw0"
+      ],
+      "note": "The packaging specifications (2700 W, up to 50 g/min continuous steam, up to 240 g/min boost, Durilium Airglide soleplate, and Auto Off) uniquely match manufacturer model code FV5770."
+    },
+    {
+      "folder": "tefal-fv8042",
+      "brand": "Tefal",
+      "model": "FV8042",
+      "name": "Puregliss",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ2HXlOoDfDYvotWGOLdxTI4qzndqXfcI_E0jRLBbJSpV5Yl6aBLykZrz3OckGwPqFaOn3YYA8h3WCbrcaqUVtruTs3VvQk5AFJP76o5R7c9eOcKn4EL0imztjQ1ARn3WqQ2Tuc-0CqFV4WalW40uPz9SSr6pGNsXygqCMo_SvN-bwu-XP4GIbL0NtVL8MmGP7ssVe-PLcQiju020rrguWjMkvF93iXNkrLwm9MmqD"
+      ],
+      "note": "Kutunun üzerinde yer alan 'PUREGLISS', '2900', '50', '270' ve 'AUTO OFF' bilgileri Tefal FV8042 modeline aittir."
+    },
+    {
+      "folder": "tefal-fv8042-2900w-50g-min-270g-boost",
+      "brand": "Tefal",
+      "model": "FV8042",
+      "name": "Puregliss FV8042",
+      "variant": "2900W 50g/min 270g boost",
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmIWxTlA_Jo9NKrGDJbE97Fay3g8eUeQkwX136oAr-JUj8Oh9sctd0_XrWvbYHAN47WhzGV7XBPr7jkwYzSWhJJJfjSvzUU985JUdAesodHDqt2oqIKu2Fh_ITVkymjv994C-zhaJOZ3igMrF7M6wqd9N1EMv7WuUNoOAwtioxvKOm4ue-qVQ=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF55yjEvV0fGH5TWSAUH_VDCyMg9tZLMXa0cdx8N32wTljuWTKjNuKU1OebkRBODRHq2zcvfQbNGh_IhwD8Q4C07bfNtRaYY1nkdIyOMGc5nGKRq-961VAl3dojoAeh6PSG4GDqCFkqwDCMvFrF5hOiOX41sHj-npxG7uZyY0fM0lVFWTHhdLRvJn-rfdGx0wYoY3vpC09YYbuUM_7kFDRvPXC-M5TbHpe8InGTeEI="
+      ],
+      "note": "The 2900W power, 50 g/min continuous steam, 270 g steam boost, and Micro-Calc Filter uniquely identify the Tefal Puregliss model code as FV8042."
+    },
+    {
+      "folder": "tefal-fv9e50e0",
+      "brand": "Tefal",
+      "model": "FV9E50E0",
+      "name": "Ultimate Power Pro",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEJnIyA0hviUgiX2h8L8j8x1SnnsXI9Q3SrxGRpOyf-9AHu7cEoiuG3W2bfsxCA4gFx-l0KBN9OUi2KzG9FxEJHE-XfDhC_ZOQBQw7nL2xP2tOL7FX2QjcPFLSPOfWelXo7CvFkRt-TSmavMBVpJ3VB1PbLRW7gK9TdnY_FSj9",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnJN1RTUJIDCp-2C4u4fFR0RKsg9whjs1b-5WKS4J9KslLp1r44lGoS0fO0q63Nzkb2d5RTMy9_855J_DI-TS3jGmYtYstj7fpzVLMGt-etqQyXlbrS-9-btv9vDr0JPHhRjY_FArNf_f-P77jwH3sKm8MJ6_pwwHz4yDCyEmy"
+      ],
+      "note": "Product verified directly on the Tefal Turkey official catalogue and major electronics retailers under full model reference FV9E50E0 / FV9E5 series."
+    },
+    {
       "folder": "tefal-gv9820-pro-express-vision-buhar-kazanli-utu",
       "brand": "Tefal",
       "model": "GV9820",
@@ -133,12 +2328,111 @@
       "source": "https://www.tefal.com.tr/pro-express-gv9820-vision-buhar-kazanli-utu-1830008265/"
     },
     {
+      "folder": "tefal-puregliss-3000-50-280",
+      "brand": "Tefal",
+      "model": "Puregliss",
+      "name": "Steam iron",
+      "variant": "3000 50 280",
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6pVJRRQXnJ4I0PmIcLekeoyA6L1itbGRuxfVzRNlCc2T7f_GtwiU7moIOSw0H3OxdlWyTQda3YIXLnDOmZm35KyA5Jb4CaZLzP0w7kt1e_9eno2RmOrgUnvnU_CD_38u07H-CcCXV-j22O_XM5sVcU26h71kD",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHac3rmAn6-mqTf5T5m7B8uxcGU9NuYorjy9K5O2wdCFVAY710jsl1NW-XqbKjbkuWWGiLlqFqDyYa0HVnlJDFzbPYDg8da6b0EvUOBs2rl9Trj32lr7MXcJI3CDjifv888_grv9OYXPZwK-DX1m3qtjsOYRlRx"
+      ],
+      "note": "The package clearly displays Tefal Puregliss with 3000 W power, 50 g/min continuous steam, 280 g/min steam boost, and Auto Off. Multiple distinct models in the Tefal Puregliss product range (including FV8062, FV8064, and FV8066) share these identical specifications. Because the exact alphanumeric model code cannot be legibly verified from the visible packaging, the product identity remains unverified."
+    },
+    {
+      "folder": "tefal-puregliss-fv8042-fv8042",
+      "brand": "Tefal",
+      "model": "Puregliss FV8042",
+      "name": "Buharlı Ütü",
+      "variant": "FV8042",
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwWT0SpFmN9V8mzYlH3bZFXn8yVNyccN-Q3ZqXZ87dniuqLlSIBLdZjXvUtNR7nFypf7shDrDSZv_8qBjmw1GeAZ-69vX74k1xh3ZZKKeVeNXXHW_2s_uwFcEDZM4oR9FYKs5iQK6IoajrfNSRl3kOVmZxtReix0wcFtGdZ9FTOpVOpc9tx1a16mP_d6Y7Hg1qJIUx_LUiWb6AUXHYaPLc5a7Ed3lx5GC9MJg9fSSE"
+      ],
+      "note": "The package text 'PUREGLISS', '2900', '50', and '270' uniquely corresponds to model code FV8042 in the Tefal Puregliss product lineup (2900 W, 50 g/min continuous steam, 270 g/min boost)."
+    },
+    {
+      "folder": "tefal-ultimate-power-pro-fv9e50",
+      "brand": "Tefal",
+      "model": "Ultimate Power Pro FV9E50",
+      "name": "Buharlı Ütü",
+      "variant": null,
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjnzi18uZpySLjUP4StoY5srZs-kDgaii6FxkFJXDW-qzn4Rm8_pqqTUSSucjvLOAiXuwNoaD1BrHCBChznRurO5y8ojOeXrAItLzyZTrZuFp5C47Od8pAPxZkrImXX7DKpDrF1J3o9dXGihgEpb6DAEjyWPVaXNWO700_5QoM"
+      ],
+      "note": "Ürün görselindeki ve dosya adındaki model referansı incelenerek model kodu Ultimate Power Pro FV9E50 (Tefal Türkiye kataloğunda FV9E5 / FV9E50E0) olarak netleştirilmiştir."
+    },
+    {
+      "folder": "tefal-ultimate-power-pro-fv9e50-3200-85-300",
+      "brand": "Tefal",
+      "model": "Ultimate Power Pro FV9E50",
+      "name": "Buharlı Ütü",
+      "variant": "3200 85 300",
+      "identity_confidence": "high",
+      "verification": "corrected",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwkIkKx19HjBgLRCJb4_Wnsx4u0ZfGXg4bgjE0UnP-lwWEEk6PgxYJL5BvYNlsF0XTTYSgDYKKR9UV6P_UOmIslQEJk_-cAubuTewMZ1exCE79GRC4wCSTzHdBtVgEY2NzQRjBF00wpEQI94D2m7MEooDWouojFqByLGQ3gzI="
+      ],
+      "note": "The package markings 'ULTIMATE POWER PRO', '3200', '85', and '300' correspond to 3200 W power, 85 g/min continuous steam, and 300 g/min steam boost. Among the model codes indicated in the folder name, FV8062 and FV8042 belong to the Tefal Puregliss series (3000 W and 2900 W respectively), whereas FV9E50 (marketed in Turkey as FV9E5 / FV9E50 / FV9E50E0) corresponds directly to the Ultimate Power Pro model with matching specifications."
+    },
+    {
+      "folder": "tefal-ultimate-pure",
+      "brand": "Tefal",
+      "model": "Ultimate Pure",
+      "name": "Ultimate Pure",
+      "variant": null,
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "note": "The packaging confirms the brand 'Tefal' and product series 'Ultimate Pure', but the specific alphanumeric model number (e.g., FV98xx series) is illegible. Because the exact model cannot be determined from the multiple retail boxes shown on the shelf, the product identity remains unverified as candidate Ultimate Pure."
+    },
+    {
+      "folder": "tefal-ultragliss-anti-calc-plus-2800-w-260-g",
+      "brand": "Tefal",
+      "model": null,
+      "name": "ULTRAGLISS ANTI-CALC PLUS",
+      "variant": "2800 W / 260 g",
+      "identity_confidence": "low",
+      "verification": "unverified",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwrM0ERs-GoKkLb8xafpNQ-qKy9_DtIhBE0J3SHFlZNrezueDwX-ak1v1Iv_Zd7I14eoOdOQ4pucCZHNgQvI7tecmMb8DnZLK1D7UqcNCqI70PYSe6AJZUG0jCTJSfRYJEok_9EWSlFXpgib_BK7LvhucJJZqbLoMZgtBnFnY8CzXz-lxGMYuU9h2vfBj__oZyLDpz53jJ8h9o6Mnk8tFwdtxAwZIQKNQjLzNZ7jktykDdGwDJpoAsqxA="
+      ],
+      "note": "The packaging displays the line name 'ULTRAGLISS ANTI-CALC PLUS' and technical specifications (2800 W, 50 g/min continuous steam, 260 g/min steam boost, Auto-Off, Calc Collector). Because multiple reference models share these exact line specifications (e.g., FV6840, FV6832) and the specific model code is not visible, the exact alphanumeric model cannot be confirmed with certainty. Per instructions, the verdict remains unverified."
+    },
+    {
       "folder": "tefal-x-force-flex-9-60-sarjli-dikey-supurge",
       "brand": "Tefal",
       "model": "X-Force Flex 9.60",
       "name": "100 Air Watt Kablosuz Şarjlı Dikey Süpürge",
       "identity_confidence": "high",
       "source": "https://www.tefal.com.tr/ty2098wo-x-force-flex-9-60-animal-care-kablosuz-sarjli-dikey-supurge-100-air-watt-7211005342/"
+    },
+    {
+      "folder": "troya-tr-516-black-with-red-blades",
+      "brand": "TROYA",
+      "model": "TR 516",
+      "name": "MASA ÜSTÜ VANTİLATÖR",
+      "variant": "Black with red blades",
+      "identity_confidence": "high",
+      "verification": "confirmed",
+      "sources": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDCQ3r6S08y0-VGPcLwv-Hiyu2MiHGibQTNhqeSYLrrCZXk7QrQvophANGYPTmuvyNzjEQsOjS1fMTluN1lLydAKGwl-HetboXc3AzfFL2GMxJ6MM7UbEG5PMZQexxO31J6pFJXqi2xO4viTThrNHXIyJifkkNeuwqyJI7yLro-sduduJhOJkR9Ijt1O0Uh-9bLnQYv5en6l4k_pJZXqoIhxgwAhNmVw8gCYlCCDHWqTBYXFHPLD6sNIcR",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4gPoAIgNKKEEldJcA98Qc0bIuixGrwzMXG6jywBjovswEZqB7trAVZ84HezhOVZ4Rx_RskpzW6I08A8iihVlkJb5EpcYM_eZx0ePFKz-USAMlGIWWG0AMpZQsMfnbNol1d425FImUJqK7_0XbqWPvKbo262QzHe3YatYjBwCP0w2iN0cpUOuHi_Xca4H3Rv6h83iXTdkZ5otVQ_cl2g==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNVIziRegeeTOgfg_sAiCxFwNyF56xESxNrGY6Q_tvgqCDXCKIHcLO-cnbQl7oljAY4FT4S9bgZKPUoA4AKqFekGohmFUcJNqRlkCOoGfwGh6JGSycBQpGdOKN-GynNsGRZ2ZGerlfUE6RyTVaCe_8_IWmXDIik_vqfNCUWOxRoXk8NjmE338Hbcpt6A-n4zlmByfGXRXQ-QdykOWSr3tsW19N"
+      ],
+      "note": "Exact model Troya TR-516 masaüstü vantilatör confirmed via Turkish e-commerce listings."
+    },
+    {
+      "folder": "zorlu-besiktas-kartal-battaniye-160x220",
+      "brand": "Zorlu",
+      "model": "Beşiktaş Kartal",
+      "name": "Lisanslı Battaniye 160 x 220 cm",
+      "identity_confidence": "high",
+      "note": "Marka, ürün adı ve 160 x 220 cm ölçüsü özgün ambalajdan doğrulandı."
     }
   ]
 }

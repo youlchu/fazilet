@@ -1,0 +1,63 @@
+{
+  "folder": "tefal-fv8042",
+  "brand": "Tefal",
+  "model": "FV8042",
+  "name": "Puregliss",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "tefal-fv5770-fv9e50-fv8042-philips-dst7510-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/tefal-fv5770-fv9e50-fv8042-philips-dst7510-buharli-utu/past_tefal-fv5770-fv9e50-fv8042-philips-dst7510-buharli-utu_00000086.jpg"
+  ],
+  "readable_evidence": [
+    "Tefal",
+    "PUREGLISS",
+    "2900",
+    "50",
+    "270",
+    "AUTO OFF"
+  ],
+  "issues": [
+    "The photograph displays a retail store counter and shelves with multiple iron models stacked, with no single primary product.",
+    "Exact alphanumeric model codes for the Tefal Puregliss and Ultimate Pure irons are not clearly legible on the exposed package faces.",
+    "Philips model DST7510 is identified via the shelf shelf tag label below the Azur packaging."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "2900 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ2HXlOoDfDYvotWGOLdxTI4qzndqXfcI_E0jRLBbJSpV5Yl6aBLykZrz3OckGwPqFaOn3YYA8h3WCbrcaqUVtruTs3VvQk5AFJP76o5R7c9eOcKn4EL0imztjQ1ARn3WqQ2Tuc-0CqFV4WalW40uPz9SSr6pGNsXygqCMo_SvN-bwu-XP4GIbL0NtVL8MmGP7ssVe-PLcQiju020rrguWjMkvF93iXNkrLwm9MmqD"
+    },
+    {
+      "label": "Sürekli Buhar Çıkışı",
+      "value": "50 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ2HXlOoDfDYvotWGOLdxTI4qzndqXfcI_E0jRLBbJSpV5Yl6aBLykZrz3OckGwPqFaOn3YYA8h3WCbrcaqUVtruTs3VvQk5AFJP76o5R7c9eOcKn4EL0imztjQ1ARn3WqQ2Tuc-0CqFV4WalW40uPz9SSr6pGNsXygqCMo_SvN-bwu-XP4GIbL0NtVL8MmGP7ssVe-PLcQiju020rrguWjMkvF93iXNkrLwm9MmqD"
+    },
+    {
+      "label": "Şok Buhar",
+      "value": "270 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ2HXlOoDfDYvotWGOLdxTI4qzndqXfcI_E0jRLBbJSpV5Yl6aBLykZrz3OckGwPqFaOn3YYA8h3WCbrcaqUVtruTs3VvQk5AFJP76o5R7c9eOcKn4EL0imztjQ1ARn3WqQ2Tuc-0CqFV4WalW40uPz9SSr6pGNsXygqCMo_SvN-bwu-XP4GIbL0NtVL8MmGP7ssVe-PLcQiju020rrguWjMkvF93iXNkrLwm9MmqD"
+    },
+    {
+      "label": "Taban",
+      "value": "Durilium Airglide AutoClean",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ2HXlOoDfDYvotWGOLdxTI4qzndqXfcI_E0jRLBbJSpV5Yl6aBLykZrz3OckGwPqFaOn3YYA8h3WCbrcaqUVtruTs3VvQk5AFJP76o5R7c9eOcKn4EL0imztjQ1ARn3WqQ2Tuc-0CqFV4WalW40uPz9SSr6pGNsXygqCMo_SvN-bwu-XP4GIbL0NtVL8MmGP7ssVe-PLcQiju020rrguWjMkvF93iXNkrLwm9MmqD"
+    },
+    {
+      "label": "Otomatik Kapanma",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ2HXlOoDfDYvotWGOLdxTI4qzndqXfcI_E0jRLBbJSpV5Yl6aBLykZrz3OckGwPqFaOn3YYA8h3WCbrcaqUVtruTs3VvQk5AFJP76o5R7c9eOcKn4EL0imztjQ1ARn3WqQ2Tuc-0CqFV4WalW40uPz9SSr6pGNsXygqCMo_SvN-bwu-XP4GIbL0NtVL8MmGP7ssVe-PLcQiju020rrguWjMkvF93iXNkrLwm9MmqD"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ2HXlOoDfDYvotWGOLdxTI4qzndqXfcI_E0jRLBbJSpV5Yl6aBLykZrz3OckGwPqFaOn3YYA8h3WCbrcaqUVtruTs3VvQk5AFJP76o5R7c9eOcKn4EL0imztjQ1ARn3WqQ2Tuc-0CqFV4WalW40uPz9SSr6pGNsXygqCMo_SvN-bwu-XP4GIbL0NtVL8MmGP7ssVe-PLcQiju020rrguWjMkvF93iXNkrLwm9MmqD"
+  ],
+  "verification_notes": [
+    "Kutunun üzerinde yer alan 'PUREGLISS', '2900', '50', '270' ve 'AUTO OFF' bilgileri Tefal FV8042 modeline aittir."
+  ]
+}

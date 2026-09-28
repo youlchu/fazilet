@@ -1,0 +1,32 @@
+{
+  "folder": "king-teapro-glass",
+  "brand": "King",
+  "model": "TeaPro",
+  "name": "TeaPro Cam Çay Makinesi",
+  "variant": "Glass",
+  "identity_confidence": "high",
+  "source_folders": [
+    "king-teapro-cay-makinesi"
+  ],
+  "source_images": [
+    "new_images/king-teapro-cay-makinesi/past_king-teapro-cay-makinesi_00000410.jpg"
+  ],
+  "readable_evidence": [
+    "king",
+    "TeaPro",
+    "Cam Çay Makinesi"
+  ],
+  "issues": [
+    "The image set contains four distinct models/material variants of King TeaPro tea makers (Red Inox, Black Plastic, Glass/Cam, and Inox/Silver) across different photos, so there is no single primary product."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjc4afMl6lT5uwZpdg4d0X3wdljQ5xQwnDhgZskSjO1Fg-3X1racv-ULIeQqLiko7k5m22ljPkBaG615Mi5pISIyTi6s5fGqh_X7P9-qn0FB2XTWYF529cZZsrkCjsddSN8pmEGAGnrtQDSJ6kXaYH_omr-Gb278Tun4aJQA=="
+  ],
+  "verification_notes": [
+    "Fotoğraf setinde King TeaPro serisine ait birden fazla farklı model ve gövde materyali (KCM330 Cam, KCM331 Inox, KCM332 Plastik gibi) yer aldığından ve tek bir birincil ürün bulunmadığından kesin model teyit edilememiştir."
+  ]
+}

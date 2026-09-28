@@ -1,0 +1,33 @@
+{
+  "folder": "goldmaster-buharli-utu",
+  "brand": "Goldmaster",
+  "model": "",
+  "name": "Buharlı Ütü",
+  "variant": "",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "goldmaster-cvs-alberto-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/goldmaster-cvs-alberto-buharli-utu/past_goldmaster-cvs-alberto-buharli-utu_00000074.jpg"
+  ],
+  "readable_evidence": [
+    "Goldmaster",
+    "YENİ"
+  ],
+  "issues": [
+    "The image depicts two distinct products from different brands (Goldmaster and CVS) stacked on a store shelf, with neither being the sole primary subject.",
+    "The current folder name erroneously merges both products into a single name.",
+    "The model designation on the Goldmaster packaging is unreadable due to blur and low resolution."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [],
+  "verification_notes": [
+    "The model designation on the packaging is illegible due to blur and low resolution.",
+    "The image contains two distinct products from different brands (Goldmaster and CVS) stacked on a store shelf.",
+    "Without a readable model code, the exact Goldmaster steam iron model cannot be confirmed."
+  ]
+}

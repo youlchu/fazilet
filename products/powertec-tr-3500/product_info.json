@@ -1,0 +1,54 @@
+{
+  "folder": "powertec-tr-3500",
+  "brand": "POWERTEC",
+  "model": "TR-3500",
+  "name": "POWERTEC TR-3500",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "powertec-tr-3500-sac-sakal-kesme-makinesi"
+  ],
+  "source_images": [
+    "new_images/powertec-tr-3500-sac-sakal-kesme-makinesi/past_powertec-tr-3500-sac-sakal-kesme-makinesi_00000395.jpg"
+  ],
+  "readable_evidence": [
+    "POWERTEC",
+    "TR-3500",
+    "TR - 3500"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Motor Hızı",
+      "value": "6500 RPM",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqibivavYz2hBAuQqfrHlZLO98rlFfcneeW_iFaN80jPeJtPNwy-U1KtB90GPabvk62eqATzMLy2tw9R1rN4lxzzPeDzaxDvxIs7-brci1flpZBW823AOXBBwDwQAvUzf72PYIWfmMeTatwEUsHbH9prRnUlrwEexp276dAm0XByB_"
+    },
+    {
+      "label": "Kesim Aralığı",
+      "value": "0.8 - 2 mm",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqibivavYz2hBAuQqfrHlZLO98rlFfcneeW_iFaN80jPeJtPNwy-U1KtB90GPabvk62eqATzMLy2tw9R1rN4lxzzPeDzaxDvxIs7-brci1flpZBW823AOXBBwDwQAvUzf72PYIWfmMeTatwEUsHbH9prRnUlrwEexp276dAm0XByB_"
+    },
+    {
+      "label": "Çalışma Süresi",
+      "value": "2 - 3 saat",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqibivavYz2hBAuQqfrHlZLO98rlFfcneeW_iFaN80jPeJtPNwy-U1KtB90GPabvk62eqATzMLy2tw9R1rN4lxzzPeDzaxDvxIs7-brci1flpZBW823AOXBBwDwQAvUzf72PYIWfmMeTatwEUsHbH9prRnUlrwEexp276dAm0XByB_"
+    },
+    {
+      "label": "Şarj Süresi",
+      "value": "2 - 3 saat",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqibivavYz2hBAuQqfrHlZLO98rlFfcneeW_iFaN80jPeJtPNwy-U1KtB90GPabvk62eqATzMLy2tw9R1rN4lxzzPeDzaxDvxIs7-brci1flpZBW823AOXBBwDwQAvUzf72PYIWfmMeTatwEUsHbH9prRnUlrwEexp276dAm0XByB_"
+    },
+    {
+      "label": "Tarak Ölçüleri",
+      "value": "1.5, 3, 4.5, 6, 9, 12, 15, 18 mm",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqibivavYz2hBAuQqfrHlZLO98rlFfcneeW_iFaN80jPeJtPNwy-U1KtB90GPabvk62eqATzMLy2tw9R1rN4lxzzPeDzaxDvxIs7-brci1flpZBW823AOXBBwDwQAvUzf72PYIWfmMeTatwEUsHbH9prRnUlrwEexp276dAm0XByB_"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqibivavYz2hBAuQqfrHlZLO98rlFfcneeW_iFaN80jPeJtPNwy-U1KtB90GPabvk62eqATzMLy2tw9R1rN4lxzzPeDzaxDvxIs7-brci1flpZBW823AOXBBwDwQAvUzf72PYIWfmMeTatwEUsHbH9prRnUlrwEexp276dAm0XByB_"
+  ],
+  "verification_notes": []
+}

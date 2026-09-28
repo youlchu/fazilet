@@ -1,0 +1,59 @@
+{
+  "folder": "cvs-dn-3906-gurme-40-lt",
+  "brand": "CVS",
+  "model": "DN 3906 Gurme",
+  "name": "Elektrikli Midi Fırın",
+  "variant": "40 Lt",
+  "identity_confidence": "high",
+  "source_folders": [
+    "cvs-gurme-40-l-midi-firin"
+  ],
+  "source_images": [
+    "new_images/cvs-gurme-40-l-midi-firin/past_cvs-gurme-40-l-midi-firin_00000202.jpg"
+  ],
+  "readable_evidence": [
+    "CVS",
+    "Gurme",
+    "Elektrikli Midi Fırın",
+    "40 Lt",
+    "GENİŞ HACİM"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "1500 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXDlDZ4W-hnr6B3Rdn4vEPrH-vf3lrJwfOxIdpTVqQ7hyyLYaTeFg3q-XoRPhXAHZ_HHgk-ArT2mSadtgv6oFe-sXU2aMs1lA5Dc_HhFxY75xC7w0dQOR8"
+    },
+    {
+      "label": "Gövde Tipi",
+      "value": "Statik boyalı gövde",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXDlDZ4W-hnr6B3Rdn4vEPrH-vf3lrJwfOxIdpTVqQ7hyyLYaTeFg3q-XoRPhXAHZ_HHgk-ArT2mSadtgv6oFe-sXU2aMs1lA5Dc_HhFxY75xC7w0dQOR8"
+    },
+    {
+      "label": "İç Hacim",
+      "value": "40 L",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq4Yfp46cSfUjwplOe1lJXGQ7tevK0MAObsU_auC6v2qX9SG7PIdx1qAwJJTAPUsu9WeUF6yGOLhmk753G1pexM7zuAYE5Fd9QI4h-_hr0CzmyOkTYPo-0TOT0adbI_Td18_RGwoYOEXEvl40YChq8-TDvICAtbzg7xWyPFniXPoHcL2_N_QAcfAkhAnLTYumn4c1rmsED1l4VPhvrOOCn0IXjaa0c1oDaiwgAyA02nbzpVjXDFUHtkqxlZCZSHg-kpsg="
+    },
+    {
+      "label": "Termostat Sıcaklık Aralığı",
+      "value": "50°C - 320°C",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq4Yfp46cSfUjwplOe1lJXGQ7tevK0MAObsU_auC6v2qX9SG7PIdx1qAwJJTAPUsu9WeUF6yGOLhmk753G1pexM7zuAYE5Fd9QI4h-_hr0CzmyOkTYPo-0TOT0adbI_Td18_RGwoYOEXEvl40YChq8-TDvICAtbzg7xWyPFniXPoHcL2_N_QAcfAkhAnLTYumn4c1rmsED1l4VPhvrOOCn0IXjaa0c1oDaiwgAyA02nbzpVjXDFUHtkqxlZCZSHg-kpsg="
+    },
+    {
+      "label": "Zamanlayıcı",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq4Yfp46cSfUjwplOe1lJXGQ7tevK0MAObsU_auC6v2qX9SG7PIdx1qAwJJTAPUsu9WeUF6yGOLhmk753G1pexM7zuAYE5Fd9QI4h-_hr0CzmyOkTYPo-0TOT0adbI_Td18_RGwoYOEXEvl40YChq8-TDvICAtbzg7xWyPFniXPoHcL2_N_QAcfAkhAnLTYumn4c1rmsED1l4VPhvrOOCn0IXjaa0c1oDaiwgAyA02nbzpVjXDFUHtkqxlZCZSHg-kpsg="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXDlDZ4W-hnr6B3Rdn4vEPrH-vf3lrJwfOxIdpTVqQ7hyyLYaTeFg3q-XoRPhXAHZ_HHgk-ArT2mSadtgv6oFe-sXU2aMs1lA5Dc_HhFxY75xC7w0dQOR8",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq4Yfp46cSfUjwplOe1lJXGQ7tevK0MAObsU_auC6v2qX9SG7PIdx1qAwJJTAPUsu9WeUF6yGOLhmk753G1pexM7zuAYE5Fd9QI4h-_hr0CzmyOkTYPo-0TOT0adbI_Td18_RGwoYOEXEvl40YChq8-TDvICAtbzg7xWyPFniXPoHcL2_N_QAcfAkhAnLTYumn4c1rmsED1l4VPhvrOOCn0IXjaa0c1oDaiwgAyA02nbzpVjXDFUHtkqxlZCZSHg-kpsg="
+  ],
+  "verification_notes": [
+    "CVS Gurme 40 Lt Elektrikli Midi Fırın'ın resmi üretici model kodu DN 3906 olarak doğrulanmıştır."
+  ]
+}

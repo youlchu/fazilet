@@ -1,0 +1,36 @@
+{
+  "folder": "cvs-dn-39077-burgundy",
+  "brand": "CVS",
+  "model": "DN 39077",
+  "name": "Gurme Plus TURBO 45 Lt Geniş Hacim Fırın",
+  "variant": "Burgundy",
+  "identity_confidence": "high",
+  "source_folders": [
+    "cvs-dn-3907-gurme-plus-45-l-midi-firin"
+  ],
+  "source_images": [
+    "new_images/cvs-dn-3907-gurme-plus-45-l-midi-firin/past_cvs-dn-3907-gurme-plus-45-l-midi-firin_00000201.jpg"
+  ],
+  "readable_evidence": [
+    "CVS",
+    "Gurme Plus TURBO",
+    "DN 39077",
+    "45 Lt GENİŞ HACİM",
+    "AYARLANABİLİR ISI KONTROLÜ",
+    "ZAMAN AYARLI KAPANMA",
+    "TURBO FONKSİYONU"
+  ],
+  "issues": [
+    "The current folder specifies model 'dn-3907', but the printed text on the packaging clearly reads 'DN 39077'."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [],
+  "verification_notes": [
+    "No manufacturer or retailer records could be found confirming exact model 'DN 39077'.",
+    "While related CVS oven models such as DN 3907 and DN 3978 exist in retail listings, substituting similarly named models is avoided per instructions.",
+    "Per instructions, the visually read model and product identity are preserved as unverified."
+  ]
+}

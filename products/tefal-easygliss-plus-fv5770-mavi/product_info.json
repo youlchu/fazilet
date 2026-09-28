@@ -1,0 +1,63 @@
+{
+  "folder": "tefal-easygliss-plus-fv5770-mavi",
+  "brand": "Tefal",
+  "model": "Easygliss Plus FV5770",
+  "name": "Easygliss Plus FV5770 Buharlı Ütü",
+  "variant": "Mavi",
+  "identity_confidence": "high",
+  "source_folders": [
+    "philips-5000-tefal-fv5770-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/philips-5000-tefal-fv5770-buharli-utu/past_philips-5000-tefal-fv5770-buharli-utu_00000089.jpg"
+  ],
+  "readable_evidence": [
+    "Tefal",
+    "EASYGLISS PLUS",
+    "2700",
+    "50",
+    "240",
+    "AUTO OFF"
+  ],
+  "issues": [
+    "Shelf storage photograph captures multiple distinct iron models stacked together; there is no single primary subject.",
+    "Specific alphanumeric model codes (such as FV5770 or the specific Philips 5000 Series model number) are not legible on the visible package faces."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "2700 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpmBzb-FD-r4ggC04-hiEocJ-F6Qz__s3fTk-FEA4X038Gtm0vuX-S98W_vyS6yvXn99A_EPsDEBnmqVYV--l4uz0sul6PqM0QkVStT8U3HtadvsT2b6IjLQNTnN2uJQQzWy91wJgmptiIa8V1LtL6KeXeklbiagZzJ3ps"
+    },
+    {
+      "label": "Sürekli Buhar Çıkışı",
+      "value": "50 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpmBzb-FD-r4ggC04-hiEocJ-F6Qz__s3fTk-FEA4X038Gtm0vuX-S98W_vyS6yvXn99A_EPsDEBnmqVYV--l4uz0sul6PqM0QkVStT8U3HtadvsT2b6IjLQNTnN2uJQQzWy91wJgmptiIa8V1LtL6KeXeklbiagZzJ3ps"
+    },
+    {
+      "label": "Şok Buhar Gücü",
+      "value": "240 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpmBzb-FD-r4ggC04-hiEocJ-F6Qz__s3fTk-FEA4X038Gtm0vuX-S98W_vyS6yvXn99A_EPsDEBnmqVYV--l4uz0sul6PqM0QkVStT8U3HtadvsT2b6IjLQNTnN2uJQQzWy91wJgmptiIa8V1LtL6KeXeklbiagZzJ3ps"
+    },
+    {
+      "label": "Taban Teknolojisi",
+      "value": "Durilium Airglide",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpmBzb-FD-r4ggC04-hiEocJ-F6Qz__s3fTk-FEA4X038Gtm0vuX-S98W_vyS6yvXn99A_EPsDEBnmqVYV--l4uz0sul6PqM0QkVStT8U3HtadvsT2b6IjLQNTnN2uJQQzWy91wJgmptiIa8V1LtL6KeXeklbiagZzJ3ps"
+    },
+    {
+      "label": "Otomatik Kapanma",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpmBzb-FD-r4ggC04-hiEocJ-F6Qz__s3fTk-FEA4X038Gtm0vuX-S98W_vyS6yvXn99A_EPsDEBnmqVYV--l4uz0sul6PqM0QkVStT8U3HtadvsT2b6IjLQNTnN2uJQQzWy91wJgmptiIa8V1LtL6KeXeklbiagZzJ3ps"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpmBzb-FD-r4ggC04-hiEocJ-F6Qz__s3fTk-FEA4X038Gtm0vuX-S98W_vyS6yvXn99A_EPsDEBnmqVYV--l4uz0sul6PqM0QkVStT8U3HtadvsT2b6IjLQNTnN2uJQQzWy91wJgmptiIa8V1LtL6KeXeklbiagZzJ3ps"
+  ],
+  "verification_notes": [
+    "The readable specifications on the box (2700 W, 50 g/min continuous steam, 240 g/min steam boost, and Auto Off) specifically uniquely identify the Tefal Easygliss Plus FV5770 (SKU 1830008461) steam iron in the Turkish market.",
+    "The model was corrected from 'Easygliss Plus' to 'Easygliss Plus FV5770'."
+  ]
+}

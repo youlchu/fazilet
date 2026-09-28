@@ -1,0 +1,33 @@
+{
+  "folder": "remington-grooming-kit-trimmer-set",
+  "brand": "REMINGTON",
+  "model": "",
+  "name": "Grooming Kit / Trimmer Set",
+  "variant": "",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "remington-erkek-bakim-seti"
+  ],
+  "source_images": [
+    "new_images/remington-erkek-bakim-seti/past_remington-erkek-bakim-seti_00000249.jpg"
+  ],
+  "readable_evidence": [
+    "REMINGTON",
+    "Wide Trimmer",
+    "Detail Trimmer",
+    "Nose & Ear Trimmer",
+    "Mini Foil Shaver"
+  ],
+  "issues": [
+    "Specific model number (such as PG series) is not visible on this side panel of the packaging."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [],
+  "verification_notes": [
+    "Specific model number is not visible on this packaging side panel.",
+    "Multiple Remington grooming kits (including PG180, PG6030, PG6060, and PG6130) feature the identical set of attachment heads ('Wide Trimmer', 'Detail Trimmer', 'Nose & Ear Trimmer', 'Mini Foil Shaver'), making unique model confirmation impossible without the model code or front panel."
+  ]
+}

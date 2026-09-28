@@ -1,0 +1,62 @@
+{
+  "folder": "maximus-3002-turbo-fan-inox-36-lt",
+  "brand": "MAXIMUS",
+  "model": "3002",
+  "name": "MIDI OVEN",
+  "variant": "TURBO FAN INOX 36 LT",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "maximus-3002-36-l-turbo-fanli-midi-firin"
+  ],
+  "source_images": [
+    "new_images/maximus-3002-36-l-turbo-fanli-midi-firin/past_maximus-3002-36-l-turbo-fanli-midi-firin_00000199.jpg"
+  ],
+  "readable_evidence": [
+    "MAXIMUS BY MINISAN",
+    "3001 MIDI OVEN BASIC WHITE",
+    "3002 MIDI OVEN TURBO FAN INOX",
+    "TURBO FANLI (3002)",
+    "36 LT"
+  ],
+  "issues": [
+    "The primary packaging is a shared box listing both 3001 MIDI OVEN BASIC WHITE and 3002 MIDI OVEN TURBO FAN INOX; checkboxes on this side panel are unmarked, though 3002 is highlighted near the turbo fan feature.",
+    "A cooker hood box (model CCH-106) is visible on the left edge, but its brand name is cropped off."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Kapasite",
+      "value": "36 L",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAe0SIohe_21S8V2mHrtIhuDhrfzE_opNNzkKA40HDw-YBbM4Mhsoo9BGL-mn3EIJTPXbALS54Yo5c2LPaMBNFuJ-nmgQjXrwwudZtYeqv96FDrHgJOdPuYTKjRLda0Q25-KSldCNsvqofPl-4MzuTO9-QHmic8ypcxAHbwlU3"
+    },
+    {
+      "label": "Pişirme Fonksiyonu",
+      "value": "5 fonksiyonlu",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAe0SIohe_21S8V2mHrtIhuDhrfzE_opNNzkKA40HDw-YBbM4Mhsoo9BGL-mn3EIJTPXbALS54Yo5c2LPaMBNFuJ-nmgQjXrwwudZtYeqv96FDrHgJOdPuYTKjRLda0Q25-KSldCNsvqofPl-4MzuTO9-QHmic8ypcxAHbwlU3"
+    },
+    {
+      "label": "Fan Özelliği",
+      "value": "Turbo fan",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAe0SIohe_21S8V2mHrtIhuDhrfzE_opNNzkKA40HDw-YBbM4Mhsoo9BGL-mn3EIJTPXbALS54Yo5c2LPaMBNFuJ-nmgQjXrwwudZtYeqv96FDrHgJOdPuYTKjRLda0Q25-KSldCNsvqofPl-4MzuTO9-QHmic8ypcxAHbwlU3"
+    },
+    {
+      "label": "Zaman Kontrolü",
+      "value": "Mekanik saat",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAe0SIohe_21S8V2mHrtIhuDhrfzE_opNNzkKA40HDw-YBbM4Mhsoo9BGL-mn3EIJTPXbALS54Yo5c2LPaMBNFuJ-nmgQjXrwwudZtYeqv96FDrHgJOdPuYTKjRLda0Q25-KSldCNsvqofPl-4MzuTO9-QHmic8ypcxAHbwlU3"
+    },
+    {
+      "label": "Isı Kontrolü",
+      "value": "Termostatlı ısı kontrol sistemi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAe0SIohe_21S8V2mHrtIhuDhrfzE_opNNzkKA40HDw-YBbM4Mhsoo9BGL-mn3EIJTPXbALS54Yo5c2LPaMBNFuJ-nmgQjXrwwudZtYeqv96FDrHgJOdPuYTKjRLda0Q25-KSldCNsvqofPl-4MzuTO9-QHmic8ypcxAHbwlU3"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAe0SIohe_21S8V2mHrtIhuDhrfzE_opNNzkKA40HDw-YBbM4Mhsoo9BGL-mn3EIJTPXbALS54Yo5c2LPaMBNFuJ-nmgQjXrwwudZtYeqv96FDrHgJOdPuYTKjRLda0Q25-KSldCNsvqofPl-4MzuTO9-QHmic8ypcxAHbwlU3"
+  ],
+  "verification_notes": [
+    "Confirmed exact product as Maximus (by Minisan) 3002 (also referenced by part code MX-20101) Turbo Fan Inox 36 L Midi Fırın.",
+    "The 3001 and 3002 models share common retail packaging; 3002 specifically corresponds to the turbo fan Inox variant with 36 L capacity."
+  ]
+}

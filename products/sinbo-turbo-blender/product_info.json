@@ -1,0 +1,33 @@
+{
+  "folder": "sinbo-turbo-blender",
+  "brand": "sinbo",
+  "model": "",
+  "name": "Turbo Blender",
+  "variant": "",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "sinbo-smoothie-blender"
+  ],
+  "source_images": [
+    "new_images/sinbo-smoothie-blender/past_sinbo-smoothie-blender_00000300.jpg"
+  ],
+  "readable_evidence": [
+    "sinbo.",
+    "Turbo Blender"
+  ],
+  "issues": [
+    "Image is out of focus; specific model number (e.g., SHB series) is not legible on the front of the packaging."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [
+    "https://www.sinbo.com.tr/urunler/blenderlar"
+  ],
+  "verification_notes": [
+    "The model number is illegible on the packaging due to image blur.",
+    "Sinbo offers several distinct models marketed as 'Turbo Blender' (including SHB-3062, SHB-3056, SHB-3113, and SHB-7516).",
+    "Without confirmation of the exact model identifier, the product cannot be definitively verified."
+  ]
+}

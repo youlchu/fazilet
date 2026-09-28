@@ -1,0 +1,56 @@
+{
+  "folder": "kiwi-ksc-4210",
+  "brand": "Kiwi",
+  "model": "KSC-4210",
+  "name": "Buharlı Temizleyici",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "kiwi-ksc-4210-buharli-temizleyici"
+  ],
+  "source_images": [
+    "new_images/kiwi-ksc-4210-buharli-temizleyici/past_kiwi-ksc-4210-buharli-temizleyici_00000160.jpg"
+  ],
+  "readable_evidence": [
+    "kiwi",
+    "Buharlı Temizleyici",
+    "KSC-4210",
+    "3 bar",
+    "350 ml"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Maksimum Buhar Basıncı",
+      "value": "3 bar",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEix2wVd_ZSRQFA9vtjSJQ57O7LJhdDZTniIk8U9EAjvBeeypkTXrKC4TrVZ8cBjSN9RdjVZXdefJRUYB7ULaAXMPvbnenJ4RW4U4iBirpJWmaKwt4SEAwVODKma7KUliKwS-NCfYK0PSvIZfhzlsq8cAcjMkcJpvKCNKdiQYYiM9buamw="
+    },
+    {
+      "label": "Su Haznesi Kapasitesi",
+      "value": "350 ml",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEix2wVd_ZSRQFA9vtjSJQ57O7LJhdDZTniIk8U9EAjvBeeypkTXrKC4TrVZ8cBjSN9RdjVZXdefJRUYB7ULaAXMPvbnenJ4RW4U4iBirpJWmaKwt4SEAwVODKma7KUliKwS-NCfYK0PSvIZfhzlsq8cAcjMkcJpvKCNKdiQYYiM9buamw="
+    },
+    {
+      "label": "Sürekli Buhar Çıkışı",
+      "value": "24 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEix2wVd_ZSRQFA9vtjSJQ57O7LJhdDZTniIk8U9EAjvBeeypkTXrKC4TrVZ8cBjSN9RdjVZXdefJRUYB7ULaAXMPvbnenJ4RW4U4iBirpJWmaKwt4SEAwVODKma7KUliKwS-NCfYK0PSvIZfhzlsq8cAcjMkcJpvKCNKdiQYYiM9buamw="
+    },
+    {
+      "label": "Güç Kablosu Uzunluğu",
+      "value": "3 m",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEix2wVd_ZSRQFA9vtjSJQ57O7LJhdDZTniIk8U9EAjvBeeypkTXrKC4TrVZ8cBjSN9RdjVZXdefJRUYB7ULaAXMPvbnenJ4RW4U4iBirpJWmaKwt4SEAwVODKma7KUliKwS-NCfYK0PSvIZfhzlsq8cAcjMkcJpvKCNKdiQYYiM9buamw="
+    },
+    {
+      "label": "Güvenlik Özelliği",
+      "value": "Emniyet kilitli buhar kapağı",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEix2wVd_ZSRQFA9vtjSJQ57O7LJhdDZTniIk8U9EAjvBeeypkTXrKC4TrVZ8cBjSN9RdjVZXdefJRUYB7ULaAXMPvbnenJ4RW4U4iBirpJWmaKwt4SEAwVODKma7KUliKwS-NCfYK0PSvIZfhzlsq8cAcjMkcJpvKCNKdiQYYiM9buamw="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEix2wVd_ZSRQFA9vtjSJQ57O7LJhdDZTniIk8U9EAjvBeeypkTXrKC4TrVZ8cBjSN9RdjVZXdefJRUYB7ULaAXMPvbnenJ4RW4U4iBirpJWmaKwt4SEAwVODKma7KUliKwS-NCfYK0PSvIZfhzlsq8cAcjMkcJpvKCNKdiQYYiM9buamw="
+  ],
+  "verification_notes": []
+}

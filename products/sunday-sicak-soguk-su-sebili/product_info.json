@@ -1,0 +1,34 @@
+{
+  "folder": "sunday-sicak-soguk-su-sebili",
+  "brand": "Sunday",
+  "model": "",
+  "name": "Sıcak & Soğuk Su Sebili",
+  "variant": "",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "sunday-sicak-soguk-su-sebili"
+  ],
+  "source_images": [
+    "new_images/sunday-sicak-soguk-su-sebili/past_sunday-sicak-soguk-su-sebili_00000359.jpg"
+  ],
+  "readable_evidence": [
+    "sunday",
+    "SICAK & SOĞUK SU SEBİLİ",
+    "R134a kompresörlü soğutma",
+    "Kolay bakım"
+  ],
+  "issues": [
+    "Specific model number is not visible on the exposed face of the box."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEuYoNjTWxvJOn8uQ3Tjtiw1-JCAfPo960V1V7s5-2_pj5iEmWP870X1gy5ucWHM5P6_ALz7Yz7RKKLjDiOQp-HXah1_jVwVhVb_cBIDRPcvBYlabGkTzxRnvEhh6WNuPfOfwgS9Xj0CguFeyoNk25PYXbFz1FtMeJgUwKXw-CIS_ECKLJpcfp-Q=="
+  ],
+  "verification_notes": [
+    "The visible packaging text only identifies the brand and category ('Sunday Sıcak & Soğuk Su Sebili') alongside shared technical descriptions.",
+    "Multiple models under the Sunday brand (such as SWD A503, SWD C302, and SWD E103) share identical packaging descriptions and specifications, making it impossible to confirm the specific model code without additional markings."
+  ]
+}

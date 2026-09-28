@@ -1,0 +1,36 @@
+{
+  "folder": "silver-crest-suzuka-scu-15-10000w",
+  "brand": "SILVER CREST SUZUKA",
+  "model": "SCU-15",
+  "name": "2 in 1 BLENDER",
+  "variant": "10000W",
+  "identity_confidence": "high",
+  "source_folders": [
+    "silver-crest-suzuka-scu-15-2-in-1-blender-seti"
+  ],
+  "source_images": [
+    "new_images/silver-crest-suzuka-scu-15-2-in-1-blender-seti/past_silver-crest-suzuka-scu-15-2-in-1-blender-seti_00000162.jpg"
+  ],
+  "readable_evidence": [
+    "SILVER CREST SUZUKA",
+    "SCU-15",
+    "10000W",
+    "BLENDER",
+    "2 in 1"
+  ],
+  "issues": [
+    "Current folder name includes the Turkish suffix '-seti' which is not present in English on the packaging."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdSB6mJ5rgtMXct05WKqND1ni8JhM_db4Ia8ossnUcxbbqC38go_pFLzrKOTm5X3vA4vVWVTmIOciqQyAbBofzBQMjk7EGM2IKahARzKOSi2X4OywmQSRq3mtMPX1R-Pf92zhm4NkQBhSX3yC8OKqqIZQWrnnrST5elRbGoVEvuQ8W2vdJKAjEv6AjEZ06M0jvk03D1hATMXOJgZuG1AGdkBuYMTNKLNMc8C9iZpaXnsgWBhzFKXvU15_90T61G3W0zQ=="
+  ],
+  "verification_notes": [
+    "No official manufacturer listing or reputable Turkish retail documentation was found for SILVER CREST SUZUKA SCU-15 (10000W).",
+    "Comparison site records (such as Cimri) list a Silvercrest SCU-15 model with no active retail sellers and no verification of the SUZUKA branding or 10000W power rating.",
+    "In accordance with instructions, because the exact model cannot be confirmed, the verdict is set to unverified and the visually read candidate identity is kept unchanged."
+  ]
+}

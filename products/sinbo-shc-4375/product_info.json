@@ -1,0 +1,57 @@
+{
+  "folder": "sinbo-shc-4375",
+  "brand": "Sinbo",
+  "model": "SHC 4375",
+  "name": "Saç Kesme Makinesi / Hair Trimmer",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "sinbo-shc-4375-sac-kesme-makinesi"
+  ],
+  "source_images": [
+    "new_images/sinbo-shc-4375-sac-kesme-makinesi/past_sinbo-shc-4375-sac-kesme-makinesi_00000099.jpg"
+  ],
+  "readable_evidence": [
+    "sinbo.",
+    "Saç Kesme Makinesi",
+    "Hair Trimmer",
+    "SHC 4375"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç Kaynağı",
+      "value": "AA pil",
+      "source_url": "https://www.ciceksepeti.com/sinbo-shc-4375-tiras-makinesi-sac-sakal-kesme-duzeltme-makinesi-vucut-tiras-evrensel-duzeltici-kcm47335553"
+    },
+    {
+      "label": "Kullanım Türü",
+      "value": "Kablosuz",
+      "source_url": "https://www.akakce.com/tiras-makinesi/en-ucuz-sinbo-shc-4375-vucut-fiyati,48560061.html"
+    },
+    {
+      "label": "Kullanım Şekli",
+      "value": "Kuru",
+      "source_url": "https://www.ciceksepeti.com/sinbo-vucut-tras-makinesi-shc-4375-kcm9056131"
+    },
+    {
+      "label": "Uygulama Alanı",
+      "value": "Vücut",
+      "source_url": "https://www.ciceksepeti.com/sinbo-vucut-tras-makinesi-shc-4375-kcm9056131"
+    },
+    {
+      "label": "Renk",
+      "value": "Mavi",
+      "source_url": "https://www.ciceksepeti.com/sinbo-vucut-tras-makinesi-shc-4375-kcm9056131"
+    }
+  ],
+  "source_urls": [
+    "https://www.ciceksepeti.com/sinbo-shc-4375-tiras-makinesi-sac-sakal-kesme-duzeltme-makinesi-vucut-tiras-evrensel-duzeltici-kcm47335553",
+    "https://www.ciceksepeti.com/sinbo-vucut-tras-makinesi-shc-4375-kcm9056131",
+    "https://www.akakce.com/tiras-makinesi/en-ucuz-sinbo-shc-4375-vucut-fiyati,48560061.html"
+  ],
+  "verification_notes": []
+}

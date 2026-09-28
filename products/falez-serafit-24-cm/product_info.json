@@ -1,0 +1,58 @@
+{
+  "folder": "falez-serafit-24-cm",
+  "brand": "Falez",
+  "model": "Serafit",
+  "name": "Karnıyarık",
+  "variant": "Ø 24 cm",
+  "identity_confidence": "high",
+  "source_folders": [
+    "falez-serafit-tava"
+  ],
+  "source_images": [
+    "new_images/falez-serafit-tava/past_falez-serafit-tava_00000362.jpg"
+  ],
+  "readable_evidence": [
+    "Falez",
+    "SERAFİT",
+    "Ø 24 cm KARNIYARIK"
+  ],
+  "issues": [
+    "Current folder specifies 'tava', but product packaging indicates 'Ø 24 cm KARNIYARIK'."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Çap",
+      "value": "24 cm",
+      "source_url": "https://falezonline.com/products/serafit-seramik-kaplama-karniyarik-tencere"
+    },
+    {
+      "label": "Kaplama",
+      "value": "PFOA içermeyen yapışmaz granit-seramik kaplama",
+      "source_url": "https://falezonline.com/products/serafit-seramik-kaplama-karniyarik-tencere"
+    },
+    {
+      "label": "Kapak",
+      "value": "Isıya dayanıklı cam kapak",
+      "source_url": "https://falezonline.com/products/serafit-seramik-kaplama-karniyarik-tencere"
+    },
+    {
+      "label": "Kulp",
+      "value": "Ergonomik ve ısıya dayanıklı kulplar",
+      "source_url": "https://falezonline.com/products/serafit-seramik-kaplama-karniyarik-tencere"
+    },
+    {
+      "label": "Temizlik",
+      "value": "Bulaşık makinesinde yıkanabilir",
+      "source_url": "https://falezonline.com/products/serafit-seramik-kaplama-karniyarik-tencere"
+    }
+  ],
+  "source_urls": [
+    "https://falezonline.com/products/serafit-seramik-kaplama-karniyarik-tencere"
+  ],
+  "verification_notes": [
+    "Ürünün ambalajında 'Ø 24 cm KARNIYARIK' ibaresi yer almakta olup üreticinin resmi kataloğunda Serafit serisi 24 cm karnıyarık tenceresi olarak doğrulanmıştır."
+  ]
+}

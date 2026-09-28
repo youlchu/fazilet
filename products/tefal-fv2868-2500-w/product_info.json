@@ -1,0 +1,61 @@
+{
+  "folder": "tefal-fv2868-2500-w",
+  "brand": "Tefal",
+  "model": "FV2868",
+  "name": "Express Steam+ Buharlı Ütü",
+  "variant": "2500 W",
+  "identity_confidence": "high",
+  "source_folders": [
+    "tefal-express-steam-plus-2500-w-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/tefal-express-steam-plus-2500-w-buharli-utu/past_tefal-express-steam-plus-2500-w-buharli-utu_00000084.jpg",
+    "new_images/tefal-express-steam-plus-2500-w-buharli-utu/past_tefal-express-steam-plus-2500-w-buharli-utu_00000296.jpg"
+  ],
+  "readable_evidence": [
+    "Tefal",
+    "EXPRESS STEAM+",
+    "2500 WATTS POWER",
+    "2500 WATT GÜÇ",
+    "160 g/min",
+    "45 g/min"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "2500 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPCh2oXhNitZfn-5SN6J31LoTRvJqfmtfrE-3lwDOslJBqK49-IB8CBrDFNTslWx5Wb3YBFLquIvC__6BQftlw72U2M11t4zRR_etSng6Wf48B7BOFRp6eIb1nHwzZALz9T7Si8b6jGeXngcxlM790kf2GXoZOydAOFgZfLp6G"
+    },
+    {
+      "label": "Şok Buhar",
+      "value": "160 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPCh2oXhNitZfn-5SN6J31LoTRvJqfmtfrE-3lwDOslJBqK49-IB8CBrDFNTslWx5Wb3YBFLquIvC__6BQftlw72U2M11t4zRR_etSng6Wf48B7BOFRp6eIb1nHwzZALz9T7Si8b6jGeXngcxlM790kf2GXoZOydAOFgZfLp6G"
+    },
+    {
+      "label": "Sürekli Buhar",
+      "value": "45 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPCh2oXhNitZfn-5SN6J31LoTRvJqfmtfrE-3lwDOslJBqK49-IB8CBrDFNTslWx5Wb3YBFLquIvC__6BQftlw72U2M11t4zRR_etSng6Wf48B7BOFRp6eIb1nHwzZALz9T7Si8b6jGeXngcxlM790kf2GXoZOydAOFgZfLp6G"
+    },
+    {
+      "label": "Su Haznesi Kapasitesi",
+      "value": "270 ml",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPCh2oXhNitZfn-5SN6J31LoTRvJqfmtfrE-3lwDOslJBqK49-IB8CBrDFNTslWx5Wb3YBFLquIvC__6BQftlw72U2M11t4zRR_etSng6Wf48B7BOFRp6eIb1nHwzZALz9T7Si8b6jGeXngcxlM790kf2GXoZOydAOFgZfLp6G"
+    },
+    {
+      "label": "Taban",
+      "value": "Seramik",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPCh2oXhNitZfn-5SN6J31LoTRvJqfmtfrE-3lwDOslJBqK49-IB8CBrDFNTslWx5Wb3YBFLquIvC__6BQftlw72U2M11t4zRR_etSng6Wf48B7BOFRp6eIb1nHwzZALz9T7Si8b6jGeXngcxlM790kf2GXoZOydAOFgZfLp6G"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPCh2oXhNitZfn-5SN6J31LoTRvJqfmtfrE-3lwDOslJBqK49-IB8CBrDFNTslWx5Wb3YBFLquIvC__6BQftlw72U2M11t4zRR_etSng6Wf48B7BOFRp6eIb1nHwzZALz9T7Si8b6jGeXngcxlM790kf2GXoZOydAOFgZfLp6G",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmvxob7kM0CJN4HHMWjHuVUQbuvp317--V1omNkqM6LAJwRz04bQUbDd0aj_GtFG_X3TiMoOUA7wik13WWD7H0NbrweWVkUmDGeAGEqWcuUgIh1JUv1i55gBMFUCcp62Zb_U558kSVGomw37oQexIXeiWjIqCu72Mxj7U_tbznkhAprzjXhmfBszxSsd9cPxwiTXXYsaPSjwnBBjE="
+  ],
+  "verification_notes": [
+    "Candidate model name was updated with the exact manufacturer product code FV2868 (FV2868E1 / 4300007578), which corresponds to the Express Steam+ / Express Steam Max 2500W model."
+  ]
+}

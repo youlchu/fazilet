@@ -1,0 +1,64 @@
+{
+  "folder": "samsung-vc07t357mhb-blue",
+  "brand": "Samsung",
+  "model": "VC07T357MHB",
+  "name": "VC3500TM CycloneForce Toz Torbasız Elektrikli Süpürge",
+  "variant": "Blue",
+  "identity_confidence": "high",
+  "source_folders": [
+    "samsung-vc3500-elektrikli-supurge"
+  ],
+  "source_images": [
+    "new_images/samsung-vc3500-elektrikli-supurge/past_samsung-vc3500-elektrikli-supurge_00000121.jpg"
+  ],
+  "readable_evidence": [
+    "SAMSUNG",
+    "VACUUM CLEANER",
+    "CANISTER VC3500",
+    "CycloneForce",
+    "VC07T",
+    "VC07T35"
+  ],
+  "issues": [
+    "The full model identifier on the lower-right label is partially cut off (readable as VC07T / VC07T35...)."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Emiş Teknolojisi",
+      "value": "CycloneForce",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoavQDyCS9GtLb4PTQfttIJrSr4eT-WsmZsa_jfanco-dEMVogxXqLj8qBYi0trZxP4gS-D7SUyBsX38s6LTTwTHK8uXz8KNwvQYliiXiOErvuhBxyyxHAx-eCinq6v01cI2fr7qedd_494AKCAdJKnkTml1bwEzFt7FrOggQlK2fn0KkNHDUuFIiJIPZ4AvFRbKI="
+    },
+    {
+      "label": "Toz Haznesi Kapasitesi",
+      "value": "2,5 L",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoavQDyCS9GtLb4PTQfttIJrSr4eT-WsmZsa_jfanco-dEMVogxXqLj8qBYi0trZxP4gS-D7SUyBsX38s6LTTwTHK8uXz8KNwvQYliiXiOErvuhBxyyxHAx-eCinq6v01cI2fr7qedd_494AKCAdJKnkTml1bwEzFt7FrOggQlK2fn0KkNHDUuFIiJIPZ4AvFRbKI="
+    },
+    {
+      "label": "Filtreleme Sistemi",
+      "value": "5 Kademeli Filtre Sistemi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoavQDyCS9GtLb4PTQfttIJrSr4eT-WsmZsa_jfanco-dEMVogxXqLj8qBYi0trZxP4gS-D7SUyBsX38s6LTTwTHK8uXz8KNwvQYliiXiOErvuhBxyyxHAx-eCinq6v01cI2fr7qedd_494AKCAdJKnkTml1bwEzFt7FrOggQlK2fn0KkNHDUuFIiJIPZ4AvFRbKI="
+    },
+    {
+      "label": "Park Sistemi",
+      "value": "2 Yönlü Park Sistemi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoavQDyCS9GtLb4PTQfttIJrSr4eT-WsmZsa_jfanco-dEMVogxXqLj8qBYi0trZxP4gS-D7SUyBsX38s6LTTwTHK8uXz8KNwvQYliiXiOErvuhBxyyxHAx-eCinq6v01cI2fr7qedd_494AKCAdJKnkTml1bwEzFt7FrOggQlK2fn0KkNHDUuFIiJIPZ4AvFRbKI="
+    },
+    {
+      "label": "Motor Gücü",
+      "value": "750 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzQBaHsaVGv5P1WwBQggtiDK-n7xkKUHaEReUvZz46woFm_-q1_4npg3JScPjV8r31bAsWEOCpqvRd_0SdcGFgCAxsexlUPfuGKQNsEy60kiXNKEqjiNiXGEE59lJwkZXBhsEr6TxDIfHl93DQ8qt3-A7JqTYll_AKpXB84f-gZi4uDYuEdoNUnGPnWbiyUyPB_1h7X5nrUJzRSICFBE44uvI="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoavQDyCS9GtLb4PTQfttIJrSr4eT-WsmZsa_jfanco-dEMVogxXqLj8qBYi0trZxP4gS-D7SUyBsX38s6LTTwTHK8uXz8KNwvQYliiXiOErvuhBxyyxHAx-eCinq6v01cI2fr7qedd_494AKCAdJKnkTml1bwEzFt7FrOggQlK2fn0KkNHDUuFIiJIPZ4AvFRbKI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzQBaHsaVGv5P1WwBQggtiDK-n7xkKUHaEReUvZz46woFm_-q1_4npg3JScPjV8r31bAsWEOCpqvRd_0SdcGFgCAxsexlUPfuGKQNsEy60kiXNKEqjiNiXGEE59lJwkZXBhsEr6TxDIfHl93DQ8qt3-A7JqTYll_AKpXB84f-gZi4uDYuEdoNUnGPnWbiyUyPB_1h7X5nrUJzRSICFBE44uvI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdMbblRd4Vf4DATLCz3WBOh5VRfc-6WAPgjnNiBpDVGjevqkxUpwx3oRuuS1fDn9mXuN0UfwgEDMFtJh4l8mE7wkmKzczonHaONtkrOIGftMEjlWgqIfjqAh2VLdY0mvZcItnGwPnpHuXUloyus41DmEYrL4eiPeHMyWLnV87mybn101aY3amFyc5Asy26FmnB1WNz1rBvZ_AbnpBD1z7rWoHv7R5adGvU3RSaUTiNqnXHJAv065dy-lpNXhI="
+  ],
+  "verification_notes": [
+    "The partial model code 'VC07T35...' visible on the label corresponds to the Samsung VC3500TM series.",
+    "For the Blue color variant in Turkey, the full model code is VC07T357MHB (also listed as VC07T357MHB/TR), whereas VC07T357MHR denotes the Red version."
+  ]
+}

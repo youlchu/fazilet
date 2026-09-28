@@ -1,0 +1,56 @@
+{
+  "folder": "powertec-tr-999",
+  "brand": "POWERTEC",
+  "model": "TR-999",
+  "name": "IPL BUZ LAZER EPİLASYON",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "leader-lp120-powertec-tr999-akdeniz-okyanus"
+  ],
+  "source_images": [
+    "new_images/leader-lp120-powertec-tr999-akdeniz-okyanus/past_leader-lp120-powertec-tr999-akdeniz-okyanus_00000097.jpg"
+  ],
+  "readable_evidence": [
+    "POWERTEC",
+    "TR-999",
+    "IPL BUZ LAZER EPİLASYON",
+    "IPL HAIR REMOVAL"
+  ],
+  "issues": [
+    "The current folder name concatenates multiple distinct shelf items (Leader speaker, Powertec epilator, Akdeniz Okyanus teapot).",
+    "Model LP120 for the Leader speaker is not legibly visible in this frame.",
+    "The brand name Akdeniz on the teapot box is not visible in the frame."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Atım Kapasitesi",
+      "value": "999.999 atım",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLaKhCpE7M47Uax5V8hDdqWX_o6bVev2XXNRfo78kQ2Xac66EQax3EwfyetqBz9yZcJNDuRn5V2D7WBgG70bwlfUMcBtTcX_bIpFSs_RuoR4_d6ELZp8dn4Glpu319BFlehyxmbMJz8ImVQw9gotjw-u2-SM4XyWnPINkcQF7e6yI0bhzyG_EcnfLunPUMXMjqMhDnog=="
+    },
+    {
+      "label": "Çalışma Modu",
+      "value": "Otomatik ve manuel mod",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLaKhCpE7M47Uax5V8hDdqWX_o6bVev2XXNRfo78kQ2Xac66EQax3EwfyetqBz9yZcJNDuRn5V2D7WBgG70bwlfUMcBtTcX_bIpFSs_RuoR4_d6ELZp8dn4Glpu319BFlehyxmbMJz8ImVQw9gotjw-u2-SM4XyWnPINkcQF7e6yI0bhzyG_EcnfLunPUMXMjqMhDnog=="
+    },
+    {
+      "label": "Enerji Kademesi",
+      "value": "9 seviye",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLaKhCpE7M47Uax5V8hDdqWX_o6bVev2XXNRfo78kQ2Xac66EQax3EwfyetqBz9yZcJNDuRn5V2D7WBgG70bwlfUMcBtTcX_bIpFSs_RuoR4_d6ELZp8dn4Glpu319BFlehyxmbMJz8ImVQw9gotjw-u2-SM4XyWnPINkcQF7e6yI0bhzyG_EcnfLunPUMXMjqMhDnog=="
+    },
+    {
+      "label": "Soğutma Teknolojisi",
+      "value": "Buz başlık serinletme teknolojisi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLaKhCpE7M47Uax5V8hDdqWX_o6bVev2XXNRfo78kQ2Xac66EQax3EwfyetqBz9yZcJNDuRn5V2D7WBgG70bwlfUMcBtTcX_bIpFSs_RuoR4_d6ELZp8dn4Glpu319BFlehyxmbMJz8ImVQw9gotjw-u2-SM4XyWnPINkcQF7e6yI0bhzyG_EcnfLunPUMXMjqMhDnog=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLaKhCpE7M47Uax5V8hDdqWX_o6bVev2XXNRfo78kQ2Xac66EQax3EwfyetqBz9yZcJNDuRn5V2D7WBgG70bwlfUMcBtTcX_bIpFSs_RuoR4_d6ELZp8dn4Glpu319BFlehyxmbMJz8ImVQw9gotjw-u2-SM4XyWnPINkcQF7e6yI0bhzyG_EcnfLunPUMXMjqMhDnog=="
+  ],
+  "verification_notes": [
+    "The product model Powertec TR-999 IPL is confirmed directly on the official Powertec shop website."
+  ]
+}

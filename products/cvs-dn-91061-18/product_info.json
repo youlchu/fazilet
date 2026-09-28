@@ -1,0 +1,61 @@
+{
+  "folder": "cvs-dn-91061-18",
+  "brand": "CVS",
+  "model": "DN 91061",
+  "name": "Endüstriyel Vantilatör Industrial Fan",
+  "variant": "18\"",
+  "identity_confidence": "high",
+  "source_folders": [
+    "cvs-dn-91061-18-inc-endustriyel-vantilator"
+  ],
+  "source_images": [
+    "new_images/cvs-dn-91061-18-inc-endustriyel-vantilator/past_cvs-dn-91061-18-inc-endustriyel-vantilator_00000403.jpg",
+    "new_images/cvs-dn-91061-18-inc-endustriyel-vantilator/past_cvs-dn-91061-18-inc-endustriyel-vantilator_00000468.jpg"
+  ],
+  "readable_evidence": [
+    "CVS",
+    "DN 91061",
+    "18'' INCH Endüstriyel Vantilatör",
+    "Industrial Fan",
+    "85 Watt"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Motor Gücü",
+      "value": "85 Watt",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdnffsQj95lFc7I-KVv9DZX1nHfCeSLEM403xLnYpZY0Zk5mE1CVtNcIm3-bso2HBly-VnLPNPHj4bos0co9gUL0tK9_wdUGIe0j41dCsa8CuO1mkN7xElYtLtOpu60mPmW_zIa7ZpDpJ81lDBQmECfTe3E0k="
+    },
+    {
+      "label": "Boyut",
+      "value": "18\"",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdnffsQj95lFc7I-KVv9DZX1nHfCeSLEM403xLnYpZY0Zk5mE1CVtNcIm3-bso2HBly-VnLPNPHj4bos0co9gUL0tK9_wdUGIe0j41dCsa8CuO1mkN7xElYtLtOpu60mPmW_zIa7ZpDpJ81lDBQmECfTe3E0k="
+    },
+    {
+      "label": "Kanat Sayısı",
+      "value": "5 Kanatlı",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdnffsQj95lFc7I-KVv9DZX1nHfCeSLEM403xLnYpZY0Zk5mE1CVtNcIm3-bso2HBly-VnLPNPHj4bos0co9gUL0tK9_wdUGIe0j41dCsa8CuO1mkN7xElYtLtOpu60mPmW_zIa7ZpDpJ81lDBQmECfTe3E0k="
+    },
+    {
+      "label": "Hız Kademesi",
+      "value": "3 Kademe",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdnffsQj95lFc7I-KVv9DZX1nHfCeSLEM403xLnYpZY0Zk5mE1CVtNcIm3-bso2HBly-VnLPNPHj4bos0co9gUL0tK9_wdUGIe0j41dCsa8CuO1mkN7xElYtLtOpu60mPmW_zIa7ZpDpJ81lDBQmECfTe3E0k="
+    },
+    {
+      "label": "Salınım",
+      "value": "Sağ-Sol Salınım",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdnffsQj95lFc7I-KVv9DZX1nHfCeSLEM403xLnYpZY0Zk5mE1CVtNcIm3-bso2HBly-VnLPNPHj4bos0co9gUL0tK9_wdUGIe0j41dCsa8CuO1mkN7xElYtLtOpu60mPmW_zIa7ZpDpJ81lDBQmECfTe3E0k="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdnffsQj95lFc7I-KVv9DZX1nHfCeSLEM403xLnYpZY0Zk5mE1CVtNcIm3-bso2HBly-VnLPNPHj4bos0co9gUL0tK9_wdUGIe0j41dCsa8CuO1mkN7xElYtLtOpu60mPmW_zIa7ZpDpJ81lDBQmECfTe3E0k=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfuemk4KGUrx8GwUS5Fk9iJhbQcoQ-PyrG0_PHfjZteerfWYbq_gLbcMmXLmeYTyfJ9Qn6FlGkCPycUgS8PpopO-kj948Ud8jxE742zrYZEioMyJzB8D-7QWVtfPy67KqopSincmWRDOGLIE4xWGTBrqT2oZv79gzWMB_6rxF5x1gQzBMy",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9jonTae8rshudWIRyfe9_DiWl3fnj3PeLynm4-OZlWWfJ7_TbeX0C71G0AyGWZuLH2G2cFqCLfDhNF01RLjZ8UGlG3LY9oE1izKZZDHo6-GCpit4C-lKtRN8-_8kIOaA_ISo0FE6hJCYkd5hOP_OTlMUJtiEro5CoXeGjSf4ke7iUIPQhK6FppkeftnK6FL5Wusd8DA=="
+  ],
+  "verification_notes": [
+    "Product verified across major Turkish e-commerce listings as CVS DN 91061 / DN91061 Sanayi Tipi / Endüstriyel Vantilatör."
+  ]
+}

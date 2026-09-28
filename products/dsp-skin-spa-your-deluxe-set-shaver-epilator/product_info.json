@@ -1,0 +1,33 @@
+{
+  "folder": "dsp-skin-spa-your-deluxe-set-shaver-epilator",
+  "brand": "dsp",
+  "model": "",
+  "name": "SKIN SPA Your DELUXE set Shaver & Epilator",
+  "variant": "",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "dsp-your-deluxe-9-set-epilator"
+  ],
+  "source_images": [
+    "new_images/dsp-your-deluxe-9-set-epilator/past_dsp-your-deluxe-9-set-epilator_00000318.jpg"
+  ],
+  "readable_evidence": [
+    "dsp",
+    "SKIN SPA",
+    "Your DELUXE set",
+    "Shaver & Epilator"
+  ],
+  "issues": [
+    "Severe motion blur/defocus renders the model number printed beneath the DSP logo completely illegible.",
+    "The current folder name contains '9-set', which appears to be a transcription error of 'DELUXE set'."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [],
+  "verification_notes": [
+    "The model number printed beneath the DSP logo is illegible due to severe motion blur and defocus in the source image.",
+    "No authoritative manufacturer or retailer records confirm an exact model number for a DSP product marketed under the text 'SKIN SPA Your DELUXE set Shaver & Epilator'."
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "folder": "fakir-poly",
+  "brand": "Fakir",
+  "model": "POLY",
+  "name": "Haar Styling Sets 5 in 1",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "fakir-poly-5-in-1-sac-sekillendirme-seti"
+  ],
+  "source_images": [
+    "new_images/fakir-poly-5-in-1-sac-sekillendirme-seti/past_fakir-poly-5-in-1-sac-sekillendirme-seti_00000208.jpg"
+  ],
+  "readable_evidence": [
+    "Fakir HAUSGERÄTE",
+    "POLY",
+    "Haar Styling Sets",
+    "5 in 1"
+  ],
+  "issues": [
+    "The current folder name uses the Turkish translation ('sac-sekillendirme-seti'), while the box packaging displays German/English text ('Haar Styling Sets')."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Maksimum Sıcaklık",
+      "value": "200 °C'ye kadar hızlı ısınma",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Fx-ftpV2P7VPgyCjhx3oy_u0JBnYLROpTwIREslqxxMDOpsXqQb2e7y_hB4Fc08M6tgCSyGfIhlJKyhk49PaZLVTjkzlIlF4tfpdhxOkTj6Omkg9MnigSKZF2M-jFR8viyyu3utvIE-mTDntjM0y72dwpCYj"
+    },
+    {
+      "label": "Güç",
+      "value": "Maksimum 40 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Fx-ftpV2P7VPgyCjhx3oy_u0JBnYLROpTwIREslqxxMDOpsXqQb2e7y_hB4Fc08M6tgCSyGfIhlJKyhk49PaZLVTjkzlIlF4tfpdhxOkTj6Omkg9MnigSKZF2M-jFR8viyyu3utvIE-mTDntjM0y72dwpCYj"
+    },
+    {
+      "label": "Kaplama",
+      "value": "Seramik turmalin kaplı plaka ve maşalar",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Fx-ftpV2P7VPgyCjhx3oy_u0JBnYLROpTwIREslqxxMDOpsXqQb2e7y_hB4Fc08M6tgCSyGfIhlJKyhk49PaZLVTjkzlIlF4tfpdhxOkTj6Omkg9MnigSKZF2M-jFR8viyyu3utvIE-mTDntjM0y72dwpCYj"
+    },
+    {
+      "label": "Şekillendirme Başlıkları",
+      "value": "2'si 1 arada zigzag/düzleştirici plaka, 19 mm ve 25 mm saç maşası, dalga formlu oval maşa",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Fx-ftpV2P7VPgyCjhx3oy_u0JBnYLROpTwIREslqxxMDOpsXqQb2e7y_hB4Fc08M6tgCSyGfIhlJKyhk49PaZLVTjkzlIlF4tfpdhxOkTj6Omkg9MnigSKZF2M-jFR8viyyu3utvIE-mTDntjM0y72dwpCYj"
+    },
+    {
+      "label": "Kablo",
+      "value": "360° dönebilen asma halkalı güç kablosu",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Fx-ftpV2P7VPgyCjhx3oy_u0JBnYLROpTwIREslqxxMDOpsXqQb2e7y_hB4Fc08M6tgCSyGfIhlJKyhk49PaZLVTjkzlIlF4tfpdhxOkTj6Omkg9MnigSKZF2M-jFR8viyyu3utvIE-mTDntjM0y72dwpCYj"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Fx-ftpV2P7VPgyCjhx3oy_u0JBnYLROpTwIREslqxxMDOpsXqQb2e7y_hB4Fc08M6tgCSyGfIhlJKyhk49PaZLVTjkzlIlF4tfpdhxOkTj6Omkg9MnigSKZF2M-jFR8viyyu3utvIE-mTDntjM0y72dwpCYj"
+  ],
+  "verification_notes": [
+    "The product packaging uses the German/multilingual branding 'POLY Haar Styling Sets 5 in 1', while Turkish retailers commonly list it as 'Fakir Poly Saç Şekillendirme Seti'."
+  ]
+}

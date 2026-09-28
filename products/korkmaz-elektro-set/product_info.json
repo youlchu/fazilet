@@ -1,0 +1,42 @@
+{
+  "folder": "korkmaz-elektro-set",
+  "brand": "Korkmaz",
+  "model": "Elektro Set",
+  "name": "Elektro Set 14 Pcs",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "korkmaz-electro-set"
+  ],
+  "source_images": [
+    "new_images/korkmaz-electro-set/past_korkmaz-electro-set_00000448.jpg",
+    "new_images/korkmaz-electro-set/past_korkmaz-electro-set_00000449.jpg"
+  ],
+  "readable_evidence": [
+    "KORKMAZ",
+    "ELEKTRO SET",
+    "ELECTRO SET",
+    "14 Prç Pcs",
+    "ÇAYTEMA",
+    "KAHVEKOLİK",
+    "TOSTEMA",
+    "MIA MEGA"
+  ],
+  "issues": [
+    "Image 00000402 shows shipping cartons with labels for A1817 (Rosagold 14 Parça Elektro Set) and another carton labeled with barcode 9080201A1819.",
+    "Images 00000448 and 00000449 show retail packaging for the 14-piece Elektro Set without an explicit alphanumeric model code printed on the visible front panels.",
+    "Background in 00000448 and 00000449 contains stacked boxes of Lines Boss cookware."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv-9941JYVnvB6acTqyAxflBFf1zvRGSrjiD-nPycr3m9ZvovD_c_PcYfKFiZmwOg2c3qKQvMjNtw0y7OhKN9r7Ch5tnTJDvPBVQKp6gM4-qyYSaZvx9bwdkURwaZu5kdlV2SEFc4VzCUGURRzUHWU-dsQ1KergAUdAWvUyuffrIfRciyR6Ey_7ThLb9npPzjUVOc5U5XqiU8baal2DA0QD5oJijvZpKg69MqWF-O8ujEOIOZZGVmYg0rceVbcqi5M5M4="
+  ],
+  "verification_notes": [
+    "The 14-piece Korkmaz Elektro Set package bundles Çaytema, Kahvekolik, Tostema, and Mia Mega appliances.",
+    "Multiple model and color codes exist for this 14-piece configuration (including A1817 Rosagold and A1819 Azura, both visible on outer shipping cartons).",
+    "Because the retail display packaging does not show an explicit alphanumeric model number or definitive colorway designation, the specific model code cannot be confirmed."
+  ]
+}

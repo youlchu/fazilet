@@ -1,0 +1,63 @@
+{
+  "folder": "korkmaz-a1817-rosagold",
+  "brand": "Korkmaz",
+  "model": "A1817",
+  "name": "Rosagold 14 Parça Elektro Set",
+  "variant": "Rosagold",
+  "identity_confidence": "high",
+  "source_folders": [
+    "korkmaz-electro-set"
+  ],
+  "source_images": [
+    "new_images/korkmaz-electro-set/past_korkmaz-electro-set_00000402.jpg"
+  ],
+  "readable_evidence": [
+    "A1817",
+    "ROSAGOLD 14 PARÇA ELEKTRO SET",
+    "KORKMAZ",
+    "ELECTRO SET"
+  ],
+  "issues": [
+    "Image 00000402 shows shipping cartons with labels for A1817 (Rosagold 14 Parça Elektro Set) and another carton labeled with barcode 9080201A1819.",
+    "Images 00000448 and 00000449 show retail packaging for the 14-piece Elektro Set without an explicit alphanumeric model code printed on the visible front panels.",
+    "Background in 00000448 and 00000449 contains stacked boxes of Lines Boss cookware."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Set İçeriği",
+      "value": "4 parça Çaytema, 2 parça Kahvekolik Rosegold, 7 parça Mia Blender Set, 1 parça Tostema Midi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6UgXgidOx8QplBM_efumcOL3hJdoQBE2zHXmN_b-CDm57UqQHXGsNwMNhtVFLY0w4qVwAxnWslduDt3cdObovB-OSOkrdN4Qi_Y4ZlonsQRVFO_I72-YB-_-W75em60VR3kOaUicSiGOw5BQcmb3nEA76dR_IsZqVvAQ7Fzd_5FmhkkAihxrZwzXcdvWP3W5ZhA=="
+    },
+    {
+      "label": "Çaytema Çay Makinesi",
+      "value": "1600 W güç, 0.9 lt demlik ve 1.7 lt ısıtıcı kapasitesi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6UgXgidOx8QplBM_efumcOL3hJdoQBE2zHXmN_b-CDm57UqQHXGsNwMNhtVFLY0w4qVwAxnWslduDt3cdObovB-OSOkrdN4Qi_Y4ZlonsQRVFO_I72-YB-_-W75em60VR3kOaUicSiGOw5BQcmb3nEA76dR_IsZqVvAQ7Fzd_5FmhkkAihxrZwzXcdvWP3W5ZhA=="
+    },
+    {
+      "label": "Kahvekolik Türk Kahvesi Makinesi",
+      "value": "400 W güç, 320 ml cezve hacmi ve 4 fincan kahve kapasitesi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6UgXgidOx8QplBM_efumcOL3hJdoQBE2zHXmN_b-CDm57UqQHXGsNwMNhtVFLY0w4qVwAxnWslduDt3cdObovB-OSOkrdN4Qi_Y4ZlonsQRVFO_I72-YB-_-W75em60VR3kOaUicSiGOw5BQcmb3nEA76dR_IsZqVvAQ7Fzd_5FmhkkAihxrZwzXcdvWP3W5ZhA=="
+    },
+    {
+      "label": "Mia Blender Seti",
+      "value": "850 W güç, 1500 ml doğrayıcı hazne ve 1000 ml ölçü kabı haznesi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6UgXgidOx8QplBM_efumcOL3hJdoQBE2zHXmN_b-CDm57UqQHXGsNwMNhtVFLY0w4qVwAxnWslduDt3cdObovB-OSOkrdN4Qi_Y4ZlonsQRVFO_I72-YB-_-W75em60VR3kOaUicSiGOw5BQcmb3nEA76dR_IsZqVvAQ7Fzd_5FmhkkAihxrZwzXcdvWP3W5ZhA=="
+    },
+    {
+      "label": "Tostema Midi Tost Makinesi",
+      "value": "4 adet tost kapasitesi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6UgXgidOx8QplBM_efumcOL3hJdoQBE2zHXmN_b-CDm57UqQHXGsNwMNhtVFLY0w4qVwAxnWslduDt3cdObovB-OSOkrdN4Qi_Y4ZlonsQRVFO_I72-YB-_-W75em60VR3kOaUicSiGOw5BQcmb3nEA76dR_IsZqVvAQ7Fzd_5FmhkkAihxrZwzXcdvWP3W5ZhA=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6UgXgidOx8QplBM_efumcOL3hJdoQBE2zHXmN_b-CDm57UqQHXGsNwMNhtVFLY0w4qVwAxnWslduDt3cdObovB-OSOkrdN4Qi_Y4ZlonsQRVFO_I72-YB-_-W75em60VR3kOaUicSiGOw5BQcmb3nEA76dR_IsZqVvAQ7Fzd_5FmhkkAihxrZwzXcdvWP3W5ZhA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcaPsa0oMh2tlsVC6t6PRS7atSSG8nwqUMSr3UQbRn_aX6aQeNScwD-YVL2Y_HiKqolXIvrEvAcPIkSLJllKzJnFdeWl8bkOuiiAhk41yorCeCkL0nJn1tw_7ZCiv_ljl3bIjLr3Y6de2XNysvEQu5O8PgwCUvOq5BmpUcPAx1wEduPfiSHc1wHaDWy3Jz"
+  ],
+  "verification_notes": [
+    "Korkmaz A1817 corresponds to the 14-piece Rosagold Elektro Set (Elektronik Çeyiz Seti).",
+    "The 14-piece bundle consists of Korkmaz Çaytema tea maker (4 pcs), Kahvekolik Turkish coffee maker (2 pcs), Mia Mega blender set (7 pcs), and Tostema Midi toaster (1 pc)."
+  ]
+}

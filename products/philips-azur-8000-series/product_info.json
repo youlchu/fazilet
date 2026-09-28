@@ -1,0 +1,44 @@
+{
+  "folder": "philips-azur-8000-series",
+  "brand": "Philips",
+  "model": "Azur 8000 Series",
+  "name": "Steam Iron 8000 Series",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "philips-azur-7500-series-dst7510-80-buharli-utu",
+    "philips-azur-8000-series-dst8050-20-buharli-utu",
+    "philips-dst8050-tefal-fv9e50-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/philips-azur-7500-series-dst7510-80-buharli-utu/past_philips-azur-7500-series-dst7510-80-buharli-utu_00000377.jpg",
+    "new_images/philips-azur-8000-series-dst8050-20-buharli-utu/past_philips-azur-8000-series-dst8050-20-buharli-utu_00000450.jpg",
+    "new_images/philips-dst8050-tefal-fv9e50-buharli-utu/past_philips-dst8050-tefal-fv9e50-buharli-utu_00000094.jpg"
+  ],
+  "readable_evidence": [
+    "PHILIPS",
+    "Azur",
+    "Steam Iron 8000 Series",
+    "PHILIPS Azur 8000 Series",
+    "Perfect results in one go",
+    "Azur 8000 Series",
+    "Steam Iron"
+  ],
+  "issues": [
+    "The primary product shown is clearly the Philips Azur 8000 Series steam iron, which contradicts the folder name specifying the 7500 Series DST7510/80.",
+    "The specific DST80xx model code on the Philips packaging sticker is not legible at this resolution.",
+    "The specific alphanumeric model number (such as DST8050/20) cannot be read clearly from the packaging due to image resolution; only 'Azur 8000 Series' is legible.",
+    "Image depicts multiple products stacked in a retail or warehouse setting.",
+    "The specific Philips sub-model DST8050 mentioned in the folder name is not distinctly legible on the box, only 'Azur 8000 Series' is clearly readable.",
+    "Tefal FV9E50E0 box is visible along the bottom edge."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [],
+  "verification_notes": [
+    "The specific alphanumeric model number (such as DST8050/20, DST8040/30, or DST8021/30) cannot be read from the packaging.",
+    "While the product is clearly identified as a Philips Azur 8000 Series steam iron, the exact model code cannot be confirmed without legible sub-model markings."
+  ]
+}

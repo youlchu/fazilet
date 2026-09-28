@@ -1,0 +1,58 @@
+{
+  "folder": "goldmaster-gm-7321-papatya",
+  "brand": "Goldmaster",
+  "model": "GM-7321 Papatya",
+  "name": "Çay Makinesi",
+  "variant": "",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "goldmaster-papatya-cay-makinesi"
+  ],
+  "source_images": [
+    "new_images/goldmaster-papatya-cay-makinesi/past_goldmaster-papatya-cay-makinesi_00000245.jpg"
+  ],
+  "readable_evidence": [
+    "Goldmaster",
+    "Papatya",
+    "Çay Makinesi"
+  ],
+  "issues": [
+    "Image is severely blurred and out of focus, obscuring fine print and specifications."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "2200 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGulGYQ9zCf_MCHPwqf6wTjS0CptXdPfQ9kre-yVy1dfkfvyk51xsvWaAWROMJusxZG41HMSdwD2OuzIWyG_Hy1eQSExV4yWdak5vCfENYtaRw5p4ZzBBVYXmR5vn4SA_XT-JWL3rB51x-1gWoBMB9ep676uUnGAnkwkcwBmfSa9JK73tIdByojCYIFvKFCPYUEHjQ="
+    },
+    {
+      "label": "Su Isıtıcı Kapasitesi",
+      "value": "1.7 L",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGulGYQ9zCf_MCHPwqf6wTjS0CptXdPfQ9kre-yVy1dfkfvyk51xsvWaAWROMJusxZG41HMSdwD2OuzIWyG_Hy1eQSExV4yWdak5vCfENYtaRw5p4ZzBBVYXmR5vn4SA_XT-JWL3rB51x-1gWoBMB9ep676uUnGAnkwkcwBmfSa9JK73tIdByojCYIFvKFCPYUEHjQ="
+    },
+    {
+      "label": "Demlik Kapasitesi",
+      "value": "1 L",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGulGYQ9zCf_MCHPwqf6wTjS0CptXdPfQ9kre-yVy1dfkfvyk51xsvWaAWROMJusxZG41HMSdwD2OuzIWyG_Hy1eQSExV4yWdak5vCfENYtaRw5p4ZzBBVYXmR5vn4SA_XT-JWL3rB51x-1gWoBMB9ep676uUnGAnkwkcwBmfSa9JK73tIdByojCYIFvKFCPYUEHjQ="
+    },
+    {
+      "label": "Demlik Malzemesi",
+      "value": "Cam",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGulGYQ9zCf_MCHPwqf6wTjS0CptXdPfQ9kre-yVy1dfkfvyk51xsvWaAWROMJusxZG41HMSdwD2OuzIWyG_Hy1eQSExV4yWdak5vCfENYtaRw5p4ZzBBVYXmR5vn4SA_XT-JWL3rB51x-1gWoBMB9ep676uUnGAnkwkcwBmfSa9JK73tIdByojCYIFvKFCPYUEHjQ="
+    },
+    {
+      "label": "Otomatik Kapanma",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGulGYQ9zCf_MCHPwqf6wTjS0CptXdPfQ9kre-yVy1dfkfvyk51xsvWaAWROMJusxZG41HMSdwD2OuzIWyG_Hy1eQSExV4yWdak5vCfENYtaRw5p4ZzBBVYXmR5vn4SA_XT-JWL3rB51x-1gWoBMB9ep676uUnGAnkwkcwBmfSa9JK73tIdByojCYIFvKFCPYUEHjQ="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGulGYQ9zCf_MCHPwqf6wTjS0CptXdPfQ9kre-yVy1dfkfvyk51xsvWaAWROMJusxZG41HMSdwD2OuzIWyG_Hy1eQSExV4yWdak5vCfENYtaRw5p4ZzBBVYXmR5vn4SA_XT-JWL3rB51x-1gWoBMB9ep676uUnGAnkwkcwBmfSa9JK73tIdByojCYIFvKFCPYUEHjQ="
+  ],
+  "verification_notes": [
+    "Goldmaster Papatya çay makinesinin resmi model kodu GM-7321 olarak doğrulanarak model bilgisi güncellenmiştir."
+  ]
+}

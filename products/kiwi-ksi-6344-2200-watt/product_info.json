@@ -1,0 +1,61 @@
+{
+  "folder": "kiwi-ksi-6344-2200-watt",
+  "brand": "Kiwi",
+  "model": "KSI-6344",
+  "name": "Buharlı Ütü",
+  "variant": "2200 Watt",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "kiwi-ksi-6344-2200-w-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/kiwi-ksi-6344-2200-w-buharli-utu/past_kiwi-ksi-6344-2200-w-buharli-utu_00000070.jpg"
+  ],
+  "readable_evidence": [
+    "kiwi",
+    "Buharlı Ütü",
+    "2200 Watt",
+    "KOLAY KAYAR SERAMİK PLAKA",
+    "Zahmetsiz ve kusursuz sonuçlar"
+  ],
+  "issues": [
+    "The model number printed on the lower left beneath the soleplate illustration is blurry and difficult to verify with full certainty."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "2200 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWBqk1t1EeOVrD64FwHlyuL7C0SvII7v3IWCoODbYzoNYuP_bBMPZtCG0HYGUKFuqx2getg8OlqBp47T0llKfyMYE0Tw44UC6kOx--A7LleO2CEb1QvrB9lfHFC4HSIoBMFH-8vffB1MBkXQgm0Y_buDywHYMvXh0KdkEEqwih2Zug"
+    },
+    {
+      "label": "Taban",
+      "value": "Seramik",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWBqk1t1EeOVrD64FwHlyuL7C0SvII7v3IWCoODbYzoNYuP_bBMPZtCG0HYGUKFuqx2getg8OlqBp47T0llKfyMYE0Tw44UC6kOx--A7LleO2CEb1QvrB9lfHFC4HSIoBMFH-8vffB1MBkXQgm0Y_buDywHYMvXh0KdkEEqwih2Zug"
+    },
+    {
+      "label": "Şok Buhar",
+      "value": "90 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWBqk1t1EeOVrD64FwHlyuL7C0SvII7v3IWCoODbYzoNYuP_bBMPZtCG0HYGUKFuqx2getg8OlqBp47T0llKfyMYE0Tw44UC6kOx--A7LleO2CEb1QvrB9lfHFC4HSIoBMFH-8vffB1MBkXQgm0Y_buDywHYMvXh0KdkEEqwih2Zug"
+    },
+    {
+      "label": "Kireç Önleme",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaeWjog2N50dFRg0wmoqy_s0hB2b5LhZJkrHHZmZfgvggkKVvEWmaOOo66tEhtpy7ji9-ipnfqQ8RIBlbfN0gShiFWLd2jUtvss6T6DcSMgJfoOgH9uM7jY0k_95JzdNQaEkRfcQ5EIifogkHyWfQh6sfC9q8D6_HypXEKX7k689Lpk5zOYYiGJkxUN5s-a7FT3KwikluRB98nRGhOxcnezgITwFF79jZ4fA=="
+    },
+    {
+      "label": "Damlama Emniyeti",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaeWjog2N50dFRg0wmoqy_s0hB2b5LhZJkrHHZmZfgvggkKVvEWmaOOo66tEhtpy7ji9-ipnfqQ8RIBlbfN0gShiFWLd2jUtvss6T6DcSMgJfoOgH9uM7jY0k_95JzdNQaEkRfcQ5EIifogkHyWfQh6sfC9q8D6_HypXEKX7k689Lpk5zOYYiGJkxUN5s-a7FT3KwikluRB98nRGhOxcnezgITwFF79jZ4fA=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWBqk1t1EeOVrD64FwHlyuL7C0SvII7v3IWCoODbYzoNYuP_bBMPZtCG0HYGUKFuqx2getg8OlqBp47T0llKfyMYE0Tw44UC6kOx--A7LleO2CEb1QvrB9lfHFC4HSIoBMFH-8vffB1MBkXQgm0Y_buDywHYMvXh0KdkEEqwih2Zug",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaeWjog2N50dFRg0wmoqy_s0hB2b5LhZJkrHHZmZfgvggkKVvEWmaOOo66tEhtpy7ji9-ipnfqQ8RIBlbfN0gShiFWLd2jUtvss6T6DcSMgJfoOgH9uM7jY0k_95JzdNQaEkRfcQ5EIifogkHyWfQh6sfC9q8D6_HypXEKX7k689Lpk5zOYYiGJkxUN5s-a7FT3KwikluRB98nRGhOxcnezgITwFF79jZ4fA=="
+  ],
+  "verification_notes": [
+    "The model KSI-6344 corresponds exactly to the Kiwi 2200 W ceramic soleplate steam iron shown in Turkish retail listings."
+  ]
+}

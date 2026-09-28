@@ -1,0 +1,58 @@
+{
+  "folder": "fakir-mercy-2200-w",
+  "brand": "Fakir",
+  "model": "Mercy",
+  "name": "Steam iron",
+  "variant": "2200 W",
+  "identity_confidence": "high",
+  "source_folders": [
+    "fakir-mercy-2200-w-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/fakir-mercy-2200-w-buharli-utu/past_fakir-mercy-2200-w-buharli-utu_00000080.jpg"
+  ],
+  "readable_evidence": [
+    "2200 W POWER*",
+    "Dampfbügeleisen",
+    "Fakir",
+    "HAUSGERÄTE",
+    "MERCY",
+    "Steam iron"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "2200 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM4BZr_Epx0gw6XjlggggRKJ-6UoOOKCwYBPtvt8hnEBAL1ptTfsv6RjBlGCedJm3UsyNh4KRoal8aBjkEHTHuCgY25ia1f5l0CzpKpRqenZfgsCJGeSiU9z1YmgFpP9vMOXivRBqYmQzBrYFiBz-rrXLZ_SQyDPeT-aDC"
+    },
+    {
+      "label": "Taban Türü",
+      "value": "Seramik",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM4BZr_Epx0gw6XjlggggRKJ-6UoOOKCwYBPtvt8hnEBAL1ptTfsv6RjBlGCedJm3UsyNh4KRoal8aBjkEHTHuCgY25ia1f5l0CzpKpRqenZfgsCJGeSiU9z1YmgFpP9vMOXivRBqYmQzBrYFiBz-rrXLZ_SQyDPeT-aDC"
+    },
+    {
+      "label": "Şok Buhar Oranı",
+      "value": "130 g",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM4BZr_Epx0gw6XjlggggRKJ-6UoOOKCwYBPtvt8hnEBAL1ptTfsv6RjBlGCedJm3UsyNh4KRoal8aBjkEHTHuCgY25ia1f5l0CzpKpRqenZfgsCJGeSiU9z1YmgFpP9vMOXivRBqYmQzBrYFiBz-rrXLZ_SQyDPeT-aDC"
+    },
+    {
+      "label": "Sürekli Buhar Çıkışı",
+      "value": "25 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM4BZr_Epx0gw6XjlggggRKJ-6UoOOKCwYBPtvt8hnEBAL1ptTfsv6RjBlGCedJm3UsyNh4KRoal8aBjkEHTHuCgY25ia1f5l0CzpKpRqenZfgsCJGeSiU9z1YmgFpP9vMOXivRBqYmQzBrYFiBz-rrXLZ_SQyDPeT-aDC"
+    },
+    {
+      "label": "Su Tankı Kapasitesi",
+      "value": "350 ml",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM4BZr_Epx0gw6XjlggggRKJ-6UoOOKCwYBPtvt8hnEBAL1ptTfsv6RjBlGCedJm3UsyNh4KRoal8aBjkEHTHuCgY25ia1f5l0CzpKpRqenZfgsCJGeSiU9z1YmgFpP9vMOXivRBqYmQzBrYFiBz-rrXLZ_SQyDPeT-aDC"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM4BZr_Epx0gw6XjlggggRKJ-6UoOOKCwYBPtvt8hnEBAL1ptTfsv6RjBlGCedJm3UsyNh4KRoal8aBjkEHTHuCgY25ia1f5l0CzpKpRqenZfgsCJGeSiU9z1YmgFpP9vMOXivRBqYmQzBrYFiBz-rrXLZ_SQyDPeT-aDC",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWqnI8SrO0Td6k-9B4nIg9Cgy-kZlC0R01Bmi9teRS3Sry08oZq13EGQea3D7RiqikqQM5rNEWsMG2gNqBQVAHziUxZgl2ieBa_g_g-YD70teWIE15ReNvBPyrmnxH-4mN87YD39-pSZtlqNLSzaUEWn_CpTxdjlrZ"
+  ],
+  "verification_notes": []
+}

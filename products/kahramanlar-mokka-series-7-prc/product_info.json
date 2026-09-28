@@ -1,0 +1,52 @@
+{
+  "folder": "kahramanlar-mokka-series-7-prc",
+  "brand": "KAHRAMANLAR",
+  "model": "MOKKA SERIES",
+  "name": "Tencere Seti",
+  "variant": "7 PRÇ",
+  "identity_confidence": "high",
+  "source_folders": [
+    "kahramanlar-mokha-celik-tencere-seti"
+  ],
+  "source_images": [
+    "new_images/kahramanlar-mokha-celik-tencere-seti/past_kahramanlar-mokha-celik-tencere-seti_00000127.jpg",
+    "new_images/kahramanlar-mokha-celik-tencere-seti/past_kahramanlar-mokha-celik-tencere-seti_00000258.jpg"
+  ],
+  "readable_evidence": [
+    "KAHRAMANLAR",
+    "MOKKA SERIES",
+    "TENCERE SETİ 7 PRÇ",
+    "Alüminyum yanmaz yapışmaz yüzey"
+  ],
+  "issues": [
+    "The current folder name misspells 'MOKKA' as 'mokha' and identifies the material as 'celik' (steel), whereas the package states 'Alüminyum yanmaz yapışmaz yüzey' (aluminum non-stick)."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Parça Sayısı",
+      "value": "7 Parça",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN7rdr0MC-urZ0l939q5GJNJ8XKca28jkWx6hMKjIX1o_lVJT5nC18KykCcwyjgKidygBpydQ2bOjvoBtKohFsMupIHZ_odg1OWrlhMIUG_qPSuteDUes5_6IBlnsXjQk_7sk2XWyQfM0Bb7U="
+    },
+    {
+      "label": "Renk",
+      "value": "Siyah",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN7rdr0MC-urZ0l939q5GJNJ8XKca28jkWx6hMKjIX1o_lVJT5nC18KykCcwyjgKidygBpydQ2bOjvoBtKohFsMupIHZ_odg1OWrlhMIUG_qPSuteDUes5_6IBlnsXjQk_7sk2XWyQfM0Bb7U="
+    },
+    {
+      "label": "Ürün Türü",
+      "value": "Granit Tencere Seti",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3CP1YI4A7nghfR4Eyy3rLI4v6Lm3xs1o_7Rcg1Us4_guNdAa33fGPW2Z2sDDWcElk3mQL4XV870AjiQk6ADFeZl7TdSRSrOH6B6e1vQYy_pCfszaBlvV9gfjd3mTNBPL9WoguMCENEXkXV5EUR_olDA=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN7rdr0MC-urZ0l939q5GJNJ8XKca28jkWx6hMKjIX1o_lVJT5nC18KykCcwyjgKidygBpydQ2bOjvoBtKohFsMupIHZ_odg1OWrlhMIUG_qPSuteDUes5_6IBlnsXjQk_7sk2XWyQfM0Bb7U=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3CP1YI4A7nghfR4Eyy3rLI4v6Lm3xs1o_7Rcg1Us4_guNdAa33fGPW2Z2sDDWcElk3mQL4XV870AjiQk6ADFeZl7TdSRSrOH6B6e1vQYy_pCfszaBlvV9gfjd3mTNBPL9WoguMCENEXkXV5EUR_olDA=="
+  ],
+  "verification_notes": [
+    "Confirmed exact product matching packaging text: Kahramanlar Mokka Series 7-piece cookware set.",
+    "Resolved visual audit issue: The correct series name is confirmed as 'MOKKA' (not 'mokha'), and the cookware is non-stick/granite-coated aluminium rather than steel ('celik')."
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "folder": "cvs-dn-91060-85-watt",
+  "brand": "CVS",
+  "model": "DN 91060",
+  "name": "18'' Ayaklı Vantilatör Stand Fan",
+  "variant": "85 Watt",
+  "identity_confidence": "high",
+  "source_folders": [
+    "cvs-18-inc-ayakli-vantilator"
+  ],
+  "source_images": [
+    "new_images/cvs-18-inc-ayakli-vantilator/past_cvs-18-inc-ayakli-vantilator_00000470.jpg"
+  ],
+  "readable_evidence": [
+    "CVS",
+    "18'' INCH Ayaklı Vantilatör Stand Fan",
+    "85 Watt",
+    "6 Kanatlı Pervane"
+  ],
+  "issues": [
+    "A specific CVS alphanumeric model code is not printed on the visible front packaging face."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Motor Gücü",
+      "value": "85 Watt",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5bl0jxLXFQQ5fyOFE0Dpt8g23URn8LfXNADunt_0sRCWNVCuDMmn6Lr5aIHN6Eg_F0pfD_64qH4ZwTVR816BDWyLxrSqRnMsyrAt6NPg2hVnzDYPds31bSVFlGcMEG9fL-jbEMv6-eBUsksVS6sp9TkVUKQ=="
+    },
+    {
+      "label": "Pervane Çapı",
+      "value": "18'' (İnç)",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5bl0jxLXFQQ5fyOFE0Dpt8g23URn8LfXNADunt_0sRCWNVCuDMmn6Lr5aIHN6Eg_F0pfD_64qH4ZwTVR816BDWyLxrSqRnMsyrAt6NPg2hVnzDYPds31bSVFlGcMEG9fL-jbEMv6-eBUsksVS6sp9TkVUKQ=="
+    },
+    {
+      "label": "Pervane Kanat Sayısı",
+      "value": "6 Kanatlı Pervane",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5bl0jxLXFQQ5fyOFE0Dpt8g23URn8LfXNADunt_0sRCWNVCuDMmn6Lr5aIHN6Eg_F0pfD_64qH4ZwTVR816BDWyLxrSqRnMsyrAt6NPg2hVnzDYPds31bSVFlGcMEG9fL-jbEMv6-eBUsksVS6sp9TkVUKQ=="
+    },
+    {
+      "label": "Hız Kademesi",
+      "value": "4 Kademe Hız Ayarı",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5bl0jxLXFQQ5fyOFE0Dpt8g23URn8LfXNADunt_0sRCWNVCuDMmn6Lr5aIHN6Eg_F0pfD_64qH4ZwTVR816BDWyLxrSqRnMsyrAt6NPg2hVnzDYPds31bSVFlGcMEG9fL-jbEMv6-eBUsksVS6sp9TkVUKQ=="
+    },
+    {
+      "label": "Zaman Ayarı",
+      "value": "Zaman Ayarlı Kapanma",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5bl0jxLXFQQ5fyOFE0Dpt8g23URn8LfXNADunt_0sRCWNVCuDMmn6Lr5aIHN6Eg_F0pfD_64qH4ZwTVR816BDWyLxrSqRnMsyrAt6NPg2hVnzDYPds31bSVFlGcMEG9fL-jbEMv6-eBUsksVS6sp9TkVUKQ=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5bl0jxLXFQQ5fyOFE0Dpt8g23URn8LfXNADunt_0sRCWNVCuDMmn6Lr5aIHN6Eg_F0pfD_64qH4ZwTVR816BDWyLxrSqRnMsyrAt6NPg2hVnzDYPds31bSVFlGcMEG9fL-jbEMv6-eBUsksVS6sp9TkVUKQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqG_JGlV8uyUiyMGbd-4S277ep6K-73mgsKmcnsU5-Bz48Snx7GqpDeBZLrQq1wuJw_TZDf5tB9AMj7-eAaGQYYiNgZMfJQzTswnsXn75dEqzlJC3s5R0uvbwU1eiz51oUDKBaAzPccnPF8ZwuHB9kzOZi9gmx-vGVcjV8WpNfpnmwSQFgXA=="
+  ],
+  "verification_notes": [
+    "Ambalaj üzerinde yer alan 18 inç çap, 85 Watt motor gücü ve 6 kanatlı pervane özellikleri doğrultusunda ürün model kodunun CVS DN 91060 olduğu teyit edilmiştir."
+  ]
+}

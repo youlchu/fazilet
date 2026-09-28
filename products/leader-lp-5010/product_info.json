@@ -1,0 +1,54 @@
+{
+  "folder": "leader-lp-5010",
+  "brand": "LEADER",
+  "model": "LP-5010",
+  "name": "Taşınabilir Ses Sistemi",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "leader-lp-5010-tasinabilir-ses-sistemi"
+  ],
+  "source_images": [
+    "new_images/leader-lp-5010-tasinabilir-ses-sistemi/past_leader-lp-5010-tasinabilir-ses-sistemi_00000466.jpg"
+  ],
+  "readable_evidence": [
+    "LEADER",
+    "LP-5010",
+    "Taşınabilir Ses Sistemi",
+    "Portable Sound System",
+    "100W PMPO"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Bağlantı Türü",
+      "value": "Kablosuz",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe_m3FDD6yKylN2W5Vq3_40QlHWRaZYTDpoa7GzE9MgR0tQ3R4K7j7BS2SdsK-b-bdg9fYQc35V8UC-peFSQxpJI0dlupb1jzN3CCLoAC1AyDPltb9hT63Or9CkXpUfpIb_x3PgIEZpzHK2Td6_61E2sOXn8YMK_FvZBygeONfFPLN3Q=="
+    },
+    {
+      "label": "Renk",
+      "value": "Siyah",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe_m3FDD6yKylN2W5Vq3_40QlHWRaZYTDpoa7GzE9MgR0tQ3R4K7j7BS2SdsK-b-bdg9fYQc35V8UC-peFSQxpJI0dlupb1jzN3CCLoAC1AyDPltb9hT63Or9CkXpUfpIb_x3PgIEZpzHK2Td6_61E2sOXn8YMK_FvZBygeONfFPLN3Q=="
+    },
+    {
+      "label": "Ses Çıkış Türü",
+      "value": "Stereo",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe_m3FDD6yKylN2W5Vq3_40QlHWRaZYTDpoa7GzE9MgR0tQ3R4K7j7BS2SdsK-b-bdg9fYQc35V8UC-peFSQxpJI0dlupb1jzN3CCLoAC1AyDPltb9hT63Or9CkXpUfpIb_x3PgIEZpzHK2Td6_61E2sOXn8YMK_FvZBygeONfFPLN3Q=="
+    },
+    {
+      "label": "Taşınabilirlik",
+      "value": "Evet",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe_m3FDD6yKylN2W5Vq3_40QlHWRaZYTDpoa7GzE9MgR0tQ3R4K7j7BS2SdsK-b-bdg9fYQc35V8UC-peFSQxpJI0dlupb1jzN3CCLoAC1AyDPltb9hT63Or9CkXpUfpIb_x3PgIEZpzHK2Td6_61E2sOXn8YMK_FvZBygeONfFPLN3Q=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe_m3FDD6yKylN2W5Vq3_40QlHWRaZYTDpoa7GzE9MgR0tQ3R4K7j7BS2SdsK-b-bdg9fYQc35V8UC-peFSQxpJI0dlupb1jzN3CCLoAC1AyDPltb9hT63Or9CkXpUfpIb_x3PgIEZpzHK2Td6_61E2sOXn8YMK_FvZBygeONfFPLN3Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjlrcjt3mZExFMB3HUi--eIslbbTwGB-p3l1L1ZKOd52KzuEqhkvCHvCcBOgUfBqcL0mgUH4EYb3BV5x5ZqBL2kMoSqUK1p8WoUZafRfUSjC7W4UC6do6zwesR18CygosXdGkLAyD27_CeOZiPZjwWT-sYETL8dOFeKmXnAaKtHCCWq0_6KsQ-GgG5vTjQh8sidIXAP1TxqXoz3tb3TUuyMtw="
+  ],
+  "verification_notes": [
+    "Product verified across major Turkish retail marketplaces including Pazarama and Akakçe under the exact brand and model designation LEADER LP-5010 Taşınabilir Ses Sistemi."
+  ]
+}

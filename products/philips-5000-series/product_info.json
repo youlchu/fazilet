@@ -1,0 +1,45 @@
+{
+  "folder": "philips-5000-series",
+  "brand": "Philips",
+  "model": "5000 Series",
+  "name": "Buharlı Ütü",
+  "variant": "",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "philips-5000-dst7022-buharli-utu",
+    "philips-5000-dst7022-tefal-fv9e50-buharli-utu",
+    "philips-5000-tefal-fv5770-buharli-utu",
+    "philips-5000-tefal-fv8062-fv9e50-fv8042-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/philips-5000-dst7022-buharli-utu/past_philips-5000-dst7022-buharli-utu_00000091.jpg",
+    "new_images/philips-5000-dst7022-tefal-fv9e50-buharli-utu/past_philips-5000-dst7022-tefal-fv9e50-buharli-utu_00000092.jpg",
+    "new_images/philips-5000-tefal-fv5770-buharli-utu/past_philips-5000-tefal-fv5770-buharli-utu_00000089.jpg",
+    "new_images/philips-5000-tefal-fv8062-fv9e50-fv8042-buharli-utu/past_philips-5000-tefal-fv8062-fv9e50-fv8042-buharli-utu_00000088.jpg"
+  ],
+  "readable_evidence": [
+    "PHILIPS",
+    "Buharlı Ütü",
+    "5000 Series",
+    "Her zaman yüksek performans"
+  ],
+  "issues": [
+    "Shelf photo showing multiple stacked retail boxes; no single product is isolated as the primary subject.",
+    "Specific DST model numbers are illegible due to image blur and resolution.",
+    "Visible packaging indicates '5000 Series', which contradicts the 'dst7022' (a 7000 Series model) named in the folder.",
+    "Warehouse shelf storage photograph contains multiple distinct products; no single primary subject is present.",
+    "Exact model codes referenced in folder name (DST7022, FV9E50) are not clearly legible on the packaging boxes.",
+    "Shelf storage photograph captures multiple distinct iron models stacked together; there is no single primary subject.",
+    "Specific alphanumeric model codes (such as FV5770 or the specific Philips 5000 Series model number) are not legible on the visible package faces.",
+    "Shelf storage view containing multiple distinct steam iron packages; no single primary subject is featured.",
+    "Exact alphanumeric model codes (such as FV8062, FV9E50, FV8042) indicated in the folder name are not legibly printed on the visible package faces."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [],
+  "verification_notes": [
+    "Ambalaj üzerindeki spesifik model kodu (DST serisi varyant numarası) okunamadığı ve rafta birden fazla ürün bulunduğu için tam model doğrulanamamıştır."
+  ]
+}

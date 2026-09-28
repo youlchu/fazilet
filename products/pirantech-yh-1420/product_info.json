@@ -1,0 +1,54 @@
+{
+  "folder": "pirantech-yh-1420",
+  "brand": "PiranTech",
+  "model": "YH-1420",
+  "name": "Mutfak Robotu",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "pirantech-mutfak-robotu"
+  ],
+  "source_images": [
+    "new_images/pirantech-mutfak-robotu/past_pirantech-mutfak-robotu_00000455.jpg"
+  ],
+  "readable_evidence": [
+    "PiranTech",
+    "YH-1420",
+    "Mutfak Robotu"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "1700 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNCCyxFVVZEYfLxrmc3QTUKlcdCIPmqXO01Xuhe5s_Qq6bSkYGURwTqLTJAQnphN-e_kO3OiWpdclACrs_t0VaNpi76_wxX3EL5aT0ebJZBf5NoGdLbmJ3EXVVPZlXs98RfowE-zH4TBopyF_uQWSAFd74Sm9E68C73sNje1cCaOkyUyW-B7rQyouwYUnNH7quPOgZDx_R2KenRR0TL-azNSRaCUnZnsK_"
+    },
+    {
+      "label": "Hazne Kapasitesi",
+      "value": "1500 ml",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNCCyxFVVZEYfLxrmc3QTUKlcdCIPmqXO01Xuhe5s_Qq6bSkYGURwTqLTJAQnphN-e_kO3OiWpdclACrs_t0VaNpi76_wxX3EL5aT0ebJZBf5NoGdLbmJ3EXVVPZlXs98RfowE-zH4TBopyF_uQWSAFd74Sm9E68C73sNje1cCaOkyUyW-B7rQyouwYUnNH7quPOgZDx_R2KenRR0TL-azNSRaCUnZnsK_"
+    },
+    {
+      "label": "Hız Kademesi",
+      "value": "10 Kademe",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNCCyxFVVZEYfLxrmc3QTUKlcdCIPmqXO01Xuhe5s_Qq6bSkYGURwTqLTJAQnphN-e_kO3OiWpdclACrs_t0VaNpi76_wxX3EL5aT0ebJZBf5NoGdLbmJ3EXVVPZlXs98RfowE-zH4TBopyF_uQWSAFd74Sm9E68C73sNje1cCaOkyUyW-B7rQyouwYUnNH7quPOgZDx_R2KenRR0TL-azNSRaCUnZnsK_"
+    },
+    {
+      "label": "Bıçak Sayısı",
+      "value": "4 Bıçaklı",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNCCyxFVVZEYfLxrmc3QTUKlcdCIPmqXO01Xuhe5s_Qq6bSkYGURwTqLTJAQnphN-e_kO3OiWpdclACrs_t0VaNpi76_wxX3EL5aT0ebJZBf5NoGdLbmJ3EXVVPZlXs98RfowE-zH4TBopyF_uQWSAFd74Sm9E68C73sNje1cCaOkyUyW-B7rQyouwYUnNH7quPOgZDx_R2KenRR0TL-azNSRaCUnZnsK_"
+    },
+    {
+      "label": "Turbo Fonksiyonu",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNCCyxFVVZEYfLxrmc3QTUKlcdCIPmqXO01Xuhe5s_Qq6bSkYGURwTqLTJAQnphN-e_kO3OiWpdclACrs_t0VaNpi76_wxX3EL5aT0ebJZBf5NoGdLbmJ3EXVVPZlXs98RfowE-zH4TBopyF_uQWSAFd74Sm9E68C73sNje1cCaOkyUyW-B7rQyouwYUnNH7quPOgZDx_R2KenRR0TL-azNSRaCUnZnsK_"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNCCyxFVVZEYfLxrmc3QTUKlcdCIPmqXO01Xuhe5s_Qq6bSkYGURwTqLTJAQnphN-e_kO3OiWpdclACrs_t0VaNpi76_wxX3EL5aT0ebJZBf5NoGdLbmJ3EXVVPZlXs98RfowE-zH4TBopyF_uQWSAFd74Sm9E68C73sNje1cCaOkyUyW-B7rQyouwYUnNH7quPOgZDx_R2KenRR0TL-azNSRaCUnZnsK_"
+  ],
+  "verification_notes": []
+}

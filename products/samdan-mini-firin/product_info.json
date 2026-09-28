@@ -1,0 +1,33 @@
+{
+  "folder": "samdan-mini-firin",
+  "brand": "Şamdan",
+  "model": "",
+  "name": "Mini Fırın",
+  "variant": "",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "samdan-mini-firin"
+  ],
+  "source_images": [
+    "new_images/samdan-mini-firin/past_samdan-mini-firin_00000477.jpg"
+  ],
+  "readable_evidence": [
+    "Şamdan",
+    "Mini Fırın",
+    "PREMIUM QUALITY OVEN",
+    "TURBO FAN",
+    "İÇ AYDINLATMA"
+  ],
+  "issues": [
+    "Specific model number is not visible on the visible face of the packaging."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [],
+  "verification_notes": [
+    "The packaging displays general branding and marketing text ('Şamdan', 'Mini Fırın', 'PREMIUM QUALITY OVEN', 'TURBO FAN', 'İÇ AYDINLATMA') without revealing the specific model number.",
+    "Şamdan produces several mini oven models featuring turbo fan and internal lighting (such as the 2003 and 2005 series in various capacities), making it impossible to confirm the exact model without the specific model label."
+  ]
+}

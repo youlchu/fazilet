@@ -1,0 +1,58 @@
+{
+  "folder": "arzum-ar4087",
+  "brand": "Arzum",
+  "model": "AR4087",
+  "name": "Gırgır 2'si 1 Arada Dikey Elektrikli Süpürge",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "arzum-ar4067-girgir-2-in-1-sarjli-dikey-supurge"
+  ],
+  "source_images": [
+    "new_images/arzum-ar4067-girgir-2-in-1-sarjli-dikey-supurge/past_arzum-ar4067-girgir-2-in-1-sarjli-dikey-supurge_00000194.jpg"
+  ],
+  "readable_evidence": [
+    "arzum",
+    "Arzum AR4087 Gırgır 2’si1 Arada 550W Dikey Elektrikli Süpürge"
+  ],
+  "issues": [
+    "The folder name indicates model AR4067, but the listing title clearly specifies model AR4087."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Motor Gücü",
+      "value": "550 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTvNnBW8qKRUMoRcyOLNmLTX8bmkbE7jQWvHYbHYPhG2gRn_tpYpw7cny3v8YBFR2G3QYiCS8JCbG4bkcb_9SFRJC9590q5oYcHmpQb2fDFvDPEbBaIxBTiX2uZq5HaNb2QG_zK7uiAJmT57-Rmt04H1y3wxn50op-OJ6RFvo7cBPwTIpnGQ=="
+    },
+    {
+      "label": "Toz Haznesi Kapasitesi",
+      "value": "1,2 L",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTvNnBW8qKRUMoRcyOLNmLTX8bmkbE7jQWvHYbHYPhG2gRn_tpYpw7cny3v8YBFR2G3QYiCS8JCbG4bkcb_9SFRJC9590q5oYcHmpQb2fDFvDPEbBaIxBTiX2uZq5HaNb2QG_zK7uiAJmT57-Rmt04H1y3wxn50op-OJ6RFvo7cBPwTIpnGQ=="
+    },
+    {
+      "label": "Filtre Tipi",
+      "value": "Yıkanabilir filtre",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTvNnBW8qKRUMoRcyOLNmLTX8bmkbE7jQWvHYbHYPhG2gRn_tpYpw7cny3v8YBFR2G3QYiCS8JCbG4bkcb_9SFRJC9590q5oYcHmpQb2fDFvDPEbBaIxBTiX2uZq5HaNb2QG_zK7uiAJmT57-Rmt04H1y3wxn50op-OJ6RFvo7cBPwTIpnGQ=="
+    },
+    {
+      "label": "Kullanım Şekli",
+      "value": "Dikey ve el süpürgesi olarak 2'si 1 arada çift kullanım",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTvNnBW8qKRUMoRcyOLNmLTX8bmkbE7jQWvHYbHYPhG2gRn_tpYpw7cny3v8YBFR2G3QYiCS8JCbG4bkcb_9SFRJC9590q5oYcHmpQb2fDFvDPEbBaIxBTiX2uZq5HaNb2QG_zK7uiAJmT57-Rmt04H1y3wxn50op-OJ6RFvo7cBPwTIpnGQ=="
+    },
+    {
+      "label": "Kablo Uzunluğu",
+      "value": "5 m",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGP9fznjdT2jK_9fK5j4zygSCURtNtjH_41M8LCB7jbcbsl4qZPyixyI4y3Fdvnd0GHSwiKrsNj41Q3-PkugVwGg072K9lcwHCJm3qHrQD2Q_Z_fIWmltN0LqIPVRX_nOT-zfx_r4H-5nVq8fD0KfVFhRAAOH1dFEoZzPiTgVDpT37V_CJP5OuH097rEZ1T6h70vRk3qCxXO1Bv1vwwfH0GvTzp4W8EC1eh2XS07XtcaKCus4VGTxc7hbxi1KFWPRj0c9Y="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTvNnBW8qKRUMoRcyOLNmLTX8bmkbE7jQWvHYbHYPhG2gRn_tpYpw7cny3v8YBFR2G3QYiCS8JCbG4bkcb_9SFRJC9590q5oYcHmpQb2fDFvDPEbBaIxBTiX2uZq5HaNb2QG_zK7uiAJmT57-Rmt04H1y3wxn50op-OJ6RFvo7cBPwTIpnGQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGP9fznjdT2jK_9fK5j4zygSCURtNtjH_41M8LCB7jbcbsl4qZPyixyI4y3Fdvnd0GHSwiKrsNj41Q3-PkugVwGg072K9lcwHCJm3qHrQD2Q_Z_fIWmltN0LqIPVRX_nOT-zfx_r4H-5nVq8fD0KfVFhRAAOH1dFEoZzPiTgVDpT37V_CJP5OuH097rEZ1T6h70vRk3qCxXO1Bv1vwwfH0GvTzp4W8EC1eh2XS07XtcaKCus4VGTxc7hbxi1KFWPRj0c9Y="
+  ],
+  "verification_notes": [
+    "The candidate model AR4087 was verified via official manufacturer documentation and retail catalog entries, clarifying the discrepancy with the folder naming."
+  ]
+}

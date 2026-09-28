@@ -1,0 +1,54 @@
+{
+  "folder": "ozlife-vigo",
+  "brand": "Özlife",
+  "model": "VIGO",
+  "name": "3 Parça Granit Çaydanlık Seti",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "oz-life-vico-3-parca-cezve-seti"
+  ],
+  "source_images": [
+    "new_images/oz-life-vico-3-parca-cezve-seti/past_oz-life-vico-3-parca-cezve-seti_00000509.jpg"
+  ],
+  "readable_evidence": [
+    "ÖZ life",
+    "VIGO",
+    "3 Parça Granit Çaydanlık Seti"
+  ],
+  "issues": [
+    "The package clearly reads 'VIGO' rather than 'vico', and '3 Parça Granit Çaydanlık Seti' rather than 'cezve seti'.",
+    "Image is oriented sideways (rotated 90 degrees counter-clockwise)."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Malzeme",
+      "value": "Granit",
+      "source_url": "https://www.e-celik.net/UserFiles/Fotograflar/org/5393-ozlife-cayd-aile-boy-vigo-granit-siyah-cgv-1030-1.jpg"
+    },
+    {
+      "label": "Üst Demlik Hacmi",
+      "value": "1,40 Lt",
+      "source_url": "https://www.e-celik.net/UserFiles/Fotograflar/org/5393-ozlife-cayd-aile-boy-vigo-granit-siyah-cgv-1030-1.jpg"
+    },
+    {
+      "label": "Alt Demlik Hacmi",
+      "value": "2,20 Lt",
+      "source_url": "https://www.e-celik.net/UserFiles/Fotograflar/org/5393-ozlife-cayd-aile-boy-vigo-granit-siyah-cgv-1030-1.jpg"
+    },
+    {
+      "label": "Bulaşık Makinesinde Yıkanabilirlik",
+      "value": "Yıkanabilir",
+      "source_url": "https://www.e-celik.net/UserFiles/Fotograflar/org/5393-ozlife-cayd-aile-boy-vigo-granit-siyah-cgv-1030-1.jpg"
+    }
+  ],
+  "source_urls": [
+    "https://www.e-celik.net/UserFiles/Fotograflar/org/5393-ozlife-cayd-aile-boy-vigo-granit-siyah-cgv-1030-1.jpg"
+  ],
+  "verification_notes": [
+    "Ürün pazarda 'Özlife Vigo Granit Çaydanlık Takımı / Seti' olarak listelenmektedir."
+  ]
+}

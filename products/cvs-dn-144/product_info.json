@@ -1,0 +1,49 @@
+{
+  "folder": "cvs-dn-144",
+  "brand": "CVS",
+  "model": "DN 144",
+  "name": "Omuz ve Boyun Masaj Aleti",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "cvs-dn-144-sihirli-yogun-masaj-aleti"
+  ],
+  "source_images": [
+    "new_images/cvs-dn-144-sihirli-yogun-masaj-aleti/past_cvs-dn-144-sihirli-yogun-masaj-aleti_00000446.jpg"
+  ],
+  "readable_evidence": [
+    "CVS",
+    "DN 144",
+    "OMUZ VE BOYUN MASAJ ALETİ"
+  ],
+  "issues": [
+    "The current folder specifies 'sihirli-yogun-masaj-aleti', but the box text explicitly reads 'OMUZ VE BOYUN MASAJ ALETİ'.",
+    "A background box is partially visible at the top showing another CVS item (possibly DN 7501), but its details are too blurry and cropped to conclusively catalog."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Ürün Tipi",
+      "value": "Omuz ve boyun masaj aleti",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8_zgTf00lCHIKpelxJ8rvToGiEKKvFnTKVetAA159qpm-_1ksD5Wi65gX0szFIxxIC8YymhhEeByQIGFtlhh4TFzVnKC8QBMxND8MPQq1M-AVy0lQJV6XKmVxXeUidNBfkW6HsA3BqRCv_SqN-jwt3kf7aYMxeKlGVjwwCuk="
+    },
+    {
+      "label": "Çalışma Tipi",
+      "value": "Şarjlı",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8_zgTf00lCHIKpelxJ8rvToGiEKKvFnTKVetAA159qpm-_1ksD5Wi65gX0szFIxxIC8YymhhEeByQIGFtlhh4TFzVnKC8QBMxND8MPQq1M-AVy0lQJV6XKmVxXeUidNBfkW6HsA3BqRCv_SqN-jwt3kf7aYMxeKlGVjwwCuk="
+    },
+    {
+      "label": "Uygulama Bölgesi",
+      "value": "Omuz ve boyun",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8_zgTf00lCHIKpelxJ8rvToGiEKKvFnTKVetAA159qpm-_1ksD5Wi65gX0szFIxxIC8YymhhEeByQIGFtlhh4TFzVnKC8QBMxND8MPQq1M-AVy0lQJV6XKmVxXeUidNBfkW6HsA3BqRCv_SqN-jwt3kf7aYMxeKlGVjwwCuk="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8_zgTf00lCHIKpelxJ8rvToGiEKKvFnTKVetAA159qpm-_1ksD5Wi65gX0szFIxxIC8YymhhEeByQIGFtlhh4TFzVnKC8QBMxND8MPQq1M-AVy0lQJV6XKmVxXeUidNBfkW6HsA3BqRCv_SqN-jwt3kf7aYMxeKlGVjwwCuk="
+  ],
+  "verification_notes": [
+    "The model DN 144 / DN144 is confirmed as CVS Şarjlı Omuz ve Boyun Masaj Aleti, consistent with the box text."
+  ]
+}

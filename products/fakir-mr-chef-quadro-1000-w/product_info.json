@@ -1,0 +1,57 @@
+{
+  "folder": "fakir-mr-chef-quadro-1000-w",
+  "brand": "Fakir",
+  "model": "MR CHEF QUADRO",
+  "name": "Stabmixer Set / Blender Set",
+  "variant": "1000 W",
+  "identity_confidence": "high",
+  "source_folders": [
+    "fakir-mr-chef-quadro-blender-seti"
+  ],
+  "source_images": [
+    "new_images/fakir-mr-chef-quadro-blender-seti/past_fakir-mr-chef-quadro-blender-seti_00000459.jpg"
+  ],
+  "readable_evidence": [
+    "Fakir HAUSGERÄTE",
+    "MR CHEF QUADRO",
+    "Stabmixer Set",
+    "Blender Set",
+    "1000 W POWER*"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Motor Gücü",
+      "value": "1000 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBgDkN33FUTLcSdumtAVFgOmz-K11Nai_M2TkSKMM214IkZZ_Yaz8ZtnBpVHzlLFlMkIaLNhT05AAuSEdWHW3Zn0Bhn-TDDTu9AQhNjC90dkI5omKcdItp-xYk_eO_R8801p9LnEBwKp_7yXHKj3Y="
+    },
+    {
+      "label": "Hız Kademesi",
+      "value": "2 kademeli hız ve turbo fonksiyonu",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBgDkN33FUTLcSdumtAVFgOmz-K11Nai_M2TkSKMM214IkZZ_Yaz8ZtnBpVHzlLFlMkIaLNhT05AAuSEdWHW3Zn0Bhn-TDDTu9AQhNjC90dkI5omKcdItp-xYk_eO_R8801p9LnEBwKp_7yXHKj3Y="
+    },
+    {
+      "label": "Temizlik",
+      "value": "Bulaşık makinesinde yıkanabilir parçalar",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBgDkN33FUTLcSdumtAVFgOmz-K11Nai_M2TkSKMM214IkZZ_Yaz8ZtnBpVHzlLFlMkIaLNhT05AAuSEdWHW3Zn0Bhn-TDDTu9AQhNjC90dkI5omKcdItp-xYk_eO_R8801p9LnEBwKp_7yXHKj3Y="
+    },
+    {
+      "label": "Doğrayıcı Hazne Kapasitesi",
+      "value": "1,5 litre",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOeOvdD0a9z_Nggb_ZfeQ8j6dpBuAgKdv5sBVs87bYkchiwudg1O5flKnpyHIMRLAFJVh3cgaABn2pRefOkNNIg-g7ZmgZ6JMK4JJV7b-DpqWEAm3JKU_pjwNwKebGdlHHaXoRmT9UxEUkSk7uYAOzzwHhq4jURHX41DynVUK4aNKGjGAU3vljWQ=="
+    },
+    {
+      "label": "Ölçü Kabı Kapasitesi",
+      "value": "900 ml",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOeOvdD0a9z_Nggb_ZfeQ8j6dpBuAgKdv5sBVs87bYkchiwudg1O5flKnpyHIMRLAFJVh3cgaABn2pRefOkNNIg-g7ZmgZ6JMK4JJV7b-DpqWEAm3JKU_pjwNwKebGdlHHaXoRmT9UxEUkSk7uYAOzzwHhq4jURHX41DynVUK4aNKGjGAU3vljWQ=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBgDkN33FUTLcSdumtAVFgOmz-K11Nai_M2TkSKMM214IkZZ_Yaz8ZtnBpVHzlLFlMkIaLNhT05AAuSEdWHW3Zn0Bhn-TDDTu9AQhNjC90dkI5omKcdItp-xYk_eO_R8801p9LnEBwKp_7yXHKj3Y=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOeOvdD0a9z_Nggb_ZfeQ8j6dpBuAgKdv5sBVs87bYkchiwudg1O5flKnpyHIMRLAFJVh3cgaABn2pRefOkNNIg-g7ZmgZ6JMK4JJV7b-DpqWEAm3JKU_pjwNwKebGdlHHaXoRmT9UxEUkSk7uYAOzzwHhq4jURHX41DynVUK4aNKGjGAU3vljWQ=="
+  ],
+  "verification_notes": []
+}

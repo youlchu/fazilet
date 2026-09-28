@@ -1,0 +1,40 @@
+{
+  "folder": "tefal-puregliss-3000-50-280",
+  "brand": "Tefal",
+  "model": "Puregliss",
+  "name": "Steam iron",
+  "variant": "3000 50 280",
+  "identity_confidence": "high",
+  "source_folders": [
+    "philips-5000-tefal-fv8062-fv9e50-fv8042-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/philips-5000-tefal-fv8062-fv9e50-fv8042-buharli-utu/past_philips-5000-tefal-fv8062-fv9e50-fv8042-buharli-utu_00000088.jpg"
+  ],
+  "readable_evidence": [
+    "Tefal",
+    "PUREGLISS",
+    "QUICK & EFFICIENT",
+    "3000",
+    "50",
+    "280",
+    "AUTO OFF"
+  ],
+  "issues": [
+    "Shelf storage view containing multiple distinct steam iron packages; no single primary subject is featured.",
+    "Exact alphanumeric model codes (such as FV8062, FV9E50, FV8042) indicated in the folder name are not legibly printed on the visible package faces."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6pVJRRQXnJ4I0PmIcLekeoyA6L1itbGRuxfVzRNlCc2T7f_GtwiU7moIOSw0H3OxdlWyTQda3YIXLnDOmZm35KyA5Jb4CaZLzP0w7kt1e_9eno2RmOrgUnvnU_CD_38u07H-CcCXV-j22O_XM5sVcU26h71kD",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHac3rmAn6-mqTf5T5m7B8uxcGU9NuYorjy9K5O2wdCFVAY710jsl1NW-XqbKjbkuWWGiLlqFqDyYa0HVnlJDFzbPYDg8da6b0EvUOBs2rl9Trj32lr7MXcJI3CDjifv888_grv9OYXPZwK-DX1m3qtjsOYRlRx"
+  ],
+  "verification_notes": [
+    "The package clearly displays Tefal Puregliss with 3000 W power, 50 g/min continuous steam, 280 g/min steam boost, and Auto Off.",
+    "Multiple distinct models in the Tefal Puregliss product range (including FV8062, FV8064, and FV8066) share these identical specifications.",
+    "Because the exact alphanumeric model code cannot be legibly verified from the visible packaging, the product identity remains unverified."
+  ]
+}

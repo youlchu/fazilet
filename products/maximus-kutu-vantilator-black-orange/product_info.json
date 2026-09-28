@@ -1,0 +1,28 @@
+{
+  "folder": "maximus-kutu-vantilator-black-orange",
+  "brand": "MAXIMUS",
+  "model": "",
+  "name": "Kutu Vantilatör",
+  "variant": "Black / Orange",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "maximus-kutu-vantilator"
+  ],
+  "source_images": [
+    "new_images/maximus-kutu-vantilator/past_maximus-kutu-vantilator_00000421.jpg"
+  ],
+  "readable_evidence": [
+    "MAXIMUS"
+  ],
+  "issues": [
+    "Specific model number is not visible on the exterior of the fan."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [],
+  "verification_notes": [
+    "A MAXIMUS box fan (kutu vantilatör) in a black and orange color variant could not be matched to an exact model number or product listing in Turkish retailer or manufacturer catalogs."
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "folder": "falez-rapid-8-lt",
+  "brand": "Falez",
+  "model": "RAPID",
+  "name": "Falez RAPID 8 LT düdüklü tencere",
+  "variant": "8 LT",
+  "identity_confidence": "high",
+  "source_folders": [
+    "falez-rapid-8-l-duduklu-tencere"
+  ],
+  "source_images": [
+    "new_images/falez-rapid-8-l-duduklu-tencere/past_falez-rapid-8-l-duduklu-tencere_00000274.jpg"
+  ],
+  "readable_evidence": [
+    "falez",
+    "RAPID",
+    "8 LT"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Gövde Malzemesi",
+      "value": "18/10 krom-nikel paslanmaz çelik",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvsW2UMMoizx5HK468baP2bPlh_MEFLyFwXZXsfWvbN8wr9_byiBxNr4nbj6Mm7JhXRDgjJvdKVrLO46znObsyfKHyrtmNobmfP5wMLV3IqCh6Xw1YUoxouGhD"
+    },
+    {
+      "label": "Basınç Kademesi",
+      "value": "İki kademeli basınç ayarı",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvsW2UMMoizx5HK468baP2bPlh_MEFLyFwXZXsfWvbN8wr9_byiBxNr4nbj6Mm7JhXRDgjJvdKVrLO46znObsyfKHyrtmNobmfP5wMLV3IqCh6Xw1YUoxouGhD"
+    },
+    {
+      "label": "Emniyet Sistemi",
+      "value": "Çift emniyet supabı",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvsW2UMMoizx5HK468baP2bPlh_MEFLyFwXZXsfWvbN8wr9_byiBxNr4nbj6Mm7JhXRDgjJvdKVrLO46znObsyfKHyrtmNobmfP5wMLV3IqCh6Xw1YUoxouGhD"
+    },
+    {
+      "label": "Kulp",
+      "value": "Ergonomik, ısıya dayanıklı bakalit kulplar",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvsW2UMMoizx5HK468baP2bPlh_MEFLyFwXZXsfWvbN8wr9_byiBxNr4nbj6Mm7JhXRDgjJvdKVrLO46znObsyfKHyrtmNobmfP5wMLV3IqCh6Xw1YUoxouGhD"
+    },
+    {
+      "label": "Taban Özelliği",
+      "value": "Homojen pişirme sağlayan çok katmanlı taban",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvsW2UMMoizx5HK468baP2bPlh_MEFLyFwXZXsfWvbN8wr9_byiBxNr4nbj6Mm7JhXRDgjJvdKVrLO46znObsyfKHyrtmNobmfP5wMLV3IqCh6Xw1YUoxouGhD"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvsW2UMMoizx5HK468baP2bPlh_MEFLyFwXZXsfWvbN8wr9_byiBxNr4nbj6Mm7JhXRDgjJvdKVrLO46znObsyfKHyrtmNobmfP5wMLV3IqCh6Xw1YUoxouGhD"
+  ],
+  "verification_notes": []
+}

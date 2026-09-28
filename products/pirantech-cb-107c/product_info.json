@@ -1,0 +1,62 @@
+{
+  "folder": "pirantech-cb-107c",
+  "brand": "Pirantech",
+  "model": "CB-107C",
+  "name": "Çok Fonksiyonlu Buharlı Temizlik Makinesi",
+  "variant": "",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "pirantech-cb-107-buharli-temizleyici"
+  ],
+  "source_images": [
+    "new_images/pirantech-cb-107-buharli-temizleyici/past_pirantech-cb-107-buharli-temizleyici_00000503.jpg"
+  ],
+  "readable_evidence": [
+    "CB-107",
+    "Buharlı Temizlik Makin",
+    "17 aksesuar",
+    "Buhar Gücüyle Gerçek Temizlik",
+    "Pirantech logo on device"
+  ],
+  "issues": [
+    "Model number at the bottom right is partially cut off by the edge of the frame, showing 'CB-107' followed by the left curve of an additional digit ('0'), corresponding to the 17-accessory Pirantech CB-1070.",
+    "A second box is partially visible at the top edge showing specifications ('MAX 170°C', '1,8 L(MAX 2,0 L)'), but lacks readable brand and model identification."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Isıtma Kapasitesi",
+      "value": "2000 W",
+      "source_url": "https://www.mediamarkt.com.tr/tr/product/_pirantech-cb-107c-%C3%A7ok-fonksiyonlu-buharl%C4%B1-temizlik-makinesi-beyaz-1238380.html"
+    },
+    {
+      "label": "Buhar Basıncı",
+      "value": "4 bar",
+      "source_url": "https://www.mediamarkt.com.tr/tr/product/_pirantech-cb-107c-%C3%A7ok-fonksiyonlu-buharl%C4%B1-temizlik-makinesi-beyaz-1238380.html"
+    },
+    {
+      "label": "Su Haznesi Kapasitesi",
+      "value": "1.5 l",
+      "source_url": "https://www.mediamarkt.com.tr/tr/product/_pirantech-cb-107c-%C3%A7ok-fonksiyonlu-buharl%C4%B1-temizlik-makinesi-beyaz-1238380.html"
+    },
+    {
+      "label": "Buhar Sıcaklığı",
+      "value": "110°C",
+      "source_url": "https://www.mediamarkt.com.tr/tr/product/_pirantech-cb-107c-%C3%A7ok-fonksiyonlu-buharl%C4%B1-temizlik-makinesi-beyaz-1238380.html"
+    },
+    {
+      "label": "Kablo Uzunluğu",
+      "value": "5 metre",
+      "source_url": "https://www.mediamarkt.com.tr/tr/product/_pirantech-cb-107c-%C3%A7ok-fonksiyonlu-buharl%C4%B1-temizlik-makinesi-beyaz-1238380.html"
+    }
+  ],
+  "source_urls": [
+    "https://www.mediamarkt.com.tr/tr/product/_pirantech-cb-107c-%C3%A7ok-fonksiyonlu-buharl%C4%B1-temizlik-makinesi-beyaz-1238380.html",
+    "https://www.dr.com.tr/elektronik/ev-aletleri/pirantech-cb-107c-2000-w-beyaz-buharli-temizleyici/urunno=0002221659001"
+  ],
+  "verification_notes": [
+    "The candidate model 'CB-1070' has been corrected to 'CB-107C'. The partially cut-off character following 'CB-107' represents the letter 'C' rather than the digit '0'."
+  ]
+}

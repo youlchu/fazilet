@@ -1,0 +1,63 @@
+{
+  "folder": "fakir-kaave-mono",
+  "brand": "Fakir",
+  "model": "Kaave Mono",
+  "name": "Kaave Mono Türk Kahvesi Makinesi",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "cvs-dn-2345-kettle-ve-fakir-kaave-mono",
+    "fakir-kaave-mono-turk-kahvesi-makinesi"
+  ],
+  "source_images": [
+    "new_images/cvs-dn-2345-kettle-ve-fakir-kaave-mono/past_cvs-dn-2345-kettle-ve-fakir-kaave-mono_00000342.jpg",
+    "new_images/fakir-kaave-mono-turk-kahvesi-makinesi/past_fakir-kaave-mono-turk-kahvesi-makinesi_00000289.jpg"
+  ],
+  "readable_evidence": [
+    "Fakir HAUSGERÄTE",
+    "KAAVE MONO",
+    "Türkische Kaffeemaschine",
+    "Turkish Coffee Maker"
+  ],
+  "issues": [
+    "The photograph depicts two separate retail products stacked together (CVS DN 2345 kettle and Fakir Kaave Mono coffee maker) rather than a single primary subject or an official manufacturer bundle."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Kapasite",
+      "value": "4 fincan",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETB5FO_2gUVnV6etldtdEx9U9VArUCL_5CZNqH6Ky9zisXGpdXtJMES50M65lVCYaQBJkooiT0UfHwLMxtxSPEjldpRGdB-H8vkaOQxGq_51dg_9iahAAhLyAFR0bJDNLmdqurXJpyTtahBW0wF4g4UA7glo4="
+    },
+    {
+      "label": "Su Seviye Göstergesi",
+      "value": "Var (Su seviye göstergeli hazne)",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETB5FO_2gUVnV6etldtdEx9U9VArUCL_5CZNqH6Ky9zisXGpdXtJMES50M65lVCYaQBJkooiT0UfHwLMxtxSPEjldpRGdB-H8vkaOQxGq_51dg_9iahAAhLyAFR0bJDNLmdqurXJpyTtahBW0wF4g4UA7glo4="
+    },
+    {
+      "label": "Güç",
+      "value": "535 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLDtP276eIxEQX_1sGyqPXwO_8uHXjUKHKwS6d9r07gvrkhGM9XKQZ32rLBWkXwe0yxCvbyCU3Da5SZv-luMo8Hu3XyxmiMeRK-hdaA7li2TcYPfCXkajwHLwbtlD0-ZSOGNv1GI3KorN_krZ-hY2oSDCefiQnv_c0KReGNpvByp1L7rZJpw=="
+    },
+    {
+      "label": "Taşma Emniyeti",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLDtP276eIxEQX_1sGyqPXwO_8uHXjUKHKwS6d9r07gvrkhGM9XKQZ32rLBWkXwe0yxCvbyCU3Da5SZv-luMo8Hu3XyxmiMeRK-hdaA7li2TcYPfCXkajwHLwbtlD0-ZSOGNv1GI3KorN_krZ-hY2oSDCefiQnv_c0KReGNpvByp1L7rZJpw=="
+    },
+    {
+      "label": "Sesli İkaz",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLDtP276eIxEQX_1sGyqPXwO_8uHXjUKHKwS6d9r07gvrkhGM9XKQZ32rLBWkXwe0yxCvbyCU3Da5SZv-luMo8Hu3XyxmiMeRK-hdaA7li2TcYPfCXkajwHLwbtlD0-ZSOGNv1GI3KorN_krZ-hY2oSDCefiQnv_c0KReGNpvByp1L7rZJpw=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETB5FO_2gUVnV6etldtdEx9U9VArUCL_5CZNqH6Ky9zisXGpdXtJMES50M65lVCYaQBJkooiT0UfHwLMxtxSPEjldpRGdB-H8vkaOQxGq_51dg_9iahAAhLyAFR0bJDNLmdqurXJpyTtahBW0wF4g4UA7glo4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLDtP276eIxEQX_1sGyqPXwO_8uHXjUKHKwS6d9r07gvrkhGM9XKQZ32rLBWkXwe0yxCvbyCU3Da5SZv-luMo8Hu3XyxmiMeRK-hdaA7li2TcYPfCXkajwHLwbtlD0-ZSOGNv1GI3KorN_krZ-hY2oSDCefiQnv_c0KReGNpvByp1L7rZJpw=="
+  ],
+  "verification_notes": [
+    "The source image shows two separate retail items stacked together; this entry verifies the Fakir Kaave Mono Turkish coffee maker.",
+    "The packaging features German and English subtitles ('Türkische Kaffeemaschine / Turkish Coffee Maker') alongside the primary product name."
+  ]
+}

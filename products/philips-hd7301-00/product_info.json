@@ -1,0 +1,61 @@
+{
+  "folder": "philips-hd7301-00",
+  "brand": "PHILIPS",
+  "model": "HD7301/00",
+  "name": "Tea Maker",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "philips-tea-maker-3000-series-cay-makinesi"
+  ],
+  "source_images": [
+    "new_images/philips-tea-maker-3000-series-cay-makinesi/past_philips-tea-maker-3000-series-cay-makinesi_00000472.jpg",
+    "new_images/philips-tea-maker-3000-series-cay-makinesi/past_philips-tea-maker-3000-series-cay-makinesi_00000473.jpg"
+  ],
+  "readable_evidence": [
+    "PHILIPS",
+    "Tea Maker",
+    "3000 Series"
+  ],
+  "issues": [
+    "Specific alphanumeric model number (e.g. HDxxxx) is not visible on the front panel of the box.",
+    "Images are near-duplicate shots of the front of the packaging."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Su Isıtıcı Kapasitesi",
+      "value": "1,9 L",
+      "source_url": "https://www.philips.com.tr/c-p/HD7301_00/daily-collection-cay-makinesi"
+    },
+    {
+      "label": "Güç",
+      "value": "1700 W",
+      "source_url": "https://www.philips.com.tr/c-p/HD7301_00/daily-collection-cay-makinesi"
+    },
+    {
+      "label": "Sıcak Tutma",
+      "value": "Otomatik sıcak tutma sistemi",
+      "source_url": "https://www.philips.com.tr/c-p/HD7301_00/daily-collection-cay-makinesi"
+    },
+    {
+      "label": "Demlik Malzemesi",
+      "value": "Cam demlik",
+      "source_url": "https://www.philips.com.tr/c-p/HD7301_00/daily-collection-cay-makinesi"
+    },
+    {
+      "label": "Kullanım ve Temizlik",
+      "value": "Kolay kullanım ve hızlı temizlik",
+      "source_url": "https://www.philips.com.tr/c-p/HD7301_00/daily-collection-cay-makinesi"
+    }
+  ],
+  "source_urls": [
+    "https://www.philips.com.tr/c-p/HD7301_00/daily-collection-cay-makinesi"
+  ],
+  "verification_notes": [
+    "Packaging marked 'PHILIPS Tea Maker 3000 Series' corresponds to model HD7301/00, historically also known under the Daily Collection series.",
+    "The model designation was corrected from '3000 Series' to the exact alphanumeric model number HD7301/00 based on manufacturer catalog records."
+  ]
+}

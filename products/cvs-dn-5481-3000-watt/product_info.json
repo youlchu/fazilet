@@ -1,0 +1,57 @@
+{
+  "folder": "cvs-dn-5481-3000-watt",
+  "brand": "CVS",
+  "model": "DN 5481",
+  "name": "Alberto Seramik Tabanlı Buharlı Ütü",
+  "variant": "3000 WATT",
+  "identity_confidence": "high",
+  "source_folders": [
+    "cvs-dn-5481-alberto-3000-w-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/cvs-dn-5481-alberto-3000-w-buharli-utu/past_cvs-dn-5481-alberto-3000-w-buharli-utu_00000075.jpg"
+  ],
+  "readable_evidence": [
+    "CVS",
+    "ALBERTO",
+    "DN 5481",
+    "SERAMİK TABANLI BUHARLI ÜTÜ",
+    "3000 WATT"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "Maksimum 3000 Watt",
+      "source_url": "https://www.trendyol.com/cvs/dn-5481-alberto-seramik-tabanli-3000-w-utu-p-875225139"
+    },
+    {
+      "label": "Taban Türü",
+      "value": "Seramik",
+      "source_url": "https://www.trendyol.com/cvs/dn-5481-alberto-seramik-tabanli-3000-w-utu-p-875225139"
+    },
+    {
+      "label": "Şok Buhar",
+      "value": "160 g/dk",
+      "source_url": "https://www.trendyol.com/cvs/dn-5481-alberto-seramik-tabanli-3000-w-utu-p-875225139"
+    },
+    {
+      "label": "Sürekli Buhar",
+      "value": "25 g/dk",
+      "source_url": "https://www.trendyol.com/cvs/dn-5481-alberto-seramik-tabanli-3000-w-utu-p-875225139"
+    },
+    {
+      "label": "Su Tankı Kapasitesi",
+      "value": "360 ml",
+      "source_url": "https://www.hepsiburada.com/cvs-dn-5481-alberto-3000w-utu-pm-HBC000078O355"
+    }
+  ],
+  "source_urls": [
+    "https://www.trendyol.com/cvs/dn-5481-alberto-seramik-tabanli-3000-w-utu-p-875225139",
+    "https://www.hepsiburada.com/cvs-dn-5481-alberto-3000w-utu-pm-HBC000078O355"
+  ],
+  "verification_notes": []
+}

@@ -1,0 +1,29 @@
+{
+  "folder": "kiwi-air-cooler",
+  "brand": "Kiwi",
+  "model": "",
+  "name": "Air Cooler",
+  "variant": "",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "kiwi-hava-sogutucu"
+  ],
+  "source_images": [
+    "new_images/kiwi-hava-sogutucu/past_kiwi-hava-sogutucu_00000424.jpg"
+  ],
+  "readable_evidence": [
+    "kiwi"
+  ],
+  "issues": [
+    "The primary subject is a Kiwi air cooler, but its specific model number is not printed or visible on the front of the unit."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [],
+  "verification_notes": [
+    "The brand Kiwi is identifiable, but the specific model number is not visible on the unit.",
+    "Kiwi offers several evaporative air cooler models (such as KFAN-7494, KFAN-7495, and KFAN-7497), making exact identification impossible without visible model designations or differentiating visual evidence."
+  ]
+}

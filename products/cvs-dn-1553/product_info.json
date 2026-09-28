@@ -1,0 +1,55 @@
+{
+  "folder": "cvs-dn-1553",
+  "brand": "CVS",
+  "model": "DN 1553",
+  "name": "DIGITEA Isı Ayarlı Dijital Çay Makinesi",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "cvs-dn-1553-digitea-dijital-cay-makinesi"
+  ],
+  "source_images": [
+    "new_images/cvs-dn-1553-digitea-dijital-cay-makinesi/past_cvs-dn-1553-digitea-dijital-cay-makinesi_00000414.jpg"
+  ],
+  "readable_evidence": [
+    "CVS",
+    "DIGITEA",
+    "DN 1553",
+    "Isı Ayarlı Dijital Çay Makinesi"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "1500 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgkcx7k6Q2AmJK82qruJrB-bQGemUnDkas71HnqY48rI3HJj76U9OYKifpLiBkXCePHgZWsYxgmh1bz4mW5EoD7r9ZzPZMRcywWczf13bIEemvROlhKinfefEsldg_IUuCuOxzpJCoLRfUad4kfxctHcnKPGdVZSEBKAJ_E4e3XRXcRxmq2_FmVW551lIBgDQAn3CqtQGU5g=="
+    },
+    {
+      "label": "Demlik Kapasitesi",
+      "value": "1.0 lt",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgkcx7k6Q2AmJK82qruJrB-bQGemUnDkas71HnqY48rI3HJj76U9OYKifpLiBkXCePHgZWsYxgmh1bz4mW5EoD7r9ZzPZMRcywWczf13bIEemvROlhKinfefEsldg_IUuCuOxzpJCoLRfUad4kfxctHcnKPGdVZSEBKAJ_E4e3XRXcRxmq2_FmVW551lIBgDQAn3CqtQGU5g=="
+    },
+    {
+      "label": "Su Isıtıcı Kapasitesi",
+      "value": "1.7 lt",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgkcx7k6Q2AmJK82qruJrB-bQGemUnDkas71HnqY48rI3HJj76U9OYKifpLiBkXCePHgZWsYxgmh1bz4mW5EoD7r9ZzPZMRcywWczf13bIEemvROlhKinfefEsldg_IUuCuOxzpJCoLRfUad4kfxctHcnKPGdVZSEBKAJ_E4e3XRXcRxmq2_FmVW551lIBgDQAn3CqtQGU5g=="
+    },
+    {
+      "label": "Demlik Malzemesi",
+      "value": "Cam",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgkcx7k6Q2AmJK82qruJrB-bQGemUnDkas71HnqY48rI3HJj76U9OYKifpLiBkXCePHgZWsYxgmh1bz4mW5EoD7r9ZzPZMRcywWczf13bIEemvROlhKinfefEsldg_IUuCuOxzpJCoLRfUad4kfxctHcnKPGdVZSEBKAJ_E4e3XRXcRxmq2_FmVW551lIBgDQAn3CqtQGU5g=="
+    },
+    {
+      "label": "360 Derece Döner Taban",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgkcx7k6Q2AmJK82qruJrB-bQGemUnDkas71HnqY48rI3HJj76U9OYKifpLiBkXCePHgZWsYxgmh1bz4mW5EoD7r9ZzPZMRcywWczf13bIEemvROlhKinfefEsldg_IUuCuOxzpJCoLRfUad4kfxctHcnKPGdVZSEBKAJ_E4e3XRXcRxmq2_FmVW551lIBgDQAn3CqtQGU5g=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgkcx7k6Q2AmJK82qruJrB-bQGemUnDkas71HnqY48rI3HJj76U9OYKifpLiBkXCePHgZWsYxgmh1bz4mW5EoD7r9ZzPZMRcywWczf13bIEemvROlhKinfefEsldg_IUuCuOxzpJCoLRfUad4kfxctHcnKPGdVZSEBKAJ_E4e3XRXcRxmq2_FmVW551lIBgDQAn3CqtQGU5g=="
+  ],
+  "verification_notes": []
+}

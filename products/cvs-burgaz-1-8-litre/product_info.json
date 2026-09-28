@@ -1,0 +1,58 @@
+{
+  "folder": "cvs-burgaz-1-8-litre",
+  "brand": "CVS",
+  "model": "Burgaz",
+  "name": "Elektrikli Su Isıtıcı",
+  "variant": "1,8 litre",
+  "identity_confidence": "high",
+  "source_folders": [
+    "cvs-burgaz-elektrikli-su-isitici"
+  ],
+  "source_images": [
+    "new_images/cvs-burgaz-elektrikli-su-isitici/past_cvs-burgaz-elektrikli-su-isitici_00000353.jpg"
+  ],
+  "readable_evidence": [
+    "CVS",
+    "Burgaz",
+    "Elektrikli Su Isıtıcı",
+    "Electric Kettle",
+    "1,8 litre"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Otomatik Kapanma",
+      "value": "Su kaynadığında otomatik kapanma özelliği",
+      "source_url": "https://www.teknosa.com/cvs-burgaz-18-l-inox-celik-kettle-p-786690591"
+    },
+    {
+      "label": "Kapak Emniyeti",
+      "value": "Güvenlik kilitli kapak",
+      "source_url": "https://www.teknosa.com/cvs-burgaz-18-l-inox-celik-kettle-p-786690591"
+    },
+    {
+      "label": "Rezistans",
+      "value": "Gizli rezistans",
+      "source_url": "https://www.teknosa.com/cvs-burgaz-18-l-inox-celik-kettle-p-786690591"
+    },
+    {
+      "label": "Taban",
+      "value": "360 derece döner tabla",
+      "source_url": "https://www.teknosa.com/cvs-burgaz-18-l-inox-celik-kettle-p-786690591"
+    },
+    {
+      "label": "Gösterge",
+      "value": "Işıklı gösterge",
+      "source_url": "https://www.teknosa.com/cvs-burgaz-18-l-inox-celik-kettle-p-786690591"
+    }
+  ],
+  "source_urls": [
+    "https://www.teknosa.com/cvs-burgaz-18-l-inox-celik-kettle-p-786690591"
+  ],
+  "verification_notes": [
+    "Ürün Türk perakende pazarı ve e-ticaret sitelerinde yaygın olarak CVS DN 2318 (veya DN-2318) Burgaz Çelik Su Isıtıcısı model kodu ile listelenmektedir."
+  ]
+}

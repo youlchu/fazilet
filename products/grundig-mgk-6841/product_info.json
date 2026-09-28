@@ -1,0 +1,48 @@
+{
+  "folder": "grundig-mgk-6841",
+  "brand": "GRUNDIG",
+  "model": "MGK 6841",
+  "name": "Multihaarschneideset mit Ladestation",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "grundig-mgk-6841-erkek-bakim-seti"
+  ],
+  "source_images": [
+    "new_images/grundig-mgk-6841-erkek-bakim-seti/past_grundig-mgk-6841-erkek-bakim-seti_00000394.jpg"
+  ],
+  "readable_evidence": [
+    "GRUNDIG",
+    "MGK 6841",
+    "Multihaarschneideset mit Ladestation"
+  ],
+  "issues": [
+    "Image is rotated sideways."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Klingenmaterial",
+      "value": "Keramik",
+      "source_url": "https://www.grundig.com/de-de/elektro-kleingeraete/koerperpflege/men-s-care/mgk-6841"
+    },
+    {
+      "label": "Betriebszeit",
+      "value": "50 min",
+      "source_url": "https://www.grundig.com/de-de/elektro-kleingeraete/koerperpflege/men-s-care/mgk-6841"
+    },
+    {
+      "label": "Wet & Dry Anwendung",
+      "value": "Nein",
+      "source_url": "https://www.grundig.com/de-de/elektro-kleingeraete/koerperpflege/men-s-care/mgk-6841"
+    }
+  ],
+  "source_urls": [
+    "https://www.grundig.com/de-de/elektro-kleingeraete/koerperpflege/men-s-care/mgk-6841"
+  ],
+  "verification_notes": [
+    "The model and German packaging name 'Multihaarschneideset mit Ladestation' match official Grundig specifications for model MGK 6841."
+  ]
+}

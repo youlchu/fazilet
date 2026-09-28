@@ -1,0 +1,55 @@
+{
+  "folder": "philips-dst7022-40-siyah-kirmizi",
+  "brand": "Philips",
+  "model": "DST7022/40",
+  "name": "7000 Serisi HV Buharlı Ütü",
+  "variant": "Siyah/Kırmızı",
+  "identity_confidence": "high",
+  "source_folders": [
+    "philips-azur-7000-series-dst7022-40-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/philips-azur-7000-series-dst7022-40-buharli-utu/past_philips-azur-7000-series-dst7022-40-buharli-utu_00000098.jpg"
+  ],
+  "readable_evidence": [
+    "PHILIPS",
+    "Azur",
+    "Steam Iron 7000 Series",
+    "250 g Steam Boost",
+    "PHILIPS Azur 7000 Series"
+  ],
+  "issues": [
+    "Specific model number suffix 'DST7022/40' is not visible on the visible panels of the packaging; only 'Azur 7000 Series' is confirmed."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Şok buhar",
+      "value": "250 g",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHDgto0xbuT_jdfRTbxrYcoilJknhWJwAQdtdgdiSnuWN9o-to9ydm9_n9fKLERUMv9tBQbwHzRERk7izXfEJDyt9BznmsqbKLl2qCDmhjfR937077nCagKzOcwYh1jCvGcUXyCRiLIiOkQhUZtisUjDVnAi5N46b3HJd-W-OGHRba"
+    },
+    {
+      "label": "Sürekli buhar",
+      "value": "50 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHDgto0xbuT_jdfRTbxrYcoilJknhWJwAQdtdgdiSnuWN9o-to9ydm9_n9fKLERUMv9tBQbwHzRERk7izXfEJDyt9BznmsqbKLl2qCDmhjfR937077nCagKzOcwYh1jCvGcUXyCRiLIiOkQhUZtisUjDVnAi5N46b3HJd-W-OGHRba"
+    },
+    {
+      "label": "Taban türü",
+      "value": "SteamGlide Plus",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHDgto0xbuT_jdfRTbxrYcoilJknhWJwAQdtdgdiSnuWN9o-to9ydm9_n9fKLERUMv9tBQbwHzRERk7izXfEJDyt9BznmsqbKLl2qCDmhjfR937077nCagKzOcwYh1jCvGcUXyCRiLIiOkQhUZtisUjDVnAi5N46b3HJd-W-OGHRba"
+    },
+    {
+      "label": "Damlama durdurma sistemi",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHDgto0xbuT_jdfRTbxrYcoilJknhWJwAQdtdgdiSnuWN9o-to9ydm9_n9fKLERUMv9tBQbwHzRERk7izXfEJDyt9BznmsqbKLl2qCDmhjfR937077nCagKzOcwYh1jCvGcUXyCRiLIiOkQhUZtisUjDVnAi5N46b3HJd-W-OGHRba"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHDgto0xbuT_jdfRTbxrYcoilJknhWJwAQdtdgdiSnuWN9o-to9ydm9_n9fKLERUMv9tBQbwHzRERk7izXfEJDyt9BznmsqbKLl2qCDmhjfR937077nCagKzOcwYh1jCvGcUXyCRiLIiOkQhUZtisUjDVnAi5N46b3HJd-W-OGHRba"
+  ],
+  "verification_notes": [
+    "Kırmızı/siyah renk kombinasyonu ve 250 g şok buhar özelliğine sahip Philips Azur 7000 serisi modelinin resmi model kodu DST7022/40 olarak teyit edilmiştir."
+  ]
+}

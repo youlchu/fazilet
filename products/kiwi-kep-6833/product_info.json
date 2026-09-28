@@ -1,0 +1,55 @@
+{
+  "folder": "kiwi-kep-6833",
+  "brand": "Kiwi",
+  "model": "KEP-6833",
+  "name": "IPL Hair Removal",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "kiwi-kep-6833-ipl-epilasyon-cihazi"
+  ],
+  "source_images": [
+    "new_images/kiwi-kep-6833-ipl-epilasyon-cihazi/past_kiwi-kep-6833-ipl-epilasyon-cihazi_00000545.jpg"
+  ],
+  "readable_evidence": [
+    "kiwi",
+    "IPL Hair Removal",
+    "KEP-6833",
+    "IPL Technology"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Teknoloji",
+      "value": "Yoğun Atımlı Işık (IPL) teknolojisi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmLNzJcjP4nniMF1zImO4Bjq-5JUybblHxlVhbdLhx4tZ4XB-k7aGod2Oz7O0-lj-juuF2CO-p6iOsgtf-9TalJoXw7pc5dunlozgYlM_WcVWDyX9_gUmjBKe1VL1omcQcQ00VrmY11xO5QU-0ubE7WZU9zGnCv_PY3nP9MRZuwc-I"
+    },
+    {
+      "label": "Güç Kademesi",
+      "value": "Ayarlanabilir 8 güç seviyesi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmLNzJcjP4nniMF1zImO4Bjq-5JUybblHxlVhbdLhx4tZ4XB-k7aGod2Oz7O0-lj-juuF2CO-p6iOsgtf-9TalJoXw7pc5dunlozgYlM_WcVWDyX9_gUmjBKe1VL1omcQcQ00VrmY11xO5QU-0ubE7WZU9zGnCv_PY3nP9MRZuwc-I"
+    },
+    {
+      "label": "Ekran",
+      "value": "Aydınlatmalı LCD bilgi ekranı",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmLNzJcjP4nniMF1zImO4Bjq-5JUybblHxlVhbdLhx4tZ4XB-k7aGod2Oz7O0-lj-juuF2CO-p6iOsgtf-9TalJoXw7pc5dunlozgYlM_WcVWDyX9_gUmjBKe1VL1omcQcQ00VrmY11xO5QU-0ubE7WZU9zGnCv_PY3nP9MRZuwc-I"
+    },
+    {
+      "label": "Güvenlik Sensörü",
+      "value": "Cilde temas etmeden çalışmayı önleyen mesafe/temas sensörü",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmLNzJcjP4nniMF1zImO4Bjq-5JUybblHxlVhbdLhx4tZ4XB-k7aGod2Oz7O0-lj-juuF2CO-p6iOsgtf-9TalJoXw7pc5dunlozgYlM_WcVWDyX9_gUmjBKe1VL1omcQcQ00VrmY11xO5QU-0ubE7WZU9zGnCv_PY3nP9MRZuwc-I"
+    },
+    {
+      "label": "Uygulama Alanı",
+      "value": "Tüm vücut kullanımına uygundur",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmLNzJcjP4nniMF1zImO4Bjq-5JUybblHxlVhbdLhx4tZ4XB-k7aGod2Oz7O0-lj-juuF2CO-p6iOsgtf-9TalJoXw7pc5dunlozgYlM_WcVWDyX9_gUmjBKe1VL1omcQcQ00VrmY11xO5QU-0ubE7WZU9zGnCv_PY3nP9MRZuwc-I"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmLNzJcjP4nniMF1zImO4Bjq-5JUybblHxlVhbdLhx4tZ4XB-k7aGod2Oz7O0-lj-juuF2CO-p6iOsgtf-9TalJoXw7pc5dunlozgYlM_WcVWDyX9_gUmjBKe1VL1omcQcQ00VrmY11xO5QU-0ubE7WZU9zGnCv_PY3nP9MRZuwc-I"
+  ],
+  "verification_notes": []
+}

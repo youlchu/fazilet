@@ -1,0 +1,34 @@
+{
+  "folder": "luxell-borekci-buyuk-boy-yuvarlak-tepsili",
+  "brand": "Luxell",
+  "model": "Börekçi",
+  "name": "Elektrikli Fırın / Electrical Oven",
+  "variant": "Büyük Boy Yuvarlak Tepsili",
+  "identity_confidence": "high",
+  "source_folders": [
+    "luxell-mini-firin"
+  ],
+  "source_images": [
+    "new_images/luxell-mini-firin/past_luxell-mini-firin_00000369.jpg"
+  ],
+  "readable_evidence": [
+    "LUXELL",
+    "Börekçi",
+    "Elektrikli Fırın / Electrical Oven",
+    "Mix Grill Apparatus",
+    "BÜYÜK BOY YUVARLAK TEPSİLİ"
+  ],
+  "issues": [
+    "The primary product box displays the brand Luxell and line name Börekçi, but the specific alphanumeric model number (such as LX-series) is not visible on this side of the box.",
+    "A secondary box for a CVS fan is visible in the background."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [],
+  "verification_notes": [
+    "The packaging displays the brand Luxell and product line Börekçi along with 'Büyük Boy Yuvarlak Tepsili' and 'Mix Grill Apparatus', but the specific alphanumeric model code (such as LX-3675, LX-9625, LX-9320, etc.) is not visible on the box.",
+    "Because Luxell manufactures multiple distinct Börekçi series mini and midi ovens with varying capacities, power ratings, and features, the exact model cannot be confirmed without the specific model number."
+  ]
+}

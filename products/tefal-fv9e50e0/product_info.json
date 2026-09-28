@@ -1,0 +1,68 @@
+{
+  "folder": "tefal-fv9e50e0",
+  "brand": "Tefal",
+  "model": "FV9E50E0",
+  "name": "Ultimate Power Pro",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "tefal-fv9e50-ultimate-power-pro-3200-w-buharli-utu",
+    "tefal-ultimate-power-pro-arzum-pressa-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/tefal-fv9e50-ultimate-power-pro-3200-w-buharli-utu/past_tefal-fv9e50-ultimate-power-pro-3200-w-buharli-utu_00000085.jpg",
+    "new_images/tefal-ultimate-power-pro-arzum-pressa-buharli-utu/past_tefal-ultimate-power-pro-arzum-pressa-buharli-utu_00000079.jpg"
+  ],
+  "readable_evidence": [
+    "Tefal",
+    "ULTIMATE POWER PRO",
+    "POWERFUL & EFFICIENT",
+    "FV9E50E0",
+    "3200",
+    "85",
+    "300"
+  ],
+  "issues": [
+    "Image depicts multiple stacked retail iron boxes on store shelving.",
+    "Partial boxes from other Tefal iron product lines (such as Ultimate Pure) are visible on the right and top shelves with model numbers hidden or truncated.",
+    "The current folder name improperly concatenates two separate products stored on different shelves into a single folder name.",
+    "A third product box on the right shows Tefal branding, but the model details are cropped out and illegible."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "3200 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEJnIyA0hviUgiX2h8L8j8x1SnnsXI9Q3SrxGRpOyf-9AHu7cEoiuG3W2bfsxCA4gFx-l0KBN9OUi2KzG9FxEJHE-XfDhC_ZOQBQw7nL2xP2tOL7FX2QjcPFLSPOfWelXo7CvFkRt-TSmavMBVpJ3VB1PbLRW7gK9TdnY_FSj9"
+    },
+    {
+      "label": "Sürekli Buhar Çıkışı",
+      "value": "85 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEJnIyA0hviUgiX2h8L8j8x1SnnsXI9Q3SrxGRpOyf-9AHu7cEoiuG3W2bfsxCA4gFx-l0KBN9OUi2KzG9FxEJHE-XfDhC_ZOQBQw7nL2xP2tOL7FX2QjcPFLSPOfWelXo7CvFkRt-TSmavMBVpJ3VB1PbLRW7gK9TdnY_FSj9"
+    },
+    {
+      "label": "Şok Buhar Gücü",
+      "value": "300 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEJnIyA0hviUgiX2h8L8j8x1SnnsXI9Q3SrxGRpOyf-9AHu7cEoiuG3W2bfsxCA4gFx-l0KBN9OUi2KzG9FxEJHE-XfDhC_ZOQBQw7nL2xP2tOL7FX2QjcPFLSPOfWelXo7CvFkRt-TSmavMBVpJ3VB1PbLRW7gK9TdnY_FSj9"
+    },
+    {
+      "label": "Taban Türü",
+      "value": "Durilium AirGlide",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEJnIyA0hviUgiX2h8L8j8x1SnnsXI9Q3SrxGRpOyf-9AHu7cEoiuG3W2bfsxCA4gFx-l0KBN9OUi2KzG9FxEJHE-XfDhC_ZOQBQw7nL2xP2tOL7FX2QjcPFLSPOfWelXo7CvFkRt-TSmavMBVpJ3VB1PbLRW7gK9TdnY_FSj9"
+    },
+    {
+      "label": "Su Haznesi Kapasitesi",
+      "value": "350 ml",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEJnIyA0hviUgiX2h8L8j8x1SnnsXI9Q3SrxGRpOyf-9AHu7cEoiuG3W2bfsxCA4gFx-l0KBN9OUi2KzG9FxEJHE-XfDhC_ZOQBQw7nL2xP2tOL7FX2QjcPFLSPOfWelXo7CvFkRt-TSmavMBVpJ3VB1PbLRW7gK9TdnY_FSj9"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEJnIyA0hviUgiX2h8L8j8x1SnnsXI9Q3SrxGRpOyf-9AHu7cEoiuG3W2bfsxCA4gFx-l0KBN9OUi2KzG9FxEJHE-XfDhC_ZOQBQw7nL2xP2tOL7FX2QjcPFLSPOfWelXo7CvFkRt-TSmavMBVpJ3VB1PbLRW7gK9TdnY_FSj9",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnJN1RTUJIDCp-2C4u4fFR0RKsg9whjs1b-5WKS4J9KslLp1r44lGoS0fO0q63Nzkb2d5RTMy9_855J_DI-TS3jGmYtYstj7fpzVLMGt-etqQyXlbrS-9-btv9vDr0JPHhRjY_FArNf_f-P77jwH3sKm8MJ6_pwwHz4yDCyEmy"
+  ],
+  "verification_notes": [
+    "Product verified directly on the Tefal Turkey official catalogue and major electronics retailers under full model reference FV9E50E0 / FV9E5 series."
+  ]
+}

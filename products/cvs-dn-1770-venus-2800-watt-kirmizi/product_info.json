@@ -1,0 +1,63 @@
+{
+  "folder": "cvs-dn-1770-venus-2800-watt-kirmizi",
+  "brand": "CVS",
+  "model": "DN 1770 Venüs",
+  "name": "Seramik Tabanlı Buharlı Ütü",
+  "variant": "2800 WATT, Kırmızı",
+  "identity_confidence": "high",
+  "source_folders": [
+    "cvs-venus-lucia-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/cvs-venus-lucia-buharli-utu/past_cvs-venus-lucia-buharli-utu_00000071.jpg"
+  ],
+  "readable_evidence": [
+    "CVS",
+    "Venüs",
+    "Seramik Tabanlı Buharlı Ütü",
+    "2800 WATT"
+  ],
+  "issues": [
+    "The current folder conflates two distinct product lines ('Venüs' and 'Lucia') into one folder name.",
+    "The image displays a vertical stack of retail boxes featuring two distinct models; neither is a single primary subject.",
+    "A numeric code ending in '6475' is partially visible at the bottom left of the Lucia boxes, but the full alphanumeric model code is obscured."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "2800 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXIV8zNX0HBzquZE-iC_J7XnUvvTV4f7MHl0AS7UNRCC-G8vcJXWePCVzZ3c7uWZFZdVkfa10AJOq8_o_Vz4gxq-W17G2Gq-33-MSVA7IAfC6xl6_6Z0w-ycCG_VPz7cf54XPWDJj3HG6etiK1x4vM9DmpCBwqK2oCzHh3DMNPHtQjwMPXvHGIVL9K2Bz5tpiT"
+    },
+    {
+      "label": "Taban",
+      "value": "Seramik Taban",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXIV8zNX0HBzquZE-iC_J7XnUvvTV4f7MHl0AS7UNRCC-G8vcJXWePCVzZ3c7uWZFZdVkfa10AJOq8_o_Vz4gxq-W17G2Gq-33-MSVA7IAfC6xl6_6Z0w-ycCG_VPz7cf54XPWDJj3HG6etiK1x4vM9DmpCBwqK2oCzHh3DMNPHtQjwMPXvHGIVL9K2Bz5tpiT"
+    },
+    {
+      "label": "Su Tankı Kapasitesi",
+      "value": "300 ml",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXIV8zNX0HBzquZE-iC_J7XnUvvTV4f7MHl0AS7UNRCC-G8vcJXWePCVzZ3c7uWZFZdVkfa10AJOq8_o_Vz4gxq-W17G2Gq-33-MSVA7IAfC6xl6_6Z0w-ycCG_VPz7cf54XPWDJj3HG6etiK1x4vM9DmpCBwqK2oCzHh3DMNPHtQjwMPXvHGIVL9K2Bz5tpiT"
+    },
+    {
+      "label": "Damlatmama Özelliği",
+      "value": "Anti-drip",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXIV8zNX0HBzquZE-iC_J7XnUvvTV4f7MHl0AS7UNRCC-G8vcJXWePCVzZ3c7uWZFZdVkfa10AJOq8_o_Vz4gxq-W17G2Gq-33-MSVA7IAfC6xl6_6Z0w-ycCG_VPz7cf54XPWDJj3HG6etiK1x4vM9DmpCBwqK2oCzHh3DMNPHtQjwMPXvHGIVL9K2Bz5tpiT"
+    },
+    {
+      "label": "Kireçlenme Önleme Sistemi",
+      "value": "Anti-calc",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXIV8zNX0HBzquZE-iC_J7XnUvvTV4f7MHl0AS7UNRCC-G8vcJXWePCVzZ3c7uWZFZdVkfa10AJOq8_o_Vz4gxq-W17G2Gq-33-MSVA7IAfC6xl6_6Z0w-ycCG_VPz7cf54XPWDJj3HG6etiK1x4vM9DmpCBwqK2oCzHh3DMNPHtQjwMPXvHGIVL9K2Bz5tpiT"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXIV8zNX0HBzquZE-iC_J7XnUvvTV4f7MHl0AS7UNRCC-G8vcJXWePCVzZ3c7uWZFZdVkfa10AJOq8_o_Vz4gxq-W17G2Gq-33-MSVA7IAfC6xl6_6Z0w-ycCG_VPz7cf54XPWDJj3HG6etiK1x4vM9DmpCBwqK2oCzHh3DMNPHtQjwMPXvHGIVL9K2Bz5tpiT",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlpj5E1PZ4v8PbEszOnW1P1pQ_KnyP_Ziu55kKeP6ZRPfM1gAVqW39oiuFQGREY1TgaykEPzg8bEODUAN_eKEafNeYVAtUhYwpPKibIlUERXJv5zpktPOkzynAKXtUSWrTlE7MrGx8Ij4cXi-fsRavHK95E5zLky2QNMwBKBRNj_bIf4izFgY="
+  ],
+  "verification_notes": [
+    "Model adı üretici/satıcı kodlamasına uygun olarak 'DN 1770 Venüs' (kırmızı renk için DN-1770-K) olarak tamamlanmıştır.",
+    "Birlikte görüntülenen diğer model 'DN 5475 Lucia' serisine aittir."
+  ]
+}

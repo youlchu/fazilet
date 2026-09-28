@@ -1,0 +1,62 @@
+{
+  "folder": "remington-s8540",
+  "brand": "Remington",
+  "model": "S8540",
+  "name": "Keratin Protect Straightener",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "remington-keratin-protect-sac-duzlestirici"
+  ],
+  "source_images": [
+    "new_images/remington-keratin-protect-sac-duzlestirici/past_remington-keratin-protect-sac-duzlestirici_00000204.jpg"
+  ],
+  "readable_evidence": [
+    "REMINGTON",
+    "Keratin Protect",
+    "Straightener",
+    "Advanced Ceramic coating infused with Keratin and Almond Oil",
+    "Fast 15 second heat up",
+    "9 temperature settings up to 230°C"
+  ],
+  "issues": [
+    "Specific alphanumeric model number (e.g., S8540) is not visible on the front face of the box."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Plaka Kaplaması",
+      "value": "Keratin ve Badem Yağı ile zenginleştirilmiş gelişmiş seramik plakalar",
+      "source_url": "https://www.mediamarkt.com.tr/tr/product/_rem%C4%B1ngton-s8540-sac-duzlestirici-bej-1180295.html"
+    },
+    {
+      "label": "Isınma Süresi",
+      "value": "15 saniyede hızlı ısınma",
+      "source_url": "https://www.mediamarkt.com.tr/tr/product/_rem%C4%B1ngton-s8540-sac-duzlestirici-bej-1180295.html"
+    },
+    {
+      "label": "Sıcaklık Kademesi",
+      "value": "9 kademeli dijital ısı ayarı (150°C - 230°C)",
+      "source_url": "https://www.mediamarkt.com.tr/tr/product/_rem%C4%B1ngton-s8540-sac-duzlestirici-bej-1180295.html"
+    },
+    {
+      "label": "Pro+ Ayarı",
+      "value": "185°C ısıda hassas şekillendirme fonksiyonu",
+      "source_url": "https://www.teknosa.com/remington-s8540-keratin-protect-seramik-sac-duzlestirici-p-787870261"
+    },
+    {
+      "label": "Otomatik Kapanma",
+      "value": "60 dakika sonra otomatik kapanma",
+      "source_url": "https://www.mediamarkt.com.tr/tr/product/_rem%C4%B1ngton-s8540-sac-duzlestirici-bej-1180295.html"
+    }
+  ],
+  "source_urls": [
+    "https://www.mediamarkt.com.tr/tr/product/_rem%C4%B1ngton-s8540-sac-duzlestirici-bej-1180295.html",
+    "https://www.teknosa.com/remington-s8540-keratin-protect-seramik-sac-duzlestirici-p-787870261"
+  ],
+  "verification_notes": [
+    "Kutudaki 'Advanced Ceramic coating infused with Keratin and Almond Oil', 'Fast 15 second heat up' ve '9 temperature settings up to 230°C' teknik özellikleri üzerinden ürünün Remington Keratin Protect serisine ait S8540 modeli olduğu doğrulanmıştır."
+  ]
+}

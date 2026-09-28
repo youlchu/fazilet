@@ -1,0 +1,59 @@
+{
+  "folder": "philips-hd6301-90-2200w",
+  "brand": "Philips",
+  "model": "HD6301/90",
+  "name": "5000 Series Contact Grill",
+  "variant": "2200W",
+  "identity_confidence": "high",
+  "source_folders": [
+    "philips-contact-grill-5000-series"
+  ],
+  "source_images": [
+    "new_images/philips-contact-grill-5000-series/past_philips-contact-grill-5000-series_00000520.jpg"
+  ],
+  "readable_evidence": [
+    "PHILIPS",
+    "Contact Grill",
+    "5000 Series",
+    "2200W"
+  ],
+  "issues": [
+    "Partial boxes from other products are visible on adjacent shelves (one showing '2000 WATT / N 3568' above, and 'PRIME' / 'CVS' below) but lack full brand or model details to list definitively."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "2200 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYwU_05ogTAdK5RpIGFFs4R2w1frHHGkpBoxym48Ob8ZCzpNePzMZxyq2a9yhqBnfmDPUqpzRT01maihXWu7OYG1zMBKUN2uo6cfsRLBB-xss4GWHY3VKGasGiMVjxXZ6NQ3CA7OXDyWukLpdzKUrVdDg3-xA="
+    },
+    {
+      "label": "Plaka Özelliği",
+      "value": "Çıkarılabilir yapışmaz plakalar",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYwU_05ogTAdK5RpIGFFs4R2w1frHHGkpBoxym48Ob8ZCzpNePzMZxyq2a9yhqBnfmDPUqpzRT01maihXWu7OYG1zMBKUN2uo6cfsRLBB-xss4GWHY3VKGasGiMVjxXZ6NQ3CA7OXDyWukLpdzKUrVdDg3-xA="
+    },
+    {
+      "label": "Sıcaklık Ayarı",
+      "value": "Ayarlanabilir sıcaklık kontrolü",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYwU_05ogTAdK5RpIGFFs4R2w1frHHGkpBoxym48Ob8ZCzpNePzMZxyq2a9yhqBnfmDPUqpzRT01maihXWu7OYG1zMBKUN2uo6cfsRLBB-xss4GWHY3VKGasGiMVjxXZ6NQ3CA7OXDyWukLpdzKUrVdDg3-xA="
+    },
+    {
+      "label": "Gövde Açılımı",
+      "value": "Izgara için tam açılır",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYwU_05ogTAdK5RpIGFFs4R2w1frHHGkpBoxym48Ob8ZCzpNePzMZxyq2a9yhqBnfmDPUqpzRT01maihXWu7OYG1zMBKUN2uo6cfsRLBB-xss4GWHY3VKGasGiMVjxXZ6NQ3CA7OXDyWukLpdzKUrVdDg3-xA="
+    },
+    {
+      "label": "Yükseklik",
+      "value": "Ayarlanabilir yükseklik",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYwU_05ogTAdK5RpIGFFs4R2w1frHHGkpBoxym48Ob8ZCzpNePzMZxyq2a9yhqBnfmDPUqpzRT01maihXWu7OYG1zMBKUN2uo6cfsRLBB-xss4GWHY3VKGasGiMVjxXZ6NQ3CA7OXDyWukLpdzKUrVdDg3-xA="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYwU_05ogTAdK5RpIGFFs4R2w1frHHGkpBoxym48Ob8ZCzpNePzMZxyq2a9yhqBnfmDPUqpzRT01maihXWu7OYG1zMBKUN2uo6cfsRLBB-xss4GWHY3VKGasGiMVjxXZ6NQ3CA7OXDyWukLpdzKUrVdDg3-xA="
+  ],
+  "verification_notes": [
+    "Model corrected from the generic series name '5000 Series' to the exact manufacturer model number HD6301/90."
+  ]
+}

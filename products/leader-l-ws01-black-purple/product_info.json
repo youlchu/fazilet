@@ -1,0 +1,59 @@
+{
+  "folder": "leader-l-ws01-black-purple",
+  "brand": "LEADER",
+  "model": "L-WS01",
+  "name": "WindStraight",
+  "variant": "Black / Purple",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "leader-l-ws01-windstraight-sac-sekillendirici"
+  ],
+  "source_images": [
+    "new_images/leader-l-ws01-windstraight-sac-sekillendirici/past_leader-l-ws01-windstraight-sac-sekillendirici_00000334.jpg"
+  ],
+  "readable_evidence": [
+    "LEADER®"
+  ],
+  "issues": [
+    "Two distinct color variants of the same styler design are displayed in the foreground; the retail box explicitly confirms model 'L-WS01' and 'WindStraight' for the blue variant, while the black/purple variant only displays 'LEADER®' directly on the handle."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Kurutma Teknolojisi",
+      "value": "Hava ile akıllı kurutma teknolojisi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKypVS_4nNG9iVhNBE8L3f4gtrdCwDOi6Qk6WjOBSrPaZeNoSrPpT99Gs1ypa-_PvrwdG5-D5462C0oPRYRn1BzndRwuFZwRyXzZWYrxx6LYfG932YcIEeoSrpkTIFj-znDhuqwodUomw_f93hUpMKb0SAdaXOM8OQhh97JfAmhyAZZoWHoZDrlDuVHG2Pduf72G77oTovY1o0"
+    },
+    {
+      "label": "Plaka Tipi",
+      "value": "Hareketli plakalar",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKypVS_4nNG9iVhNBE8L3f4gtrdCwDOi6Qk6WjOBSrPaZeNoSrPpT99Gs1ypa-_PvrwdG5-D5462C0oPRYRn1BzndRwuFZwRyXzZWYrxx6LYfG932YcIEeoSrpkTIFj-znDhuqwodUomw_f93hUpMKb0SAdaXOM8OQhh97JfAmhyAZZoWHoZDrlDuVHG2Pduf72G77oTovY1o0"
+    },
+    {
+      "label": "Kaplama Özelliği",
+      "value": "Nano turmalin ve argan yağı infüzyonu",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKypVS_4nNG9iVhNBE8L3f4gtrdCwDOi6Qk6WjOBSrPaZeNoSrPpT99Gs1ypa-_PvrwdG5-D5462C0oPRYRn1BzndRwuFZwRyXzZWYrxx6LYfG932YcIEeoSrpkTIFj-znDhuqwodUomw_f93hUpMKb0SAdaXOM8OQhh97JfAmhyAZZoWHoZDrlDuVHG2Pduf72G77oTovY1o0"
+    },
+    {
+      "label": "Hava Akışı",
+      "value": "Kök uçlarını hedef alan kurutma teknolojisi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKypVS_4nNG9iVhNBE8L3f4gtrdCwDOi6Qk6WjOBSrPaZeNoSrPpT99Gs1ypa-_PvrwdG5-D5462C0oPRYRn1BzndRwuFZwRyXzZWYrxx6LYfG932YcIEeoSrpkTIFj-znDhuqwodUomw_f93hUpMKb0SAdaXOM8OQhh97JfAmhyAZZoWHoZDrlDuVHG2Pduf72G77oTovY1o0"
+    },
+    {
+      "label": "Isı Ayarı",
+      "value": "3 kademeli",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBqXUXpUhhplxSQIXnWof2l1c11TvOSRseccdXBZq4ULaOQmdU3fNE3nZhPJDD16hJ2jatqf_xpq4ilxdOt9JMzfE95YMv50xNCmcMdCoq9pbvNnMEqC0_CTcOna43HwBtKfIuK8Yi62IwqLKERHs8lw9kRODRFlvNCOTiY3_ozS8eCT6fvwtqCjOhiFTxVKhXIwc="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKypVS_4nNG9iVhNBE8L3f4gtrdCwDOi6Qk6WjOBSrPaZeNoSrPpT99Gs1ypa-_PvrwdG5-D5462C0oPRYRn1BzndRwuFZwRyXzZWYrxx6LYfG932YcIEeoSrpkTIFj-znDhuqwodUomw_f93hUpMKb0SAdaXOM8OQhh97JfAmhyAZZoWHoZDrlDuVHG2Pduf72G77oTovY1o0",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBqXUXpUhhplxSQIXnWof2l1c11TvOSRseccdXBZq4ULaOQmdU3fNE3nZhPJDD16hJ2jatqf_xpq4ilxdOt9JMzfE95YMv50xNCmcMdCoq9pbvNnMEqC0_CTcOna43HwBtKfIuK8Yi62IwqLKERHs8lw9kRODRFlvNCOTiY3_ozS8eCT6fvwtqCjOhiFTxVKhXIwc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0t9VkmJHQcgnClCQwXuUS_qswUhs4WoirfQaoGjZkySpmB4O1VUG-v7iH6RJdpnLgIwJyssa3KAv7GGrieQI_xV8LY1LNZhF29fE12nefFJQnZI49KbvijRBkGVxs061pddpaojsq-pnydNE-PMAVlDc2SGxNBRHvSJf8I1-NSm2reCc8"
+  ],
+  "verification_notes": [
+    "The product model L-WS01 and name WindStraight are verified through Turkish retail listings.",
+    "The device is marketed as a hot air hair straightener (sıcak havalı saç düzleştirici)."
+  ]
+}

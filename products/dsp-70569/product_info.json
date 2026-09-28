@@ -1,0 +1,56 @@
+{
+  "folder": "dsp-70569",
+  "brand": "DSP",
+  "model": "70569",
+  "name": "IPL Hair Removal",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "dsp-70569-ipl-epilasyon-cihazi"
+  ],
+  "source_images": [
+    "new_images/dsp-70569-ipl-epilasyon-cihazi/past_dsp-70569-ipl-epilasyon-cihazi_00000313.jpg",
+    "new_images/dsp-70569-ipl-epilasyon-cihazi/past_dsp-70569-ipl-epilasyon-cihazi_00000432.jpg"
+  ],
+  "readable_evidence": [
+    "DSP",
+    "Model:70569",
+    "IPL hair removal"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Flaş Kapasitesi",
+      "value": "999.999 flaş",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBtPe6YjzEnn6pxp3HPdZx-D94D4u9iKiYuJDIL5mcnsgSYRid5MpztGcm8iY603AWAsdOptiO2WvdR-HLkzPA8VrGHq6oJqRgT0Fc6ZL1SF6SG0YcMlROlZS_xl99Z7LHrv9N0Jj9BpZ-eWyQNO3Ko-ZixfExnF4kfmMxFhYkAt_rLS_gTWgz1ayNDcWTKwhOJsLjHMxZjhTssND1TlSI_2EdsAI1iw=="
+    },
+    {
+      "label": "Intensity Levels",
+      "value": "10 levels",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0oFHa6Nil0f3UaacjueJbNVY697qag0K1ngH077HCERHI0T9HLcKkhYeeb_jeVJaxp95LnR4b33zLDC6zzWjEBbKeVb79lq4liFHoB92c8eMl9VDQ0KfW4Bo="
+    },
+    {
+      "label": "Modes",
+      "value": "Manual & Automatic + Continuous flash",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0oFHa6Nil0f3UaacjueJbNVY697qag0K1ngH077HCERHI0T9HLcKkhYeeb_jeVJaxp95LnR4b33zLDC6zzWjEBbKeVb79lq4liFHoB92c8eMl9VDQ0KfW4Bo="
+    },
+    {
+      "label": "Light Output Area",
+      "value": "4 cm²",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0oFHa6Nil0f3UaacjueJbNVY697qag0K1ngH077HCERHI0T9HLcKkhYeeb_jeVJaxp95LnR4b33zLDC6zzWjEBbKeVb79lq4liFHoB92c8eMl9VDQ0KfW4Bo="
+    },
+    {
+      "label": "Wavelength",
+      "value": "640–1200 nm",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0oFHa6Nil0f3UaacjueJbNVY697qag0K1ngH077HCERHI0T9HLcKkhYeeb_jeVJaxp95LnR4b33zLDC6zzWjEBbKeVb79lq4liFHoB92c8eMl9VDQ0KfW4Bo="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBtPe6YjzEnn6pxp3HPdZx-D94D4u9iKiYuJDIL5mcnsgSYRid5MpztGcm8iY603AWAsdOptiO2WvdR-HLkzPA8VrGHq6oJqRgT0Fc6ZL1SF6SG0YcMlROlZS_xl99Z7LHrv9N0Jj9BpZ-eWyQNO3Ko-ZixfExnF4kfmMxFhYkAt_rLS_gTWgz1ayNDcWTKwhOJsLjHMxZjhTssND1TlSI_2EdsAI1iw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0oFHa6Nil0f3UaacjueJbNVY697qag0K1ngH077HCERHI0T9HLcKkhYeeb_jeVJaxp95LnR4b33zLDC6zzWjEBbKeVb79lq4liFHoB92c8eMl9VDQ0KfW4Bo="
+  ],
+  "verification_notes": []
+}

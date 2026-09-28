@@ -1,0 +1,60 @@
+{
+  "folder": "gulsan-cakir-cam-kapak-6-parca",
+  "brand": "Gülsan",
+  "model": "Çakır",
+  "name": "Güveç Set",
+  "variant": "Cam Kapak 6 Parça",
+  "identity_confidence": "high",
+  "source_folders": [
+    "gulsan-cakir-10-parca-celik-tencere-seti"
+  ],
+  "source_images": [
+    "new_images/gulsan-cakir-10-parca-celik-tencere-seti/past_gulsan-cakir-10-parca-celik-tencere-seti_00000252.jpg"
+  ],
+  "readable_evidence": [
+    "gülsan",
+    "Çakır",
+    "Güveç Set",
+    "Cam Kapak",
+    "6 Parça"
+  ],
+  "issues": [
+    "The current folder specifies a 10-piece set (10-parca-celik-tencere-seti), but the box clearly indicates '6 Parça' (6-piece cookware set)."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Set İçeriği",
+      "value": "14 cm, 16 cm ve 18 cm derin tencere ve kapakları",
+      "source_url": "https://www.gulsanstore.com/gulsan-cakir-6-parca-tencere-seti-cam-kapakli"
+    },
+    {
+      "label": "Malzeme",
+      "value": "18-10 Cr-Ni paslanmaz çelik",
+      "source_url": "https://www.gulsanstore.com/gulsan-cakir-6-parca-tencere-seti-cam-kapakli"
+    },
+    {
+      "label": "Kapak Tipi",
+      "value": "Şeffaf cam kapak",
+      "source_url": "https://www.gulsanstore.com/gulsan-cakir-6-parca-tencere-seti-cam-kapakli"
+    },
+    {
+      "label": "Taban Özelliği",
+      "value": "Isıyı muhafaza eden süper kapsül taban",
+      "source_url": "https://www.gulsanstore.com/gulsan-cakir-6-parca-tencere-seti-cam-kapakli"
+    },
+    {
+      "label": "Ocak Uyumluluğu",
+      "value": "Elektrikli, gazlı, halojen veya seramik ocaklarda kullanıma uygun",
+      "source_url": "https://www.gulsanstore.com/gulsan-cakir-6-parca-tencere-seti-cam-kapakli"
+    }
+  ],
+  "source_urls": [
+    "https://www.gulsanstore.com/gulsan-cakir-6-parca-tencere-seti-cam-kapakli"
+  ],
+  "verification_notes": [
+    "Ürün kutusunda ve resmi üretici kayıtlarında belirtildiği üzere set 3 adet tencere ve 3 adet cam kapaktan oluşan 6 parçalık Çakır modelidir; klasör başlığındaki 10 parça ibaresi hatalıdır."
+  ]
+}

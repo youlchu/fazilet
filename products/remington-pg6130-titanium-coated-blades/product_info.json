@@ -1,0 +1,63 @@
+{
+  "folder": "remington-pg6130-titanium-coated-blades",
+  "brand": "REMINGTON",
+  "model": "PG6130",
+  "name": "Groomkit",
+  "variant": "Titanium Coated Blades",
+  "identity_confidence": "high",
+  "source_folders": [
+    "remington-quickcut-sac-kesme-makinesi"
+  ],
+  "source_images": [
+    "new_images/remington-quickcut-sac-kesme-makinesi/past_remington-quickcut-sac-kesme-makinesi_00000250.jpg"
+  ],
+  "readable_evidence": [
+    "REMINGTON",
+    "Groomkit",
+    "Titanium Coated Blades",
+    "4 washable heads",
+    "UPTO 40 MINUTES",
+    "All in one kit for complete grooming"
+  ],
+  "issues": [
+    "The primary product shown is a Remington Groomkit multi-grooming kit, which does not match the folder name 'remington-quickcut-sac-kesme-makinesi'.",
+    "Specific alpha-numeric model number (e.g. PG series) is not visible on the front face of the Remington box."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Bıçak Tipi",
+      "value": "Titanyum kaplama bıçaklar",
+      "source_url": "https://www.vatanbilgisayar.com/remington-pg6130-11-i-bir-arada-erkek-bakim-kiti.html"
+    },
+    {
+      "label": "Başlıklar",
+      "value": "4 adet yıkanabilir başlık (ana düzeltici, mini folyo tıraş başlığı, detay şekillendirici, burun ve kulak tüyü kesici)",
+      "source_url": "https://www.vatanbilgisayar.com/remington-pg6130-11-i-bir-arada-erkek-bakim-kiti.html"
+    },
+    {
+      "label": "Taraklar",
+      "value": "5 adet sabit kılavuz tarak (1.5, 3, 6, 9, 12 mm)",
+      "source_url": "https://www.vatanbilgisayar.com/remington-pg6130-11-i-bir-arada-erkek-bakim-kiti.html"
+    },
+    {
+      "label": "Kullanım Süresi",
+      "value": "40 dakikaya kadar kablosuz kullanım",
+      "source_url": "https://www.teknosa.com/remington-pg6130-11i-1-arada-erkek-bakim-kiti-p-120240840"
+    },
+    {
+      "label": "Stand",
+      "value": "Kompakt şarj ve saklama standı",
+      "source_url": "https://www.teknosa.com/remington-pg6130-11i-1-arada-erkek-bakim-kiti-p-120240840"
+    }
+  ],
+  "source_urls": [
+    "https://www.vatanbilgisayar.com/remington-pg6130-11-i-bir-arada-erkek-bakim-kiti.html",
+    "https://www.teknosa.com/remington-pg6130-11i-1-arada-erkek-bakim-kiti-p-120240840"
+  ],
+  "verification_notes": [
+    "Kutu üzerindeki 'Groomkit', 'Titanium Coated Blades', '4 washable heads' ve 'UPTO 40 MINUTES' ibareleri Remington PG6130 modeline aittir."
+  ]
+}

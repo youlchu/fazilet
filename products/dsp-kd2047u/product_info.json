@@ -1,0 +1,61 @@
+{
+  "folder": "dsp-kd2047u",
+  "brand": "DSP",
+  "model": "KD2047U",
+  "name": "Steam Spot Cleaner 3in1",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "dsp-kd2047u-3-in-1-steam-spot-cleaner"
+  ],
+  "source_images": [
+    "new_images/dsp-kd2047u-3-in-1-steam-spot-cleaner/past_dsp-kd2047u-3-in-1-steam-spot-cleaner_00000502.jpg"
+  ],
+  "readable_evidence": [
+    "dsp",
+    "Model:KD2047U",
+    "Steam Spot Cleaner 3in1",
+    "1600ml Clean water tank",
+    "950ml Waste water tank"
+  ],
+  "issues": [
+    "The reference photo is oriented sideways."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Power",
+      "value": "1700W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-SxQhVo7rC6IyaVomVx2lklB9x3gswUDb8BJgih1fjBm3MQZKxfMjKotEivVzwpXPegQC5UlexN4GPy9EZMNneq30DdBc8tastyIRopC9VJQ_nmwgo-joEA0="
+    },
+    {
+      "label": "Suction Power",
+      "value": "12KPa",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-SxQhVo7rC6IyaVomVx2lklB9x3gswUDb8BJgih1fjBm3MQZKxfMjKotEivVzwpXPegQC5UlexN4GPy9EZMNneq30DdBc8tastyIRopC9VJQ_nmwgo-joEA0="
+    },
+    {
+      "label": "Rotating Speed",
+      "value": "38000RPM",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-SxQhVo7rC6IyaVomVx2lklB9x3gswUDb8BJgih1fjBm3MQZKxfMjKotEivVzwpXPegQC5UlexN4GPy9EZMNneq30DdBc8tastyIRopC9VJQ_nmwgo-joEA0="
+    },
+    {
+      "label": "Clean Water Tank",
+      "value": "1.6L",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-SxQhVo7rC6IyaVomVx2lklB9x3gswUDb8BJgih1fjBm3MQZKxfMjKotEivVzwpXPegQC5UlexN4GPy9EZMNneq30DdBc8tastyIRopC9VJQ_nmwgo-joEA0="
+    },
+    {
+      "label": "Waste Water Tank",
+      "value": "950ml",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-SxQhVo7rC6IyaVomVx2lklB9x3gswUDb8BJgih1fjBm3MQZKxfMjKotEivVzwpXPegQC5UlexN4GPy9EZMNneq30DdBc8tastyIRopC9VJQ_nmwgo-joEA0="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-SxQhVo7rC6IyaVomVx2lklB9x3gswUDb8BJgih1fjBm3MQZKxfMjKotEivVzwpXPegQC5UlexN4GPy9EZMNneq30DdBc8tastyIRopC9VJQ_nmwgo-joEA0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7vlNXXkxgClRsbFNdTpYRLWib1CHpwcke0HUf2XsZpEtIeR-mf7t3XN7p-qnXE4pKFsteTTrAsQ__MOImpKaotUCpTQq8ct3t_XiCAgwbSdOAFwN8bkeED2m1x792qKsZ1-GJ7ItSI0ApLcJQ4puYpxp--NiOxTuDUeGYpxTOy8EKa1UTUQA="
+  ],
+  "verification_notes": [
+    "The exact model KD2047U is confirmed across Turkish retail listings and DSP regional product listings under both 'Steam Spot Cleaner 3in1' and 'Vacuum Spot Cleaner Ultra Power'."
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "folder": "cvs-dn-5481",
+  "brand": "CVS",
+  "model": "DN 5481",
+  "name": "Alberto",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "goldmaster-cvs-alberto-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/goldmaster-cvs-alberto-buharli-utu/past_goldmaster-cvs-alberto-buharli-utu_00000074.jpg"
+  ],
+  "readable_evidence": [
+    "CVS",
+    "ALBERTO",
+    "DN 5481",
+    "3000 WATT",
+    "SERAMİK TABANLI BUHARLI ÜTÜ"
+  ],
+  "issues": [
+    "The image depicts two distinct products from different brands (Goldmaster and CVS) stacked on a store shelf, with neither being the sole primary subject.",
+    "The current folder name erroneously merges both products into a single name.",
+    "The model designation on the Goldmaster packaging is unreadable due to blur and low resolution."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Maksimum Güç",
+      "value": "3000 W",
+      "source_url": "https://www.trendyol.com/cvs/dn-5481-alberto-seramik-tabanli-3000-w-utu-p-804104277"
+    },
+    {
+      "label": "Taban Türü",
+      "value": "Seramik",
+      "source_url": "https://www.trendyol.com/cvs/dn-5481-alberto-seramik-tabanli-3000-w-utu-p-804104277"
+    },
+    {
+      "label": "Şok Buhar",
+      "value": "160 g/dk",
+      "source_url": "https://www.trendyol.com/cvs/dn-5481-alberto-seramik-tabanli-3000-w-utu-p-804104277"
+    },
+    {
+      "label": "Sürekli Buhar",
+      "value": "25 g/dk",
+      "source_url": "https://www.trendyol.com/cvs/dn-5481-alberto-seramik-tabanli-3000-w-utu-p-804104277"
+    },
+    {
+      "label": "Su Tankı Kapasitesi",
+      "value": "360 ml",
+      "source_url": "https://www.hepsiburada.com/cvs-dn-5481-alberto-3000w-utu-pm-HBC00006L2B5E"
+    }
+  ],
+  "source_urls": [
+    "https://www.trendyol.com/cvs/dn-5481-alberto-seramik-tabanli-3000-w-utu-p-804104277",
+    "https://www.hepsiburada.com/cvs-dn-5481-alberto-3000w-utu-pm-HBC00006L2B5E",
+    "https://www.akakce.com/utu/en-ucuz-cvs-alberto-dn-5481-3000-w-buharli-fiyati,644675545.html"
+  ],
+  "verification_notes": [
+    "The packaging displays 'CVS ALBERTO DN 5481 3000 WATT SERAMİK TABANLI BUHARLI ÜTÜ', which fully matches Turkish retail product listings."
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "folder": "raks-pera-plus",
+  "brand": "RAKS",
+  "model": "PERA PLUS",
+  "name": "EL BLENDERI",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "raks-pera-el-blenderi"
+  ],
+  "source_images": [
+    "new_images/raks-pera-el-blenderi/past_raks-pera-el-blenderi_00000461.jpg"
+  ],
+  "readable_evidence": [
+    "RAKS",
+    "EL BLENDERI",
+    "PERA PLUS",
+    "1700 WATT",
+    "600 ml."
+  ],
+  "issues": [
+    "The current folder name 'raks-pera-el-blenderi' omits the 'PLUS' modifier shown on the product packaging ('PERA PLUS').",
+    "Background packages (Samdan oven, CVS fan, Kahramanlar cookware) are partially visible behind the primary product."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "Maksimum 1700 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoFB0LFDaVHSiMNmAHjsmHDIe_tUy4JhIuhEOGFaiCX4jzrxmrSP7Ms5z-LQ6eqgkASEKeOjtWT_Od__8z9VXDxswlAB3t386RlJQJZyrTE2NH5XtqsZ2BE-5zcyzA6HrgKsZZ"
+    },
+    {
+      "label": "Ölçü Kabı Kapasitesi",
+      "value": "600 ml",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoFB0LFDaVHSiMNmAHjsmHDIe_tUy4JhIuhEOGFaiCX4jzrxmrSP7Ms5z-LQ6eqgkASEKeOjtWT_Od__8z9VXDxswlAB3t386RlJQJZyrTE2NH5XtqsZ2BE-5zcyzA6HrgKsZZ"
+    },
+    {
+      "label": "Bıçak Özelliği",
+      "value": "4 kanatlı paslanmaz bıçak",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoFB0LFDaVHSiMNmAHjsmHDIe_tUy4JhIuhEOGFaiCX4jzrxmrSP7Ms5z-LQ6eqgkASEKeOjtWT_Od__8z9VXDxswlAB3t386RlJQJZyrTE2NH5XtqsZ2BE-5zcyzA6HrgKsZZ"
+    },
+    {
+      "label": "Tasarım",
+      "value": "Ergonomik tasarım",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoFB0LFDaVHSiMNmAHjsmHDIe_tUy4JhIuhEOGFaiCX4jzrxmrSP7Ms5z-LQ6eqgkASEKeOjtWT_Od__8z9VXDxswlAB3t386RlJQJZyrTE2NH5XtqsZ2BE-5zcyzA6HrgKsZZ"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoFB0LFDaVHSiMNmAHjsmHDIe_tUy4JhIuhEOGFaiCX4jzrxmrSP7Ms5z-LQ6eqgkASEKeOjtWT_Od__8z9VXDxswlAB3t386RlJQJZyrTE2NH5XtqsZ2BE-5zcyzA6HrgKsZZ"
+  ],
+  "verification_notes": []
+}

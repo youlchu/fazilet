@@ -1,0 +1,63 @@
+{
+  "folder": "cvs-dn-5475-lucia-2200-w-mor",
+  "brand": "CVS",
+  "model": "DN 5475 Lucia",
+  "name": "Seramik Tabanlı Buharlı Ütü",
+  "variant": "2200 W, Mor",
+  "identity_confidence": "high",
+  "source_folders": [
+    "cvs-venus-lucia-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/cvs-venus-lucia-buharli-utu/past_cvs-venus-lucia-buharli-utu_00000071.jpg"
+  ],
+  "readable_evidence": [
+    "CVS",
+    "Lucia",
+    "Seramik Tabanlı Buharlı Ütü",
+    "2200 WATT"
+  ],
+  "issues": [
+    "The current folder conflates two distinct product lines ('Venüs' and 'Lucia') into one folder name.",
+    "The image displays a vertical stack of retail boxes featuring two distinct models; neither is a single primary subject.",
+    "A numeric code ending in '6475' is partially visible at the bottom left of the Lucia boxes, but the full alphanumeric model code is obscured."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "2200 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgO-JnkQprAj2rmZp-6hzKvddiuWfLZiwXbrB236WQYQ9LH_Nkes2EXKPBxH-SbsVwKaKfQiPbUMvEYAmLPrndtB6HD1Vdq3STit2KaP3RXNtloy0UfGikZwPOmiqx8I9jtDhO1dDFdGvLJQRvgpp0emDuB27b7ykAtlklOpuiCCVWb34gKh2z"
+    },
+    {
+      "label": "Taban",
+      "value": "Seramik",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgO-JnkQprAj2rmZp-6hzKvddiuWfLZiwXbrB236WQYQ9LH_Nkes2EXKPBxH-SbsVwKaKfQiPbUMvEYAmLPrndtB6HD1Vdq3STit2KaP3RXNtloy0UfGikZwPOmiqx8I9jtDhO1dDFdGvLJQRvgpp0emDuB27b7ykAtlklOpuiCCVWb34gKh2z"
+    },
+    {
+      "label": "Su Haznesi Kapasitesi",
+      "value": "310 ml",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgO-JnkQprAj2rmZp-6hzKvddiuWfLZiwXbrB236WQYQ9LH_Nkes2EXKPBxH-SbsVwKaKfQiPbUMvEYAmLPrndtB6HD1Vdq3STit2KaP3RXNtloy0UfGikZwPOmiqx8I9jtDhO1dDFdGvLJQRvgpp0emDuB27b7ykAtlklOpuiCCVWb34gKh2z"
+    },
+    {
+      "label": "Kireç Önleme",
+      "value": "Gelişmiş kireç önleme sistemi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgO-JnkQprAj2rmZp-6hzKvddiuWfLZiwXbrB236WQYQ9LH_Nkes2EXKPBxH-SbsVwKaKfQiPbUMvEYAmLPrndtB6HD1Vdq3STit2KaP3RXNtloy0UfGikZwPOmiqx8I9jtDhO1dDFdGvLJQRvgpp0emDuB27b7ykAtlklOpuiCCVWb34gKh2z"
+    },
+    {
+      "label": "Damlama Önleme",
+      "value": "Damlama önleme özelliği",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgO-JnkQprAj2rmZp-6hzKvddiuWfLZiwXbrB236WQYQ9LH_Nkes2EXKPBxH-SbsVwKaKfQiPbUMvEYAmLPrndtB6HD1Vdq3STit2KaP3RXNtloy0UfGikZwPOmiqx8I9jtDhO1dDFdGvLJQRvgpp0emDuB27b7ykAtlklOpuiCCVWb34gKh2z"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgO-JnkQprAj2rmZp-6hzKvddiuWfLZiwXbrB236WQYQ9LH_Nkes2EXKPBxH-SbsVwKaKfQiPbUMvEYAmLPrndtB6HD1Vdq3STit2KaP3RXNtloy0UfGikZwPOmiqx8I9jtDhO1dDFdGvLJQRvgpp0emDuB27b7ykAtlklOpuiCCVWb34gKh2z"
+  ],
+  "verification_notes": [
+    "The partially visible model code ending in '6475' corresponds to model code DN 5475.",
+    "The product is confirmed as the CVS DN 5475 Lucia 2200 W Buharlı Ütü.",
+    "The conflation in the visual audit references two distinct CVS models: Venüs (DN 1770) and Lucia (DN 5475)."
+  ]
+}

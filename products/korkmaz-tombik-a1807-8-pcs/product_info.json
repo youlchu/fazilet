@@ -1,0 +1,57 @@
+{
+  "folder": "korkmaz-tombik-a1807-8-pcs",
+  "brand": "Korkmaz",
+  "model": "Tombik A1807",
+  "name": "Cookware Set / Tencere Seti",
+  "variant": "8 Pcs",
+  "identity_confidence": "high",
+  "source_folders": [
+    "korkmaz-tombik-celik-tencere-seti"
+  ],
+  "source_images": [
+    "new_images/korkmaz-tombik-celik-tencere-seti/past_korkmaz-tombik-celik-tencere-seti_00000115.jpg"
+  ],
+  "readable_evidence": [
+    "KORKMAZ",
+    "TOMBIK",
+    "COOKWARE SET",
+    "TENCERE SETİ",
+    "A1807",
+    "8 Pcs"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Malzeme",
+      "value": "18/10 Cr-Ni paslanmaz çelik",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwt41s45WtKgi88-rdXOC4DBYI5iui4IVH_m8XYd954FryWNxxThgp9wgk3dPoKomu5MFJjNUdLk7XqQ9-5FQRmztp_CCPD7yshYsKwOVEThazV_FCe832LrojQ7n8argz-PjuABehCpeteauzJQSJnBq3UsAXPL4="
+    },
+    {
+      "label": "Taban Tipi",
+      "value": "İndüksiyon uyumlu ve homojen ısı iletimi sağlayan Solar Base süper kapsül taban",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwt41s45WtKgi88-rdXOC4DBYI5iui4IVH_m8XYd954FryWNxxThgp9wgk3dPoKomu5MFJjNUdLk7XqQ9-5FQRmztp_CCPD7yshYsKwOVEThazV_FCe832LrojQ7n8argz-PjuABehCpeteauzJQSJnBq3UsAXPL4="
+    },
+    {
+      "label": "Kapak",
+      "value": "Özel temperlenmiş, ısıya dayanıklı cam kapak",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwt41s45WtKgi88-rdXOC4DBYI5iui4IVH_m8XYd954FryWNxxThgp9wgk3dPoKomu5MFJjNUdLk7XqQ9-5FQRmztp_CCPD7yshYsKwOVEThazV_FCe832LrojQ7n8argz-PjuABehCpeteauzJQSJnBq3UsAXPL4="
+    },
+    {
+      "label": "Kulp Yapısı",
+      "value": "Ergonomik, el yakmayan özel güvenli paslanmaz çelik kulp ve tepeler",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwt41s45WtKgi88-rdXOC4DBYI5iui4IVH_m8XYd954FryWNxxThgp9wgk3dPoKomu5MFJjNUdLk7XqQ9-5FQRmztp_CCPD7yshYsKwOVEThazV_FCe832LrojQ7n8argz-PjuABehCpeteauzJQSJnBq3UsAXPL4="
+    },
+    {
+      "label": "Bulaşık Makinesi Uyumu",
+      "value": "Bulaşık makinesinde temizlenebilir",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwt41s45WtKgi88-rdXOC4DBYI5iui4IVH_m8XYd954FryWNxxThgp9wgk3dPoKomu5MFJjNUdLk7XqQ9-5FQRmztp_CCPD7yshYsKwOVEThazV_FCe832LrojQ7n8argz-PjuABehCpeteauzJQSJnBq3UsAXPL4="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwt41s45WtKgi88-rdXOC4DBYI5iui4IVH_m8XYd954FryWNxxThgp9wgk3dPoKomu5MFJjNUdLk7XqQ9-5FQRmztp_CCPD7yshYsKwOVEThazV_FCe832LrojQ7n8argz-PjuABehCpeteauzJQSJnBq3UsAXPL4="
+  ],
+  "verification_notes": []
+}

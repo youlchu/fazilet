@@ -1,0 +1,61 @@
+{
+  "folder": "tefal-puregliss-fv8042-fv8042",
+  "brand": "Tefal",
+  "model": "Puregliss FV8042",
+  "name": "Buharlı Ütü",
+  "variant": "FV8042",
+  "identity_confidence": "high",
+  "source_folders": [
+    "philips-5000-tefal-fv8062-fv9e50-fv8042-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/philips-5000-tefal-fv8062-fv9e50-fv8042-buharli-utu/past_philips-5000-tefal-fv8062-fv9e50-fv8042-buharli-utu_00000088.jpg"
+  ],
+  "readable_evidence": [
+    "PUREGLISS",
+    "2900",
+    "50",
+    "270",
+    "AUTO OFF"
+  ],
+  "issues": [
+    "Shelf storage view containing multiple distinct steam iron packages; no single primary subject is featured.",
+    "Exact alphanumeric model codes (such as FV8062, FV9E50, FV8042) indicated in the folder name are not legibly printed on the visible package faces."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "2900 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwWT0SpFmN9V8mzYlH3bZFXn8yVNyccN-Q3ZqXZ87dniuqLlSIBLdZjXvUtNR7nFypf7shDrDSZv_8qBjmw1GeAZ-69vX74k1xh3ZZKKeVeNXXHW_2s_uwFcEDZM4oR9FYKs5iQK6IoajrfNSRl3kOVmZxtReix0wcFtGdZ9FTOpVOpc9tx1a16mP_d6Y7Hg1qJIUx_LUiWb6AUXHYaPLc5a7Ed3lx5GC9MJg9fSSE"
+    },
+    {
+      "label": "Sürekli buhar çıkışı",
+      "value": "50 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwWT0SpFmN9V8mzYlH3bZFXn8yVNyccN-Q3ZqXZ87dniuqLlSIBLdZjXvUtNR7nFypf7shDrDSZv_8qBjmw1GeAZ-69vX74k1xh3ZZKKeVeNXXHW_2s_uwFcEDZM4oR9FYKs5iQK6IoajrfNSRl3kOVmZxtReix0wcFtGdZ9FTOpVOpc9tx1a16mP_d6Y7Hg1qJIUx_LUiWb6AUXHYaPLc5a7Ed3lx5GC9MJg9fSSE"
+    },
+    {
+      "label": "Şok buhar",
+      "value": "270 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwWT0SpFmN9V8mzYlH3bZFXn8yVNyccN-Q3ZqXZ87dniuqLlSIBLdZjXvUtNR7nFypf7shDrDSZv_8qBjmw1GeAZ-69vX74k1xh3ZZKKeVeNXXHW_2s_uwFcEDZM4oR9FYKs5iQK6IoajrfNSRl3kOVmZxtReix0wcFtGdZ9FTOpVOpc9tx1a16mP_d6Y7Hg1qJIUx_LUiWb6AUXHYaPLc5a7Ed3lx5GC9MJg9fSSE"
+    },
+    {
+      "label": "Taban",
+      "value": "Durilium Airglide AutoClean",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwWT0SpFmN9V8mzYlH3bZFXn8yVNyccN-Q3ZqXZ87dniuqLlSIBLdZjXvUtNR7nFypf7shDrDSZv_8qBjmw1GeAZ-69vX74k1xh3ZZKKeVeNXXHW_2s_uwFcEDZM4oR9FYKs5iQK6IoajrfNSRl3kOVmZxtReix0wcFtGdZ9FTOpVOpc9tx1a16mP_d6Y7Hg1qJIUx_LUiWb6AUXHYaPLc5a7Ed3lx5GC9MJg9fSSE"
+    },
+    {
+      "label": "Otomatik kapanma",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwWT0SpFmN9V8mzYlH3bZFXn8yVNyccN-Q3ZqXZ87dniuqLlSIBLdZjXvUtNR7nFypf7shDrDSZv_8qBjmw1GeAZ-69vX74k1xh3ZZKKeVeNXXHW_2s_uwFcEDZM4oR9FYKs5iQK6IoajrfNSRl3kOVmZxtReix0wcFtGdZ9FTOpVOpc9tx1a16mP_d6Y7Hg1qJIUx_LUiWb6AUXHYaPLc5a7Ed3lx5GC9MJg9fSSE"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwWT0SpFmN9V8mzYlH3bZFXn8yVNyccN-Q3ZqXZ87dniuqLlSIBLdZjXvUtNR7nFypf7shDrDSZv_8qBjmw1GeAZ-69vX74k1xh3ZZKKeVeNXXHW_2s_uwFcEDZM4oR9FYKs5iQK6IoajrfNSRl3kOVmZxtReix0wcFtGdZ9FTOpVOpc9tx1a16mP_d6Y7Hg1qJIUx_LUiWb6AUXHYaPLc5a7Ed3lx5GC9MJg9fSSE"
+  ],
+  "verification_notes": [
+    "The package text 'PUREGLISS', '2900', '50', and '270' uniquely corresponds to model code FV8042 in the Tefal Puregliss product lineup (2900 W, 50 g/min continuous steam, 270 g/min boost)."
+  ]
+}

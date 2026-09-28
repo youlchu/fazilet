@@ -1,0 +1,34 @@
+{
+  "folder": "philips-azur-7000-series",
+  "brand": "Philips",
+  "model": "Azur 7000 Series",
+  "name": "Steam iron",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "philips-5000-dst7022-tefal-fv9e50-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/philips-5000-dst7022-tefal-fv9e50-buharli-utu/past_philips-5000-dst7022-tefal-fv9e50-buharli-utu_00000092.jpg"
+  ],
+  "readable_evidence": [
+    "PHILIPS",
+    "Azur",
+    "Steam Iron 7000 Series",
+    "Steam performance, guaranteed"
+  ],
+  "issues": [
+    "Warehouse shelf storage photograph contains multiple distinct products; no single primary subject is present.",
+    "Exact model codes referenced in folder name (DST7022, FV9E50) are not clearly legible on the packaging boxes."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [],
+  "verification_notes": [
+    "The source photograph depicts warehouse shelf storage with multiple products and no clearly isolated subject.",
+    "Only the series designation 'Philips Azur Steam Iron 7000 Series' is visible on the packaging; specific model numbers (such as DST7022) cannot be legibly verified.",
+    "Because the exact sub-model cannot be confirmed, the product identity remains unverified with candidate values unchanged."
+  ]
+}

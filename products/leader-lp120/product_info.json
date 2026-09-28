@@ -1,0 +1,62 @@
+{
+  "folder": "leader-lp120",
+  "brand": "LEADER",
+  "model": "LP120",
+  "name": "Portatif Kablosuz Hoparlör",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "leader-lp120-fantom-pratic-s-cs-home-granit-basik-tencere"
+  ],
+  "source_images": [
+    "new_images/leader-lp120-fantom-pratic-s-cs-home-granit-basik-tencere/past_leader-lp120-fantom-pratic-s-cs-home-granit-basik-tencere_00000065.jpg"
+  ],
+  "readable_evidence": [
+    "LEADER",
+    "LP120",
+    "PORTATİF KABLOSUZ HOPARLÖR"
+  ],
+  "issues": [
+    "The current folder name concatenates three distinct stacked retail items together.",
+    "The primary centered subject is the LEADER LP120 speaker box; CVS and Fantom boxes are stacked below it.",
+    "The Fantom model name is partially cropped at the edge of the frame, showing only 'TIC-S'.",
+    "A Fakir box is visible in the top left background without readable model or product-line details."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Ses Çıkış Gücü",
+      "value": "20W RMS",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7rg2arv9S1aKGt1YDLh4qGrDDXKMrjRWHZHoZZcDy1RR6rjRMLk6WiyCkeaH0jItPNoc39cmlelBjsmfZl4tc1o5IN0OLpYjjpHezzOLzPru5r946Iw8PVNvqGoLV-4e7fGHhIIPEgSTGL0IgRxlFrjDJLhsT6sJpCnSLX6wtHMrbZn-TjpuXt_iO6M4jT3LkgCVnN80W75O3qJWhIajgFofHoLhuF7fuRFvFnYbR8jbW_rgHBx0rxIpQaPqHtfp3"
+    },
+    {
+      "label": "Batarya Kapasitesi",
+      "value": "7.4V 4400 mAh",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7rg2arv9S1aKGt1YDLh4qGrDDXKMrjRWHZHoZZcDy1RR6rjRMLk6WiyCkeaH0jItPNoc39cmlelBjsmfZl4tc1o5IN0OLpYjjpHezzOLzPru5r946Iw8PVNvqGoLV-4e7fGHhIIPEgSTGL0IgRxlFrjDJLhsT6sJpCnSLX6wtHMrbZn-TjpuXt_iO6M4jT3LkgCVnN80W75O3qJWhIajgFofHoLhuF7fuRFvFnYbR8jbW_rgHBx0rxIpQaPqHtfp3"
+    },
+    {
+      "label": "Suya Dayanıklılık",
+      "value": "IPX5",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7rg2arv9S1aKGt1YDLh4qGrDDXKMrjRWHZHoZZcDy1RR6rjRMLk6WiyCkeaH0jItPNoc39cmlelBjsmfZl4tc1o5IN0OLpYjjpHezzOLzPru5r946Iw8PVNvqGoLV-4e7fGHhIIPEgSTGL0IgRxlFrjDJLhsT6sJpCnSLX6wtHMrbZn-TjpuXt_iO6M4jT3LkgCVnN80W75O3qJWhIajgFofHoLhuF7fuRFvFnYbR8jbW_rgHBx0rxIpQaPqHtfp3"
+    },
+    {
+      "label": "Mikrofon",
+      "value": "Kablosuz şarjlı el mikrofonu",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7rg2arv9S1aKGt1YDLh4qGrDDXKMrjRWHZHoZZcDy1RR6rjRMLk6WiyCkeaH0jItPNoc39cmlelBjsmfZl4tc1o5IN0OLpYjjpHezzOLzPru5r946Iw8PVNvqGoLV-4e7fGHhIIPEgSTGL0IgRxlFrjDJLhsT6sJpCnSLX6wtHMrbZn-TjpuXt_iO6M4jT3LkgCVnN80W75O3qJWhIajgFofHoLhuF7fuRFvFnYbR8jbW_rgHBx0rxIpQaPqHtfp3"
+    },
+    {
+      "label": "Radyo",
+      "value": "FM Radyo desteği",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7rg2arv9S1aKGt1YDLh4qGrDDXKMrjRWHZHoZZcDy1RR6rjRMLk6WiyCkeaH0jItPNoc39cmlelBjsmfZl4tc1o5IN0OLpYjjpHezzOLzPru5r946Iw8PVNvqGoLV-4e7fGHhIIPEgSTGL0IgRxlFrjDJLhsT6sJpCnSLX6wtHMrbZn-TjpuXt_iO6M4jT3LkgCVnN80W75O3qJWhIajgFofHoLhuF7fuRFvFnYbR8jbW_rgHBx0rxIpQaPqHtfp3"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7rg2arv9S1aKGt1YDLh4qGrDDXKMrjRWHZHoZZcDy1RR6rjRMLk6WiyCkeaH0jItPNoc39cmlelBjsmfZl4tc1o5IN0OLpYjjpHezzOLzPru5r946Iw8PVNvqGoLV-4e7fGHhIIPEgSTGL0IgRxlFrjDJLhsT6sJpCnSLX6wtHMrbZn-TjpuXt_iO6M4jT3LkgCVnN80W75O3qJWhIajgFofHoLhuF7fuRFvFnYbR8jbW_rgHBx0rxIpQaPqHtfp3"
+  ],
+  "verification_notes": [
+    "Candidate brand, model, and product name match the packaging text and listings across Turkish retailers.",
+    "Stacked secondary products visible in the frame (CVS, Fantom, and Fakir) are separate packaging boxes and not part of this item."
+  ]
+}

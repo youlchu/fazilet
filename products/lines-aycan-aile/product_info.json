@@ -1,0 +1,56 @@
+{
+  "folder": "lines-aycan-aile",
+  "brand": "Lines",
+  "model": "Aycan",
+  "name": "Çaydanlık",
+  "variant": "Aile",
+  "identity_confidence": "high",
+  "source_folders": [
+    "lines-rize-caydanlik"
+  ],
+  "source_images": [
+    "new_images/lines-rize-caydanlik/past_lines-rize-caydanlik_00000508.jpg"
+  ],
+  "readable_evidence": [
+    "lines",
+    "AYCAN ÇAYDANLIK",
+    "AİLE",
+    "304 Kalite Paslanmaz Çelik"
+  ],
+  "issues": [
+    "The product model reads 'AYCAN ÇAYDANLIK' rather than 'Rize' as indicated in the folder name."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Demlik Kapasitesi",
+      "value": "1,75 lt",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAS8B1zphgASBXv9MMqslQlgxyc3pqFzri7j85XP_3Dag5TPHV10OTaierGZCKz-3Xw0mYCkr_SHyl94UsAnXNEf47slmGttHVOCr5C6VmurORvd1DyBk7l9090wWixgrgG-3N2mYK1ZRb7cSBfJw="
+    },
+    {
+      "label": "Suluk Kapasitesi",
+      "value": "3,00 lt",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAS8B1zphgASBXv9MMqslQlgxyc3pqFzri7j85XP_3Dag5TPHV10OTaierGZCKz-3Xw0mYCkr_SHyl94UsAnXNEf47slmGttHVOCr5C6VmurORvd1DyBk7l9090wWixgrgG-3N2mYK1ZRb7cSBfJw="
+    },
+    {
+      "label": "Boyut",
+      "value": "Aile Boy",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAS8B1zphgASBXv9MMqslQlgxyc3pqFzri7j85XP_3Dag5TPHV10OTaierGZCKz-3Xw0mYCkr_SHyl94UsAnXNEf47slmGttHVOCr5C6VmurORvd1DyBk7l9090wWixgrgG-3N2mYK1ZRb7cSBfJw="
+    },
+    {
+      "label": "Materyal",
+      "value": "Paslanmaz Çelik",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT_Fa4EXnaXQZKV57T6AUuwF0EWG997SWi6UqZTulkpse3QfCpah8eOKPUU4EMC7J-5ObaVoGSknyzZ_bsS8c-dHZJTbKCTvg4N2v1qF66ZaCbtWMRV8kQ1OS1Famv1-dth_HJj4R233OggMyXjrlfrr8RZCXZimPcqAtvcy0pJhPjMW87z455Qh6hHUU0BABHKFvLH3em6ZbfspdP1ZkiyYSsjw="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAS8B1zphgASBXv9MMqslQlgxyc3pqFzri7j85XP_3Dag5TPHV10OTaierGZCKz-3Xw0mYCkr_SHyl94UsAnXNEf47slmGttHVOCr5C6VmurORvd1DyBk7l9090wWixgrgG-3N2mYK1ZRb7cSBfJw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT_Fa4EXnaXQZKV57T6AUuwF0EWG997SWi6UqZTulkpse3QfCpah8eOKPUU4EMC7J-5ObaVoGSknyzZ_bsS8c-dHZJTbKCTvg4N2v1qF66ZaCbtWMRV8kQ1OS1Famv1-dth_HJj4R233OggMyXjrlfrr8RZCXZimPcqAtvcy0pJhPjMW87z455Qh6hHUU0BABHKFvLH3em6ZbfspdP1ZkiyYSsjw="
+  ],
+  "verification_notes": [
+    "The packaging confirms the product identity as Lines Aycan Çaydanlık (Aile boy), resolving the folder name discrepancy.",
+    "Official manufacturer listings verify that the 'Aile Boy' Aycan teapot has a 1.75 L upper pot and a 3.00 L lower water pot."
+  ]
+}

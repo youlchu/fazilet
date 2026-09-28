@@ -1,0 +1,62 @@
+{
+  "folder": "goldmaster-gm-7240",
+  "brand": "GOLDMASTER",
+  "model": "GM-7240",
+  "name": "Yasemin Blender Seti",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "goldmaster-mycook-blender-seti"
+  ],
+  "source_images": [
+    "new_images/goldmaster-mycook-blender-seti/past_goldmaster-mycook-blender-seti_00000454.jpg",
+    "new_images/goldmaster-mycook-blender-seti/past_goldmaster-mycook-blender-seti_00000458.jpg"
+  ],
+  "readable_evidence": [
+    "GOLDMASTER",
+    "myCook",
+    "Blender Set",
+    "GM-7240"
+  ],
+  "issues": [
+    "The reference images appear to be duplicate shots of the same retail packaging."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Motor Gücü",
+      "value": "1000 W (%100 bakır motor)",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESkySyLrPUaODLC7fa3Dbx4xgyYg0do2tDSxsw9PF9UBy9pLdDdHcanT_l18wt_kRVmFdA-HYNnTAdttZSrJEImyQR4LwCYI-86KdA0yIORYYfp2DzAMEN1D5Rdv2zzl4K_uyzLqkxVwkMA-uXDQn_lMxw_pzUwofvZMFcRyMflkIiXPbHt-GcqHMSFWesiVxthtrhlhc_7Q-KoECDwlGoO2p-4c9PYSEXKlfUZdk-bv2_Qg=="
+    },
+    {
+      "label": "Fonksiyonlar",
+      "value": "3'ü 1 arada doğrama, karıştırma ve blender",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESkySyLrPUaODLC7fa3Dbx4xgyYg0do2tDSxsw9PF9UBy9pLdDdHcanT_l18wt_kRVmFdA-HYNnTAdttZSrJEImyQR4LwCYI-86KdA0yIORYYfp2DzAMEN1D5Rdv2zzl4K_uyzLqkxVwkMA-uXDQn_lMxw_pzUwofvZMFcRyMflkIiXPbHt-GcqHMSFWesiVxthtrhlhc_7Q-KoECDwlGoO2p-4c9PYSEXKlfUZdk-bv2_Qg=="
+    },
+    {
+      "label": "İşlem Haznesi",
+      "value": "0,8 lt",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESkySyLrPUaODLC7fa3Dbx4xgyYg0do2tDSxsw9PF9UBy9pLdDdHcanT_l18wt_kRVmFdA-HYNnTAdttZSrJEImyQR4LwCYI-86KdA0yIORYYfp2DzAMEN1D5Rdv2zzl4K_uyzLqkxVwkMA-uXDQn_lMxw_pzUwofvZMFcRyMflkIiXPbHt-GcqHMSFWesiVxthtrhlhc_7Q-KoECDwlGoO2p-4c9PYSEXKlfUZdk-bv2_Qg=="
+    },
+    {
+      "label": "Hız Ayarı",
+      "value": "Normal ve Turbo hız seçenekleri",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESkySyLrPUaODLC7fa3Dbx4xgyYg0do2tDSxsw9PF9UBy9pLdDdHcanT_l18wt_kRVmFdA-HYNnTAdttZSrJEImyQR4LwCYI-86KdA0yIORYYfp2DzAMEN1D5Rdv2zzl4K_uyzLqkxVwkMA-uXDQn_lMxw_pzUwofvZMFcRyMflkIiXPbHt-GcqHMSFWesiVxthtrhlhc_7Q-KoECDwlGoO2p-4c9PYSEXKlfUZdk-bv2_Qg=="
+    },
+    {
+      "label": "Aparat Malzemesi",
+      "value": "Paslanmaz çelik mikser ve blender aparatı",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESkySyLrPUaODLC7fa3Dbx4xgyYg0do2tDSxsw9PF9UBy9pLdDdHcanT_l18wt_kRVmFdA-HYNnTAdttZSrJEImyQR4LwCYI-86KdA0yIORYYfp2DzAMEN1D5Rdv2zzl4K_uyzLqkxVwkMA-uXDQn_lMxw_pzUwofvZMFcRyMflkIiXPbHt-GcqHMSFWesiVxthtrhlhc_7Q-KoECDwlGoO2p-4c9PYSEXKlfUZdk-bv2_Qg=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESkySyLrPUaODLC7fa3Dbx4xgyYg0do2tDSxsw9PF9UBy9pLdDdHcanT_l18wt_kRVmFdA-HYNnTAdttZSrJEImyQR4LwCYI-86KdA0yIORYYfp2DzAMEN1D5Rdv2zzl4K_uyzLqkxVwkMA-uXDQn_lMxw_pzUwofvZMFcRyMflkIiXPbHt-GcqHMSFWesiVxthtrhlhc_7Q-KoECDwlGoO2p-4c9PYSEXKlfUZdk-bv2_Qg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG52WqRzvCrjq-2JFaKh5kCdQjC5F6NyUEGt3SMjaIiGWEmJ9g14vm4uIbFqWQHsPmhlxhQD5oxBOezdDvg30wiMMuLAz00WNkEkeX_06TKChY0Ij7zNwEAdNFCff5Ibwk8F9i8EKjyZS_cJHYJ-gdaHWlHBc0P0dGiuCRWCoqBA4bRvoialBTznKnfhF43W8vb7P9zJs="
+  ],
+  "verification_notes": [
+    "Model GM-7240 is confirmed as a Goldmaster 3-in-1 blender set.",
+    "Although the box displays 'myCook Blender Set', Turkish retail listings and catalogs uniformly identify model GM-7240 under the product name 'Yasemin' ('Yasemin Blender Seti')."
+  ]
+}

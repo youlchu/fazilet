@@ -1,0 +1,58 @@
+{
+  "folder": "tefal-ultimate-power-pro-fv9e50",
+  "brand": "Tefal",
+  "model": "Ultimate Power Pro FV9E50",
+  "name": "Buharlı Ütü",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "philips-5000-dst7022-tefal-fv9e50-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/philips-5000-dst7022-tefal-fv9e50-buharli-utu/past_philips-5000-dst7022-tefal-fv9e50-buharli-utu_00000092.jpg"
+  ],
+  "readable_evidence": [
+    "Tefal",
+    "ULTIMATE POWER PRO"
+  ],
+  "issues": [
+    "Warehouse shelf storage photograph contains multiple distinct products; no single primary subject is present.",
+    "Exact model codes referenced in folder name (DST7022, FV9E50) are not clearly legible on the packaging boxes."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "3200 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjnzi18uZpySLjUP4StoY5srZs-kDgaii6FxkFJXDW-qzn4Rm8_pqqTUSSucjvLOAiXuwNoaD1BrHCBChznRurO5y8ojOeXrAItLzyZTrZuFp5C47Od8pAPxZkrImXX7DKpDrF1J3o9dXGihgEpb6DAEjyWPVaXNWO700_5QoM"
+    },
+    {
+      "label": "Sürekli Buhar Çıkışı",
+      "value": "85 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjnzi18uZpySLjUP4StoY5srZs-kDgaii6FxkFJXDW-qzn4Rm8_pqqTUSSucjvLOAiXuwNoaD1BrHCBChznRurO5y8ojOeXrAItLzyZTrZuFp5C47Od8pAPxZkrImXX7DKpDrF1J3o9dXGihgEpb6DAEjyWPVaXNWO700_5QoM"
+    },
+    {
+      "label": "Şok Buhar",
+      "value": "300 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjnzi18uZpySLjUP4StoY5srZs-kDgaii6FxkFJXDW-qzn4Rm8_pqqTUSSucjvLOAiXuwNoaD1BrHCBChznRurO5y8ojOeXrAItLzyZTrZuFp5C47Od8pAPxZkrImXX7DKpDrF1J3o9dXGihgEpb6DAEjyWPVaXNWO700_5QoM"
+    },
+    {
+      "label": "Taban Teknolojisi",
+      "value": "Durilium AirGlide",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjnzi18uZpySLjUP4StoY5srZs-kDgaii6FxkFJXDW-qzn4Rm8_pqqTUSSucjvLOAiXuwNoaD1BrHCBChznRurO5y8ojOeXrAItLzyZTrZuFp5C47Od8pAPxZkrImXX7DKpDrF1J3o9dXGihgEpb6DAEjyWPVaXNWO700_5QoM"
+    },
+    {
+      "label": "Otomatik Kapanma",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjnzi18uZpySLjUP4StoY5srZs-kDgaii6FxkFJXDW-qzn4Rm8_pqqTUSSucjvLOAiXuwNoaD1BrHCBChznRurO5y8ojOeXrAItLzyZTrZuFp5C47Od8pAPxZkrImXX7DKpDrF1J3o9dXGihgEpb6DAEjyWPVaXNWO700_5QoM"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjnzi18uZpySLjUP4StoY5srZs-kDgaii6FxkFJXDW-qzn4Rm8_pqqTUSSucjvLOAiXuwNoaD1BrHCBChznRurO5y8ojOeXrAItLzyZTrZuFp5C47Od8pAPxZkrImXX7DKpDrF1J3o9dXGihgEpb6DAEjyWPVaXNWO700_5QoM"
+  ],
+  "verification_notes": [
+    "Ürün görselindeki ve dosya adındaki model referansı incelenerek model kodu Ultimate Power Pro FV9E50 (Tefal Türkiye kataloğunda FV9E5 / FV9E50E0) olarak netleştirilmiştir."
+  ]
+}

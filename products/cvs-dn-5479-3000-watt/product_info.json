@@ -1,0 +1,61 @@
+{
+  "folder": "cvs-dn-5479-3000-watt",
+  "brand": "CVS",
+  "model": "DN 5479",
+  "name": "SmartIron",
+  "variant": "3000 WATT",
+  "identity_confidence": "high",
+  "source_folders": [
+    "cvs-dn-5479-smartiron-3000-w-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/cvs-dn-5479-smartiron-3000-w-buharli-utu/past_cvs-dn-5479-smartiron-3000-w-buharli-utu_00000073.jpg"
+  ],
+  "readable_evidence": [
+    "CVS",
+    "SmartIron",
+    "DN 5479",
+    "3000 WATT"
+  ],
+  "issues": [
+    "Stacked identical boxes of CVS DN 5479 dominate the frame.",
+    "A partially visible box on the right edge indicates model DN 5469, but it is cut off and not the primary subject."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "3000 Watt",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO7jr3sbeaYglnJyR2_4dl5maMn5YaVxY1B7vMLR4uOMcsbRHVTHS9oGKqICYy1tDpO4kScQ5R9lRuZMZH0jqtztdGjx2HBI9BiMPVyY8-_W53ARbm4Uj6lxI6jwsmllYXkPhyPwUvoDtOyAN_NKITnm90s6FEfuY82bRvkYXh3rKDQtN5wDZYxVmGdkDK"
+    },
+    {
+      "label": "Taban",
+      "value": "Seramik",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO7jr3sbeaYglnJyR2_4dl5maMn5YaVxY1B7vMLR4uOMcsbRHVTHS9oGKqICYy1tDpO4kScQ5R9lRuZMZH0jqtztdGjx2HBI9BiMPVyY8-_W53ARbm4Uj6lxI6jwsmllYXkPhyPwUvoDtOyAN_NKITnm90s6FEfuY82bRvkYXh3rKDQtN5wDZYxVmGdkDK"
+    },
+    {
+      "label": "Şok Buhar",
+      "value": "160 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO7jr3sbeaYglnJyR2_4dl5maMn5YaVxY1B7vMLR4uOMcsbRHVTHS9oGKqICYy1tDpO4kScQ5R9lRuZMZH0jqtztdGjx2HBI9BiMPVyY8-_W53ARbm4Uj6lxI6jwsmllYXkPhyPwUvoDtOyAN_NKITnm90s6FEfuY82bRvkYXh3rKDQtN5wDZYxVmGdkDK"
+    },
+    {
+      "label": "Sürekli Buhar",
+      "value": "35 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO7jr3sbeaYglnJyR2_4dl5maMn5YaVxY1B7vMLR4uOMcsbRHVTHS9oGKqICYy1tDpO4kScQ5R9lRuZMZH0jqtztdGjx2HBI9BiMPVyY8-_W53ARbm4Uj6lxI6jwsmllYXkPhyPwUvoDtOyAN_NKITnm90s6FEfuY82bRvkYXh3rKDQtN5wDZYxVmGdkDK"
+    },
+    {
+      "label": "Damlama Önleme",
+      "value": "Damlama önleme sistemi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO7jr3sbeaYglnJyR2_4dl5maMn5YaVxY1B7vMLR4uOMcsbRHVTHS9oGKqICYy1tDpO4kScQ5R9lRuZMZH0jqtztdGjx2HBI9BiMPVyY8-_W53ARbm4Uj6lxI6jwsmllYXkPhyPwUvoDtOyAN_NKITnm90s6FEfuY82bRvkYXh3rKDQtN5wDZYxVmGdkDK"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO7jr3sbeaYglnJyR2_4dl5maMn5YaVxY1B7vMLR4uOMcsbRHVTHS9oGKqICYy1tDpO4kScQ5R9lRuZMZH0jqtztdGjx2HBI9BiMPVyY8-_W53ARbm4Uj6lxI6jwsmllYXkPhyPwUvoDtOyAN_NKITnm90s6FEfuY82bRvkYXh3rKDQtN5wDZYxVmGdkDK",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBl8l2padRKeZNi-FMWF2fVF1KYIdKP0ccL_UkV99R8MwQ_GbY7CVy-usAeTw9mW8BQ5zsHlfg_esSlF5cpOAhMwTxgK-MBeQeBwOOrubOyO1k_sTg-ygXQL-7YEC3V2sVwJTsbg49q_z_35HyxQXKfs-cUBC2NAGEAHLuFdvSjhJzHbb7Nc6Fj2dZcCSRToFRfcA29AA="
+  ],
+  "verification_notes": [
+    "The primary product shown across the packaging stack is the CVS DN 5479 SmartIron 3000 Watt steam iron."
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "folder": "fakir-lucid-elektronik",
+  "brand": "Fakir",
+  "model": "Lucid Elektronik",
+  "name": "Bagless Vacuum Cleaner",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "fakir-lucid-elektronik-toz-torbasiz-supurge"
+  ],
+  "source_images": [
+    "new_images/fakir-lucid-elektronik-toz-torbasiz-supurge/past_fakir-lucid-elektronik-toz-torbasiz-supurge_00000183.jpg",
+    "new_images/fakir-lucid-elektronik-toz-torbasiz-supurge/past_fakir-lucid-elektronik-toz-torbasiz-supurge_00000279.jpg",
+    "new_images/fakir-lucid-elektronik-toz-torbasiz-supurge/past_fakir-lucid-elektronik-toz-torbasiz-supurge_00000283.jpg"
+  ],
+  "readable_evidence": [
+    "Fakir HAUSGERÄTE",
+    "LUCID ELEKTRONIK",
+    "Beutelloser Bodenstaubsauger",
+    "Bagless Vacuum Cleaner",
+    "STRONG CYCLONE PERFORMANCE"
+  ],
+  "issues": [
+    "The product packaging is shrink-wrapped in plastic film, causing glare and reflections.",
+    "Files past_fakir-lucid-elektronik-toz-torbasiz-supurge_00000279.jpg and past_fakir-lucid-elektronik-toz-torbasiz-supurge_00000283.jpg are nearly identical duplicate shots."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Motor Gücü",
+      "value": "900 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEgtq6jy5G2ttuKUDrnuowHgOcXYxpiPChQ0zDLxiP5SzlnJ9XRDLM8QOz4JsJWAOLscpvSwm2zRxV4s6YGCErEe55qFRBgMA63wAtyiA7cLMiGwaSUYz2Ssr37WwnNx_629vE1_R0tHYq_wsJgLML7kR3jpnC5vPYamaPjD_xQt3JEtIWm3ZjwM_zBgFVwrjXi_h2e3vqolTVl8l7b4L0VqzsZRQ="
+    },
+    {
+      "label": "Toz Haznesi Kapasitesi",
+      "value": "2.5 L",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEgtq6jy5G2ttuKUDrnuowHgOcXYxpiPChQ0zDLxiP5SzlnJ9XRDLM8QOz4JsJWAOLscpvSwm2zRxV4s6YGCErEe55qFRBgMA63wAtyiA7cLMiGwaSUYz2Ssr37WwnNx_629vE1_R0tHYq_wsJgLML7kR3jpnC5vPYamaPjD_xQt3JEtIWm3ZjwM_zBgFVwrjXi_h2e3vqolTVl8l7b4L0VqzsZRQ="
+    },
+    {
+      "label": "Filtreleme",
+      "value": "EPA 11 filtre",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEgtq6jy5G2ttuKUDrnuowHgOcXYxpiPChQ0zDLxiP5SzlnJ9XRDLM8QOz4JsJWAOLscpvSwm2zRxV4s6YGCErEe55qFRBgMA63wAtyiA7cLMiGwaSUYz2Ssr37WwnNx_629vE1_R0tHYq_wsJgLML7kR3jpnC5vPYamaPjD_xQt3JEtIWm3ZjwM_zBgFVwrjXi_h2e3vqolTVl8l7b4L0VqzsZRQ="
+    },
+    {
+      "label": "Teknoloji",
+      "value": "Cyclone teknolojisi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEgtq6jy5G2ttuKUDrnuowHgOcXYxpiPChQ0zDLxiP5SzlnJ9XRDLM8QOz4JsJWAOLscpvSwm2zRxV4s6YGCErEe55qFRBgMA63wAtyiA7cLMiGwaSUYz2Ssr37WwnNx_629vE1_R0tHYq_wsJgLML7kR3jpnC5vPYamaPjD_xQt3JEtIWm3ZjwM_zBgFVwrjXi_h2e3vqolTVl8l7b4L0VqzsZRQ="
+    },
+    {
+      "label": "Kablo Uzunluğu",
+      "value": "5 m kablo ve otomatik kablo sarıcı",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEgtq6jy5G2ttuKUDrnuowHgOcXYxpiPChQ0zDLxiP5SzlnJ9XRDLM8QOz4JsJWAOLscpvSwm2zRxV4s6YGCErEe55qFRBgMA63wAtyiA7cLMiGwaSUYz2Ssr37WwnNx_629vE1_R0tHYq_wsJgLML7kR3jpnC5vPYamaPjD_xQt3JEtIWm3ZjwM_zBgFVwrjXi_h2e3vqolTVl8l7b4L0VqzsZRQ="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEgtq6jy5G2ttuKUDrnuowHgOcXYxpiPChQ0zDLxiP5SzlnJ9XRDLM8QOz4JsJWAOLscpvSwm2zRxV4s6YGCErEe55qFRBgMA63wAtyiA7cLMiGwaSUYz2Ssr37WwnNx_629vE1_R0tHYq_wsJgLML7kR3jpnC5vPYamaPjD_xQt3JEtIWm3ZjwM_zBgFVwrjXi_h2e3vqolTVl8l7b4L0VqzsZRQ="
+  ],
+  "verification_notes": [
+    "The product is also marketed in Turkey under the affiliated Saruhan / Fakir sub-line branding Range Lucid Elektronik Toz Torbasız Süpürge."
+  ]
+}

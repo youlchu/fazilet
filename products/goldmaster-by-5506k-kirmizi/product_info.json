@@ -1,0 +1,61 @@
+{
+  "folder": "goldmaster-by-5506k-kirmizi",
+  "brand": "Goldmaster",
+  "model": "BY-5506K",
+  "name": "Goldmaster Fuerza BY-5506K Elektrikli Süpürge",
+  "variant": "Kırmızı",
+  "identity_confidence": "high",
+  "source_folders": [
+    "goldmaster-fuerza-2000-w-elektrikli-supurge"
+  ],
+  "source_images": [
+    "new_images/goldmaster-fuerza-2000-w-elektrikli-supurge/past_goldmaster-fuerza-2000-w-elektrikli-supurge_00000518.jpg"
+  ],
+  "readable_evidence": [
+    "Goldmaster",
+    "FUERZA",
+    "Elektrikli Süpürge",
+    "-5506K"
+  ],
+  "issues": [
+    "The prefix preceding '-5506K' (likely GM) and the leading digits of wattage before '0W' are cropped or obscured, so 2000 W cannot be verified from the visible text."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Motor Gücü",
+      "value": "900 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_R63C4dvgNDaA439lJD3sC6RRChmt-pu8oIaTZ-XQRH2-S_MYNORUa3Vvcy3ULO2lvdYrzJAJqMhGWYkvgXfW_Vk4oVcuNxzyWj7c9hpyrgfTCFnL4_M4zj14TY6nsblivg-nrlxz3UKj9wyPGGWRBdus1sh9qFAcZ_N11FmjC_bCnBAe4vDS6Zj-vEs_SnrEYOhypMkO_lbr9usFEIPw09V4n0LRcaWOVga8NWNhsNy1QyMFOCgRQ8NWkKNShRPBlKGrUEwflQ=="
+    },
+    {
+      "label": "Toz Torbası Kapasitesi",
+      "value": "4 L",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_R63C4dvgNDaA439lJD3sC6RRChmt-pu8oIaTZ-XQRH2-S_MYNORUa3Vvcy3ULO2lvdYrzJAJqMhGWYkvgXfW_Vk4oVcuNxzyWj7c9hpyrgfTCFnL4_M4zj14TY6nsblivg-nrlxz3UKj9wyPGGWRBdus1sh9qFAcZ_N11FmjC_bCnBAe4vDS6Zj-vEs_SnrEYOhypMkO_lbr9usFEIPw09V4n0LRcaWOVga8NWNhsNy1QyMFOCgRQ8NWkKNShRPBlKGrUEwflQ=="
+    },
+    {
+      "label": "Kablo Uzunluğu",
+      "value": "5 m",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_R63C4dvgNDaA439lJD3sC6RRChmt-pu8oIaTZ-XQRH2-S_MYNORUa3Vvcy3ULO2lvdYrzJAJqMhGWYkvgXfW_Vk4oVcuNxzyWj7c9hpyrgfTCFnL4_M4zj14TY6nsblivg-nrlxz3UKj9wyPGGWRBdus1sh9qFAcZ_N11FmjC_bCnBAe4vDS6Zj-vEs_SnrEYOhypMkO_lbr9usFEIPw09V4n0LRcaWOVga8NWNhsNy1QyMFOCgRQ8NWkKNShRPBlKGrUEwflQ=="
+    },
+    {
+      "label": "Kablo Sarma",
+      "value": "Otomatik kablo sarma özelliği",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_R63C4dvgNDaA439lJD3sC6RRChmt-pu8oIaTZ-XQRH2-S_MYNORUa3Vvcy3ULO2lvdYrzJAJqMhGWYkvgXfW_Vk4oVcuNxzyWj7c9hpyrgfTCFnL4_M4zj14TY6nsblivg-nrlxz3UKj9wyPGGWRBdus1sh9qFAcZ_N11FmjC_bCnBAe4vDS6Zj-vEs_SnrEYOhypMkO_lbr9usFEIPw09V4n0LRcaWOVga8NWNhsNy1QyMFOCgRQ8NWkKNShRPBlKGrUEwflQ=="
+    },
+    {
+      "label": "Park Pozisyonu",
+      "value": "Yatay ve dikey park imkanı",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_R63C4dvgNDaA439lJD3sC6RRChmt-pu8oIaTZ-XQRH2-S_MYNORUa3Vvcy3ULO2lvdYrzJAJqMhGWYkvgXfW_Vk4oVcuNxzyWj7c9hpyrgfTCFnL4_M4zj14TY6nsblivg-nrlxz3UKj9wyPGGWRBdus1sh9qFAcZ_N11FmjC_bCnBAe4vDS6Zj-vEs_SnrEYOhypMkO_lbr9usFEIPw09V4n0LRcaWOVga8NWNhsNy1QyMFOCgRQ8NWkKNShRPBlKGrUEwflQ=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_R63C4dvgNDaA439lJD3sC6RRChmt-pu8oIaTZ-XQRH2-S_MYNORUa3Vvcy3ULO2lvdYrzJAJqMhGWYkvgXfW_Vk4oVcuNxzyWj7c9hpyrgfTCFnL4_M4zj14TY6nsblivg-nrlxz3UKj9wyPGGWRBdus1sh9qFAcZ_N11FmjC_bCnBAe4vDS6Zj-vEs_SnrEYOhypMkO_lbr9usFEIPw09V4n0LRcaWOVga8NWNhsNy1QyMFOCgRQ8NWkKNShRPBlKGrUEwflQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdQ8Bg_-tuOT82R0P-NkMNNsmByXMI1uFBpx7zG8WwtlwAOrwD95OAWye-tbmg8FMJWptNhU_mHUSi4DPYZUfQ7Gjqfvnlk4fdXhU1XosCRmR3At775DMdK0KgZ_nhgPyiUXcwLkXEBtbRTYEyxc-Ioa60ViGJRKXLmSwRbD8qebl6KFcBU9DovDqRk7_1KOqy16K4vNgeq6niIduVSBR_4lpyYiyJ89zqzb9aMjVoLGYPY7Ypi8L7RHcJ"
+  ],
+  "verification_notes": [
+    "The obscured prefix preceding '-5506K' corresponds to 'BY', representing model BY-5506K (the 'K' designates the red / Kırmızı colorway).",
+    "Motor wattage is 900 W, not 2000 W."
+  ]
+}

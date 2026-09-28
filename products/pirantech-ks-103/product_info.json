@@ -1,0 +1,54 @@
+{
+  "folder": "pirantech-ks-103",
+  "brand": "PiranTech",
+  "model": "KS-103",
+  "name": "Airbreeze",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "pirantech-ks-103-airbreeze-sac-sekillendirme-seti"
+  ],
+  "source_images": [
+    "new_images/pirantech-ks-103-airbreeze-sac-sekillendirme-seti/past_pirantech-ks-103-airbreeze-sac-sekillendirme-seti_00000437.jpg"
+  ],
+  "readable_evidence": [
+    "PiranTech",
+    "KS-103",
+    "Airbreeze"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Ürün Tipi",
+      "value": "Saç şekillendirme ve kurutma seti",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd8UZ2RJZLz64wZgu-rJOWJKsCP5mhJUn5f70dOi1XZJxZzFbLmhrB1NOmxmB1fmu8sPNMPP9bMlicvTD1kybvhHRhlN2jKRKzde7TX-I3u6VBFXS3Oxq9XMTiKnFznCu5S6xyas2LpxITUMQcQB3O3UFsiZiYjQicB76Q223DW7Liy2WvmeDIujqHBjUUNX1o"
+    },
+    {
+      "label": "Motor",
+      "value": "Yüksek hızlı fırçasız motor, 105.000 devir/dakika (±5.000 devir/dakika tolerans)",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd8UZ2RJZLz64wZgu-rJOWJKsCP5mhJUn5f70dOi1XZJxZzFbLmhrB1NOmxmB1fmu8sPNMPP9bMlicvTD1kybvhHRhlN2jKRKzde7TX-I3u6VBFXS3Oxq9XMTiKnFznCu5S6xyas2LpxITUMQcQB3O3UFsiZiYjQicB76Q223DW7Liy2WvmeDIujqHBjUUNX1o"
+    },
+    {
+      "label": "Güç Tüketimi",
+      "value": "1300–1500 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd8UZ2RJZLz64wZgu-rJOWJKsCP5mhJUn5f70dOi1XZJxZzFbLmhrB1NOmxmB1fmu8sPNMPP9bMlicvTD1kybvhHRhlN2jKRKzde7TX-I3u6VBFXS3Oxq9XMTiKnFznCu5S6xyas2LpxITUMQcQB3O3UFsiZiYjQicB76Q223DW7Liy2WvmeDIujqHBjUUNX1o"
+    },
+    {
+      "label": "Hava Hızı",
+      "value": "3 kademe",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd8UZ2RJZLz64wZgu-rJOWJKsCP5mhJUn5f70dOi1XZJxZzFbLmhrB1NOmxmB1fmu8sPNMPP9bMlicvTD1kybvhHRhlN2jKRKzde7TX-I3u6VBFXS3Oxq9XMTiKnFznCu5S6xyas2LpxITUMQcQB3O3UFsiZiYjQicB76Q223DW7Liy2WvmeDIujqHBjUUNX1o"
+    },
+    {
+      "label": "Sıcaklık",
+      "value": "3 kademe",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd8UZ2RJZLz64wZgu-rJOWJKsCP5mhJUn5f70dOi1XZJxZzFbLmhrB1NOmxmB1fmu8sPNMPP9bMlicvTD1kybvhHRhlN2jKRKzde7TX-I3u6VBFXS3Oxq9XMTiKnFznCu5S6xyas2LpxITUMQcQB3O3UFsiZiYjQicB76Q223DW7Liy2WvmeDIujqHBjUUNX1o"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd8UZ2RJZLz64wZgu-rJOWJKsCP5mhJUn5f70dOi1XZJxZzFbLmhrB1NOmxmB1fmu8sPNMPP9bMlicvTD1kybvhHRhlN2jKRKzde7TX-I3u6VBFXS3Oxq9XMTiKnFznCu5S6xyas2LpxITUMQcQB3O3UFsiZiYjQicB76Q223DW7Liy2WvmeDIujqHBjUUNX1o"
+  ],
+  "verification_notes": []
+}

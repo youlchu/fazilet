@@ -1,0 +1,61 @@
+{
+  "folder": "philips-dst7510-80-mavi-altin",
+  "brand": "Philips",
+  "model": "DST7510/80",
+  "name": "Azur 7500 Serisi Buharlı Ütü",
+  "variant": "Mavi / Altın",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "tefal-fv5770-fv9e50-fv8042-philips-dst7510-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/tefal-fv5770-fv9e50-fv8042-philips-dst7510-buharli-utu/past_tefal-fv5770-fv9e50-fv8042-philips-dst7510-buharli-utu_00000086.jpg"
+  ],
+  "readable_evidence": [
+    "Philips",
+    "Azur",
+    "3200 W of pure power",
+    "PHILIPS DST 7510 UTU"
+  ],
+  "issues": [
+    "The photograph displays a retail store counter and shelves with multiple iron models stacked, with no single primary product.",
+    "Exact alphanumeric model codes for the Tefal Puregliss and Ultimate Pure irons are not clearly legible on the exposed package faces.",
+    "Philips model DST7510 is identified via the shelf shelf tag label below the Azur packaging."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "3200 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7__yMkGkUhb1ELJ4JJyAOCXMuhIZ28r47aRB_9ZbYMVROXLJB6EPX1L7q_md9jcZ_n-WtjzsfvxgBBnhWRAZuK1oC0oEAPM6IGsa35lJ-5ZdP4o0GGbN1p2Id9MzOZnsy11GtUo6bM4ep9RGA9yTYXWK8-zDymmE="
+    },
+    {
+      "label": "Sürekli Buhar",
+      "value": "55 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7__yMkGkUhb1ELJ4JJyAOCXMuhIZ28r47aRB_9ZbYMVROXLJB6EPX1L7q_md9jcZ_n-WtjzsfvxgBBnhWRAZuK1oC0oEAPM6IGsa35lJ-5ZdP4o0GGbN1p2Id9MzOZnsy11GtUo6bM4ep9RGA9yTYXWK8-zDymmE="
+    },
+    {
+      "label": "Şok Buhar",
+      "value": "260 g",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7__yMkGkUhb1ELJ4JJyAOCXMuhIZ28r47aRB_9ZbYMVROXLJB6EPX1L7q_md9jcZ_n-WtjzsfvxgBBnhWRAZuK1oC0oEAPM6IGsa35lJ-5ZdP4o0GGbN1p2Id9MzOZnsy11GtUo6bM4ep9RGA9yTYXWK8-zDymmE="
+    },
+    {
+      "label": "Taban",
+      "value": "SteamGlide Elite",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7__yMkGkUhb1ELJ4JJyAOCXMuhIZ28r47aRB_9ZbYMVROXLJB6EPX1L7q_md9jcZ_n-WtjzsfvxgBBnhWRAZuK1oC0oEAPM6IGsa35lJ-5ZdP4o0GGbN1p2Id9MzOZnsy11GtUo6bM4ep9RGA9yTYXWK8-zDymmE="
+    },
+    {
+      "label": "Kireç Temizleme",
+      "value": "Hızlı Kireç Çözme (Quick Calc Release)",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7__yMkGkUhb1ELJ4JJyAOCXMuhIZ28r47aRB_9ZbYMVROXLJB6EPX1L7q_md9jcZ_n-WtjzsfvxgBBnhWRAZuK1oC0oEAPM6IGsa35lJ-5ZdP4o0GGbN1p2Id9MzOZnsy11GtUo6bM4ep9RGA9yTYXWK8-zDymmE="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7__yMkGkUhb1ELJ4JJyAOCXMuhIZ28r47aRB_9ZbYMVROXLJB6EPX1L7q_md9jcZ_n-WtjzsfvxgBBnhWRAZuK1oC0oEAPM6IGsa35lJ-5ZdP4o0GGbN1p2Id9MzOZnsy11GtUo6bM4ep9RGA9yTYXWK8-zDymmE="
+  ],
+  "verification_notes": [
+    "Raf etiketinde DST 7510 olarak belirtilen modelin tam üretici ve pazar kodu Philips DST7510/80 olarak doğrulanmıştır."
+  ]
+}

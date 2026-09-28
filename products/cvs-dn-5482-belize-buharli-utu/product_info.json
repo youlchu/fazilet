@@ -1,0 +1,59 @@
+{
+  "folder": "cvs-dn-5482-belize-buharli-utu",
+  "brand": "CVS",
+  "model": "DN 5482",
+  "name": "Belize Seramik Tabanlı Buharlı Ütü",
+  "variant": "2600 WATT",
+  "identity_confidence": "high",
+  "source_folders": [
+    "cvs-dn-5482-belize-2600-w-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/cvs-dn-5482-belize-2600-w-buharli-utu/past_cvs-dn-5482-belize-2600-w-buharli-utu_00000184.jpg"
+  ],
+  "readable_evidence": [
+    "CVS",
+    "BELIZE",
+    "SERAMİK TABANLI BUHARLI ÜTÜ",
+    "DN 5482",
+    "2600 WATT"
+  ],
+  "issues": [
+    "An Arzum steam iron box is visible stacked beneath the primary CVS box, but its specific model name/number is not readable from the exposed side."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Taban Türü",
+      "value": "Seramik",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP0j0QW_UzjSv2yWZzGjOJExYY2EP3Kk90MSxHDQuGwGDRSZfM7N9ET1YBfMyGplbbj3tWapYy_yDH-ALkxjrQGKo5mwgtnPT8U1LEshReJ5CkCTWqkz7XRFZm5ZFDHyA1SjWP022Mif4O1wNT3KKZ21zobBKohhaiQJFwj9MLosaxWBM2HYQiu_dK_bPLZP6E"
+    },
+    {
+      "label": "Güç",
+      "value": "2600 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP0j0QW_UzjSv2yWZzGjOJExYY2EP3Kk90MSxHDQuGwGDRSZfM7N9ET1YBfMyGplbbj3tWapYy_yDH-ALkxjrQGKo5mwgtnPT8U1LEshReJ5CkCTWqkz7XRFZm5ZFDHyA1SjWP022Mif4O1wNT3KKZ21zobBKohhaiQJFwj9MLosaxWBM2HYQiu_dK_bPLZP6E"
+    },
+    {
+      "label": "Damlama Emniyeti",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0aCf5EJki-sWL36fS0sZzfW5-l2toEa5LnAPLFKYcRwi_NqDeV_GLkoASkwszgBtuAFztaJPu795whNbGTHi0XUWe870D6Sq_so0FDMBZRyDtIuf2UtHirSTUKhtdFhELrYuWHyfNZt9TOwHHMg8PCFDwzx5FJJaMljwTZf0QLADQaVyb5bfnkDcHJT5VbuQYkDpPXaAk3w=="
+    },
+    {
+      "label": "Kireç Önleme",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0aCf5EJki-sWL36fS0sZzfW5-l2toEa5LnAPLFKYcRwi_NqDeV_GLkoASkwszgBtuAFztaJPu795whNbGTHi0XUWe870D6Sq_so0FDMBZRyDtIuf2UtHirSTUKhtdFhELrYuWHyfNZt9TOwHHMg8PCFDwzx5FJJaMljwTZf0QLADQaVyb5bfnkDcHJT5VbuQYkDpPXaAk3w=="
+    },
+    {
+      "label": "Otomatik Kapanma",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0aCf5EJki-sWL36fS0sZzfW5-l2toEa5LnAPLFKYcRwi_NqDeV_GLkoASkwszgBtuAFztaJPu795whNbGTHi0XUWe870D6Sq_so0FDMBZRyDtIuf2UtHirSTUKhtdFhELrYuWHyfNZt9TOwHHMg8PCFDwzx5FJJaMljwTZf0QLADQaVyb5bfnkDcHJT5VbuQYkDpPXaAk3w=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP0j0QW_UzjSv2yWZzGjOJExYY2EP3Kk90MSxHDQuGwGDRSZfM7N9ET1YBfMyGplbbj3tWapYy_yDH-ALkxjrQGKo5mwgtnPT8U1LEshReJ5CkCTWqkz7XRFZm5ZFDHyA1SjWP022Mif4O1wNT3KKZ21zobBKohhaiQJFwj9MLosaxWBM2HYQiu_dK_bPLZP6E",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0aCf5EJki-sWL36fS0sZzfW5-l2toEa5LnAPLFKYcRwi_NqDeV_GLkoASkwszgBtuAFztaJPu795whNbGTHi0XUWe870D6Sq_so0FDMBZRyDtIuf2UtHirSTUKhtdFhELrYuWHyfNZt9TOwHHMg8PCFDwzx5FJJaMljwTZf0QLADQaVyb5bfnkDcHJT5VbuQYkDpPXaAk3w=="
+  ],
+  "verification_notes": []
+}

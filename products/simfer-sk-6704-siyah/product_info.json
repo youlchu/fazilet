@@ -1,0 +1,59 @@
+{
+  "folder": "simfer-sk-6704-siyah",
+  "brand": "Simfer",
+  "model": "SK-6704",
+  "name": "Air Fry Smart 8L",
+  "variant": "Siyah",
+  "identity_confidence": "high",
+  "source_folders": [
+    "simfer-air-fry-smart-8-l-airfryer"
+  ],
+  "source_images": [
+    "new_images/simfer-air-fry-smart-8-l-airfryer/past_simfer-air-fry-smart-8-l-airfryer_00000149.jpg"
+  ],
+  "readable_evidence": [
+    "simfer",
+    "Air Fry®",
+    "Smart 8L"
+  ],
+  "issues": [
+    "Partial box visible on the left edge with truncated text ('TO -401') cannot be identified."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Kapasite",
+      "value": "8 Litre",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zLEZJcR25bUQuOCwI5AqGRvCT-H59GgoiY3G_JzB_Rut2E4NcDcuNB0-b1zKE_URf6c7pHyJYhLY4oBPZnn4nuhK-WhPeca2v55tIDlmFxRUh0HxUc8JIMxn94kU1zE_2xjXc9XHvfoZeg5XwjXASlfiEb95wYyM"
+    },
+    {
+      "label": "Kontrol Paneli",
+      "value": "Dokunmatik dijital kontrol paneli",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zLEZJcR25bUQuOCwI5AqGRvCT-H59GgoiY3G_JzB_Rut2E4NcDcuNB0-b1zKE_URf6c7pHyJYhLY4oBPZnn4nuhK-WhPeca2v55tIDlmFxRUh0HxUc8JIMxn94kU1zE_2xjXc9XHvfoZeg5XwjXASlfiEb95wYyM"
+    },
+    {
+      "label": "Pişirme Programları",
+      "value": "12 farklı ön ayarlı pişirme modu",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zLEZJcR25bUQuOCwI5AqGRvCT-H59GgoiY3G_JzB_Rut2E4NcDcuNB0-b1zKE_URf6c7pHyJYhLY4oBPZnn4nuhK-WhPeca2v55tIDlmFxRUh0HxUc8JIMxn94kU1zE_2xjXc9XHvfoZeg5XwjXASlfiEb95wYyM"
+    },
+    {
+      "label": "Sıcaklık Aralığı",
+      "value": "80-200 C'ye kadar ayarlanabilir sıcaklık",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zLEZJcR25bUQuOCwI5AqGRvCT-H59GgoiY3G_JzB_Rut2E4NcDcuNB0-b1zKE_URf6c7pHyJYhLY4oBPZnn4nuhK-WhPeca2v55tIDlmFxRUh0HxUc8JIMxn94kU1zE_2xjXc9XHvfoZeg5XwjXASlfiEb95wYyM"
+    },
+    {
+      "label": "Sıcak Tutma",
+      "value": "Sıcak tutma fonksiyonu",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zLEZJcR25bUQuOCwI5AqGRvCT-H59GgoiY3G_JzB_Rut2E4NcDcuNB0-b1zKE_URf6c7pHyJYhLY4oBPZnn4nuhK-WhPeca2v55tIDlmFxRUh0HxUc8JIMxn94kU1zE_2xjXc9XHvfoZeg5XwjXASlfiEb95wYyM"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zLEZJcR25bUQuOCwI5AqGRvCT-H59GgoiY3G_JzB_Rut2E4NcDcuNB0-b1zKE_URf6c7pHyJYhLY4oBPZnn4nuhK-WhPeca2v55tIDlmFxRUh0HxUc8JIMxn94kU1zE_2xjXc9XHvfoZeg5XwjXASlfiEb95wYyM"
+  ],
+  "verification_notes": [
+    "Model code SK-6704 confirmed via official Simfer product catalogue for the 8-litre Air Fry Smart model.",
+    "The truncated text 'TO -401' visible on the edge belongs to an adjacent item or unrelated packaging text."
+  ]
+}

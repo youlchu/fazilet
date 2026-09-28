@@ -1,0 +1,63 @@
+{
+  "folder": "lines-silver-8-lt-8-lt",
+  "brand": "Lines",
+  "model": "Silver 8 LT",
+  "name": "Düdüklü Tencere",
+  "variant": "8 LT",
+  "identity_confidence": "high",
+  "source_folders": [
+    "ines-cam-cay-makinesi"
+  ],
+  "source_images": [
+    "new_images/ines-cam-cay-makinesi/past_ines-cam-cay-makinesi_00000306.jpg"
+  ],
+  "readable_evidence": [
+    "ines",
+    "Premium Quality",
+    "SILVER 8 LT",
+    "haydi durma LİNES BU KUTUDA"
+  ],
+  "issues": [
+    "The image is rotated sideways.",
+    "Current folder name 'ines-cam-cay-makinesi' misidentifies both the brand ('ines' is a partial crop of 'Lines') and the product type (pressure cooker, not a glass tea maker)."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Materyal",
+      "value": "18/10 Cr-Ni paslanmaz çelik",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHGurEjSSYHBV7RGpaNJQpn7EDw20zarQ55s0uAfX6bvbDLGEAX0EvRXoLgZI7pLhqy7MIXlN6btUyyGe46FRl3NOIwAkmorVjCANJA3PWjESbxjRzOTwI8pYW-zSRyI6nM1oWZ7YDASipwgJxkn3tCOIGftL_cuqcNVRQcvF8ep_EdWqylBf4"
+    },
+    {
+      "label": "Ocak Uyumluluğu",
+      "value": "İndüksiyon ocakta kullanılabilir",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHGurEjSSYHBV7RGpaNJQpn7EDw20zarQ55s0uAfX6bvbDLGEAX0EvRXoLgZI7pLhqy7MIXlN6btUyyGe46FRl3NOIwAkmorVjCANJA3PWjESbxjRzOTwI8pYW-zSRyI6nM1oWZ7YDASipwgJxkn3tCOIGftL_cuqcNVRQcvF8ep_EdWqylBf4"
+    },
+    {
+      "label": "Temizlik",
+      "value": "Bulaşık makinesinde yıkanabilir",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHGurEjSSYHBV7RGpaNJQpn7EDw20zarQ55s0uAfX6bvbDLGEAX0EvRXoLgZI7pLhqy7MIXlN6btUyyGe46FRl3NOIwAkmorVjCANJA3PWjESbxjRzOTwI8pYW-zSRyI6nM1oWZ7YDASipwgJxkn3tCOIGftL_cuqcNVRQcvF8ep_EdWqylBf4"
+    },
+    {
+      "label": "Parça Sayısı",
+      "value": "2",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHGurEjSSYHBV7RGpaNJQpn7EDw20zarQ55s0uAfX6bvbDLGEAX0EvRXoLgZI7pLhqy7MIXlN6btUyyGe46FRl3NOIwAkmorVjCANJA3PWjESbxjRzOTwI8pYW-zSRyI6nM1oWZ7YDASipwgJxkn3tCOIGftL_cuqcNVRQcvF8ep_EdWqylBf4"
+    },
+    {
+      "label": "Kullanım Özelliği",
+      "value": "Tek elle kolay kullanım",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHGurEjSSYHBV7RGpaNJQpn7EDw20zarQ55s0uAfX6bvbDLGEAX0EvRXoLgZI7pLhqy7MIXlN6btUyyGe46FRl3NOIwAkmorVjCANJA3PWjESbxjRzOTwI8pYW-zSRyI6nM1oWZ7YDASipwgJxkn3tCOIGftL_cuqcNVRQcvF8ep_EdWqylBf4"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHGurEjSSYHBV7RGpaNJQpn7EDw20zarQ55s0uAfX6bvbDLGEAX0EvRXoLgZI7pLhqy7MIXlN6btUyyGe46FRl3NOIwAkmorVjCANJA3PWjESbxjRzOTwI8pYW-zSRyI6nM1oWZ7YDASipwgJxkn3tCOIGftL_cuqcNVRQcvF8ep_EdWqylBf4",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQx95D1vs3UDB3Q6C_PfSleHiEFIxAl2PSco8y5oioQNgiq7HCVLvqNENhmt-_RkcdH9Tzj0iQ5gc5lKzCdiNijF92byH7pQYHsNreiJfXdICqbTy_TmZ1fLe2G4SczyqJ101kt_h0_r59qRAOkNlTJjJGmUxqi6RxZ5sQua57eUnO9h3duMuQ3dAQZE_9y1RQR7tJ7kQrweworepiNum2KUBxO4dXJDz6L--slqIj8vO1YqqzBlcdGTsR"
+  ],
+  "verification_notes": [
+    "The product is confirmed as Lines Silver 8 LT Düdüklü Tencere.",
+    "The packaging text 'SILVER 8 LT' and 'haydi durma LİNES BU KUTUDA' matches the candidate specification.",
+    "Resolved directory misidentification issue (the folder named 'ines-cam-cay-makinesi' erroneously cut off the 'L' and incorrectly labelled the product type)."
+  ]
+}

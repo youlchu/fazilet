@@ -1,0 +1,61 @@
+{
+  "folder": "arzum-ar690",
+  "brand": "Arzum",
+  "model": "AR690",
+  "name": "Tripper Seyahat Ütüsü",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "evia-holiday-ea-4603-1100-w-seyahat-utusu"
+  ],
+  "source_images": [
+    "new_images/evia-holiday-ea-4603-1100-w-seyahat-utusu/past_evia-holiday-ea-4603-1100-w-seyahat-utusu_00000330.jpg"
+  ],
+  "readable_evidence": [
+    "arzum",
+    "TRIPPER"
+  ],
+  "issues": [
+    "The folder contains photographs of two completely different products: Evia Holiday travel irons stored on warehouse shelves in 00000077.jpg, and an Arzum Tripper travel iron shown in 00000330.jpg.",
+    "Because there are two conflicting primary subjects across the reference files, no single primary product exists for this folder.",
+    "Model number EA-4603 on the Evia iron boxes is small and low-contrast, set to medium confidence.",
+    "Smartness SK-1079 Bluetooth scale boxes appear in the lower shelf background of 00000077.jpg."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "1150 W",
+      "source_url": "https://www.evkur.com.tr/arzum-ar690-tripper-seyahat-utusu-mor"
+    },
+    {
+      "label": "Taban",
+      "value": "Seramik taban",
+      "source_url": "https://www.evkur.com.tr/arzum-ar690-tripper-seyahat-utusu-mor"
+    },
+    {
+      "label": "Su Haznesi",
+      "value": "55 ml",
+      "source_url": "https://www.evkur.com.tr/arzum-ar690-tripper-seyahat-utusu-mor"
+    },
+    {
+      "label": "Sürekli Buhar Çıkışı",
+      "value": "12 gr/dk",
+      "source_url": "https://www.evkur.com.tr/arzum-ar690-tripper-seyahat-utusu-mor"
+    },
+    {
+      "label": "Şok Buhar",
+      "value": "45 gr",
+      "source_url": "https://www.evkur.com.tr/arzum-ar690-tripper-seyahat-utusu-mor"
+    }
+  ],
+  "source_urls": [
+    "https://www.evkur.com.tr/arzum-ar690-tripper-seyahat-utusu-mor"
+  ],
+  "verification_notes": [
+    "Arzum'un Tripper serisi seyahat ütüsünün resmi model kodu AR690'dır.",
+    "Görsel denetim notlarında belirtilen ikinci ürün (Evia Holiday) haricinde, Arzum Tripper ürünü doğrulanarak model kodu güncellenmiştir."
+  ]
+}

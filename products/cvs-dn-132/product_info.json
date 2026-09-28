@@ -1,0 +1,60 @@
+{
+  "folder": "cvs-dn-132",
+  "brand": "CVS",
+  "model": "DN 132",
+  "name": "Şarjlı Masaj Aleti",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "cvs-sarjli-masaj-aleti"
+  ],
+  "source_images": [
+    "new_images/cvs-sarjli-masaj-aleti/past_cvs-sarjli-masaj-aleti_00000445.jpg"
+  ],
+  "readable_evidence": [
+    "CVS",
+    "DN 132",
+    "Şarjlı Masaj Aleti",
+    "Massage Gun"
+  ],
+  "issues": [
+    "The current folder name lacks the specific model number 'DN 132' visible on the packaging."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Çalışma Tipi",
+      "value": "Şarjlı",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp7XSFRw1b29Y3Nj63ZkfEnOUHFAdNSAPyktMn4g-YGSlqEXVPMqNAfwtb1SWG33MkkttbxxGj4e-Q4YZIDjjIqH084nJwdPItG3CuNoJ5hx9NhI8xulQVXer_4lQ94jTu2p1qC_SfKaODbwNHY8KwyF0KY3TE-NlsEo65YQ1f"
+    },
+    {
+      "label": "Hız Ayarı",
+      "value": "Farklı hız kademeleri",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp7XSFRw1b29Y3Nj63ZkfEnOUHFAdNSAPyktMn4g-YGSlqEXVPMqNAfwtb1SWG33MkkttbxxGj4e-Q4YZIDjjIqH084nJwdPItG3CuNoJ5hx9NhI8xulQVXer_4lQ94jTu2p1qC_SfKaODbwNHY8KwyF0KY3TE-NlsEo65YQ1f"
+    },
+    {
+      "label": "Pil Tipi",
+      "value": "Dahili Lityum-iyon pil",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp7XSFRw1b29Y3Nj63ZkfEnOUHFAdNSAPyktMn4g-YGSlqEXVPMqNAfwtb1SWG33MkkttbxxGj4e-Q4YZIDjjIqH084nJwdPItG3CuNoJ5hx9NhI8xulQVXer_4lQ94jTu2p1qC_SfKaODbwNHY8KwyF0KY3TE-NlsEo65YQ1f"
+    },
+    {
+      "label": "Gösterge",
+      "value": "LED ışıklı şarj ve hız göstergesi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp7XSFRw1b29Y3Nj63ZkfEnOUHFAdNSAPyktMn4g-YGSlqEXVPMqNAfwtb1SWG33MkkttbxxGj4e-Q4YZIDjjIqH084nJwdPItG3CuNoJ5hx9NhI8xulQVXer_4lQ94jTu2p1qC_SfKaODbwNHY8KwyF0KY3TE-NlsEo65YQ1f"
+    },
+    {
+      "label": "Şarj Bağlantısı",
+      "value": "USB şarj kablosu dahildir",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp7XSFRw1b29Y3Nj63ZkfEnOUHFAdNSAPyktMn4g-YGSlqEXVPMqNAfwtb1SWG33MkkttbxxGj4e-Q4YZIDjjIqH084nJwdPItG3CuNoJ5hx9NhI8xulQVXer_4lQ94jTu2p1qC_SfKaODbwNHY8KwyF0KY3TE-NlsEo65YQ1f"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp7XSFRw1b29Y3Nj63ZkfEnOUHFAdNSAPyktMn4g-YGSlqEXVPMqNAfwtb1SWG33MkkttbxxGj4e-Q4YZIDjjIqH084nJwdPItG3CuNoJ5hx9NhI8xulQVXer_4lQ94jTu2p1qC_SfKaODbwNHY8KwyF0KY3TE-NlsEo65YQ1f",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnQwF5fhkLNQhXpK5-Va2eJOHmxZaukvtlvcPLY6oEVNADjyQPls1ComS1ZM5PnOXP4y3Ytw31IocYxuryVnrf1YvVwqSIWIfgIMrjHmv_gXjl7QCIKErevAiR8b1K-nscVE0PGirSEkpSGjdL0xf8LzPKHCCbf_33uaXGLNLkzJV_TANBNZ6g_w=="
+  ],
+  "verification_notes": [
+    "Ürün Türkiye pazarında CVS DN 132 / DN-132 Şarjlı Sporcu Masaj Aleti olarak listelenmektedir."
+  ]
+}

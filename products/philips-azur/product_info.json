@@ -1,0 +1,34 @@
+{
+  "folder": "philips-azur",
+  "brand": "Philips",
+  "model": "Azur",
+  "name": "Steam Iron",
+  "variant": "",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "philips-5000-dst7022-dst7510-tefal-fv5770-fv9e50-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/philips-5000-dst7022-dst7510-tefal-fv5770-fv9e50-buharli-utu/past_philips-5000-dst7022-dst7510-tefal-fv5770-fv9e50-buharli-utu_00000093.jpg"
+  ],
+  "readable_evidence": [
+    "PHILIPS",
+    "Azur",
+    "ÖZEL FIRSAT!",
+    "Türk Kahve Makinesi Hediye!",
+    "Perfect results in one go"
+  ],
+  "issues": [
+    "Shelf photo showing multiple retail iron packages; no single primary subject is present.",
+    "Motion blur and low resolution make individual alphanumeric model numbers (such as DST7022, DST7510, FV5770, FV9E50) illegible, though Philips Azur and Tefal Ultimate Pure product line branding is readable."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [],
+  "verification_notes": [
+    "The shelf photo displays multiple iron products without a clear single subject.",
+    "Motion blur and low resolution make the specific alphanumeric model number illegible, preventing exact model confirmation."
+  ]
+}

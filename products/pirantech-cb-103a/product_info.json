@@ -1,0 +1,63 @@
+{
+  "folder": "pirantech-cb-103a",
+  "brand": "Pirantech",
+  "model": "CB-103A",
+  "name": "Buharlı Temizlik Makinesi",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "pirantech-cb-103a-buharli-temizleyici"
+  ],
+  "source_images": [
+    "new_images/pirantech-cb-103a-buharli-temizleyici/past_pirantech-cb-103a-buharli-temizleyici_00000501.jpg"
+  ],
+  "readable_evidence": [
+    "Pirantech",
+    "CB-103A",
+    "Buharlı Temizlik Makinesi",
+    "2000W",
+    "4 bar",
+    "1.0L"
+  ],
+  "issues": [
+    "The brand name and model prefix at the top left are slightly cut off by the edge of the frame, but clearly readable as Pirantech CB-103A.",
+    "Partial boxes for other items are visible at the edges of the frame but lack readable brand and complete model identifiers."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "2000 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0jau5T5CI0pPjRX9K-0qQ987d3Vo2hvfsr0UrEaSKV1TS4XD2e4agX5zRXwaAvWXQDNyHbqXCQS1VF4AaqpvPmJyTwj5V8yA0lQczKF27ZSEPTAF-pjmm_ACq8Ah7j07XMAE_AGdiRENUNBZr-5WYjc0BVU6SrL5gFVrVAOz24ihUOc1nM37SAa4FHIOBgerkZS60VT6suGfTBG3ImqJ9r7S4o36L1RY="
+    },
+    {
+      "label": "Buhar Basıncı",
+      "value": "4 bar",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0jau5T5CI0pPjRX9K-0qQ987d3Vo2hvfsr0UrEaSKV1TS4XD2e4agX5zRXwaAvWXQDNyHbqXCQS1VF4AaqpvPmJyTwj5V8yA0lQczKF27ZSEPTAF-pjmm_ACq8Ah7j07XMAE_AGdiRENUNBZr-5WYjc0BVU6SrL5gFVrVAOz24ihUOc1nM37SAa4FHIOBgerkZS60VT6suGfTBG3ImqJ9r7S4o36L1RY="
+    },
+    {
+      "label": "Maksimum Su Kapasitesi",
+      "value": "Yaklaşık 1 L",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdMbrtyW3eSSd4hQiK1CHQEFD0-H6Qb3bdyEmi-svk0JxcNwEbmEop4RVJMvRuhoCLw9WJhe487yJaYH-_IQJUdNs8x3yAh-eD0laLxTxiFfB1Pojf5OLcvOCeBqYz7QKtcO7mYqn5m0vC7u-Uh0MpxHjaIU1u"
+    },
+    {
+      "label": "Kullanıma Hazır Olma Süresi",
+      "value": "Yaklaşık 5–6 dakika",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdMbrtyW3eSSd4hQiK1CHQEFD0-H6Qb3bdyEmi-svk0JxcNwEbmEop4RVJMvRuhoCLw9WJhe487yJaYH-_IQJUdNs8x3yAh-eD0laLxTxiFfB1Pojf5OLcvOCeBqYz7QKtcO7mYqn5m0vC7u-Uh0MpxHjaIU1u"
+    },
+    {
+      "label": "Kablo Uzunluğu",
+      "value": "5 m",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0jau5T5CI0pPjRX9K-0qQ987d3Vo2hvfsr0UrEaSKV1TS4XD2e4agX5zRXwaAvWXQDNyHbqXCQS1VF4AaqpvPmJyTwj5V8yA0lQczKF27ZSEPTAF-pjmm_ACq8Ah7j07XMAE_AGdiRENUNBZr-5WYjc0BVU6SrL5gFVrVAOz24ihUOc1nM37SAa4FHIOBgerkZS60VT6suGfTBG3ImqJ9r7S4o36L1RY="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdMbrtyW3eSSd4hQiK1CHQEFD0-H6Qb3bdyEmi-svk0JxcNwEbmEop4RVJMvRuhoCLw9WJhe487yJaYH-_IQJUdNs8x3yAh-eD0laLxTxiFfB1Pojf5OLcvOCeBqYz7QKtcO7mYqn5m0vC7u-Uh0MpxHjaIU1u",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0jau5T5CI0pPjRX9K-0qQ987d3Vo2hvfsr0UrEaSKV1TS4XD2e4agX5zRXwaAvWXQDNyHbqXCQS1VF4AaqpvPmJyTwj5V8yA0lQczKF27ZSEPTAF-pjmm_ACq8Ah7j07XMAE_AGdiRENUNBZr-5WYjc0BVU6SrL5gFVrVAOz24ihUOc1nM37SAa4FHIOBgerkZS60VT6suGfTBG3ImqJ9r7S4o36L1RY="
+  ],
+  "verification_notes": [
+    "Ürün marka, model adı ve teknik özellikleri (2000W, 4 bar, 1.0L su kapasitesi) resmi üretici web sitesi ve yetkili satış kanalları üzerinden doğrulanmıştır."
+  ]
+}

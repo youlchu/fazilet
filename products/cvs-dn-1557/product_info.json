@@ -1,0 +1,57 @@
+{
+  "folder": "cvs-dn-1557",
+  "brand": "CVS",
+  "model": "DN 1557",
+  "name": "DIGITEA+ Isı Ayarlı Dijital Çay Makinesi",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "cvs-digital-cay-makinesi"
+  ],
+  "source_images": [
+    "new_images/cvs-digital-cay-makinesi/past_cvs-digital-cay-makinesi_00000240.jpg"
+  ],
+  "readable_evidence": [
+    "CVS",
+    "DIGITEA+",
+    "Isı Ayarlı Dijital Çay Makinesi",
+    "DN 1557",
+    "Maks. 1600 W"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Demlik Kapasitesi",
+      "value": "0,8 L",
+      "source_url": "https://www.hepsiburada.com/cvs-dn-1557-celik-isi-ayarli-digitea-cay-makinesi-pm-HBC0000DTRRKP"
+    },
+    {
+      "label": "Su Isıtıcı Kapasitesi",
+      "value": "1,8 L",
+      "source_url": "https://www.hepsiburada.com/cvs-dn-1557-celik-isi-ayarli-digitea-cay-makinesi-pm-HBC0000DTRRKP"
+    },
+    {
+      "label": "Demlik Malzemesi",
+      "value": "Paslanmaz çelik",
+      "source_url": "https://www.hepsiburada.com/cvs-dn-1557-celik-isi-ayarli-digitea-cay-makinesi-pm-HBC0000DTRRKP"
+    },
+    {
+      "label": "Otomatik Kapanma",
+      "value": "Demleme modunda 3 saat sonra, kaynatma modunda 8 dakika sonra",
+      "source_url": "https://www.hepsiburada.com/cvs-dn-1557-celik-isi-ayarli-digitea-cay-makinesi-pm-HBC0000DTRRKP"
+    },
+    {
+      "label": "Gösterge",
+      "value": "Fonksiyonları gösteren dijital gösterge",
+      "source_url": "https://www.hepsiburada.com/cvs-dn-1557-celik-isi-ayarli-digitea-cay-makinesi-pm-HBC0000DTRRKP"
+    }
+  ],
+  "source_urls": [
+    "https://www.hepsiburada.com/cvs-dn-1557-celik-isi-ayarli-digitea-cay-makinesi-pm-HBC0000DTRRKP",
+    "https://www.trendyol.com/cvs/dn-1557-celik-isi-ayarli-digitea-cay-makinesi-p-749666060"
+  ],
+  "verification_notes": []
+}

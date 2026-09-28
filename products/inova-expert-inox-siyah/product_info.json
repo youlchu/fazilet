@@ -1,0 +1,60 @@
+{
+  "folder": "inova-expert-inox-siyah",
+  "brand": "iNOVA",
+  "model": "EXPERT+",
+  "name": "Çay Makinesi",
+  "variant": "Inox/Siyah",
+  "identity_confidence": "high",
+  "source_folders": [
+    "inova-expert-cay-makinesi"
+  ],
+  "source_images": [
+    "new_images/inova-expert-cay-makinesi/past_inova-expert-cay-makinesi_00000246.jpg"
+  ],
+  "readable_evidence": [
+    "iNOVA",
+    "EXPERT+",
+    "1.8L"
+  ],
+  "issues": [
+    "The primary model name printed on the box is 'EXPERT+' rather than just 'EXPERT'.",
+    "Adjacent product boxes (Goldmaster GM-7321, King, Sinbo) are partially visible in the frame."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Su Isıtıcı Kapasitesi",
+      "value": "1,8 Lt",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1kyZt1kISi9erep2LnjyT_cBLnndcMp03jqUqWLmDVmpddRuO0GZypn8eYbfA8YLTMiWc94js-xFTjFXx3BehgHqB4xIUXZAa9til0szHqGs_ysHG4DV_eNoj5hQNyztrldVVqO2Y9DLS6QUscwA="
+    },
+    {
+      "label": "Demlik Kapasitesi",
+      "value": "1,2 Lt",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1kyZt1kISi9erep2LnjyT_cBLnndcMp03jqUqWLmDVmpddRuO0GZypn8eYbfA8YLTMiWc94js-xFTjFXx3BehgHqB4xIUXZAa9til0szHqGs_ysHG4DV_eNoj5hQNyztrldVVqO2Y9DLS6QUscwA="
+    },
+    {
+      "label": "Gövde Malzemesi",
+      "value": "304 Paslanmaz Çelik",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1kyZt1kISi9erep2LnjyT_cBLnndcMp03jqUqWLmDVmpddRuO0GZypn8eYbfA8YLTMiWc94js-xFTjFXx3BehgHqB4xIUXZAa9til0szHqGs_ysHG4DV_eNoj5hQNyztrldVVqO2Y9DLS6QUscwA="
+    },
+    {
+      "label": "Süzgeç",
+      "value": "Paslanmaz Çelik",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1kyZt1kISi9erep2LnjyT_cBLnndcMp03jqUqWLmDVmpddRuO0GZypn8eYbfA8YLTMiWc94js-xFTjFXx3BehgHqB4xIUXZAa9til0szHqGs_ysHG4DV_eNoj5hQNyztrldVVqO2Y9DLS6QUscwA="
+    },
+    {
+      "label": "Otomatik Kapanma Sistemi",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1kyZt1kISi9erep2LnjyT_cBLnndcMp03jqUqWLmDVmpddRuO0GZypn8eYbfA8YLTMiWc94js-xFTjFXx3BehgHqB4xIUXZAa9til0szHqGs_ysHG4DV_eNoj5hQNyztrldVVqO2Y9DLS6QUscwA="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1kyZt1kISi9erep2LnjyT_cBLnndcMp03jqUqWLmDVmpddRuO0GZypn8eYbfA8YLTMiWc94js-xFTjFXx3BehgHqB4xIUXZAa9til0szHqGs_ysHG4DV_eNoj5hQNyztrldVVqO2Y9DLS6QUscwA="
+  ],
+  "verification_notes": [
+    "Model adı kutu üzerinde belirtildiği ve Türk perakendecilerinde listelendiği gibi 'EXPERT+' olarak doğrulanmıştır.",
+    "Kutuda okunan 1.8L ibaresi su ısıtıcı haznesinin 1,8 litrelik kapasitesine karşılık gelmektedir."
+  ]
+}

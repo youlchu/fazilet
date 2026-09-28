@@ -1,0 +1,53 @@
+{
+  "folder": "fakir-bl-3048",
+  "brand": "Fakir",
+  "model": "BL 3048",
+  "name": "COOPER",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "fakir-cooper-bl-3048-toz-torbasiz-supurge"
+  ],
+  "source_images": [
+    "new_images/fakir-cooper-bl-3048-toz-torbasiz-supurge/past_fakir-cooper-bl-3048-toz-torbasiz-supurge_00000229.jpg"
+  ],
+  "readable_evidence": [
+    "Fakir HAUSGERÄTE",
+    "COOPER",
+    "BL 3048",
+    "800 WATT POWER",
+    "Beutelloser Bodenstaubsauger",
+    "Bagless Vacuum Cleaner"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Motor Gücü",
+      "value": "800 Watt",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKiK_91cXhEAwJBZPfaoi8jdswFp6YTPCnFl_IglMOqJq1d3rzYf6r4rJd7e1x2u35A_80y7snKgN8fiiW7ot-T9GDZ30-TttblPIorJXFTLoMoFflAWijKVH3H2ksVhwpVjmv_pQSy61n1_Y9sffg3AEDwyez8XkoIT6c1viSzDL5QOZYJugJqCOnHbQpF895xj4="
+    },
+    {
+      "label": "Vakum Kontrolü",
+      "value": "Elektronik olarak ayarlanabilen vakum gücü",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKiK_91cXhEAwJBZPfaoi8jdswFp6YTPCnFl_IglMOqJq1d3rzYf6r4rJd7e1x2u35A_80y7snKgN8fiiW7ot-T9GDZ30-TttblPIorJXFTLoMoFflAWijKVH3H2ksVhwpVjmv_pQSy61n1_Y9sffg3AEDwyez8XkoIT6c1viSzDL5QOZYJugJqCOnHbQpF895xj4="
+    },
+    {
+      "label": "Filtreleme Sistemi",
+      "value": "HEPA filtre, siklon ve kaset filtreleme sistemleri",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKiK_91cXhEAwJBZPfaoi8jdswFp6YTPCnFl_IglMOqJq1d3rzYf6r4rJd7e1x2u35A_80y7snKgN8fiiW7ot-T9GDZ30-TttblPIorJXFTLoMoFflAWijKVH3H2ksVhwpVjmv_pQSy61n1_Y9sffg3AEDwyez8XkoIT6c1viSzDL5QOZYJugJqCOnHbQpF895xj4="
+    },
+    {
+      "label": "Taşıma Kolu",
+      "value": "Ergonomik taşıma kolu",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrTXv9QEkvSWpF3LlMyNK63BHs9XzSc6SNLTgaM9JoI9Ydw665n3nz---ss_i9VSYTKrFy06sSY4S5luGTESJa6y4ISz4ZbDVQMwLfRpZpxy13Q0MJ9udkIviGE3t-pFQExeNx4hLvY3W1h01Gycz1w5m6UlmpW-QyAZmq_ohSFbBuSQ=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrTXv9QEkvSWpF3LlMyNK63BHs9XzSc6SNLTgaM9JoI9Ydw665n3nz---ss_i9VSYTKrFy06sSY4S5luGTESJa6y4ISz4ZbDVQMwLfRpZpxy13Q0MJ9udkIviGE3t-pFQExeNx4hLvY3W1h01Gycz1w5m6UlmpW-QyAZmq_ohSFbBuSQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKiK_91cXhEAwJBZPfaoi8jdswFp6YTPCnFl_IglMOqJq1d3rzYf6r4rJd7e1x2u35A_80y7snKgN8fiiW7ot-T9GDZ30-TttblPIorJXFTLoMoFflAWijKVH3H2ksVhwpVjmv_pQSy61n1_Y9sffg3AEDwyez8XkoIT6c1viSzDL5QOZYJugJqCOnHbQpF895xj4="
+  ],
+  "verification_notes": []
+}

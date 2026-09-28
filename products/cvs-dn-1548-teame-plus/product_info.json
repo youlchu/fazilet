@@ -1,0 +1,60 @@
+{
+  "folder": "cvs-dn-1548-teame-plus",
+  "brand": "CVS",
+  "model": "DN 1548 TeaME Plus",
+  "name": "Elektrikli Çay Makinesi",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "cvs-tea-me-plus-cay-makinesi"
+  ],
+  "source_images": [
+    "new_images/cvs-tea-me-plus-cay-makinesi/past_cvs-tea-me-plus-cay-makinesi_00000415.jpg"
+  ],
+  "readable_evidence": [
+    "CVS",
+    "TEA ME PLUS",
+    "Elektrikli Çay Makinesi"
+  ],
+  "issues": [
+    "Lower corner text/model code on the CVS box is blurred and illegible.",
+    "Adjacent Sinbo boxes and product box to the right are partially visible with illegible model names."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Su Isıtıcı Kapasitesi",
+      "value": "1,7 L",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuGQWrk1SAzizzfz79egFxrndgdep2BpDAxtV_DfSJ3Ed7J07GiFDF1eTt4E8O4Ji_p0v0EGplA1sJ4OBBle7vIpQqh7Rr0fBGzCGNr0rr9mQ0NWGfM09YQlUaQhSyTnThhTV53FzT-aEixP1lVtVz7vv0GmwDmq1crv3P2vlO6Bd5x3fyCqshIE32BSdI14ZDnR8wIJEs9MlzNwB7Om0gywWHWG8BLudRAdrALNbQY-Vh__GqFT1KyGgCe56u"
+    },
+    {
+      "label": "Demlik Kapasitesi",
+      "value": "0,8 L",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuGQWrk1SAzizzfz79egFxrndgdep2BpDAxtV_DfSJ3Ed7J07GiFDF1eTt4E8O4Ji_p0v0EGplA1sJ4OBBle7vIpQqh7Rr0fBGzCGNr0rr9mQ0NWGfM09YQlUaQhSyTnThhTV53FzT-aEixP1lVtVz7vv0GmwDmq1crv3P2vlO6Bd5x3fyCqshIE32BSdI14ZDnR8wIJEs9MlzNwB7Om0gywWHWG8BLudRAdrALNbQY-Vh__GqFT1KyGgCe56u"
+    },
+    {
+      "label": "Güç",
+      "value": "1800 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuGQWrk1SAzizzfz79egFxrndgdep2BpDAxtV_DfSJ3Ed7J07GiFDF1eTt4E8O4Ji_p0v0EGplA1sJ4OBBle7vIpQqh7Rr0fBGzCGNr0rr9mQ0NWGfM09YQlUaQhSyTnThhTV53FzT-aEixP1lVtVz7vv0GmwDmq1crv3P2vlO6Bd5x3fyCqshIE32BSdI14ZDnR8wIJEs9MlzNwB7Om0gywWHWG8BLudRAdrALNbQY-Vh__GqFT1KyGgCe56u"
+    },
+    {
+      "label": "Susuz Çalışma Emniyeti",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuGQWrk1SAzizzfz79egFxrndgdep2BpDAxtV_DfSJ3Ed7J07GiFDF1eTt4E8O4Ji_p0v0EGplA1sJ4OBBle7vIpQqh7Rr0fBGzCGNr0rr9mQ0NWGfM09YQlUaQhSyTnThhTV53FzT-aEixP1lVtVz7vv0GmwDmq1crv3P2vlO6Bd5x3fyCqshIE32BSdI14ZDnR8wIJEs9MlzNwB7Om0gywWHWG8BLudRAdrALNbQY-Vh__GqFT1KyGgCe56u"
+    },
+    {
+      "label": "Taban Özelliği",
+      "value": "360 derece dönebilen taban",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuGQWrk1SAzizzfz79egFxrndgdep2BpDAxtV_DfSJ3Ed7J07GiFDF1eTt4E8O4Ji_p0v0EGplA1sJ4OBBle7vIpQqh7Rr0fBGzCGNr0rr9mQ0NWGfM09YQlUaQhSyTnThhTV53FzT-aEixP1lVtVz7vv0GmwDmq1crv3P2vlO6Bd5x3fyCqshIE32BSdI14ZDnR8wIJEs9MlzNwB7Om0gywWHWG8BLudRAdrALNbQY-Vh__GqFT1KyGgCe56u"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuGQWrk1SAzizzfz79egFxrndgdep2BpDAxtV_DfSJ3Ed7J07GiFDF1eTt4E8O4Ji_p0v0EGplA1sJ4OBBle7vIpQqh7Rr0fBGzCGNr0rr9mQ0NWGfM09YQlUaQhSyTnThhTV53FzT-aEixP1lVtVz7vv0GmwDmq1crv3P2vlO6Bd5x3fyCqshIE32BSdI14ZDnR8wIJEs9MlzNwB7Om0gywWHWG8BLudRAdrALNbQY-Vh__GqFT1KyGgCe56u",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvzlDYOddZqKIZLPswcZxtSRfufkR_piiij3US_3v4AB-r76WNP2BXcfK-wbFsDUFVdv6UZGzHyTVkg2udw2Zi4x2h3CsbVJRJFvt8FbYtjya0vnRPs_N7eNQD2m-Dxs-ryOfoWHGEcLoPRJ6D3Lw2inlJM2FeFN9DCv1F9UbS06O6dI_R_AYtaEmqJJ0o"
+  ],
+  "verification_notes": [
+    "The blurred model code on the CVS Tea ME Plus packaging corresponds to catalog model DN 1548."
+  ]
+}

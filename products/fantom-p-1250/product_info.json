@@ -1,0 +1,55 @@
+{
+  "folder": "fantom-p-1250",
+  "brand": "Fantom",
+  "model": "P 1250",
+  "name": "Pratic Air Power",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "fantom-pratic-air-power-dikey-supurge"
+  ],
+  "source_images": [
+    "new_images/fantom-pratic-air-power-dikey-supurge/past_fantom-pratic-air-power-dikey-supurge_00000356.jpg"
+  ],
+  "readable_evidence": [
+    "Fantom",
+    "PRATIC AIR POWER",
+    "PRATIC AIR POWER P 1250",
+    "Turbo Brush"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Motor Gücü",
+      "value": "500 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr_D58u1xqhGbj9ExZGk4X_XcrVv2lfSiHrNbzQKJfNGIAbVvOtI5nMfKDmYzcZDLQGrUgxllwKScjZeMjn49l26FUmC6W-sTn39wtTmZRx5QgNb7Rnk1j3QOTs8NWYlK6j-O8nZy5"
+    },
+    {
+      "label": "Toz Haznesi Kapasitesi",
+      "value": "1 L",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr_D58u1xqhGbj9ExZGk4X_XcrVv2lfSiHrNbzQKJfNGIAbVvOtI5nMfKDmYzcZDLQGrUgxllwKScjZeMjn49l26FUmC6W-sTn39wtTmZRx5QgNb7Rnk1j3QOTs8NWYlK6j-O8nZy5"
+    },
+    {
+      "label": "Kullanım Tipi",
+      "value": "Toz torbasız",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr_D58u1xqhGbj9ExZGk4X_XcrVv2lfSiHrNbzQKJfNGIAbVvOtI5nMfKDmYzcZDLQGrUgxllwKScjZeMjn49l26FUmC6W-sTn39wtTmZRx5QgNb7Rnk1j3QOTs8NWYlK6j-O8nZy5"
+    },
+    {
+      "label": "Süpürücü Başlık",
+      "value": "Turbo başlık",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr_D58u1xqhGbj9ExZGk4X_XcrVv2lfSiHrNbzQKJfNGIAbVvOtI5nMfKDmYzcZDLQGrUgxllwKScjZeMjn49l26FUmC6W-sTn39wtTmZRx5QgNb7Rnk1j3QOTs8NWYlK6j-O8nZy5"
+    },
+    {
+      "label": "Stant",
+      "value": "Ayaklı stant",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr_D58u1xqhGbj9ExZGk4X_XcrVv2lfSiHrNbzQKJfNGIAbVvOtI5nMfKDmYzcZDLQGrUgxllwKScjZeMjn49l26FUmC6W-sTn39wtTmZRx5QgNb7Rnk1j3QOTs8NWYlK6j-O8nZy5"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr_D58u1xqhGbj9ExZGk4X_XcrVv2lfSiHrNbzQKJfNGIAbVvOtI5nMfKDmYzcZDLQGrUgxllwKScjZeMjn49l26FUmC6W-sTn39wtTmZRx5QgNb7Rnk1j3QOTs8NWYlK6j-O8nZy5"
+  ],
+  "verification_notes": []
+}

@@ -1,0 +1,60 @@
+{
+  "folder": "leader-lp-5020",
+  "brand": "LEADER",
+  "model": "LP-5020",
+  "name": "Taşınabilir Ses Sistemi",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "leader-lp-5020-tasinabilir-ses-sistemi"
+  ],
+  "source_images": [
+    "new_images/leader-lp-5020-tasinabilir-ses-sistemi/past_leader-lp-5020-tasinabilir-ses-sistemi_00000262.jpg",
+    "new_images/leader-lp-5020-tasinabilir-ses-sistemi/past_leader-lp-5020-tasinabilir-ses-sistemi_00000284.jpg",
+    "new_images/leader-lp-5020-tasinabilir-ses-sistemi/past_leader-lp-5020-tasinabilir-ses-sistemi_00000368.jpg"
+  ],
+  "readable_evidence": [
+    "LEADER",
+    "LP-5020",
+    "PORTATİF AKTİF SES SİSTEMİ",
+    "Taşınabilir Ses Sistemi",
+    "200W PMPO"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Çıkış Gücü",
+      "value": "200W PMPO / 20W RMS",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJh5VDVn_9BTwqCdm2CHGDNhBcEv-5FGjSw_HicVRhsb5TTWbGV5BcE4cytFqL9VXYnIbRci4JNs5_Clwhb9znjvhXBcf4kcX8VSht2FYJ2PDPDfmEmjsdcblO2KNfvhJed7o1sKfLQm-NPDK1RklzJtlKfV66pe6sF9uSgBSC1e9sl5wV_f7iJjc-pw=="
+    },
+    {
+      "label": "Hoparlör Sürücüleri",
+      "value": "5 inç x 2 woofer",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJh5VDVn_9BTwqCdm2CHGDNhBcEv-5FGjSw_HicVRhsb5TTWbGV5BcE4cytFqL9VXYnIbRci4JNs5_Clwhb9znjvhXBcf4kcX8VSht2FYJ2PDPDfmEmjsdcblO2KNfvhJed7o1sKfLQm-NPDK1RklzJtlKfV66pe6sF9uSgBSC1e9sl5wV_f7iJjc-pw=="
+    },
+    {
+      "label": "Mikrofon",
+      "value": "Kablosuz UHF el mikrofonu ve 6,3 mm mikrofon girişi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJh5VDVn_9BTwqCdm2CHGDNhBcEv-5FGjSw_HicVRhsb5TTWbGV5BcE4cytFqL9VXYnIbRci4JNs5_Clwhb9znjvhXBcf4kcX8VSht2FYJ2PDPDfmEmjsdcblO2KNfvhJed7o1sKfLQm-NPDK1RklzJtlKfV66pe6sF9uSgBSC1e9sl5wV_f7iJjc-pw=="
+    },
+    {
+      "label": "Aydınlatma",
+      "value": "8 seçenekli RGB LED",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJh5VDVn_9BTwqCdm2CHGDNhBcEv-5FGjSw_HicVRhsb5TTWbGV5BcE4cytFqL9VXYnIbRci4JNs5_Clwhb9znjvhXBcf4kcX8VSht2FYJ2PDPDfmEmjsdcblO2KNfvhJed7o1sKfLQm-NPDK1RklzJtlKfV66pe6sF9uSgBSC1e9sl5wV_f7iJjc-pw=="
+    },
+    {
+      "label": "Batarya Kapasitesi",
+      "value": "3,7V 4000 mAh",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJh5VDVn_9BTwqCdm2CHGDNhBcEv-5FGjSw_HicVRhsb5TTWbGV5BcE4cytFqL9VXYnIbRci4JNs5_Clwhb9znjvhXBcf4kcX8VSht2FYJ2PDPDfmEmjsdcblO2KNfvhJed7o1sKfLQm-NPDK1RklzJtlKfV66pe6sF9uSgBSC1e9sl5wV_f7iJjc-pw=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJh5VDVn_9BTwqCdm2CHGDNhBcEv-5FGjSw_HicVRhsb5TTWbGV5BcE4cytFqL9VXYnIbRci4JNs5_Clwhb9znjvhXBcf4kcX8VSht2FYJ2PDPDfmEmjsdcblO2KNfvhJed7o1sKfLQm-NPDK1RklzJtlKfV66pe6sF9uSgBSC1e9sl5wV_f7iJjc-pw=="
+  ],
+  "verification_notes": [
+    "Ürün piyasada 'Leader LP-5020 Portatif Aktif Ses Sistemi' ve 'Leader LP-5020 Taşınabilir Ses Sistemi' adlarıyla listelenmektedir."
+  ]
+}

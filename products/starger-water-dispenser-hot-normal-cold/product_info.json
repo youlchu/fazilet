@@ -1,0 +1,32 @@
+{
+  "folder": "starger-water-dispenser-hot-normal-cold",
+  "brand": "starger",
+  "model": "",
+  "name": "WATER DISPENSER",
+  "variant": "HOT & NORMAL & COLD",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "starger-sicak-normal-soguk-su-sebili"
+  ],
+  "source_images": [
+    "new_images/starger-sicak-normal-soguk-su-sebili/past_starger-sicak-normal-soguk-su-sebili_00000358.jpg"
+  ],
+  "readable_evidence": [
+    "starger",
+    "WATER DISPENSER",
+    "HOT & NORMAL & COLD"
+  ],
+  "issues": [
+    "No specific model number is visible on the package.",
+    "Plastic strapping partially obscures the words 'DISPENSER' and 'NORMAL'."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [],
+  "verification_notes": [
+    "No manufacturer records, official listings, or reputable retail entries could be found for a 'starger' water dispenser.",
+    "Without a verifiable model number or matching catalog entry, the product cannot be confirmed."
+  ]
+}

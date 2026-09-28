@@ -1,0 +1,32 @@
+{
+  "folder": "mimarsinan-matik-plus-5-litre-kirmizi",
+  "brand": "mimarsinan",
+  "model": "Matik Plus",
+  "name": "Matik Plus Düdüklü Tencere",
+  "variant": "5 Litre / Kırmızı",
+  "identity_confidence": "high",
+  "source_folders": [
+    "mimar-sinan-duduklu-tencere"
+  ],
+  "source_images": [
+    "new_images/mimar-sinan-duduklu-tencere/past_mimar-sinan-duduklu-tencere_00000303.jpg"
+  ],
+  "readable_evidence": [
+    "mimarsinan mutfak eşyaları",
+    "Matik Plus Düdüklü Tencere",
+    "5 Litre",
+    "304 kalite 18/10 Cr./Ni."
+  ],
+  "issues": [
+    "Box packaging is worn, creased, and partially torn."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [],
+  "verification_notes": [
+    "No online retailer or manufacturer catalog listings could be found matching the 'Matik Plus' pressure cooker under the Mimarsinan brand.",
+    "Per instructions, when an exact model cannot be confirmed online, verdict is unverified and the visually read candidate identity is retained without fabricated features."
+  ]
+}

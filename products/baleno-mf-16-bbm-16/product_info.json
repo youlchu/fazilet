@@ -1,0 +1,59 @@
+{
+  "folder": "baleno-mf-16-bbm-16",
+  "brand": "BALENO",
+  "model": "MF 16 BBM",
+  "name": "Baleno MF 16 BBM Buharlı Vantilatör",
+  "variant": "16\"",
+  "identity_confidence": "high",
+  "source_folders": [
+    "baleno-16-inc-buharli-vantilator"
+  ],
+  "source_images": [
+    "new_images/baleno-16-inc-buharli-vantilator/past_baleno-16-inc-buharli-vantilator_00000376.jpg"
+  ],
+  "readable_evidence": [
+    "BALENO",
+    "16\" BUHARLI VANTİLATÖR",
+    "16\" MIST FAN"
+  ],
+  "issues": [
+    "No specific alphanumeric model number is visible on the package front panels."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "70 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFogB7omMJzOijfAJZ1njBiVkm2_pr2X2edNmcWkxv2AIgqFQAJMLJnMGZgvAf-EIE_XGKkUKrZ3nlb5iSOPGHWznwjKmWAZ3b3-V-q9QqUu-aE4zO1U2w6TujzY0IkaCW-55aTnn27rxmLvDQ="
+    },
+    {
+      "label": "Su Deposu Kapasitesi",
+      "value": "3 L",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFogB7omMJzOijfAJZ1njBiVkm2_pr2X2edNmcWkxv2AIgqFQAJMLJnMGZgvAf-EIE_XGKkUKrZ3nlb5iSOPGHWznwjKmWAZ3b3-V-q9QqUu-aE4zO1U2w6TujzY0IkaCW-55aTnn27rxmLvDQ="
+    },
+    {
+      "label": "Hız Kademesi",
+      "value": "3 kademeli (Düşük / Orta / Yüksek)",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFogB7omMJzOijfAJZ1njBiVkm2_pr2X2edNmcWkxv2AIgqFQAJMLJnMGZgvAf-EIE_XGKkUKrZ3nlb5iSOPGHWznwjKmWAZ3b3-V-q9QqUu-aE4zO1U2w6TujzY0IkaCW-55aTnn27rxmLvDQ="
+    },
+    {
+      "label": "Zamanlayıcı",
+      "value": "1 – 12 saat",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFogB7omMJzOijfAJZ1njBiVkm2_pr2X2edNmcWkxv2AIgqFQAJMLJnMGZgvAf-EIE_XGKkUKrZ3nlb5iSOPGHWznwjKmWAZ3b3-V-q9QqUu-aE4zO1U2w6TujzY0IkaCW-55aTnn27rxmLvDQ="
+    },
+    {
+      "label": "Salınım",
+      "value": "Otomatik sağa-sola salınım",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFogB7omMJzOijfAJZ1njBiVkm2_pr2X2edNmcWkxv2AIgqFQAJMLJnMGZgvAf-EIE_XGKkUKrZ3nlb5iSOPGHWznwjKmWAZ3b3-V-q9QqUu-aE4zO1U2w6TujzY0IkaCW-55aTnn27rxmLvDQ="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFogB7omMJzOijfAJZ1njBiVkm2_pr2X2edNmcWkxv2AIgqFQAJMLJnMGZgvAf-EIE_XGKkUKrZ3nlb5iSOPGHWznwjKmWAZ3b3-V-q9QqUu-aE4zO1U2w6TujzY0IkaCW-55aTnn27rxmLvDQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF-_Jy-_rRMSYFeIvI_VRbx9Ji0jALkf31wErOLIqBv6PxwCJxRPMAxpR6Vt_SBYt_WBKwmb_qF6udsd2bk3Yc19LWph-NLjAHNjK6y-jExHB9EunqpI-mGf7oVdPbo_YtOPXB3QXoLS8o6V9ICQVUdLNm9BUjwIAFhUCa"
+  ],
+  "verification_notes": [
+    "Kutuda model kodu belirtilmemiş olsa da 16 inç buharlı Baleno modeli piyasada ve distribütöründe MF 16 BBM (MF16 BBM) model koduyla satışa sunulmaktadır."
+  ]
+}

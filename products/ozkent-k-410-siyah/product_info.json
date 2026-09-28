@@ -1,0 +1,63 @@
+{
+  "folder": "ozkent-k-410-siyah",
+  "brand": "Özkent",
+  "model": "K-410",
+  "name": "Gurme Çay Keyfi Elektrikli Çay Makinesi",
+  "variant": "Siyah",
+  "identity_confidence": "high",
+  "source_folders": [
+    "ozkent-gurme-cay-makinesi"
+  ],
+  "source_images": [
+    "new_images/ozkent-gurme-cay-makinesi/past_ozkent-gurme-cay-makinesi_00000248.jpg",
+    "new_images/ozkent-gurme-cay-makinesi/past_ozkent-gurme-cay-makinesi_00000413.jpg"
+  ],
+  "readable_evidence": [
+    "ÖZKENT",
+    "Gurme",
+    "Çay Keyfi...",
+    "2 YIL GARANTİ",
+    "Made in Türkiye"
+  ],
+  "issues": [
+    "ÖZKENT package front displays the model line 'Gurme' without an explicit numerical model code.",
+    "Partially visible items from CVS, Sinbo, and Çetintaş appear on adjacent shelves; only CVS has both brand and model fully readable."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "1750 Watt",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJWv83zE2aM5W_LYaMjEbdkuvI_0_dJgmDR8n7ov-Ckb48bQL8401RsWn4KcP0zqFAwWPyPSJM3jNhj-qOoAcVKGk4g3ovGRmwCk0VLcJQJXQHwS5017WM3th13KfILI0mHQSJFz7bC98k"
+    },
+    {
+      "label": "Alt Hazne Kapasitesi",
+      "value": "1,8 L",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJWv83zE2aM5W_LYaMjEbdkuvI_0_dJgmDR8n7ov-Ckb48bQL8401RsWn4KcP0zqFAwWPyPSJM3jNhj-qOoAcVKGk4g3ovGRmwCk0VLcJQJXQHwS5017WM3th13KfILI0mHQSJFz7bC98k"
+    },
+    {
+      "label": "Üst Demlik Kapasitesi",
+      "value": "1 L",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJWv83zE2aM5W_LYaMjEbdkuvI_0_dJgmDR8n7ov-Ckb48bQL8401RsWn4KcP0zqFAwWPyPSJM3jNhj-qOoAcVKGk4g3ovGRmwCk0VLcJQJXQHwS5017WM3th13KfILI0mHQSJFz7bC98k"
+    },
+    {
+      "label": "Gövde Malzemesi",
+      "value": "18/10 Cr-Ni 304 Kalite Paslanmaz Çelik",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJWv83zE2aM5W_LYaMjEbdkuvI_0_dJgmDR8n7ov-Ckb48bQL8401RsWn4KcP0zqFAwWPyPSJM3jNhj-qOoAcVKGk4g3ovGRmwCk0VLcJQJXQHwS5017WM3th13KfILI0mHQSJFz7bC98k"
+    },
+    {
+      "label": "Otomatik Kapanma",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJWv83zE2aM5W_LYaMjEbdkuvI_0_dJgmDR8n7ov-Ckb48bQL8401RsWn4KcP0zqFAwWPyPSJM3jNhj-qOoAcVKGk4g3ovGRmwCk0VLcJQJXQHwS5017WM3th13KfILI0mHQSJFz7bC98k"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJWv83zE2aM5W_LYaMjEbdkuvI_0_dJgmDR8n7ov-Ckb48bQL8401RsWn4KcP0zqFAwWPyPSJM3jNhj-qOoAcVKGk4g3ovGRmwCk0VLcJQJXQHwS5017WM3th13KfILI0mHQSJFz7bC98k"
+  ],
+  "verification_notes": [
+    "The package displays the series name 'Gurme Çay Keyfi' on the front panel without a model code.",
+    "Official manufacturer product documentation identifies the numerical model code for the Gurme Çay Keyfi electric tea maker as K-410."
+  ]
+}

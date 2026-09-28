@@ -1,0 +1,62 @@
+{
+  "folder": "mehtap-orkide-plus",
+  "brand": "Mehtap",
+  "model": "Orkide Plus",
+  "name": "7 Parça Set",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "mehtap-orkide-plus-7-parca-tencere-seti"
+  ],
+  "source_images": [
+    "new_images/mehtap-orkide-plus-7-parca-tencere-seti/past_mehtap-orkide-plus-7-parca-tencere-seti_00000061.jpg",
+    "new_images/mehtap-orkide-plus-7-parca-tencere-seti/past_mehtap-orkide-plus-7-parca-tencere-seti_00000126.jpg"
+  ],
+  "readable_evidence": [
+    "MEHTAP",
+    "Orkide Plus",
+    "7 Parça Set"
+  ],
+  "issues": [
+    "Shelf photograph contains multiple distinct cookware sets: Falez Serafit 7 Parça Set in the foreground and Mehtap Orkide Plus 7 Parça Set in the background.",
+    "Neither product is clearly the single primary subject, so suggested_folder is left empty.",
+    "A third product box on the right edge is partially visible and cut off ('Co...' / 'FIESTA' / 'CES-105')."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Set İçeriği",
+      "value": "20 cm tencere, 24 cm tencere, 26 cm karnıyarık tenceresi, 26 cm tava",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpPs_1UMnVALrHk4Opxk8aOpYuD97MEx7LasZK0tl6beL2mdKcBVvppm4PPPudBzCUirz72og73eH0Wm4OH4iX2mgS54CZ_Dhb_kXyEJvuG6SHAowl30VbWyz6"
+    },
+    {
+      "label": "Parça Sayısı",
+      "value": "7",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEva8SbN575YilMNDVgiAnANHJDX1UUEnB_II7jKJ3b9mgSywECCmQkEDCeNrtuqNMrjprFBL7RwUWCvBuRam0mbjxrx3XUhMVFv6pASsGrXqd-aci9rlBuIQY87CYUweBcicTI2OpsfZM6KA8usLriMvCTJkZKUh6BVXFkwMgK7FxyyA=="
+    },
+    {
+      "label": "Taban Özelliği",
+      "value": "Yapışmaz taban",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEva8SbN575YilMNDVgiAnANHJDX1UUEnB_II7jKJ3b9mgSywECCmQkEDCeNrtuqNMrjprFBL7RwUWCvBuRam0mbjxrx3XUhMVFv6pASsGrXqd-aci9rlBuIQY87CYUweBcicTI2OpsfZM6KA8usLriMvCTJkZKUh6BVXFkwMgK7FxyyA=="
+    },
+    {
+      "label": "İç Materyal",
+      "value": "Granit kaplama",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEva8SbN575YilMNDVgiAnANHJDX1UUEnB_II7jKJ3b9mgSywECCmQkEDCeNrtuqNMrjprFBL7RwUWCvBuRam0mbjxrx3XUhMVFv6pASsGrXqd-aci9rlBuIQY87CYUweBcicTI2OpsfZM6KA8usLriMvCTJkZKUh6BVXFkwMgK7FxyyA=="
+    },
+    {
+      "label": "Dış Materyal",
+      "value": "Granit kaplama",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEva8SbN575YilMNDVgiAnANHJDX1UUEnB_II7jKJ3b9mgSywECCmQkEDCeNrtuqNMrjprFBL7RwUWCvBuRam0mbjxrx3XUhMVFv6pASsGrXqd-aci9rlBuIQY87CYUweBcicTI2OpsfZM6KA8usLriMvCTJkZKUh6BVXFkwMgK7FxyyA=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpPs_1UMnVALrHk4Opxk8aOpYuD97MEx7LasZK0tl6beL2mdKcBVvppm4PPPudBzCUirz72og73eH0Wm4OH4iX2mgS54CZ_Dhb_kXyEJvuG6SHAowl30VbWyz6",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEva8SbN575YilMNDVgiAnANHJDX1UUEnB_II7jKJ3b9mgSywECCmQkEDCeNrtuqNMrjprFBL7RwUWCvBuRam0mbjxrx3XUhMVFv6pASsGrXqd-aci9rlBuIQY87CYUweBcicTI2OpsfZM6KA8usLriMvCTJkZKUh6BVXFkwMgK7FxyyA=="
+  ],
+  "verification_notes": [
+    "Product verified on the official manufacturer catalog (EMEHTAP) and major retail platforms under the exact name Mehtap Orkide Plus 7 Parça Set / Tencere Seti."
+  ]
+}

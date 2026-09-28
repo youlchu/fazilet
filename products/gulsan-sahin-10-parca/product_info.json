@@ -1,0 +1,59 @@
+{
+  "folder": "gulsan-sahin-10-parca",
+  "brand": "Gülsan",
+  "model": "Şahin",
+  "name": "Paslanmaz Çelik Tencere Seti",
+  "variant": "10 Parça",
+  "identity_confidence": "high",
+  "source_folders": [
+    "gulsan-sahin-celik-tencere-seti"
+  ],
+  "source_images": [
+    "new_images/gulsan-sahin-celik-tencere-seti/past_gulsan-sahin-celik-tencere-seti_00000116.jpg"
+  ],
+  "readable_evidence": [
+    "gülsan",
+    "ŞAHİN",
+    "PASLANMAZ ÇELİK TENCERE SETİ",
+    "10 PARÇA"
+  ],
+  "issues": [
+    "Secondary Kahramanlar product package is cut off on the lower right edge."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Gövde Malzemesi",
+      "value": "304 | 18-10 Cr-Ni paslanmaz çelik",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUy0u_q3FCr1-9cE0DrbtnIQ4yi3mJCox_NZybGD2hMoTq6kO_lj1SRmD8wVZuXYwOEjpJr2tNMbB5JVXkRhDxqVmUTZiw3LoVzKmPiSm-mIJ-HJLrwYuT-XSvnn24_IytyDRo5JJWQUyQkW4RWPDf3tnbcjAp9ldc"
+    },
+    {
+      "label": "Taban Özelliği",
+      "value": "Isıyı muhafaza eden süper kapsül taban",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUy0u_q3FCr1-9cE0DrbtnIQ4yi3mJCox_NZybGD2hMoTq6kO_lj1SRmD8wVZuXYwOEjpJr2tNMbB5JVXkRhDxqVmUTZiw3LoVzKmPiSm-mIJ-HJLrwYuT-XSvnn24_IytyDRo5JJWQUyQkW4RWPDf3tnbcjAp9ldc"
+    },
+    {
+      "label": "Ocak Uyumluluğu",
+      "value": "Elektrikli, gazlı, halojen ve seramik ocaklarda kullanıma uygun",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUy0u_q3FCr1-9cE0DrbtnIQ4yi3mJCox_NZybGD2hMoTq6kO_lj1SRmD8wVZuXYwOEjpJr2tNMbB5JVXkRhDxqVmUTZiw3LoVzKmPiSm-mIJ-HJLrwYuT-XSvnn24_IytyDRo5JJWQUyQkW4RWPDf3tnbcjAp9ldc"
+    },
+    {
+      "label": "Kulp Özelliği",
+      "value": "Isıya dayanıklı ergonomik kulplar",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUy0u_q3FCr1-9cE0DrbtnIQ4yi3mJCox_NZybGD2hMoTq6kO_lj1SRmD8wVZuXYwOEjpJr2tNMbB5JVXkRhDxqVmUTZiw3LoVzKmPiSm-mIJ-HJLrwYuT-XSvnn24_IytyDRo5JJWQUyQkW4RWPDf3tnbcjAp9ldc"
+    },
+    {
+      "label": "Set İçeriği",
+      "value": "18 cm derin tencere, 20 cm derin tencere, 22 cm derin tencere, 24 cm derin tencere ve 24 cm basık tencere (çelik kapaklı)",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUy0u_q3FCr1-9cE0DrbtnIQ4yi3mJCox_NZybGD2hMoTq6kO_lj1SRmD8wVZuXYwOEjpJr2tNMbB5JVXkRhDxqVmUTZiw3LoVzKmPiSm-mIJ-HJLrwYuT-XSvnn24_IytyDRo5JJWQUyQkW4RWPDf3tnbcjAp9ldc"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUy0u_q3FCr1-9cE0DrbtnIQ4yi3mJCox_NZybGD2hMoTq6kO_lj1SRmD8wVZuXYwOEjpJr2tNMbB5JVXkRhDxqVmUTZiw3LoVzKmPiSm-mIJ-HJLrwYuT-XSvnn24_IytyDRo5JJWQUyQkW4RWPDf3tnbcjAp9ldc"
+  ],
+  "verification_notes": [
+    "Ürün üreticinin resmi satış platformunda 'Gülsan Şahin Mega 10 Parça Tencere Seti' adıyla listelenmektedir."
+  ]
+}

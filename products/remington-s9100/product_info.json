@@ -1,0 +1,62 @@
+{
+  "folder": "remington-s9100",
+  "brand": "Remington",
+  "model": "S9100",
+  "name": "PROluxe Saç Düzleştirici",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "remington-proluxe-sac-duzlestirici"
+  ],
+  "source_images": [
+    "new_images/remington-proluxe-sac-duzlestirici/past_remington-proluxe-sac-duzlestirici_00000442.jpg"
+  ],
+  "readable_evidence": [
+    "REMINGTON",
+    "PROFESSIONAL",
+    "PROLUXE",
+    "ALL DAY STYLES",
+    "OPTIheat",
+    "ONE PASS"
+  ],
+  "issues": [
+    "Specific alphanumeric model number (e.g., S9100) is not visible on the front of the packaging; identified by brand and PROLUXE line."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Isı Teknolojisi",
+      "value": "İhtiyaç duyulan noktalara hedeflenmiş ısı sağlayan akıllı OPTIheat teknolojisi",
+      "source_url": "https://uk.remington-europe.com/products/s9100-proluxe-hair-straightener"
+    },
+    {
+      "label": "Maksimum Sıcaklık",
+      "value": "230°C'ye kadar kademeli sıcaklık ayarı",
+      "source_url": "https://uk.remington-europe.com/products/s9100-proluxe-hair-straightener"
+    },
+    {
+      "label": "Pro+ Modu",
+      "value": "185°C sıcaklıkta daha sağlıklı şekillendirme sağlayan Pro+ ayarı",
+      "source_url": "https://uk.remington-europe.com/products/s9100-proluxe-hair-straightener"
+    },
+    {
+      "label": "Plaka Kaplaması",
+      "value": "5 kata kadar daha pürüzsüz kayganlık sunan ultimate glide seramik kaplama",
+      "source_url": "https://uk.remington-europe.com/products/s9100-proluxe-hair-straightener"
+    },
+    {
+      "label": "Şekillendirme Etkisi",
+      "value": "Tek geçişte %50 daha düz sonuç ve 24 saat kalıcılık",
+      "source_url": "https://uk.remington-europe.com/products/s9100-proluxe-hair-straightener"
+    }
+  ],
+  "source_urls": [
+    "https://uk.remington-europe.com/products/s9100-proluxe-hair-straightener",
+    "https://www.teknosa.com/remington-s9100-proluxe-seramik-bej-sac-duzlestirici-p-787870332"
+  ],
+  "verification_notes": [
+    "Kutudaki PROLUXE, OPTIheat ve ONE PASS ibareleri ürünün tam model kodu olan S9100 ile eşleştiğini doğrulamaktadır."
+  ]
+}

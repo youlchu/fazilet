@@ -1,0 +1,56 @@
+{
+  "folder": "schafer-vals-inox",
+  "brand": "SCHAFER",
+  "model": "Vals",
+  "name": "Vals 7 Parça Çelik Tencere Seti",
+  "variant": "Inox",
+  "identity_confidence": "high",
+  "source_folders": [
+    "schafer-vals-7-parca-tencere-seti"
+  ],
+  "source_images": [
+    "new_images/schafer-vals-7-parca-tencere-seti/past_schafer-vals-7-parca-tencere-seti_00000129.jpg"
+  ],
+  "readable_evidence": [
+    "SCHAFER",
+    "Vals",
+    "7 Parça Çelik Tencere Seti"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Gövde Malzemesi",
+      "value": "18/10 krom-nikel paslanmaz çelik",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl0GADZH8VzRIp2yxcQ3Lzs7L3-bmA5VYknSK6Pcvw0peFjo2Its4WzOUTJ1ArmCejh4RtTGJI-u6scVVURLo7ycM9FhDDfb-Zhazsx1kvApvTWJW3MOO3Bwsa88Xg_fYx5JdWylBd6ic8BWNpAfCD2cUnRSDfFcsLcVNmAkmF7o7X"
+    },
+    {
+      "label": "Taban Teknolojisi",
+      "value": "Kapsül taban",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl0GADZH8VzRIp2yxcQ3Lzs7L3-bmA5VYknSK6Pcvw0peFjo2Its4WzOUTJ1ArmCejh4RtTGJI-u6scVVURLo7ycM9FhDDfb-Zhazsx1kvApvTWJW3MOO3Bwsa88Xg_fYx5JdWylBd6ic8BWNpAfCD2cUnRSDfFcsLcVNmAkmF7o7X"
+    },
+    {
+      "label": "Kapak Tipi",
+      "value": "Isıya dayanıklı cam kapak",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqRWiFWZTgeDTUg-UKffCdvUBAoOVjJbDJhbu0iq-Uzzns0ufNApTKJ9EmB2R7CBnL7PI9PU06gffjGpQ8S67eY78so-PZlGmZeEnDHwrHmJcUgLbYT-rUc9oh6jeLJg1-y3WMesMCowCfWfZ68eqNjUL-DXbOHs67Vnsk"
+    },
+    {
+      "label": "Temizlik",
+      "value": "Bulaşık makinesinde yıkanabilir",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqRWiFWZTgeDTUg-UKffCdvUBAoOVjJbDJhbu0iq-Uzzns0ufNApTKJ9EmB2R7CBnL7PI9PU06gffjGpQ8S67eY78so-PZlGmZeEnDHwrHmJcUgLbYT-rUc9oh6jeLJg1-y3WMesMCowCfWfZ68eqNjUL-DXbOHs67Vnsk"
+    },
+    {
+      "label": "Ocak Uyumluluğu",
+      "value": "Tüm ocak tiplerinde kullanılabilir",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEmic3EuPtrC0muTo927OSdI4dSGuL18iIJaUybInqrlQMyXgPNDb0NwBQyQwx5mTjgNTZ_m0B9O1hIZsGEGG-t4TZh5tVyY6SINQ953TK1kBToU1mDCFTKmMDrCQFG_GT9U1CxYWC7-EpM418xT74ChJHwgWt6JcDG5ROrigeE7KUUlQVUQ=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl0GADZH8VzRIp2yxcQ3Lzs7L3-bmA5VYknSK6Pcvw0peFjo2Its4WzOUTJ1ArmCejh4RtTGJI-u6scVVURLo7ycM9FhDDfb-Zhazsx1kvApvTWJW3MOO3Bwsa88Xg_fYx5JdWylBd6ic8BWNpAfCD2cUnRSDfFcsLcVNmAkmF7o7X",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqRWiFWZTgeDTUg-UKffCdvUBAoOVjJbDJhbu0iq-Uzzns0ufNApTKJ9EmB2R7CBnL7PI9PU06gffjGpQ8S67eY78so-PZlGmZeEnDHwrHmJcUgLbYT-rUc9oh6jeLJg1-y3WMesMCowCfWfZ68eqNjUL-DXbOHs67Vnsk",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEmic3EuPtrC0muTo927OSdI4dSGuL18iIJaUybInqrlQMyXgPNDb0NwBQyQwx5mTjgNTZ_m0B9O1hIZsGEGG-t4TZh5tVyY6SINQ953TK1kBToU1mDCFTKmMDrCQFG_GT9U1CxYWC7-EpM418xT74ChJHwgWt6JcDG5ROrigeE7KUUlQVUQ=="
+  ],
+  "verification_notes": []
+}

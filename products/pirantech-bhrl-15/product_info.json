@@ -1,0 +1,60 @@
+{
+  "folder": "pirantech-bhrl-15",
+  "brand": "PiranTech",
+  "model": "BHRL-15",
+  "name": "IPL Lazer Epilasyon Cihazı",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "pirantech-bbrl-15-ipl-lazer-epilasyon-cihazi"
+  ],
+  "source_images": [
+    "new_images/pirantech-bbrl-15-ipl-lazer-epilasyon-cihazi/past_pirantech-bbrl-15-ipl-lazer-epilasyon-cihazi_00000315.jpg",
+    "new_images/pirantech-bbrl-15-ipl-lazer-epilasyon-cihazi/past_pirantech-bbrl-15-ipl-lazer-epilasyon-cihazi_00000428.jpg"
+  ],
+  "readable_evidence": [
+    "PiranTech",
+    "BHRL-15",
+    "IPL Lazer Epilasyon Cihazı"
+  ],
+  "issues": [
+    "The current folder name contains a typo ('bbrl-15' instead of 'bhrl-15'). The package clearly reads 'BHRL-15'."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Atış Kapasitesi",
+      "value": "999.999 atış",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8n9tyAyg74EJfAuBPqrT_WtBvtPAXGKMzUovQ_cAALbnsCXWzhzdS-NHpBenWy5xG-DUSL81JHu-pBbHSZaIRjvVYtS0lRiWprvJGTnqaIW8b4DeobzEwhQ5tcQKX-v0wIk_WwylG99H63CwEvDUckHHdWWZ3ZaqADzWwB1J_xlzwhZ2bbyv1_jR2Nf2o2eZ1PI4ju3Tvpr1BigQ7Bv-u5Xmwlr0bkziH4CZBX6REoEk="
+    },
+    {
+      "label": "Kullanım Tipi",
+      "value": "Kablolu ve kablosuz kullanım",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8n9tyAyg74EJfAuBPqrT_WtBvtPAXGKMzUovQ_cAALbnsCXWzhzdS-NHpBenWy5xG-DUSL81JHu-pBbHSZaIRjvVYtS0lRiWprvJGTnqaIW8b4DeobzEwhQ5tcQKX-v0wIk_WwylG99H63CwEvDUckHHdWWZ3ZaqADzWwB1J_xlzwhZ2bbyv1_jR2Nf2o2eZ1PI4ju3Tvpr1BigQ7Bv-u5Xmwlr0bkziH4CZBX6REoEk="
+    },
+    {
+      "label": "Enerji Seviyesi",
+      "value": "10 seviye ayar seçeneği",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8n9tyAyg74EJfAuBPqrT_WtBvtPAXGKMzUovQ_cAALbnsCXWzhzdS-NHpBenWy5xG-DUSL81JHu-pBbHSZaIRjvVYtS0lRiWprvJGTnqaIW8b4DeobzEwhQ5tcQKX-v0wIk_WwylG99H63CwEvDUckHHdWWZ3ZaqADzWwB1J_xlzwhZ2bbyv1_jR2Nf2o2eZ1PI4ju3Tvpr1BigQ7Bv-u5Xmwlr0bkziH4CZBX6REoEk="
+    },
+    {
+      "label": "Başlık Özelliği",
+      "value": "180 derece dönebilen başlık",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8n9tyAyg74EJfAuBPqrT_WtBvtPAXGKMzUovQ_cAALbnsCXWzhzdS-NHpBenWy5xG-DUSL81JHu-pBbHSZaIRjvVYtS0lRiWprvJGTnqaIW8b4DeobzEwhQ5tcQKX-v0wIk_WwylG99H63CwEvDUckHHdWWZ3ZaqADzWwB1J_xlzwhZ2bbyv1_jR2Nf2o2eZ1PI4ju3Tvpr1BigQ7Bv-u5Xmwlr0bkziH4CZBX6REoEk="
+    },
+    {
+      "label": "Soğutma Teknolojisi",
+      "value": "Buz soğutma sistemi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyOxeP2VCd70574FgENnXgVCo7gPa3w9910KlMiYddXAASYmnStvCiAoJJlwGqGuKeytCkBp7tBJqUX1HmMJ1KCqC78TqIwPaEUOAw94Hv8gAZ6YCdTljCqsXr_Z2rElhiRnraV2EccAJ13r_njyJ9sYTuTI6MLHQo63zYJcM0NdkuhO9fccDzjfE87VIqTN4mTabhyTGW8zPjo2ARzhh6heqmWX9i0Zu8X_H35vfXx9Y1"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8n9tyAyg74EJfAuBPqrT_WtBvtPAXGKMzUovQ_cAALbnsCXWzhzdS-NHpBenWy5xG-DUSL81JHu-pBbHSZaIRjvVYtS0lRiWprvJGTnqaIW8b4DeobzEwhQ5tcQKX-v0wIk_WwylG99H63CwEvDUckHHdWWZ3ZaqADzWwB1J_xlzwhZ2bbyv1_jR2Nf2o2eZ1PI4ju3Tvpr1BigQ7Bv-u5Xmwlr0bkziH4CZBX6REoEk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyOxeP2VCd70574FgENnXgVCo7gPa3w9910KlMiYddXAASYmnStvCiAoJJlwGqGuKeytCkBp7tBJqUX1HmMJ1KCqC78TqIwPaEUOAw94Hv8gAZ6YCdTljCqsXr_Z2rElhiRnraV2EccAJ13r_njyJ9sYTuTI6MLHQo63zYJcM0NdkuhO9fccDzjfE87VIqTN4mTabhyTGW8zPjo2ARzhh6heqmWX9i0Zu8X_H35vfXx9Y1"
+  ],
+  "verification_notes": [
+    "The packaging label 'BHRL-15' was confirmed as the correct model number across official listings and major Turkish retail platforms."
+  ]
+}

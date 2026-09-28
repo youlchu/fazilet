@@ -1,0 +1,53 @@
+{
+  "folder": "range-multi-blend-1700w",
+  "brand": "RANGE",
+  "model": "MULTI BLEND",
+  "name": "Blender Seti",
+  "variant": "1700W",
+  "identity_confidence": "high",
+  "source_folders": [
+    "range-multi-blend-1700-w-blender-seti"
+  ],
+  "source_images": [
+    "new_images/range-multi-blend-1700-w-blender-seti/past_range-multi-blend-1700-w-blender-seti_00000460.jpg"
+  ],
+  "readable_evidence": [
+    "RANGE",
+    "MULTI BLEND",
+    "Blender Seti",
+    "1700W"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "1700 Watt",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq-Gl5FDqSu7dmqepBY8-l1dxMagr2PW9x1PCh0IPr49gkKVxbEPmFaz5zjSWRsPrC5iipUWpgYCvomWI34Y4_K9ZyW8klfJA7O6NhAxUo5BQ7qJc2oQVYrMe0TPwfYSerdcazKXuv-m5GMdA3319o4EcXZzBJYaZrgbu7j22D"
+    },
+    {
+      "label": "Blender Aparatı",
+      "value": "4 bıçaklı paslanmaz çelik",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq-Gl5FDqSu7dmqepBY8-l1dxMagr2PW9x1PCh0IPr49gkKVxbEPmFaz5zjSWRsPrC5iipUWpgYCvomWI34Y4_K9ZyW8klfJA7O6NhAxUo5BQ7qJc2oQVYrMe0TPwfYSerdcazKXuv-m5GMdA3319o4EcXZzBJYaZrgbu7j22D"
+    },
+    {
+      "label": "Hız Fonksiyonu",
+      "value": "Turbo fonksiyon düğmesi ile ekstra hız",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq-Gl5FDqSu7dmqepBY8-l1dxMagr2PW9x1PCh0IPr49gkKVxbEPmFaz5zjSWRsPrC5iipUWpgYCvomWI34Y4_K9ZyW8klfJA7O6NhAxUo5BQ7qJc2oQVYrMe0TPwfYSerdcazKXuv-m5GMdA3319o4EcXZzBJYaZrgbu7j22D"
+    },
+    {
+      "label": "Renk",
+      "value": "Siyah",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq-Gl5FDqSu7dmqepBY8-l1dxMagr2PW9x1PCh0IPr49gkKVxbEPmFaz5zjSWRsPrC5iipUWpgYCvomWI34Y4_K9ZyW8klfJA7O6NhAxUo5BQ7qJc2oQVYrMe0TPwfYSerdcazKXuv-m5GMdA3319o4EcXZzBJYaZrgbu7j22D"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWOSVOAEcpod-tgnO6gW6NItFy8fSImnw-K1btCuwCvYBQxR9HL4xLBmfzMgw0c8p3GC8fdC9noezA7yO0R8Yx2CRN37pRpbW6mxyjdJfI_r1NSdJJShtAyZ9Q9yMrM3f2hWE0LYXI5NFp",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq-Gl5FDqSu7dmqepBY8-l1dxMagr2PW9x1PCh0IPr49gkKVxbEPmFaz5zjSWRsPrC5iipUWpgYCvomWI34Y4_K9ZyW8klfJA7O6NhAxUo5BQ7qJc2oQVYrMe0TPwfYSerdcazKXuv-m5GMdA3319o4EcXZzBJYaZrgbu7j22D"
+  ],
+  "verification_notes": [
+    "Product verified on the manufacturer website and major Turkish retail listings."
+  ]
+}

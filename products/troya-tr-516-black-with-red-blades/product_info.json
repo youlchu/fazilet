@@ -1,0 +1,58 @@
+{
+  "folder": "troya-tr-516-black-with-red-blades",
+  "brand": "TROYA",
+  "model": "TR 516",
+  "name": "MASA ÜSTÜ VANTİLATÖR",
+  "variant": "Black with red blades",
+  "identity_confidence": "high",
+  "source_folders": [
+    "troya-tr-516-masaustu-vantilator"
+  ],
+  "source_images": [
+    "new_images/troya-tr-516-masaustu-vantilator/past_troya-tr-516-masaustu-vantilator_00000420.jpg"
+  ],
+  "readable_evidence": [
+    "TROYA",
+    "TR 516",
+    "MASA ÜSTÜ VANTİLATÖR"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Motor gücü",
+      "value": "40 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDCQ3r6S08y0-VGPcLwv-Hiyu2MiHGibQTNhqeSYLrrCZXk7QrQvophANGYPTmuvyNzjEQsOjS1fMTluN1lLydAKGwl-HetboXc3AzfFL2GMxJ6MM7UbEG5PMZQexxO31J6pFJXqi2xO4viTThrNHXIyJifkkNeuwqyJI7yLro-sduduJhOJkR9Ijt1O0Uh-9bLnQYv5en6l4k_pJZXqoIhxgwAhNmVw8gCYlCCDHWqTBYXFHPLD6sNIcR"
+    },
+    {
+      "label": "Kanat sayısı",
+      "value": "3 kanatlı pervane",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDCQ3r6S08y0-VGPcLwv-Hiyu2MiHGibQTNhqeSYLrrCZXk7QrQvophANGYPTmuvyNzjEQsOjS1fMTluN1lLydAKGwl-HetboXc3AzfFL2GMxJ6MM7UbEG5PMZQexxO31J6pFJXqi2xO4viTThrNHXIyJifkkNeuwqyJI7yLro-sduduJhOJkR9Ijt1O0Uh-9bLnQYv5en6l4k_pJZXqoIhxgwAhNmVw8gCYlCCDHWqTBYXFHPLD6sNIcR"
+    },
+    {
+      "label": "Hız kademesi",
+      "value": "3 kademeli",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDCQ3r6S08y0-VGPcLwv-Hiyu2MiHGibQTNhqeSYLrrCZXk7QrQvophANGYPTmuvyNzjEQsOjS1fMTluN1lLydAKGwl-HetboXc3AzfFL2GMxJ6MM7UbEG5PMZQexxO31J6pFJXqi2xO4viTThrNHXIyJifkkNeuwqyJI7yLro-sduduJhOJkR9Ijt1O0Uh-9bLnQYv5en6l4k_pJZXqoIhxgwAhNmVw8gCYlCCDHWqTBYXFHPLD6sNIcR"
+    },
+    {
+      "label": "Pervane boyutu",
+      "value": "9 inç (23 cm)",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4gPoAIgNKKEEldJcA98Qc0bIuixGrwzMXG6jywBjovswEZqB7trAVZ84HezhOVZ4Rx_RskpzW6I08A8iihVlkJb5EpcYM_eZx0ePFKz-USAMlGIWWG0AMpZQsMfnbNol1d425FImUJqK7_0XbqWPvKbo262QzHe3YatYjBwCP0w2iN0cpUOuHi_Xca4H3Rv6h83iXTdkZ5otVQ_cl2g=="
+    },
+    {
+      "label": "Kullanım tipi",
+      "value": "Masaüstü",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNVIziRegeeTOgfg_sAiCxFwNyF56xESxNrGY6Q_tvgqCDXCKIHcLO-cnbQl7oljAY4FT4S9bgZKPUoA4AKqFekGohmFUcJNqRlkCOoGfwGh6JGSycBQpGdOKN-GynNsGRZ2ZGerlfUE6RyTVaCe_8_IWmXDIik_vqfNCUWOxRoXk8NjmE338Hbcpt6A-n4zlmByfGXRXQ-QdykOWSr3tsW19N"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDCQ3r6S08y0-VGPcLwv-Hiyu2MiHGibQTNhqeSYLrrCZXk7QrQvophANGYPTmuvyNzjEQsOjS1fMTluN1lLydAKGwl-HetboXc3AzfFL2GMxJ6MM7UbEG5PMZQexxO31J6pFJXqi2xO4viTThrNHXIyJifkkNeuwqyJI7yLro-sduduJhOJkR9Ijt1O0Uh-9bLnQYv5en6l4k_pJZXqoIhxgwAhNmVw8gCYlCCDHWqTBYXFHPLD6sNIcR",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4gPoAIgNKKEEldJcA98Qc0bIuixGrwzMXG6jywBjovswEZqB7trAVZ84HezhOVZ4Rx_RskpzW6I08A8iihVlkJb5EpcYM_eZx0ePFKz-USAMlGIWWG0AMpZQsMfnbNol1d425FImUJqK7_0XbqWPvKbo262QzHe3YatYjBwCP0w2iN0cpUOuHi_Xca4H3Rv6h83iXTdkZ5otVQ_cl2g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNVIziRegeeTOgfg_sAiCxFwNyF56xESxNrGY6Q_tvgqCDXCKIHcLO-cnbQl7oljAY4FT4S9bgZKPUoA4AKqFekGohmFUcJNqRlkCOoGfwGh6JGSycBQpGdOKN-GynNsGRZ2ZGerlfUE6RyTVaCe_8_IWmXDIik_vqfNCUWOxRoXk8NjmE338Hbcpt6A-n4zlmByfGXRXQ-QdykOWSr3tsW19N"
+  ],
+  "verification_notes": [
+    "Exact model Troya TR-516 masaüstü vantilatör confirmed via Turkish e-commerce listings."
+  ]
+}

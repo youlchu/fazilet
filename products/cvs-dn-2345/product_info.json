@@ -1,0 +1,60 @@
+{
+  "folder": "cvs-dn-2345",
+  "brand": "CVS",
+  "model": "DN 2345",
+  "name": "Elektrikli Su Isıtıcı Electric Kettle",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "cvs-dn-2345-kettle-ve-fakir-kaave-mono"
+  ],
+  "source_images": [
+    "new_images/cvs-dn-2345-kettle-ve-fakir-kaave-mono/past_cvs-dn-2345-kettle-ve-fakir-kaave-mono_00000342.jpg"
+  ],
+  "readable_evidence": [
+    "CVS",
+    "DN 2345",
+    "Elektrikli Su Isıtıcı",
+    "Electric Kettle"
+  ],
+  "issues": [
+    "The photograph depicts two separate retail products stacked together (CVS DN 2345 kettle and Fakir Kaave Mono coffee maker) rather than a single primary subject or an official manufacturer bundle."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Kapasite",
+      "value": "1.8 L",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8_2hxDNl3rvb0dXsug1T0p9dLr0dGF96a5ooqgqjITY4qtWDSrWaZK7P_rpqVMykwvG20UrYdMnvHznqUq-TSsHb5tCOz2b-2alL3QTrCACyV5v8tbzRMG5nQaYb6HQpvsYcH4LXtCNP42-NAE9byJlahs6Py87N2"
+    },
+    {
+      "label": "Güç",
+      "value": "1500 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8_2hxDNl3rvb0dXsug1T0p9dLr0dGF96a5ooqgqjITY4qtWDSrWaZK7P_rpqVMykwvG20UrYdMnvHznqUq-TSsHb5tCOz2b-2alL3QTrCACyV5v8tbzRMG5nQaYb6HQpvsYcH4LXtCNP42-NAE9byJlahs6Py87N2"
+    },
+    {
+      "label": "Otomatik Kapanma",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8_2hxDNl3rvb0dXsug1T0p9dLr0dGF96a5ooqgqjITY4qtWDSrWaZK7P_rpqVMykwvG20UrYdMnvHznqUq-TSsHb5tCOz2b-2alL3QTrCACyV5v8tbzRMG5nQaYb6HQpvsYcH4LXtCNP42-NAE9byJlahs6Py87N2"
+    },
+    {
+      "label": "Emniyet Koruması",
+      "value": "Aşırı ısınma ve susuz çalışmayı önleme koruması",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8_2hxDNl3rvb0dXsug1T0p9dLr0dGF96a5ooqgqjITY4qtWDSrWaZK7P_rpqVMykwvG20UrYdMnvHznqUq-TSsHb5tCOz2b-2alL3QTrCACyV5v8tbzRMG5nQaYb6HQpvsYcH4LXtCNP42-NAE9byJlahs6Py87N2"
+    },
+    {
+      "label": "Gösterge",
+      "value": "Su seviyesi göstergesi ve güç gösterge lambası",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8_2hxDNl3rvb0dXsug1T0p9dLr0dGF96a5ooqgqjITY4qtWDSrWaZK7P_rpqVMykwvG20UrYdMnvHznqUq-TSsHb5tCOz2b-2alL3QTrCACyV5v8tbzRMG5nQaYb6HQpvsYcH4LXtCNP42-NAE9byJlahs6Py87N2"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8_2hxDNl3rvb0dXsug1T0p9dLr0dGF96a5ooqgqjITY4qtWDSrWaZK7P_rpqVMykwvG20UrYdMnvHznqUq-TSsHb5tCOz2b-2alL3QTrCACyV5v8tbzRMG5nQaYb6HQpvsYcH4LXtCNP42-NAE9byJlahs6Py87N2",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES-SaJBcJ81fwAiToeJBBv7Uf2WH20Hufd9jKI9U4HWqgxrSIfin2dRhJj5Czx3wSr6icQL18ds1YnKoByke2p4rV2uozDd5P0KP0UA4BMoVV-iU21Fk1-vGW-PlCfEYv4UVF3qNTWkY91VDxE4ehXKnC2KIju2D5YzlUmAf826eIGaO4JrlTU1tljNwVUQUFnvQ=="
+  ],
+  "verification_notes": [
+    "The source image showed two separate products stacked together; this verification strictly pertains to the CVS DN 2345 kettle."
+  ]
+}

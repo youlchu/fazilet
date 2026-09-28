@@ -1,0 +1,56 @@
+{
+  "folder": "leader-lp-6540",
+  "brand": "LEADER",
+  "model": "LP-6540",
+  "name": "Portatif Aktif Ses Sistemi",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "leader-lp-6540-tasinabilir-ses-sistemi"
+  ],
+  "source_images": [
+    "new_images/leader-lp-6540-tasinabilir-ses-sistemi/past_leader-lp-6540-tasinabilir-ses-sistemi_00000225.jpg",
+    "new_images/leader-lp-6540-tasinabilir-ses-sistemi/past_leader-lp-6540-tasinabilir-ses-sistemi_00000268.jpg"
+  ],
+  "readable_evidence": [
+    "LEADER",
+    "LP-6540",
+    "PORTATİF AKTİF SES SİSTEMİ"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Bluetooth Versiyonu",
+      "value": "BT 5.0",
+      "source_url": "https://www.hepsiburada.com/leader-lp-6540-portatif-aktif-ses-sistemi-siyah-renkli-40-w-guclu-bluetooth-5-0-ozellikleriyle-pm-HBC00006L36O5"
+    },
+    {
+      "label": "RMS Çıkış Gücü",
+      "value": "40 W",
+      "source_url": "https://www.hepsiburada.com/leader-lp-6540-portatif-aktif-ses-sistemi-siyah-renkli-40-w-guclu-bluetooth-5-0-ozellikleriyle-pm-HBC00006L36O5"
+    },
+    {
+      "label": "PMPO Çıkış Gücü",
+      "value": "400 W",
+      "source_url": "https://www.hepsiburada.com/leader-lp-6540-portatif-aktif-ses-sistemi-siyah-renkli-40-w-guclu-bluetooth-5-0-ozellikleriyle-pm-HBC00006L36O5"
+    },
+    {
+      "label": "Bağlantı ve Oynatma Seçenekleri",
+      "value": "USB / TF Kart / AUX / FM Radyo",
+      "source_url": "https://www.hepsiburada.com/leader-lp-6540-portatif-aktif-ses-sistemi-siyah-renkli-40-w-guclu-bluetooth-5-0-ozellikleriyle-pm-HBC00006L36O5"
+    },
+    {
+      "label": "Mikrofon Girişi",
+      "value": "6,3 mm",
+      "source_url": "https://www.hepsiburada.com/leader-lp-6540-portatif-aktif-ses-sistemi-siyah-renkli-40-w-guclu-bluetooth-5-0-ozellikleriyle-pm-HBC00006L36O5"
+    }
+  ],
+  "source_urls": [
+    "https://www.hepsiburada.com/leader-lp-6540-portatif-aktif-ses-sistemi-siyah-renkli-40-w-guclu-bluetooth-5-0-ozellikleriyle-pm-HBC00006L36O5",
+    "https://www.trendyol.com/leader/lp-6540-portatif-aktif-ses-sistemi-p-766750383"
+  ],
+  "verification_notes": []
+}

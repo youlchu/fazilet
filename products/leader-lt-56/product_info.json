@@ -1,0 +1,58 @@
+{
+  "folder": "leader-lt-56",
+  "brand": "LEADER",
+  "model": "LT-56",
+  "name": "Profesyonel Traş Makinesi",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "leader-lt-56-sac-sakal-kesme-makinesi"
+  ],
+  "source_images": [
+    "new_images/leader-lt-56-sac-sakal-kesme-makinesi/past_leader-lt-56-sac-sakal-kesme-makinesi_00000393.jpg"
+  ],
+  "readable_evidence": [
+    "LEADER",
+    "LT-56",
+    "Profesyonel Traş Makinesi"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Kablosuz Kullanım Süresi",
+      "value": "180 dakika (1 saatlik şarj ile)",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl3fpMzSYB1C22EHBNF_FhF2MswkMXGtaaC67fZyZQ3K84Kk_R2qomeHC2oonri2KsmgxYavzBTqtpK2rbeRz5miQjt6ijaI-10-VOOcO1B0WdODRycLuyxixk3OM="
+    },
+    {
+      "label": "Batarya",
+      "value": "2 adet 2000 mAh Li-Ion batarya",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl3fpMzSYB1C22EHBNF_FhF2MswkMXGtaaC67fZyZQ3K84Kk_R2qomeHC2oonri2KsmgxYavzBTqtpK2rbeRz5miQjt6ijaI-10-VOOcO1B0WdODRycLuyxixk3OM="
+    },
+    {
+      "label": "Bıçak Başlıkları",
+      "value": "4 adet bıçak başlığı (3, 6, 10, 13 mm)",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl3fpMzSYB1C22EHBNF_FhF2MswkMXGtaaC67fZyZQ3K84Kk_R2qomeHC2oonri2KsmgxYavzBTqtpK2rbeRz5miQjt6ijaI-10-VOOcO1B0WdODRycLuyxixk3OM="
+    },
+    {
+      "label": "Bıçak Tipi",
+      "value": "Dar açılı keskin paslanmaz bıçak",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl3fpMzSYB1C22EHBNF_FhF2MswkMXGtaaC67fZyZQ3K84Kk_R2qomeHC2oonri2KsmgxYavzBTqtpK2rbeRz5miQjt6ijaI-10-VOOcO1B0WdODRycLuyxixk3OM="
+    },
+    {
+      "label": "Motor Tipi",
+      "value": "Pd-Ag alaşımlı güçlü motor",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl3fpMzSYB1C22EHBNF_FhF2MswkMXGtaaC67fZyZQ3K84Kk_R2qomeHC2oonri2KsmgxYavzBTqtpK2rbeRz5miQjt6ijaI-10-VOOcO1B0WdODRycLuyxixk3OM="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl3fpMzSYB1C22EHBNF_FhF2MswkMXGtaaC67fZyZQ3K84Kk_R2qomeHC2oonri2KsmgxYavzBTqtpK2rbeRz5miQjt6ijaI-10-VOOcO1B0WdODRycLuyxixk3OM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMhD0v_Mn1OwH5AdHQsGGjQehf6x3GnmFR_fAvYyuHvIGOWuTWw8fJqDNrB81SP-VgZEUY8dZGNT9LY0j-79FPPpTujQ3ncG0eIbXF6fHJt-WRVjPH_55Xn27tiR7pfMItB9MLCQ_hKoY4jCAY8_A5Iiw2sDof9ieLQHdKKo5QSBFN5p5vDGX_7jkrWanymOIFPEk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv1pW_LOWiq3P2l-xDO2kpli8Ss8cVFGODNp9AMxSZ4pbPInZqnCNG09tNNCbQ9FysXQOIQw9CxgmYeP0eWBAufSP_jo0sZXW1T6QDwIw8k5218jZwoAz3Sh6OkEf8_h3Uv8L0oy432tp8mpKwU-DPDIzPwuS9YwkRKbhc"
+  ],
+  "verification_notes": [
+    "Product verified matching the visual audit candidate Leader LT-56 Profesyonel Traş Makinesi."
+  ]
+}

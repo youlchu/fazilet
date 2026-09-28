@@ -1,0 +1,60 @@
+{
+  "folder": "goldmaster-gm-7478-siyah",
+  "brand": "Goldmaster",
+  "model": "GM-7478",
+  "name": "Porto Airfryer",
+  "variant": "Siyah",
+  "identity_confidence": "high",
+  "source_folders": [
+    "goldmaster-porto-airfryer"
+  ],
+  "source_images": [
+    "new_images/goldmaster-porto-airfryer/past_goldmaster-porto-airfryer_00000506.jpg"
+  ],
+  "readable_evidence": [
+    "Goldmaster",
+    "Porto",
+    "Air Fryer",
+    "4 Liter Capacity",
+    "1500W"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "1500 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqUT1U7Ea76FPb0QAkFH4CQX0r5nmoxKipit4BqxqIDdVkq_GJ42WJVr-gtGTqc5vgZecPJoYMRelxGuSHID4gyGznaIecYqIRM2-KZRY834t_nfl5M7dXURx32MJgYXyhJv8_nLz3gPJxOzS_JTdOk4ksKqzvXhkXEwTCRw0yepmShnDmu46vT10PUHWdHAcKDseHouUgowcYrzmL0MdXyaXdauIIQKXjW2zQtJgm6Z0TRnDRRnSSsUTH2OFKbvo="
+    },
+    {
+      "label": "Kapasite",
+      "value": "4.5 L dış hazne, 4 L pişirme sepeti",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqUT1U7Ea76FPb0QAkFH4CQX0r5nmoxKipit4BqxqIDdVkq_GJ42WJVr-gtGTqc5vgZecPJoYMRelxGuSHID4gyGznaIecYqIRM2-KZRY834t_nfl5M7dXURx32MJgYXyhJv8_nLz3gPJxOzS_JTdOk4ksKqzvXhkXEwTCRw0yepmShnDmu46vT10PUHWdHAcKDseHouUgowcYrzmL0MdXyaXdauIIQKXjW2zQtJgm6Z0TRnDRRnSSsUTH2OFKbvo="
+    },
+    {
+      "label": "Sıcaklık Ayarı",
+      "value": "40 - 200 °C",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqUT1U7Ea76FPb0QAkFH4CQX0r5nmoxKipit4BqxqIDdVkq_GJ42WJVr-gtGTqc5vgZecPJoYMRelxGuSHID4gyGznaIecYqIRM2-KZRY834t_nfl5M7dXURx32MJgYXyhJv8_nLz3gPJxOzS_JTdOk4ksKqzvXhkXEwTCRw0yepmShnDmu46vT10PUHWdHAcKDseHouUgowcYrzmL0MdXyaXdauIIQKXjW2zQtJgm6Z0TRnDRRnSSsUTH2OFKbvo="
+    },
+    {
+      "label": "Zamanlayıcı",
+      "value": "60 dakika",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqUT1U7Ea76FPb0QAkFH4CQX0r5nmoxKipit4BqxqIDdVkq_GJ42WJVr-gtGTqc5vgZecPJoYMRelxGuSHID4gyGznaIecYqIRM2-KZRY834t_nfl5M7dXURx32MJgYXyhJv8_nLz3gPJxOzS_JTdOk4ksKqzvXhkXEwTCRw0yepmShnDmu46vT10PUHWdHAcKDseHouUgowcYrzmL0MdXyaXdauIIQKXjW2zQtJgm6Z0TRnDRRnSSsUTH2OFKbvo="
+    },
+    {
+      "label": "Program Sayısı",
+      "value": "10 ön ayarlı program",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqUT1U7Ea76FPb0QAkFH4CQX0r5nmoxKipit4BqxqIDdVkq_GJ42WJVr-gtGTqc5vgZecPJoYMRelxGuSHID4gyGznaIecYqIRM2-KZRY834t_nfl5M7dXURx32MJgYXyhJv8_nLz3gPJxOzS_JTdOk4ksKqzvXhkXEwTCRw0yepmShnDmu46vT10PUHWdHAcKDseHouUgowcYrzmL0MdXyaXdauIIQKXjW2zQtJgm6Z0TRnDRRnSSsUTH2OFKbvo="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqUT1U7Ea76FPb0QAkFH4CQX0r5nmoxKipit4BqxqIDdVkq_GJ42WJVr-gtGTqc5vgZecPJoYMRelxGuSHID4gyGznaIecYqIRM2-KZRY834t_nfl5M7dXURx32MJgYXyhJv8_nLz3gPJxOzS_JTdOk4ksKqzvXhkXEwTCRw0yepmShnDmu46vT10PUHWdHAcKDseHouUgowcYrzmL0MdXyaXdauIIQKXjW2zQtJgm6Z0TRnDRRnSSsUTH2OFKbvo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD1dOeF4DHP6iSz1_ff3gU6V_NNkJQZYpUHC-8XAy1nhqPMXWCExR3KkJt4arGoTUFoST7SX_KuqsbvCq_FiVBslu3N_X4IpZw-bPUVTrgK2Q96K179qrKyTUsKo-tah1SdaO5lDQr7288boSEzpsLS1wR0NNGF78ygWKTXuOk-xTayBSy2vaeI1PMLAdmW9-W0aH_mozAVD_skARRlex7Aa3N9TilhSdV7g2OHt57Yk4zrtm-H9Jux2Mae4oz4kvDOjv9BVEOSsClHhicPg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGES4tL0FgXqS2i-O6a063m_06-30-_oUkfRBt5iXV1D4qm96rDO2x6_JnWbrn-pYrp9VYfu0vqLlOH4ISlUc-Hvkk8PtrvqZOH74LH1nZfCx1KsXuPhvkbW0T4NPlvsMyQo62Kcl2dbGCR50-X9Kd2_u-7KJv5PCMjeHJwpYaHPG5fnA=="
+  ],
+  "verification_notes": [
+    "Model code is cataloged under Goldmaster GM-7478 Porto."
+  ]
+}

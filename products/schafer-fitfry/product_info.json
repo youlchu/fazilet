@@ -1,0 +1,59 @@
+{
+  "folder": "schafer-fitfry",
+  "brand": "SCHAFER",
+  "model": "FitFry",
+  "name": "FitFry Sıcak Hava Fritözü",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "schafer-fitfry-airfryer"
+  ],
+  "source_images": [
+    "new_images/schafer-fitfry-airfryer/past_schafer-fitfry-airfryer_00000147.jpg"
+  ],
+  "readable_evidence": [
+    "SCHAFER",
+    "FitFry",
+    "Sıcak Hava Fritözü",
+    "1500W Isıtma Gücü"
+  ],
+  "issues": [
+    "The secondary product packaging on the lower shelf (Goldmaster) is upside down, partially cropped, and the exact model line is difficult to confirm with high confidence."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Isıtma Gücü",
+      "value": "1500 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIJXTwnICXfk1IFASJ9k6RnI42DOcwMohMh9Vwoi_FzBJ7i1LyUam2qqRZS0nWJEx_m9RSyH-GYC6Eihza76c08hCC5MkYPusmH8I02Z97hmoexTxhKKPh3WYCfsSECMNahhAcgpNlKyKRHKXu05WbFXGinM6dVEcorSJM0jpr"
+    },
+    {
+      "label": "Pişirme Kapasitesi",
+      "value": "3.5 L",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIJXTwnICXfk1IFASJ9k6RnI42DOcwMohMh9Vwoi_FzBJ7i1LyUam2qqRZS0nWJEx_m9RSyH-GYC6Eihza76c08hCC5MkYPusmH8I02Z97hmoexTxhKKPh3WYCfsSECMNahhAcgpNlKyKRHKXu05WbFXGinM6dVEcorSJM0jpr"
+    },
+    {
+      "label": "Otomatik Kapanma",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIJXTwnICXfk1IFASJ9k6RnI42DOcwMohMh9Vwoi_FzBJ7i1LyUam2qqRZS0nWJEx_m9RSyH-GYC6Eihza76c08hCC5MkYPusmH8I02Z97hmoexTxhKKPh3WYCfsSECMNahhAcgpNlKyKRHKXu05WbFXGinM6dVEcorSJM0jpr"
+    },
+    {
+      "label": "Zaman Kontrolü",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIJXTwnICXfk1IFASJ9k6RnI42DOcwMohMh9Vwoi_FzBJ7i1LyUam2qqRZS0nWJEx_m9RSyH-GYC6Eihza76c08hCC5MkYPusmH8I02Z97hmoexTxhKKPh3WYCfsSECMNahhAcgpNlKyKRHKXu05WbFXGinM6dVEcorSJM0jpr"
+    },
+    {
+      "label": "Temizlik",
+      "value": "Bulaşık makinesinde yıkanabilir pişirme haznesi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIJXTwnICXfk1IFASJ9k6RnI42DOcwMohMh9Vwoi_FzBJ7i1LyUam2qqRZS0nWJEx_m9RSyH-GYC6Eihza76c08hCC5MkYPusmH8I02Z97hmoexTxhKKPh3WYCfsSECMNahhAcgpNlKyKRHKXu05WbFXGinM6dVEcorSJM0jpr"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIJXTwnICXfk1IFASJ9k6RnI42DOcwMohMh9Vwoi_FzBJ7i1LyUam2qqRZS0nWJEx_m9RSyH-GYC6Eihza76c08hCC5MkYPusmH8I02Z97hmoexTxhKKPh3WYCfsSECMNahhAcgpNlKyKRHKXu05WbFXGinM6dVEcorSJM0jpr"
+  ],
+  "verification_notes": [
+    "Ürün pazarda Schafer Fit Fry veya FitFry Sıcak Hava Fritözü adıyla satılmaktadır."
+  ]
+}

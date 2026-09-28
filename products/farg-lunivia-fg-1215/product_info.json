@@ -1,0 +1,57 @@
+{
+  "folder": "farg-lunivia-fg-1215",
+  "brand": "Farg",
+  "model": "Lunivia FG-1215",
+  "name": "IPL Lazer Epilasyon Cihazı",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "lora-luniva-fg-1215-ipl-epilasyon-cihazi"
+  ],
+  "source_images": [
+    "new_images/lora-luniva-fg-1215-ipl-epilasyon-cihazi/past_lora-luniva-fg-1215-ipl-epilasyon-cihazi_00000430.jpg"
+  ],
+  "readable_evidence": [
+    "farg",
+    "IPL Lazer Epilasyon Cihazı",
+    "IPL Hair Removal",
+    "Luniva FG-1215",
+    "SOĞUTUCU BAŞLIKLI BUZ ETKİSİ"
+  ],
+  "issues": [
+    "The brand logo printed on the box is 'farg', misidentified as 'lora' in the current folder name."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Atım Sayısı",
+      "value": "999.999 atış",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbliLu2BpMDmsfN9baxFSJUFTUq1c_SuW1h5dHZdzEScG5S2LiRAjpYuwK9Ohz9YZn0TyMzylhW7u4P8nfCgD9Ut7yOPQlBfWXjpwNyYgCJw7y8K8DFbJEM_EBQeH6rHRHVbrHRuxLU62smAAvVbAOOoU0bg8n5ZTgA4YX6Z4al4B4Fs3pAPFPoLMIHMiwUFTILA1HAN-zCGtQ6qsGtT43H6uteub6kHG4fouRBe8ED2njgQcgygM3U0PGEQ=="
+    },
+    {
+      "label": "Kullanım Tipi",
+      "value": "Kablosuz şarjlı",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLZmr0L_lJ9qlnSL4UW_veB8FMxWpLZ9uGN8PgjY3iCFQwAa3FwfEHxcsrbH75VG2j45-sCSsLUPTNsbbv1b0imRagLsFGgiNMqyxOkbP3dmBnInOfuxsuqOlgubUUfz7OI63_cOAGnksnq9dSuq4tNh30wBh1YCZztyJBgImDncF5zW6APLRACQ4NsIwE4Mlxk1Hz4BHw-1Zdl-IRcIrYc5kyNN475DauLzh8XJ8hXQ1X3k-WkJspN9Uc0-JbCQ=="
+    },
+    {
+      "label": "Kademe Ayarı",
+      "value": "9 kademe",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLZmr0L_lJ9qlnSL4UW_veB8FMxWpLZ9uGN8PgjY3iCFQwAa3FwfEHxcsrbH75VG2j45-sCSsLUPTNsbbv1b0imRagLsFGgiNMqyxOkbP3dmBnInOfuxsuqOlgubUUfz7OI63_cOAGnksnq9dSuq4tNh30wBh1YCZztyJBgImDncF5zW6APLRACQ4NsIwE4Mlxk1Hz4BHw-1Zdl-IRcIrYc5kyNN475DauLzh8XJ8hXQ1X3k-WkJspN9Uc0-JbCQ=="
+    },
+    {
+      "label": "Soğutma Özelliği",
+      "value": "Buz başlıklı soğutma etkisi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_LHiGtaJIRsiDibCH7HiSQq_hfDIZHy2TWhu6kQkCZ5nHFh070LnaZd33JHZ0DvWxqWBZsg986iR0mz8sRUXbOvzpMyFVlDs-TGl8lqOs-TlF3PsKgMcLcXiKA9UdogfW_xTa7eaGXg2zljwgFaJjnwZginTIKyCiVD2GgUxYpxY9163s50gkpI4VJYLYl6R_cTCbt2RR9YniDriF85RAfCktlAYU"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_LHiGtaJIRsiDibCH7HiSQq_hfDIZHy2TWhu6kQkCZ5nHFh070LnaZd33JHZ0DvWxqWBZsg986iR0mz8sRUXbOvzpMyFVlDs-TGl8lqOs-TlF3PsKgMcLcXiKA9UdogfW_xTa7eaGXg2zljwgFaJjnwZginTIKyCiVD2GgUxYpxY9163s50gkpI4VJYLYl6R_cTCbt2RR9YniDriF85RAfCktlAYU",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLZmr0L_lJ9qlnSL4UW_veB8FMxWpLZ9uGN8PgjY3iCFQwAa3FwfEHxcsrbH75VG2j45-sCSsLUPTNsbbv1b0imRagLsFGgiNMqyxOkbP3dmBnInOfuxsuqOlgubUUfz7OI63_cOAGnksnq9dSuq4tNh30wBh1YCZztyJBgImDncF5zW6APLRACQ4NsIwE4Mlxk1Hz4BHw-1Zdl-IRcIrYc5kyNN475DauLzh8XJ8hXQ1X3k-WkJspN9Uc0-JbCQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbliLu2BpMDmsfN9baxFSJUFTUq1c_SuW1h5dHZdzEScG5S2LiRAjpYuwK9Ohz9YZn0TyMzylhW7u4P8nfCgD9Ut7yOPQlBfWXjpwNyYgCJw7y8K8DFbJEM_EBQeH6rHRHVbrHRuxLU62smAAvVbAOOoU0bg8n5ZTgA4YX6Z4al4B4Fs3pAPFPoLMIHMiwUFTILA1HAN-zCGtQ6qsGtT43H6uteub6kHG4fouRBe8ED2njgQcgygM3U0PGEQ=="
+  ],
+  "verification_notes": [
+    "Ürün perakende ve pazar yeri listelemelerinde 'Farg Lunivia FG-1215' olarak adlandırılmaktadır."
+  ]
+}

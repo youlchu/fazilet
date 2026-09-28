@@ -1,0 +1,38 @@
+{
+  "folder": "tefal-ultragliss-anti-calc-plus-2800-w-260-g",
+  "brand": "Tefal",
+  "model": "",
+  "name": "ULTRAGLISS ANTI-CALC PLUS",
+  "variant": "2800 W / 260 g",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "tefal-fv6840-ultragliss-anti-calc-plus-2800-w-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/tefal-fv6840-ultragliss-anti-calc-plus-2800-w-buharli-utu/past_tefal-fv6840-ultragliss-anti-calc-plus-2800-w-buharli-utu_00000083.jpg"
+  ],
+  "readable_evidence": [
+    "Tefal",
+    "ULTRAGLISS ANTI-CALC PLUS",
+    "QUICK & EFFICIENT",
+    "CALC COLLECTOR",
+    "2800",
+    "50",
+    "260",
+    "AUTO OFF"
+  ],
+  "issues": [
+    "The specific model code 'FV6840' is not visible on the front of the packaging; only the product line name 'ULTRAGLISS ANTI-CALC PLUS' and specs (2800 W, 50 g/min steam, 260 g/min boost) are legible."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwrM0ERs-GoKkLb8xafpNQ-qKy9_DtIhBE0J3SHFlZNrezueDwX-ak1v1Iv_Zd7I14eoOdOQ4pucCZHNgQvI7tecmMb8DnZLK1D7UqcNCqI70PYSe6AJZUG0jCTJSfRYJEok_9EWSlFXpgib_BK7LvhucJJZqbLoMZgtBnFnY8CzXz-lxGMYuU9h2vfBj__oZyLDpz53jJ8h9o6Mnk8tFwdtxAwZIQKNQjLzNZ7jktykDdGwDJpoAsqxA="
+  ],
+  "verification_notes": [
+    "The packaging displays the line name 'ULTRAGLISS ANTI-CALC PLUS' and technical specifications (2800 W, 50 g/min continuous steam, 260 g/min steam boost, Auto-Off, Calc Collector).",
+    "Because multiple reference models share these exact line specifications (e.g., FV6840, FV6832) and the specific model code is not visible, the exact alphanumeric model cannot be confirmed with certainty. Per instructions, the verdict remains unverified."
+  ]
+}

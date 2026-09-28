@@ -1,0 +1,35 @@
+{
+  "folder": "philips-3300-series-lattego",
+  "brand": "PHILIPS",
+  "model": "3300 series",
+  "name": "Fully automatic espresso machine with LatteGo",
+  "variant": "LatteGo",
+  "identity_confidence": "high",
+  "source_folders": [
+    "philips-3300-series-lattego-tam-otomatik-espresso-makinesi"
+  ],
+  "source_images": [
+    "new_images/philips-3300-series-lattego-tam-otomatik-espresso-makinesi/past_philips-3300-series-lattego-tam-otomatik-espresso-makinesi_00000267.jpg",
+    "new_images/philips-3300-series-lattego-tam-otomatik-espresso-makinesi/past_philips-3300-series-lattego-tam-otomatik-espresso-makinesi_00000275.jpg"
+  ],
+  "readable_evidence": [
+    "PHILIPS",
+    "3300 series",
+    "Fully automatic espresso machine with LatteGo",
+    "6x"
+  ],
+  "issues": [
+    "Shelf photo past_philips-3300-series-lattego-tam-otomatik-espresso-makinesi_00000267.jpg displays both a Philips 2200 series machine and a Philips 3300 series machine alongside other retail merchandise."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "medium",
+  "features": [],
+  "source_urls": [
+    "https://www.philips.com.tr/c-p/EP3347_90/3300-serisi-tam-otomatik-espresso-makinesi"
+  ],
+  "verification_notes": [
+    "The packaging confirms a Philips 3300 Series LatteGo fully automatic espresso machine offering 6 drink selections.",
+    "Multiple sub-model variants share this packaging identification (such as EP3347/90, EP3341/50, and EP3343/50); since the specific alphanumeric product code is not discernable from the packaging text, the exact sub-model remains unverified."
+  ]
+}

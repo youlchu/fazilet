@@ -1,0 +1,59 @@
+{
+  "folder": "fakir-be6020-3200-w",
+  "brand": "Fakir",
+  "model": "BE6020",
+  "name": "INTENSE",
+  "variant": "3200 W",
+  "identity_confidence": "high",
+  "source_folders": [
+    "fakir-intense-be6020-3200-w-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/fakir-intense-be6020-3200-w-buharli-utu/past_fakir-intense-be6020-3200-w-buharli-utu_00000082.jpg"
+  ],
+  "readable_evidence": [
+    "Fakir HAUSGERÄTE",
+    "INTENSE",
+    "BE6020",
+    "3200 W POWER",
+    "Steam Iron"
+  ],
+  "issues": [
+    "Adjacent boxes on the right show '2200 W POWER' steam irons, but brand and model numbers are cropped out."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "3200 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGajipD1nE6Iq8UW5-Y4uzMA24zAgE9uXy6ZtRLKdYpqy0elpJQ5KhqcWoyiAXm6aftOvUZ8ZRs0iRgo931GqFF1PetIMTnPBMEScG6OXprUbySmIB4kAvckg_1jmk-SBgjKeLVZh0X6w0="
+    },
+    {
+      "label": "Su Tankı Kapasitesi",
+      "value": "450 ml",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGajipD1nE6Iq8UW5-Y4uzMA24zAgE9uXy6ZtRLKdYpqy0elpJQ5KhqcWoyiAXm6aftOvUZ8ZRs0iRgo931GqFF1PetIMTnPBMEScG6OXprUbySmIB4kAvckg_1jmk-SBgjKeLVZh0X6w0="
+    },
+    {
+      "label": "Buhar Çıkışı",
+      "value": "25-35 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGajipD1nE6Iq8UW5-Y4uzMA24zAgE9uXy6ZtRLKdYpqy0elpJQ5KhqcWoyiAXm6aftOvUZ8ZRs0iRgo931GqFF1PetIMTnPBMEScG6OXprUbySmIB4kAvckg_1jmk-SBgjKeLVZh0X6w0="
+    },
+    {
+      "label": "Kablo",
+      "value": "1,9 m (360° Dönebilir)",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGajipD1nE6Iq8UW5-Y4uzMA24zAgE9uXy6ZtRLKdYpqy0elpJQ5KhqcWoyiAXm6aftOvUZ8ZRs0iRgo931GqFF1PetIMTnPBMEScG6OXprUbySmIB4kAvckg_1jmk-SBgjKeLVZh0X6w0="
+    },
+    {
+      "label": "Dikey Buhar Çıkışı",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcbboXlE4Q8e6V5oQaPDZ5h79XzCs9SrtHzhzbLq3J_pZaPehsOIUj6DWsz3Y6drUvmydGM2j_bK6Vkf7_lxNv69XEqaUfXX2dSi3acjZ9zF7flddYG76Bq95vOKGk1atcVujUc1k9jdMSONU4XvLCzu05aGrSIOPgpogq_-YQ8StH9mvN2tcn"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGajipD1nE6Iq8UW5-Y4uzMA24zAgE9uXy6ZtRLKdYpqy0elpJQ5KhqcWoyiAXm6aftOvUZ8ZRs0iRgo931GqFF1PetIMTnPBMEScG6OXprUbySmIB4kAvckg_1jmk-SBgjKeLVZh0X6w0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcbboXlE4Q8e6V5oQaPDZ5h79XzCs9SrtHzhzbLq3J_pZaPehsOIUj6DWsz3Y6drUvmydGM2j_bK6Vkf7_lxNv69XEqaUfXX2dSi3acjZ9zF7flddYG76Bq95vOKGk1atcVujUc1k9jdMSONU4XvLCzu05aGrSIOPgpogq_-YQ8StH9mvN2tcn"
+  ],
+  "verification_notes": []
+}

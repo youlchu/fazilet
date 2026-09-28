@@ -1,0 +1,66 @@
+{
+  "folder": "sunday-climator-145-10-litre-130w",
+  "brand": "Sunday",
+  "model": "Climator 145",
+  "name": "Hava Soğutucu Air Cooler",
+  "variant": "10 Litre / 130W",
+  "identity_confidence": "high",
+  "source_folders": [
+    "sunday-hava-sogutucu"
+  ],
+  "source_images": [
+    "new_images/sunday-hava-sogutucu/past_sunday-hava-sogutucu_00000286.jpg",
+    "new_images/sunday-hava-sogutucu/past_sunday-hava-sogutucu_00000423.jpg"
+  ],
+  "readable_evidence": [
+    "sunday",
+    "Hava Soğutucu",
+    "Air Cooler",
+    "Serin ve konforlu kalın!",
+    "Düşük Güç Sarfiyatı",
+    "10 Litre kapasiteli su tankı",
+    "AC 220-240V~ 50Hz 130W",
+    "Climator 145"
+  ],
+  "issues": [
+    "The folder contains multiple distinct primary products: Sunday Climator 145 air cooler in images 00000286 and 00000423, and a different air cooler model in image 00000422.",
+    "The model badge text below 'sunday' on the unit in image 00000422 is blurry and partially illegible (appears to be Climator/Klimatör 100).",
+    "An Amboss Enio pressure cooker box is partially visible at the top of image 00000423 as a secondary object."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Hız Kademesi",
+      "value": "3 kademeli (Yavaş / Orta / Yüksek)",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN9qfpjKbj45tdUisiNcxtK18htwZhf05OiYCdS5gC7TaywKWrEDL4w5xb-FftlCziAUgVTX9WfvF0fJTvTTdtFq8_2pXrimJpwSi1MzpKwl-SclqxZS9QFZw2ojvKjG_dRNqPuJXOXF2Z6ehB2fKkEinMw7X-yAak7gLkOLJ1YF-aVFUUwCRTLbmK9iGX3UWxUDKEq9JvaFVhmg=="
+    },
+    {
+      "label": "Tank Kapasitesi",
+      "value": "10 L",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN9qfpjKbj45tdUisiNcxtK18htwZhf05OiYCdS5gC7TaywKWrEDL4w5xb-FftlCziAUgVTX9WfvF0fJTvTTdtFq8_2pXrimJpwSi1MzpKwl-SclqxZS9QFZw2ojvKjG_dRNqPuJXOXF2Z6ehB2fKkEinMw7X-yAak7gLkOLJ1YF-aVFUUwCRTLbmK9iGX3UWxUDKEq9JvaFVhmg=="
+    },
+    {
+      "label": "Güç",
+      "value": "130 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN9qfpjKbj45tdUisiNcxtK18htwZhf05OiYCdS5gC7TaywKWrEDL4w5xb-FftlCziAUgVTX9WfvF0fJTvTTdtFq8_2pXrimJpwSi1MzpKwl-SclqxZS9QFZw2ojvKjG_dRNqPuJXOXF2Z6ehB2fKkEinMw7X-yAak7gLkOLJ1YF-aVFUUwCRTLbmK9iGX3UWxUDKEq9JvaFVhmg=="
+    },
+    {
+      "label": "Zaman Ayarı",
+      "value": "24 Saat",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN9qfpjKbj45tdUisiNcxtK18htwZhf05OiYCdS5gC7TaywKWrEDL4w5xb-FftlCziAUgVTX9WfvF0fJTvTTdtFq8_2pXrimJpwSi1MzpKwl-SclqxZS9QFZw2ojvKjG_dRNqPuJXOXF2Z6ehB2fKkEinMw7X-yAak7gLkOLJ1YF-aVFUUwCRTLbmK9iGX3UWxUDKEq9JvaFVhmg=="
+    },
+    {
+      "label": "Ses Seviyesi",
+      "value": "43 desibel",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN9qfpjKbj45tdUisiNcxtK18htwZhf05OiYCdS5gC7TaywKWrEDL4w5xb-FftlCziAUgVTX9WfvF0fJTvTTdtFq8_2pXrimJpwSi1MzpKwl-SclqxZS9QFZw2ojvKjG_dRNqPuJXOXF2Z6ehB2fKkEinMw7X-yAak7gLkOLJ1YF-aVFUUwCRTLbmK9iGX3UWxUDKEq9JvaFVhmg=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN9qfpjKbj45tdUisiNcxtK18htwZhf05OiYCdS5gC7TaywKWrEDL4w5xb-FftlCziAUgVTX9WfvF0fJTvTTdtFq8_2pXrimJpwSi1MzpKwl-SclqxZS9QFZw2ojvKjG_dRNqPuJXOXF2Z6ehB2fKkEinMw7X-yAak7gLkOLJ1YF-aVFUUwCRTLbmK9iGX3UWxUDKEq9JvaFVhmg=="
+  ],
+  "verification_notes": [
+    "The product is widely listed by Turkish retailers under both 'Sunday Climator 145' and 'Sunday Climatör 145 Hava Soğutucu'."
+  ]
+}

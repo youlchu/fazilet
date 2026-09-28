@@ -1,0 +1,58 @@
+{
+  "folder": "king-kbu701-karina-kirmizi",
+  "brand": "King",
+  "model": "KBÜ701 Karina",
+  "name": "KBÜ701 Karina Buharlı Ütü",
+  "variant": "Kırmızı",
+  "identity_confidence": "high",
+  "source_folders": [
+    "king-larsen-karina-osborn-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/king-larsen-karina-osborn-buharli-utu/past_king-larsen-karina-osborn-buharli-utu_00000069.jpg"
+  ],
+  "readable_evidence": [
+    "king",
+    "KARİNA",
+    "BUHARLI ÜTÜ"
+  ],
+  "issues": [
+    "The image displays three distinct boxed products stacked together (King Larsen, King Karina, King Osborn steam irons); no single product is the exclusive primary subject."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "2600 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV1lugjqdmA91RmXGeDoWxXBH_SHtFF5jQGOWAVkA_N4zRZskbRYlMNUw8XB4h5ugU9b0WXfodqLzBdfA37PhQsWrPd7o255i8eNRelRZ99D9GixUF5MQXVf3zLg-8251drY2mmZt2rbGg-zI5SNTc"
+    },
+    {
+      "label": "Taban Türü",
+      "value": "Seramik",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV1lugjqdmA91RmXGeDoWxXBH_SHtFF5jQGOWAVkA_N4zRZskbRYlMNUw8XB4h5ugU9b0WXfodqLzBdfA37PhQsWrPd7o255i8eNRelRZ99D9GixUF5MQXVf3zLg-8251drY2mmZt2rbGg-zI5SNTc"
+    },
+    {
+      "label": "Su Tankı Kapasitesi",
+      "value": "285 ml",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV1lugjqdmA91RmXGeDoWxXBH_SHtFF5jQGOWAVkA_N4zRZskbRYlMNUw8XB4h5ugU9b0WXfodqLzBdfA37PhQsWrPd7o255i8eNRelRZ99D9GixUF5MQXVf3zLg-8251drY2mmZt2rbGg-zI5SNTc"
+    },
+    {
+      "label": "Sürekli Buhar",
+      "value": "40 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV1lugjqdmA91RmXGeDoWxXBH_SHtFF5jQGOWAVkA_N4zRZskbRYlMNUw8XB4h5ugU9b0WXfodqLzBdfA37PhQsWrPd7o255i8eNRelRZ99D9GixUF5MQXVf3zLg-8251drY2mmZt2rbGg-zI5SNTc"
+    },
+    {
+      "label": "Şok Buhar",
+      "value": "190 g",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV1lugjqdmA91RmXGeDoWxXBH_SHtFF5jQGOWAVkA_N4zRZskbRYlMNUw8XB4h5ugU9b0WXfodqLzBdfA37PhQsWrPd7o255i8eNRelRZ99D9GixUF5MQXVf3zLg-8251drY2mmZt2rbGg-zI5SNTc"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV1lugjqdmA91RmXGeDoWxXBH_SHtFF5jQGOWAVkA_N4zRZskbRYlMNUw8XB4h5ugU9b0WXfodqLzBdfA37PhQsWrPd7o255i8eNRelRZ99D9GixUF5MQXVf3zLg-8251drY2mmZt2rbGg-zI5SNTc"
+  ],
+  "verification_notes": [
+    "Üretici model kodu KBÜ701 olarak doğrulanarak model bilgisi güncellenmiştir."
+  ]
+}

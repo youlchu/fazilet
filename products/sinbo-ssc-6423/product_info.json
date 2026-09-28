@@ -1,0 +1,61 @@
+{
+  "folder": "sinbo-ssc-6423",
+  "brand": "Sinbo",
+  "model": "SSC-6423",
+  "name": "Çok Fonksiyonlu Buharlı Temizlik Makinesi",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "sinbo-ssc-6423-buharli-temizleyici"
+  ],
+  "source_images": [
+    "new_images/sinbo-ssc-6423-buharli-temizleyici/past_sinbo-ssc-6423-buharli-temizleyici_00000498.jpg"
+  ],
+  "readable_evidence": [
+    "sinbo",
+    "SSC-6423",
+    "Steam Cleaner",
+    "Deep cleaning with steam power!",
+    "1200 ml Capacity",
+    "4.5 Bar Steam Power"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Kapasite",
+      "value": "1.2 L",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGULKq-LLmSLyWzk4DZNuY_qd-YuiN8Ye6PwOpL59Ppn23jSrt7TWheTK8mGAi2yvYCcvTcCe9N4nteStkHUCzeCpJJ6Ld-O5BXTSxxklsHWKaB1X2pDz8J3kor-KNsltZJo3oOgfQ8uDwi7xfQet_G3XXulKw2ifncE3hvA5tQ848ExIQ6iigsnWRJ2qpkKIv9tcvG9oU-6UHTzYL0qIySXlczTD5KYthe48PeS7Q60-yTfc666Se_pur3gTCttQ=="
+    },
+    {
+      "label": "Buhar Basıncı",
+      "value": "1.5 - 4.5 bar",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGULKq-LLmSLyWzk4DZNuY_qd-YuiN8Ye6PwOpL59Ppn23jSrt7TWheTK8mGAi2yvYCcvTcCe9N4nteStkHUCzeCpJJ6Ld-O5BXTSxxklsHWKaB1X2pDz8J3kor-KNsltZJo3oOgfQ8uDwi7xfQet_G3XXulKw2ifncE3hvA5tQ848ExIQ6iigsnWRJ2qpkKIv9tcvG9oU-6UHTzYL0qIySXlczTD5KYthe48PeS7Q60-yTfc666Se_pur3gTCttQ=="
+    },
+    {
+      "label": "Isınma Süresi",
+      "value": "6 dakika",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGULKq-LLmSLyWzk4DZNuY_qd-YuiN8Ye6PwOpL59Ppn23jSrt7TWheTK8mGAi2yvYCcvTcCe9N4nteStkHUCzeCpJJ6Ld-O5BXTSxxklsHWKaB1X2pDz8J3kor-KNsltZJo3oOgfQ8uDwi7xfQet_G3XXulKw2ifncE3hvA5tQ848ExIQ6iigsnWRJ2qpkKIv9tcvG9oU-6UHTzYL0qIySXlczTD5KYthe48PeS7Q60-yTfc666Se_pur3gTCttQ=="
+    },
+    {
+      "label": "Kullanım Süresi",
+      "value": "20 dakika",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGULKq-LLmSLyWzk4DZNuY_qd-YuiN8Ye6PwOpL59Ppn23jSrt7TWheTK8mGAi2yvYCcvTcCe9N4nteStkHUCzeCpJJ6Ld-O5BXTSxxklsHWKaB1X2pDz8J3kor-KNsltZJo3oOgfQ8uDwi7xfQet_G3XXulKw2ifncE3hvA5tQ848ExIQ6iigsnWRJ2qpkKIv9tcvG9oU-6UHTzYL0qIySXlczTD5KYthe48PeS7Q60-yTfc666Se_pur3gTCttQ=="
+    },
+    {
+      "label": "Buhar Miktarı",
+      "value": "Yaklaşık 40 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg65AtMMffW10ndZACxpSpdadQ9fmOdy8SdhRVLh1q4J-zamalp6UqzE2yYUdRyKNPr0D2TDqbFrsC3iOyMCRZp6QOAY5o8jpkv3A0AyZiNUEa_PD8enCDv7hHgOh2i2AQ3Z4lbhISib05duR_eOXx6xuF_D7K5SbMxF-4Z8WRRsXWt5l9M4VIg_BNqgl-LKaNJIw="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGULKq-LLmSLyWzk4DZNuY_qd-YuiN8Ye6PwOpL59Ppn23jSrt7TWheTK8mGAi2yvYCcvTcCe9N4nteStkHUCzeCpJJ6Ld-O5BXTSxxklsHWKaB1X2pDz8J3kor-KNsltZJo3oOgfQ8uDwi7xfQet_G3XXulKw2ifncE3hvA5tQ848ExIQ6iigsnWRJ2qpkKIv9tcvG9oU-6UHTzYL0qIySXlczTD5KYthe48PeS7Q60-yTfc666Se_pur3gTCttQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg65AtMMffW10ndZACxpSpdadQ9fmOdy8SdhRVLh1q4J-zamalp6UqzE2yYUdRyKNPr0D2TDqbFrsC3iOyMCRZp6QOAY5o8jpkv3A0AyZiNUEa_PD8enCDv7hHgOh2i2AQ3Z4lbhISib05duR_eOXx6xuF_D7K5SbMxF-4Z8WRRsXWt5l9M4VIg_BNqgl-LKaNJIw="
+  ],
+  "verification_notes": [
+    "The product packaging displays the English title 'Steam Cleaner' along with key specs '1200 ml Capacity' and '4.5 Bar Steam Power'.",
+    "In the Turkish market, the product is primarily marketed as 'Sinbo SSC-6423 Çok Fonksiyonlu Buharlı Temizlik Makinesi' or 'Sinbo SSC-6423 Buharlı Temizleyici'."
+  ]
+}

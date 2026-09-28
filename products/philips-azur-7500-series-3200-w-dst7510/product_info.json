@@ -1,0 +1,59 @@
+{
+  "folder": "philips-azur-7500-series-3200-w-dst7510",
+  "brand": "Philips",
+  "model": "Azur 7500 Series",
+  "name": "Azur 7500 Series",
+  "variant": "3200 W / DST7510",
+  "identity_confidence": "high",
+  "source_folders": [
+    "tefal-fv5770-fv9e50-fv8042-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/tefal-fv5770-fv9e50-fv8042-buharli-utu/past_tefal-fv5770-fv9e50-fv8042-buharli-utu_00000087.jpg"
+  ],
+  "readable_evidence": [
+    "PHILIPS Azur 7500 Series",
+    "3200 W of pure power",
+    "PHILIPS DST 7510 UTU"
+  ],
+  "issues": [
+    "Storage shelf photo behind a payment counter containing multiple iron models; no single deliberate primary subject.",
+    "Alphanumeric model codes (e.g. FV8042, FV5770, FV9E50) mentioned in folder name are not legibly confirmed on the Tefal boxes beyond the line names 'PUREGLISS' and 'ULTIMATE PURE'."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "3200 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCXgYj4qoqTtWfBdoicmFNdxAszfhcUetEub9XcyZtQWuDxd9ER_lTwtyu6WVYWt2mt9qlHzBGl-TRyDrAuKu2zXb5HeixdtOtoFJygklutJq6Jn881jrC9hIFBQMjLgu5sOrQMsg2Kwkv_DT9mfdyTqR-FQ14fNg="
+    },
+    {
+      "label": "Sürekli Buhar Çıkışı",
+      "value": "55 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCXgYj4qoqTtWfBdoicmFNdxAszfhcUetEub9XcyZtQWuDxd9ER_lTwtyu6WVYWt2mt9qlHzBGl-TRyDrAuKu2zXb5HeixdtOtoFJygklutJq6Jn881jrC9hIFBQMjLgu5sOrQMsg2Kwkv_DT9mfdyTqR-FQ14fNg="
+    },
+    {
+      "label": "Şok Buhar",
+      "value": "260 g",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCXgYj4qoqTtWfBdoicmFNdxAszfhcUetEub9XcyZtQWuDxd9ER_lTwtyu6WVYWt2mt9qlHzBGl-TRyDrAuKu2zXb5HeixdtOtoFJygklutJq6Jn881jrC9hIFBQMjLgu5sOrQMsg2Kwkv_DT9mfdyTqR-FQ14fNg="
+    },
+    {
+      "label": "Taban Tipi",
+      "value": "SteamGlide Elite",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCXgYj4qoqTtWfBdoicmFNdxAszfhcUetEub9XcyZtQWuDxd9ER_lTwtyu6WVYWt2mt9qlHzBGl-TRyDrAuKu2zXb5HeixdtOtoFJygklutJq6Jn881jrC9hIFBQMjLgu5sOrQMsg2Kwkv_DT9mfdyTqR-FQ14fNg="
+    },
+    {
+      "label": "Kireç Yönetimi",
+      "value": "Hızlı Kireç Çözme",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCXgYj4qoqTtWfBdoicmFNdxAszfhcUetEub9XcyZtQWuDxd9ER_lTwtyu6WVYWt2mt9qlHzBGl-TRyDrAuKu2zXb5HeixdtOtoFJygklutJq6Jn881jrC9hIFBQMjLgu5sOrQMsg2Kwkv_DT9mfdyTqR-FQ14fNg="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCXgYj4qoqTtWfBdoicmFNdxAszfhcUetEub9XcyZtQWuDxd9ER_lTwtyu6WVYWt2mt9qlHzBGl-TRyDrAuKu2zXb5HeixdtOtoFJygklutJq6Jn881jrC9hIFBQMjLgu5sOrQMsg2Kwkv_DT9mfdyTqR-FQ14fNg="
+  ],
+  "verification_notes": [
+    "Ürünün üretici nezdindeki tam model kodu DST7510/80 olarak geçmektedir."
+  ]
+}

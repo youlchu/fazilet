@@ -1,0 +1,61 @@
+{
+  "folder": "stilevs-tropix-pro",
+  "brand": "Stilevs",
+  "model": "Tropix Pro",
+  "name": "Kişisel Blender",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "stilevs-tropik-pro-600-w-kisisel-blender"
+  ],
+  "source_images": [
+    "new_images/stilevs-tropik-pro-600-w-kisisel-blender/past_stilevs-tropik-pro-600-w-kisisel-blender_00000302.jpg"
+  ],
+  "readable_evidence": [
+    "stilevs",
+    "Kişisel Blender",
+    "Personal Blender",
+    "TROPIK PRO",
+    "600 WATT"
+  ],
+  "issues": [
+    "The CVS product model number at the bottom shelf is unreadable due to crop and blur."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "600 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe4XWmZQx2vhrfx5_YFUoO6BxDz8fU5hFa_zU-Q-ir25Bb4msxE4zLloLnLkx_emCxMQPxoGutO_HPlQGupmO2MmJ0ZpRzMbeweDmwjf-kP3E56RxsFYgef1VcejwchZRqDfb26d0Ya-WdcX1aFixsPoGBKdtZ82TErZ7MlByyhO35"
+    },
+    {
+      "label": "Bıçak",
+      "value": "Paslanmaz çelik blender ve öğütme bıçağı",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe4XWmZQx2vhrfx5_YFUoO6BxDz8fU5hFa_zU-Q-ir25Bb4msxE4zLloLnLkx_emCxMQPxoGutO_HPlQGupmO2MmJ0ZpRzMbeweDmwjf-kP3E56RxsFYgef1VcejwchZRqDfb26d0Ya-WdcX1aFixsPoGBKdtZ82TErZ7MlByyhO35"
+    },
+    {
+      "label": "Buz Kırma Özelliği",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe4XWmZQx2vhrfx5_YFUoO6BxDz8fU5hFa_zU-Q-ir25Bb4msxE4zLloLnLkx_emCxMQPxoGutO_HPlQGupmO2MmJ0ZpRzMbeweDmwjf-kP3E56RxsFYgef1VcejwchZRqDfb26d0Ya-WdcX1aFixsPoGBKdtZ82TErZ7MlByyhO35"
+    },
+    {
+      "label": "Karıştırma Şişeleri",
+      "value": "570 ml ve 400 ml kapasiteli BPA içermeyen şişeler",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe4XWmZQx2vhrfx5_YFUoO6BxDz8fU5hFa_zU-Q-ir25Bb4msxE4zLloLnLkx_emCxMQPxoGutO_HPlQGupmO2MmJ0ZpRzMbeweDmwjf-kP3E56RxsFYgef1VcejwchZRqDfb26d0Ya-WdcX1aFixsPoGBKdtZ82TErZ7MlByyhO35"
+    },
+    {
+      "label": "Sürahi Blender",
+      "value": "1200 ml BPA Free blender sürahisi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe4XWmZQx2vhrfx5_YFUoO6BxDz8fU5hFa_zU-Q-ir25Bb4msxE4zLloLnLkx_emCxMQPxoGutO_HPlQGupmO2MmJ0ZpRzMbeweDmwjf-kP3E56RxsFYgef1VcejwchZRqDfb26d0Ya-WdcX1aFixsPoGBKdtZ82TErZ7MlByyhO35"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe4XWmZQx2vhrfx5_YFUoO6BxDz8fU5hFa_zU-Q-ir25Bb4msxE4zLloLnLkx_emCxMQPxoGutO_HPlQGupmO2MmJ0ZpRzMbeweDmwjf-kP3E56RxsFYgef1VcejwchZRqDfb26d0Ya-WdcX1aFixsPoGBKdtZ82TErZ7MlByyhO35",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi09Vi3HiJ8QWektN06RpH46bbuMlPzAccBCH9VbEyDwGuE_QO2TSCAmFKvGnxnUz2kq6Ki2plowM6ZIhwPN3xgj5l25ZN8a12mnROLQwka8WAIj4pRnyQOT7MJTpJmF3dRBqoTcX6Ae839KXGKema_eYojjXtDkbd7LUalUlu08bK"
+  ],
+  "verification_notes": [
+    "Candidate model 'TROPIK PRO' was corrected to the official product name 'Tropix Pro'."
+  ]
+}

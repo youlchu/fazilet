@@ -1,0 +1,57 @@
+{
+  "folder": "cvs-dn-1770-2800-watt",
+  "brand": "CVS",
+  "model": "DN 1770",
+  "name": "Venüs Seramik Tabanlı Buharlı Ütü",
+  "variant": "2800 WATT",
+  "identity_confidence": "high",
+  "source_folders": [
+    "cvs-dn-1770-venus-2800-w-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/cvs-dn-1770-venus-2800-w-buharli-utu/past_cvs-dn-1770-venus-2800-w-buharli-utu_00000266.jpg"
+  ],
+  "readable_evidence": [
+    "CVS®",
+    "Venüs",
+    "Seramik Tabanlı Buharlı Ütü",
+    "2800 WATT",
+    "DN 1770"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "2800 Watt",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjR0MzwPH5fd4I27zl0AXicuFLl_zRgaRXgXtda1iD4yIaAV9BDegSCar4zas03LmS1rgmlLjnN5hjsICb_6S7ML1gPmD1cQwtxphkwWX3NL2yUpPPSMUu60sYGXVwS2gx_9UhC1f_YRd-fgvFyaJaQcak6Uxaeh98O3f7N_dQjdjsrO1A9U1Gv1YegONbYwjNxeGl74cLDRdIMMkZsMOMkOtv"
+    },
+    {
+      "label": "Taban",
+      "value": "Seramik",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjR0MzwPH5fd4I27zl0AXicuFLl_zRgaRXgXtda1iD4yIaAV9BDegSCar4zas03LmS1rgmlLjnN5hjsICb_6S7ML1gPmD1cQwtxphkwWX3NL2yUpPPSMUu60sYGXVwS2gx_9UhC1f_YRd-fgvFyaJaQcak6Uxaeh98O3f7N_dQjdjsrO1A9U1Gv1YegONbYwjNxeGl74cLDRdIMMkZsMOMkOtv"
+    },
+    {
+      "label": "Su Tankı Kapasitesi",
+      "value": "300 ml",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjR0MzwPH5fd4I27zl0AXicuFLl_zRgaRXgXtda1iD4yIaAV9BDegSCar4zas03LmS1rgmlLjnN5hjsICb_6S7ML1gPmD1cQwtxphkwWX3NL2yUpPPSMUu60sYGXVwS2gx_9UhC1f_YRd-fgvFyaJaQcak6Uxaeh98O3f7N_dQjdjsrO1A9U1Gv1YegONbYwjNxeGl74cLDRdIMMkZsMOMkOtv"
+    },
+    {
+      "label": "Damlama Önleme",
+      "value": "Var (Anti-drip)",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjR0MzwPH5fd4I27zl0AXicuFLl_zRgaRXgXtda1iD4yIaAV9BDegSCar4zas03LmS1rgmlLjnN5hjsICb_6S7ML1gPmD1cQwtxphkwWX3NL2yUpPPSMUu60sYGXVwS2gx_9UhC1f_YRd-fgvFyaJaQcak6Uxaeh98O3f7N_dQjdjsrO1A9U1Gv1YegONbYwjNxeGl74cLDRdIMMkZsMOMkOtv"
+    },
+    {
+      "label": "Kireç Önleme",
+      "value": "Var (Anti-calc)",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjR0MzwPH5fd4I27zl0AXicuFLl_zRgaRXgXtda1iD4yIaAV9BDegSCar4zas03LmS1rgmlLjnN5hjsICb_6S7ML1gPmD1cQwtxphkwWX3NL2yUpPPSMUu60sYGXVwS2gx_9UhC1f_YRd-fgvFyaJaQcak6Uxaeh98O3f7N_dQjdjsrO1A9U1Gv1YegONbYwjNxeGl74cLDRdIMMkZsMOMkOtv"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjR0MzwPH5fd4I27zl0AXicuFLl_zRgaRXgXtda1iD4yIaAV9BDegSCar4zas03LmS1rgmlLjnN5hjsICb_6S7ML1gPmD1cQwtxphkwWX3NL2yUpPPSMUu60sYGXVwS2gx_9UhC1f_YRd-fgvFyaJaQcak6Uxaeh98O3f7N_dQjdjsrO1A9U1Gv1YegONbYwjNxeGl74cLDRdIMMkZsMOMkOtv",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLf1BgTnK-EHqugGwQH6Dj3_FwrHKy2ATG9bLyrf9TslrCR8t9Ih1SP_qrL3blncLD5DR2byt531t4qARDPdh1PUi0ypYyongjvM0H3Da7vjkBvNul_gZeJ5HEdYGnKOLsSNhijm3tRs90pxRVdG14MGNZhaSpTN5RTTjpPQF3CgJGvlmmtXVlYw=="
+  ],
+  "verification_notes": []
+}

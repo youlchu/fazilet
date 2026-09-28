@@ -1,0 +1,63 @@
+{
+  "folder": "leader-lt-13",
+  "brand": "LEADER",
+  "model": "LT-13",
+  "name": "13 in 1 Kişisel Tıraş Bakım Seti",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "leader-fm304-sac-kurutma-makinesi-ve-lt13-13-in-1-bakim-seti"
+  ],
+  "source_images": [
+    "new_images/leader-fm304-sac-kurutma-makinesi-ve-lt13-13-in-1-bakim-seti/past_leader-fm304-sac-kurutma-makinesi-ve-lt13-13-in-1-bakim-seti_00000206.jpg"
+  ],
+  "readable_evidence": [
+    "LEADER",
+    "13 IN 1",
+    "Kişisel Traş Bakım Seti",
+    "LT13"
+  ],
+  "issues": [
+    "The image displays two separate sellable products photographed together rather than a single unified retail package.",
+    "Brand and model 'FM304' mentioned in the folder name are not visible anywhere on the hair dryer packaging.",
+    "Background carton displays markings for LP-8100, which serves only as a surface/background."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Motor Hızı",
+      "value": "7000 RPM",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4VIbQScyJo-LTYB2Zx4s6IyJ8RY7TyRC2AJXcu0Fgzm32-ZQ1uAsf_Iu8CFyhGC6uBfvVuWXuSdL6Y1qL6QzBhKqrCRVyEbD3XbZtEQX0J7fO282XxCw22AJmG8VPiWB58w4KcNnfvSh4DpguuRdfvkgAb4pD32kpVydbbw1c-VzQaQ=="
+    },
+    {
+      "label": "Batarya",
+      "value": "1200 mAh Li-ion",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4VIbQScyJo-LTYB2Zx4s6IyJ8RY7TyRC2AJXcu0Fgzm32-ZQ1uAsf_Iu8CFyhGC6uBfvVuWXuSdL6Y1qL6QzBhKqrCRVyEbD3XbZtEQX0J7fO282XxCw22AJmG8VPiWB58w4KcNnfvSh4DpguuRdfvkgAb4pD32kpVydbbw1c-VzQaQ=="
+    },
+    {
+      "label": "Çalışma Süresi",
+      "value": "200 dakika kablosuz kullanım",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4VIbQScyJo-LTYB2Zx4s6IyJ8RY7TyRC2AJXcu0Fgzm32-ZQ1uAsf_Iu8CFyhGC6uBfvVuWXuSdL6Y1qL6QzBhKqrCRVyEbD3XbZtEQX0J7fO282XxCw22AJmG8VPiWB58w4KcNnfvSh4DpguuRdfvkgAb4pD32kpVydbbw1c-VzQaQ=="
+    },
+    {
+      "label": "Şarj Süresi",
+      "value": "2 saat",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4VIbQScyJo-LTYB2Zx4s6IyJ8RY7TyRC2AJXcu0Fgzm32-ZQ1uAsf_Iu8CFyhGC6uBfvVuWXuSdL6Y1qL6QzBhKqrCRVyEbD3XbZtEQX0J7fO282XxCw22AJmG8VPiWB58w4KcNnfvSh4DpguuRdfvkgAb4pD32kpVydbbw1c-VzQaQ=="
+    },
+    {
+      "label": "Başlık Yapısı",
+      "value": "Paslanmaz çelikten 6 farklı fonksiyonlu manyetik başlık",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4VIbQScyJo-LTYB2Zx4s6IyJ8RY7TyRC2AJXcu0Fgzm32-ZQ1uAsf_Iu8CFyhGC6uBfvVuWXuSdL6Y1qL6QzBhKqrCRVyEbD3XbZtEQX0J7fO282XxCw22AJmG8VPiWB58w4KcNnfvSh4DpguuRdfvkgAb4pD32kpVydbbw1c-VzQaQ=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4VIbQScyJo-LTYB2Zx4s6IyJ8RY7TyRC2AJXcu0Fgzm32-ZQ1uAsf_Iu8CFyhGC6uBfvVuWXuSdL6Y1qL6QzBhKqrCRVyEbD3XbZtEQX0J7fO282XxCw22AJmG8VPiWB58w4KcNnfvSh4DpguuRdfvkgAb4pD32kpVydbbw1c-VzQaQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdRzN856FSPckyaLcdBHjS1IWg0xNfpAL5_YEPpZbJchC-C2gzw-vrWksD7RNADCDFMULt9idPRi_F7nDDhOgsShqNpNGJVVrWTGg6dxPD74hRtVE7AbDplcWAp6G77_RMRGF6NwHnmQnhNOanKG1T2bsch6fzZRzPRn_nhU7_FBTaODkYj0GI6cvWoWNjl3gDaoAbZ6rKgcd1gPCYysNdAyw="
+  ],
+  "verification_notes": [
+    "Model standardly listed in retail as Leader LT-13 (LT13) 13'ü 1 Arada Kişisel Tıraş Bakım Seti.",
+    "Background items and non-integrated accessories from visual audit noted and excluded from product identity."
+  ]
+}

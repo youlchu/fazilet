@@ -1,0 +1,58 @@
+{
+  "folder": "cvs-dn-1529-red",
+  "brand": "CVS",
+  "model": "DN 1529",
+  "name": "Suadiye Elektrikli Çay Makinesi",
+  "variant": "Red",
+  "identity_confidence": "high",
+  "source_folders": [
+    "cvs-dn-1529-suadiye-cay-makinesi"
+  ],
+  "source_images": [
+    "new_images/cvs-dn-1529-suadiye-cay-makinesi/past_cvs-dn-1529-suadiye-cay-makinesi_00000409.jpg"
+  ],
+  "readable_evidence": [
+    "CVS Premium",
+    "Suadiye",
+    "Elektrikli Çay Makinesi",
+    "DN 1529"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "1800 – 2100 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR-5hA-TcM57B5Ggm0MZKCCPB8GSAoB41jqhNEG_bCxgftO4XAhs27_3cXlH5JT8cdCws8LIekTnvziG6VKCUxghKCveQiWUOd6pd7tnMtWqnOj1ZdFSrfeXO5F5aYF85j_u2Pm3ezzWfRZ5Lj05WNgrWt"
+    },
+    {
+      "label": "Su Isıtma Kapasitesi",
+      "value": "1,8 L",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR-5hA-TcM57B5Ggm0MZKCCPB8GSAoB41jqhNEG_bCxgftO4XAhs27_3cXlH5JT8cdCws8LIekTnvziG6VKCUxghKCveQiWUOd6pd7tnMtWqnOj1ZdFSrfeXO5F5aYF85j_u2Pm3ezzWfRZ5Lj05WNgrWt"
+    },
+    {
+      "label": "Demlik Kapasitesi",
+      "value": "0,7 L",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR-5hA-TcM57B5Ggm0MZKCCPB8GSAoB41jqhNEG_bCxgftO4XAhs27_3cXlH5JT8cdCws8LIekTnvziG6VKCUxghKCveQiWUOd6pd7tnMtWqnOj1ZdFSrfeXO5F5aYF85j_u2Pm3ezzWfRZ5Lj05WNgrWt"
+    },
+    {
+      "label": "Demlik Malzemesi",
+      "value": "Yüksek sıcaklığa dayanıklı cam",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR-5hA-TcM57B5Ggm0MZKCCPB8GSAoB41jqhNEG_bCxgftO4XAhs27_3cXlH5JT8cdCws8LIekTnvziG6VKCUxghKCveQiWUOd6pd7tnMtWqnOj1ZdFSrfeXO5F5aYF85j_u2Pm3ezzWfRZ5Lj05WNgrWt"
+    },
+    {
+      "label": "Güvenlik Emniyeti",
+      "value": "Susuz çalışmayı önleyen emniyet sistemi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR-5hA-TcM57B5Ggm0MZKCCPB8GSAoB41jqhNEG_bCxgftO4XAhs27_3cXlH5JT8cdCws8LIekTnvziG6VKCUxghKCveQiWUOd6pd7tnMtWqnOj1ZdFSrfeXO5F5aYF85j_u2Pm3ezzWfRZ5Lj05WNgrWt"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR-5hA-TcM57B5Ggm0MZKCCPB8GSAoB41jqhNEG_bCxgftO4XAhs27_3cXlH5JT8cdCws8LIekTnvziG6VKCUxghKCveQiWUOd6pd7tnMtWqnOj1ZdFSrfeXO5F5aYF85j_u2Pm3ezzWfRZ5Lj05WNgrWt",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzdbBICikJNMNT_m4OyzsaEwd9K5YhvMGdXvchBGAu86ALhS5sRjXlaE5m2csKwOw8ajWtryzxJ5rQLvrMALQtfhswpVXjTYO8oJ2bIq4DR_iUBZAssqfOh1Qc0IYPxO3e5Nr2_ylobCFMDCKjtlHrlx0L9u0Wm09MIdw8rA=="
+  ],
+  "verification_notes": [
+    "CVS DN 1529 Suadiye Elektrikli Çay Makinesi confirmed across Turkish retailer listings, including the red color variant."
+  ]
+}

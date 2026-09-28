@@ -1,0 +1,57 @@
+{
+  "folder": "pirantech-kt-503-800-w-3-l",
+  "brand": "PiranTech",
+  "model": "KT-503",
+  "name": "Koltuk ve Halı Yıkama Makinesi",
+  "variant": "800 W 3 L",
+  "identity_confidence": "high",
+  "source_folders": [
+    "pirantech-kt-503-800-w-koltuk-ve-hali-yikama-makinesi"
+  ],
+  "source_images": [
+    "new_images/pirantech-kt-503-800-w-koltuk-ve-hali-yikama-makinesi/past_pirantech-kt-503-800-w-koltuk-ve-hali-yikama-makinesi_00000276.jpg"
+  ],
+  "readable_evidence": [
+    "PiranTech",
+    "KT-503",
+    "800 W Güç",
+    "17 kPa Emiş Gücü",
+    "3 L Kapasite",
+    "KOLTUK VE HALI YIKAMA MAKİNESİ"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Motor Gücü",
+      "value": "800 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw1dU7e1snKHD-Y7ZGJuPZrgvGyVQg4itf16bDgUE7crVV7iTzbZ9OlYtzsJUmJqVBmzvopVqmaQZ6wmK47mOyNo9U-oAr-Y4ZmWnEgk-Z1p3lAqseqlcKBOiG6qdV4jC2xXT55A77N6l9H1I-HEuYUlwjSUNmr3uJ"
+    },
+    {
+      "label": "Emiş Gücü",
+      "value": "17 kPa",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw1dU7e1snKHD-Y7ZGJuPZrgvGyVQg4itf16bDgUE7crVV7iTzbZ9OlYtzsJUmJqVBmzvopVqmaQZ6wmK47mOyNo9U-oAr-Y4ZmWnEgk-Z1p3lAqseqlcKBOiG6qdV4jC2xXT55A77N6l9H1I-HEuYUlwjSUNmr3uJ"
+    },
+    {
+      "label": "Temizlik Fonksiyonu",
+      "value": "Su püskürtme ve vakumlama",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw1dU7e1snKHD-Y7ZGJuPZrgvGyVQg4itf16bDgUE7crVV7iTzbZ9OlYtzsJUmJqVBmzvopVqmaQZ6wmK47mOyNo9U-oAr-Y4ZmWnEgk-Z1p3lAqseqlcKBOiG6qdV4jC2xXT55A77N6l9H1I-HEuYUlwjSUNmr3uJ"
+    },
+    {
+      "label": "Tank Sistemi",
+      "value": "Ayrı temiz su ve kirli su tankları",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw1dU7e1snKHD-Y7ZGJuPZrgvGyVQg4itf16bDgUE7crVV7iTzbZ9OlYtzsJUmJqVBmzvopVqmaQZ6wmK47mOyNo9U-oAr-Y4ZmWnEgk-Z1p3lAqseqlcKBOiG6qdV4jC2xXT55A77N6l9H1I-HEuYUlwjSUNmr3uJ"
+    },
+    {
+      "label": "Aksesuar Başlıkları",
+      "value": "Koltuk, halı, zemin, dar uçlu ve cam/ayna başlıkları",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw1dU7e1snKHD-Y7ZGJuPZrgvGyVQg4itf16bDgUE7crVV7iTzbZ9OlYtzsJUmJqVBmzvopVqmaQZ6wmK47mOyNo9U-oAr-Y4ZmWnEgk-Z1p3lAqseqlcKBOiG6qdV4jC2xXT55A77N6l9H1I-HEuYUlwjSUNmr3uJ"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw1dU7e1snKHD-Y7ZGJuPZrgvGyVQg4itf16bDgUE7crVV7iTzbZ9OlYtzsJUmJqVBmzvopVqmaQZ6wmK47mOyNo9U-oAr-Y4ZmWnEgk-Z1p3lAqseqlcKBOiG6qdV4jC2xXT55A77N6l9H1I-HEuYUlwjSUNmr3uJ"
+  ],
+  "verification_notes": []
+}

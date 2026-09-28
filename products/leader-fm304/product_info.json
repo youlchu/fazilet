@@ -1,0 +1,67 @@
+{
+  "folder": "leader-fm304",
+  "brand": "LEADER",
+  "model": "FM304",
+  "name": "Süpersonik Hızlı Saç Kurutma Makinesi",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "leader-fm304-bldc-sac-kurutma-makinesi"
+  ],
+  "source_images": [
+    "new_images/leader-fm304-bldc-sac-kurutma-makinesi/past_leader-fm304-bldc-sac-kurutma-makinesi_00000205.jpg",
+    "new_images/leader-fm304-bldc-sac-kurutma-makinesi/past_leader-fm304-bldc-sac-kurutma-makinesi_00000207.jpg",
+    "new_images/leader-fm304-bldc-sac-kurutma-makinesi/past_leader-fm304-bldc-sac-kurutma-makinesi_00000282.jpg",
+    "new_images/leader-fm304-bldc-sac-kurutma-makinesi/past_leader-fm304-bldc-sac-kurutma-makinesi_00000349.jpg",
+    "new_images/leader-fm304-bldc-sac-kurutma-makinesi/past_leader-fm304-bldc-sac-kurutma-makinesi_00000352.jpg"
+  ],
+  "readable_evidence": [
+    "LEADER®",
+    "FM304",
+    "Süpersonik Hızlı Saç Kurutma Makinesi",
+    "BLDC FÖN MAKİNESİ",
+    "Yüksek Hızlı Saç Kurutma Makinesi",
+    "110000RPM"
+  ],
+  "issues": [
+    "A separate packaging box labeled 'LEADER Dryer Stand Holder' is present in the shelf background, and the hair dryers are mounted on stands that appear to correspond to that product."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "1600 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLryJG2VmY7r361zyEpcdLwmtz2reYKSRH3l5chCCIqbNZWBDJJJbqkft-b39ht1sDdosWxPYBhaheSvTyfFHp0LCXmtzioFXJ4RLdRFFHt_N9vatOU1gKUK_Vku9yt92GIBHpT3cx2rgLzv4JEQl4n2FYTdQYHOfQhM1R23LqRLSwwvz_YP4hXyjfAYfo0uHS6xIx0b5fWzQSTrk8"
+    },
+    {
+      "label": "Isı Ayarı",
+      "value": "3 kademe",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLryJG2VmY7r361zyEpcdLwmtz2reYKSRH3l5chCCIqbNZWBDJJJbqkft-b39ht1sDdosWxPYBhaheSvTyfFHp0LCXmtzioFXJ4RLdRFFHt_N9vatOU1gKUK_Vku9yt92GIBHpT3cx2rgLzv4JEQl4n2FYTdQYHOfQhM1R23LqRLSwwvz_YP4hXyjfAYfo0uHS6xIx0b5fWzQSTrk8"
+    },
+    {
+      "label": "İyon Teknolojisi",
+      "value": "Elektriklenmeyi azaltan iyon özelliği",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXgQ5KFfn7SQDGar2pjHZFv6JXz8pLRR9ANDqtnIWfP5yc5m6gsxspOWTPME6yWKMf6h5UEW6PhLWvq5DhctwDgmJhpusfc0pz6zNtZfWyrazCCp1kL_pZL_QJAbKCIcVpcTvRhkNQsZCxvPyd_tib_79ueqLShXPK1S6R"
+    },
+    {
+      "label": "Soğuk Hava Özelliği",
+      "value": "Saç şeklini sabitleyen soğuk hava fonksiyonu",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXgQ5KFfn7SQDGar2pjHZFv6JXz8pLRR9ANDqtnIWfP5yc5m6gsxspOWTPME6yWKMf6h5UEW6PhLWvq5DhctwDgmJhpusfc0pz6zNtZfWyrazCCp1kL_pZL_QJAbKCIcVpcTvRhkNQsZCxvPyd_tib_79ueqLShXPK1S6R"
+    },
+    {
+      "label": "Motor Tipi",
+      "value": "Sessiz çalışma sağlayan dijital/BLDC motor",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLryJG2VmY7r361zyEpcdLwmtz2reYKSRH3l5chCCIqbNZWBDJJJbqkft-b39ht1sDdosWxPYBhaheSvTyfFHp0LCXmtzioFXJ4RLdRFFHt_N9vatOU1gKUK_Vku9yt92GIBHpT3cx2rgLzv4JEQl4n2FYTdQYHOfQhM1R23LqRLSwwvz_YP4hXyjfAYfo0uHS6xIx0b5fWzQSTrk8"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLryJG2VmY7r361zyEpcdLwmtz2reYKSRH3l5chCCIqbNZWBDJJJbqkft-b39ht1sDdosWxPYBhaheSvTyfFHp0LCXmtzioFXJ4RLdRFFHt_N9vatOU1gKUK_Vku9yt92GIBHpT3cx2rgLzv4JEQl4n2FYTdQYHOfQhM1R23LqRLSwwvz_YP4hXyjfAYfo0uHS6xIx0b5fWzQSTrk8",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXgQ5KFfn7SQDGar2pjHZFv6JXz8pLRR9ANDqtnIWfP5yc5m6gsxspOWTPME6yWKMf6h5UEW6PhLWvq5DhctwDgmJhpusfc0pz6zNtZfWyrazCCp1kL_pZL_QJAbKCIcVpcTvRhkNQsZCxvPyd_tib_79ueqLShXPK1S6R"
+  ],
+  "verification_notes": [
+    "Model code is frequently listed by Turkish retailers as FM-304 or FM304.",
+    "The holder/stand visible in background displays is sold separately or packaged as a promotional accessory."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "folder": "tefal-ultimate-pure",
+  "brand": "Tefal",
+  "model": "Ultimate Pure",
+  "name": "Ultimate Pure",
+  "variant": "",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "philips-5000-dst7022-dst7510-tefal-fv5770-fv9e50-buharli-utu",
+    "tefal-fv5770-fv9e50-fv8042-buharli-utu",
+    "tefal-fv5770-fv9e50-fv8042-philips-dst7510-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/philips-5000-dst7022-dst7510-tefal-fv5770-fv9e50-buharli-utu/past_philips-5000-dst7022-dst7510-tefal-fv5770-fv9e50-buharli-utu_00000093.jpg",
+    "new_images/tefal-fv5770-fv9e50-fv8042-buharli-utu/past_tefal-fv5770-fv9e50-fv8042-buharli-utu_00000087.jpg",
+    "new_images/tefal-fv5770-fv9e50-fv8042-philips-dst7510-buharli-utu/past_tefal-fv5770-fv9e50-fv8042-philips-dst7510-buharli-utu_00000086.jpg"
+  ],
+  "readable_evidence": [
+    "Tefal",
+    "ULTIMATE PURE",
+    "[ULTIMATE PURE]",
+    "The most powerful by Tefal"
+  ],
+  "issues": [
+    "Shelf photo showing multiple retail iron packages; no single primary subject is present.",
+    "Motion blur and low resolution make individual alphanumeric model numbers (such as DST7022, DST7510, FV5770, FV9E50) illegible, though Philips Azur and Tefal Ultimate Pure product line branding is readable.",
+    "Storage shelf photo behind a payment counter containing multiple iron models; no single deliberate primary subject.",
+    "Alphanumeric model codes (e.g. FV8042, FV5770, FV9E50) mentioned in folder name are not legibly confirmed on the Tefal boxes beyond the line names 'PUREGLISS' and 'ULTIMATE PURE'.",
+    "The photograph displays a retail store counter and shelves with multiple iron models stacked, with no single primary product.",
+    "Exact alphanumeric model codes for the Tefal Puregliss and Ultimate Pure irons are not clearly legible on the exposed package faces.",
+    "Philips model DST7510 is identified via the shelf shelf tag label below the Azur packaging."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [],
+  "verification_notes": [
+    "The packaging confirms the brand 'Tefal' and product series 'Ultimate Pure', but the specific alphanumeric model number (e.g., FV98xx series) is illegible.",
+    "Because the exact model cannot be determined from the multiple retail boxes shown on the shelf, the product identity remains unverified as candidate Ultimate Pure."
+  ]
+}

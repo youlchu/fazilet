@@ -1,0 +1,61 @@
+{
+  "folder": "goldmaster-gm-7171",
+  "brand": "Goldmaster",
+  "model": "GM-7171",
+  "name": "Filinta 9 in 1 Erkek Bakım Seti",
+  "variant": "",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "goldmaster-gm-7177-filinta-9-in-1-erkek-bakim-seti"
+  ],
+  "source_images": [
+    "new_images/goldmaster-gm-7177-filinta-9-in-1-erkek-bakim-seti/past_goldmaster-gm-7177-filinta-9-in-1-erkek-bakim-seti_00000396.jpg"
+  ],
+  "readable_evidence": [
+    "Goldmaster",
+    "FİLİNTA",
+    "ERKEK BAKIM SETİ",
+    "GM-7171",
+    "9 in 1"
+  ],
+  "issues": [
+    "Model number printed below 'ERKEK BAKIM SETİ' appears to read 'GM-7171' rather than 'GM-7177', but low resolution and glare make the last digit slightly ambiguous."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Kullanım Türü",
+      "value": "Kablolu ve kablosuz kullanım",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUaAdNb9k1AiwxlOvbwIFqmLzIXt4wlvpwHJxTtW6bJDGTyz4dwDRGO22EnyKV-ukyBllnP_mVM-o9bslE9dfaNkf-b-zwE1Oet7x0mFTZXbO-Rqa9HuwEDODJIKBEMasRLzFfy4Gs-h9hvdGcFP0w4fI63-cyMKntaYSYSWut_pcxpQ=="
+    },
+    {
+      "label": "Şarj Süresi",
+      "value": "2 saatte hızlı şarj",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUaAdNb9k1AiwxlOvbwIFqmLzIXt4wlvpwHJxTtW6bJDGTyz4dwDRGO22EnyKV-ukyBllnP_mVM-o9bslE9dfaNkf-b-zwE1Oet7x0mFTZXbO-Rqa9HuwEDODJIKBEMasRLzFfy4Gs-h9hvdGcFP0w4fI63-cyMKntaYSYSWut_pcxpQ=="
+    },
+    {
+      "label": "Kullanım Süresi",
+      "value": "120 dakika",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUaAdNb9k1AiwxlOvbwIFqmLzIXt4wlvpwHJxTtW6bJDGTyz4dwDRGO22EnyKV-ukyBllnP_mVM-o9bslE9dfaNkf-b-zwE1Oet7x0mFTZXbO-Rqa9HuwEDODJIKBEMasRLzFfy4Gs-h9hvdGcFP0w4fI63-cyMKntaYSYSWut_pcxpQ=="
+    },
+    {
+      "label": "Gösterge",
+      "value": "Şarj gösterge ışığı",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUaAdNb9k1AiwxlOvbwIFqmLzIXt4wlvpwHJxTtW6bJDGTyz4dwDRGO22EnyKV-ukyBllnP_mVM-o9bslE9dfaNkf-b-zwE1Oet7x0mFTZXbO-Rqa9HuwEDODJIKBEMasRLzFfy4Gs-h9hvdGcFP0w4fI63-cyMKntaYSYSWut_pcxpQ=="
+    },
+    {
+      "label": "Başlıklar",
+      "value": "Saç kesme, sakal kesme, burun kulak kılı alma ve mikro tıraş başlığı",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUaAdNb9k1AiwxlOvbwIFqmLzIXt4wlvpwHJxTtW6bJDGTyz4dwDRGO22EnyKV-ukyBllnP_mVM-o9bslE9dfaNkf-b-zwE1Oet7x0mFTZXbO-Rqa9HuwEDODJIKBEMasRLzFfy4Gs-h9hvdGcFP0w4fI63-cyMKntaYSYSWut_pcxpQ=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUaAdNb9k1AiwxlOvbwIFqmLzIXt4wlvpwHJxTtW6bJDGTyz4dwDRGO22EnyKV-ukyBllnP_mVM-o9bslE9dfaNkf-b-zwE1Oet7x0mFTZXbO-Rqa9HuwEDODJIKBEMasRLzFfy4Gs-h9hvdGcFP0w4fI63-cyMKntaYSYSWut_pcxpQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwopUWj9m3ts1UNgEPpkVPkvnJIhTUClb0yUNrD4wg7lcf9M6EmphGPz07WFi0atJG9CXoj5sOw6pDcUOZFLhehBL8Ckr-_vHaUPKtWmKRCKQNau-uGSCjXc0a9lbFz5xnXdXbwgNl6rfA2PRYJnd-Yd45jLxGJb0FNHfiHBgtpd_Qys5iGNeXvaeqq6rWxtxF--LczaDznJ97J214ZxM2jMjypQ_NUKfEGJ4840aQtPp4EYrcWwrRN5NOYV6yt6KxCd9KucUvbsYPjwHJfnOrPgYViN98V90pKAUsYvbQ"
+  ],
+  "verification_notes": [
+    "Goldmaster Filinta serisine ait 9'u 1 arada erkek bakım setinin resmi model kodu GM-7171 olarak doğrulanmıştır."
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "folder": "kahramanlar-sirma-10-parca",
+  "brand": "Kahramanlar",
+  "model": "Sırma",
+  "name": "Çelik Tencere Seti",
+  "variant": "10 Parça",
+  "identity_confidence": "high",
+  "source_folders": [
+    "kahramanlar-sirma-10-parca-celik-tencere-seti"
+  ],
+  "source_images": [
+    "new_images/kahramanlar-sirma-10-parca-celik-tencere-seti/past_kahramanlar-sirma-10-parca-celik-tencere-seti_00000104.jpg"
+  ],
+  "readable_evidence": [
+    "KAHRAMANLAR",
+    "SIRMA",
+    "ÇELİK TENCERE SETİ COOKWARE SETS",
+    "10 PARÇA",
+    "18/10 PASLANMAZ ÇELİK"
+  ],
+  "issues": [
+    "Image past_kahramanlar-sirma-10-parca-celik-tencere-seti_00000114.jpg shows the 6-piece (6 Parça 16-18-20 CM) variant instead of the 10-piece set, as well as an unidentifiable Korkmaz product packaging at the bottom shelf."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Materyal",
+      "value": "18/10 paslanmaz çelik",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7nqGXJSBAHLno-CIvL0_NC1FNjP83WRLYMCOJM_vCFH7wnVerLEmBxpb-lGPiqCZrmlW22wd2vWSakhdvoAvpvBrFatqeZozs7lct1bQIihhr_563MONGk-ZQALqLf2brYZQp748I8wfbgoT9Z411RDAyrwbGcboR5Mkzg6pLjCE9rEWj-5NEyLfWsg=="
+    },
+    {
+      "label": "Taban Yapısı",
+      "value": "Üç kat tripleks kapsül taban",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7nqGXJSBAHLno-CIvL0_NC1FNjP83WRLYMCOJM_vCFH7wnVerLEmBxpb-lGPiqCZrmlW22wd2vWSakhdvoAvpvBrFatqeZozs7lct1bQIihhr_563MONGk-ZQALqLf2brYZQp748I8wfbgoT9Z411RDAyrwbGcboR5Mkzg6pLjCE9rEWj-5NEyLfWsg=="
+    },
+    {
+      "label": "Kapak",
+      "value": "Kırılmaya karşı dayanıklı temperli cam kapak",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7nqGXJSBAHLno-CIvL0_NC1FNjP83WRLYMCOJM_vCFH7wnVerLEmBxpb-lGPiqCZrmlW22wd2vWSakhdvoAvpvBrFatqeZozs7lct1bQIihhr_563MONGk-ZQALqLf2brYZQp748I8wfbgoT9Z411RDAyrwbGcboR5Mkzg6pLjCE9rEWj-5NEyLfWsg=="
+    },
+    {
+      "label": "Kulp ve Tepeler",
+      "value": "Paslanmaz çelik",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7nqGXJSBAHLno-CIvL0_NC1FNjP83WRLYMCOJM_vCFH7wnVerLEmBxpb-lGPiqCZrmlW22wd2vWSakhdvoAvpvBrFatqeZozs7lct1bQIihhr_563MONGk-ZQALqLf2brYZQp748I8wfbgoT9Z411RDAyrwbGcboR5Mkzg6pLjCE9rEWj-5NEyLfWsg=="
+    },
+    {
+      "label": "Ocak Uyumluluğu",
+      "value": "İndüksiyon ocaklarda kullanıma uygun",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7nqGXJSBAHLno-CIvL0_NC1FNjP83WRLYMCOJM_vCFH7wnVerLEmBxpb-lGPiqCZrmlW22wd2vWSakhdvoAvpvBrFatqeZozs7lct1bQIihhr_563MONGk-ZQALqLf2brYZQp748I8wfbgoT9Z411RDAyrwbGcboR5Mkzg6pLjCE9rEWj-5NEyLfWsg=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7nqGXJSBAHLno-CIvL0_NC1FNjP83WRLYMCOJM_vCFH7wnVerLEmBxpb-lGPiqCZrmlW22wd2vWSakhdvoAvpvBrFatqeZozs7lct1bQIihhr_563MONGk-ZQALqLf2brYZQp748I8wfbgoT9Z411RDAyrwbGcboR5Mkzg6pLjCE9rEWj-5NEyLfWsg=="
+  ],
+  "verification_notes": [
+    "Model ve ürün kodu piyasada D-775 / 775 olarak da geçmektedir.",
+    "Paket görselinde yer alan 10 parça ibaresi 5 tencere gövdesi ve 5 cam kapağı kapsamaktadır."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "folder": "remington-wet-2-straight",
+  "brand": "REMINGTON",
+  "model": "Wet 2 Straight",
+  "name": "Straightener for use on wet or dry hair",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "remington-wet2straight-sac-duzlestirici"
+  ],
+  "source_images": [
+    "new_images/remington-wet2straight-sac-duzlestirici/past_remington-wet2straight-sac-duzlestirici_00000198.jpg",
+    "new_images/remington-wet2straight-sac-duzlestirici/past_remington-wet2straight-sac-duzlestirici_00000443.jpg"
+  ],
+  "readable_evidence": [
+    "REMINGTON",
+    "Wet 2 Straight",
+    "Straightener for use on wet or dry hair"
+  ],
+  "issues": [
+    "Specific alphanumeric model numbers (such as S-series codes) are not visible on the visible front panels.",
+    "The current folder name contains Turkish words ('sac-duzlestirici')."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [],
+  "verification_notes": [
+    "The specific alphanumeric model number (such as S7300 or S7350) is not visible on the front packaging.",
+    "Remington produces multiple different hair straighteners under the Wet 2 Straight line (e.g., S7300 slim plate and S7350 wide plate).",
+    "Because the exact alphanumeric model code cannot be definitively confirmed without substitution, the candidate identity is kept unchanged as unverified."
+  ]
+}

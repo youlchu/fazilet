@@ -1,0 +1,57 @@
+{
+  "folder": "fakir-pixie",
+  "brand": "Fakir",
+  "model": "Pixie",
+  "name": "Hair Styling Set",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "fakir-pixie-sac-sekillendirme-seti"
+  ],
+  "source_images": [
+    "new_images/fakir-pixie-sac-sekillendirme-seti/past_fakir-pixie-sac-sekillendirme-seti_00000304.jpg",
+    "new_images/fakir-pixie-sac-sekillendirme-seti/past_fakir-pixie-sac-sekillendirme-seti_00000308.jpg"
+  ],
+  "readable_evidence": [
+    "Fakir HAUSGERÄTE",
+    "PIXIE",
+    "Haar Styling Set",
+    "Hair Styling Set"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "62 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEumKJ030RL3bfZPqc_y2bptcpU1vL8gjvkMc0VG8qM4i2yTfzWtf9H68rQ07Oj3CNdmlMTGbZC7p6qTvekK7a-qQ4-tB8bHAoSP5MlydEuLFYndMqfoit26FYsIH6GTqZc5Tn8VXJ7eLff0cLxRCGdr96kGxOV723EvwiUWw=="
+    },
+    {
+      "label": "Maksimum Sıcaklık",
+      "value": "200°C",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEumKJ030RL3bfZPqc_y2bptcpU1vL8gjvkMc0VG8qM4i2yTfzWtf9H68rQ07Oj3CNdmlMTGbZC7p6qTvekK7a-qQ4-tB8bHAoSP5MlydEuLFYndMqfoit26FYsIH6GTqZc5Tn8VXJ7eLff0cLxRCGdr96kGxOV723EvwiUWw=="
+    },
+    {
+      "label": "Kaplama Tipi",
+      "value": "Seramik turmalin kaplı plaka ve maşalar",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEumKJ030RL3bfZPqc_y2bptcpU1vL8gjvkMc0VG8qM4i2yTfzWtf9H68rQ07Oj3CNdmlMTGbZC7p6qTvekK7a-qQ4-tB8bHAoSP5MlydEuLFYndMqfoit26FYsIH6GTqZc5Tn8VXJ7eLff0cLxRCGdr96kGxOV723EvwiUWw=="
+    },
+    {
+      "label": "Kablo",
+      "value": "360° dönebilen asma halkalı güç kablosu",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEumKJ030RL3bfZPqc_y2bptcpU1vL8gjvkMc0VG8qM4i2yTfzWtf9H68rQ07Oj3CNdmlMTGbZC7p6qTvekK7a-qQ4-tB8bHAoSP5MlydEuLFYndMqfoit26FYsIH6GTqZc5Tn8VXJ7eLff0cLxRCGdr96kGxOV723EvwiUWw=="
+    },
+    {
+      "label": "Şekillendirme Başlıkları",
+      "value": "5 farklı saç şekillendirme başlığı",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEumKJ030RL3bfZPqc_y2bptcpU1vL8gjvkMc0VG8qM4i2yTfzWtf9H68rQ07Oj3CNdmlMTGbZC7p6qTvekK7a-qQ4-tB8bHAoSP5MlydEuLFYndMqfoit26FYsIH6GTqZc5Tn8VXJ7eLff0cLxRCGdr96kGxOV723EvwiUWw=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEumKJ030RL3bfZPqc_y2bptcpU1vL8gjvkMc0VG8qM4i2yTfzWtf9H68rQ07Oj3CNdmlMTGbZC7p6qTvekK7a-qQ4-tB8bHAoSP5MlydEuLFYndMqfoit26FYsIH6GTqZc5Tn8VXJ7eLff0cLxRCGdr96kGxOV723EvwiUWw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe5pm0cwConxXWtode7kAeenI3Y2V2n7-2LHqQB4OhxYAR7FYT9msFIGsX0WhFKn0J8Bv28iwfv5yTkbCRW-fz7pAXx95tPlyQauwcHZxCEhuCO-uHyPjFaeN6Yj3AsGffbv0M5rGrFz2-hXDrKjBtQ2CGLbdF61OD7lyQRa4x1RbgRI7Zwx8OhO7KDzuF6r6nkqGSN-dXd5Gd37MGyFU9F94ROY9vKQ=="
+  ],
+  "verification_notes": []
+}

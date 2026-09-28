@@ -1,0 +1,56 @@
+{
+  "folder": "leader-r205",
+  "brand": "LEADER",
+  "model": "R205",
+  "name": "2.1 Ev Sinema Ses Sistemi",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "leader-r205-2-1-ev-sinema-ses-sistemi"
+  ],
+  "source_images": [
+    "new_images/leader-r205-2-1-ev-sinema-ses-sistemi/past_leader-r205-2-1-ev-sinema-ses-sistemi_00000142.jpg",
+    "new_images/leader-r205-2-1-ev-sinema-ses-sistemi/past_leader-r205-2-1-ev-sinema-ses-sistemi_00000467.jpg"
+  ],
+  "readable_evidence": [
+    "LEADER",
+    "R205",
+    "2.1 REMOTE HOME THEATER SPEAKER SYSTEM",
+    "2.1 EV SİNEMA SES SİSTEMİ"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Bağlantı Desteği",
+      "value": "Bluetooth, USB ve SD kart desteği",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkWczn1EZfW4eg7EM2ldS-eqIV3ggMuFk88jeaCwDO4CB7jWzvMj0IpKaHWfwsba2uiukIG-O5jL0PML3o5P9-I0mYOfgTLLVyKvkTBW2nv8gtmW4w8cLYYi0IRo-HONzsrbiPQIA67qkR_TF4G8wLxGiGkddu76KNYwE1oZVUvsLKha36X6qWAOLYqkY9ERv2x8krX5nB6-FfBbs="
+    },
+    {
+      "label": "Radyo",
+      "value": "Hafızalı dijital FM radyo",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkWczn1EZfW4eg7EM2ldS-eqIV3ggMuFk88jeaCwDO4CB7jWzvMj0IpKaHWfwsba2uiukIG-O5jL0PML3o5P9-I0mYOfgTLLVyKvkTBW2nv8gtmW4w8cLYYi0IRo-HONzsrbiPQIA67qkR_TF4G8wLxGiGkddu76KNYwE1oZVUvsLKha36X6qWAOLYqkY9ERv2x8krX5nB6-FfBbs="
+    },
+    {
+      "label": "Ekran",
+      "value": "Fonksiyonel dijital LED ekran",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkWczn1EZfW4eg7EM2ldS-eqIV3ggMuFk88jeaCwDO4CB7jWzvMj0IpKaHWfwsba2uiukIG-O5jL0PML3o5P9-I0mYOfgTLLVyKvkTBW2nv8gtmW4w8cLYYi0IRo-HONzsrbiPQIA67qkR_TF4G8wLxGiGkddu76KNYwE1oZVUvsLKha36X6qWAOLYqkY9ERv2x8krX5nB6-FfBbs="
+    },
+    {
+      "label": "Uzaktan Kumanda",
+      "value": "Tam fonksiyonlu uzaktan kumanda desteği",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkWczn1EZfW4eg7EM2ldS-eqIV3ggMuFk88jeaCwDO4CB7jWzvMj0IpKaHWfwsba2uiukIG-O5jL0PML3o5P9-I0mYOfgTLLVyKvkTBW2nv8gtmW4w8cLYYi0IRo-HONzsrbiPQIA67qkR_TF4G8wLxGiGkddu76KNYwE1oZVUvsLKha36X6qWAOLYqkY9ERv2x8krX5nB6-FfBbs="
+    },
+    {
+      "label": "Zamanlayıcı",
+      "value": "10 - 120 dakika arası zaman ayarlı otomatik kapanma",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkWczn1EZfW4eg7EM2ldS-eqIV3ggMuFk88jeaCwDO4CB7jWzvMj0IpKaHWfwsba2uiukIG-O5jL0PML3o5P9-I0mYOfgTLLVyKvkTBW2nv8gtmW4w8cLYYi0IRo-HONzsrbiPQIA67qkR_TF4G8wLxGiGkddu76KNYwE1oZVUvsLKha36X6qWAOLYqkY9ERv2x8krX5nB6-FfBbs="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkWczn1EZfW4eg7EM2ldS-eqIV3ggMuFk88jeaCwDO4CB7jWzvMj0IpKaHWfwsba2uiukIG-O5jL0PML3o5P9-I0mYOfgTLLVyKvkTBW2nv8gtmW4w8cLYYi0IRo-HONzsrbiPQIA67qkR_TF4G8wLxGiGkddu76KNYwE1oZVUvsLKha36X6qWAOLYqkY9ERv2x8krX5nB6-FfBbs="
+  ],
+  "verification_notes": []
+}

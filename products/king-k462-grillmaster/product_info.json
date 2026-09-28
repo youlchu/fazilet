@@ -1,0 +1,64 @@
+{
+  "folder": "king-k462-grillmaster",
+  "brand": "King",
+  "model": "K462 GrillMaster",
+  "name": "K462 GrillMaster Izgara ve Tost Makinesi",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "king-grillmaster-tost-makinesi"
+  ],
+  "source_images": [
+    "new_images/king-grillmaster-tost-makinesi/past_king-grillmaster-tost-makinesi_00000524.jpg"
+  ],
+  "readable_evidence": [
+    "king",
+    "GrillMaster",
+    "Izgara ve Tost Makinesi",
+    "2000 WATT",
+    "NON-STICK PLATES",
+    "6 TOASTS CAPACITY"
+  ],
+  "issues": [
+    "No specific alphanumeric model number is visible on the primary GrillMaster packaging.",
+    "A secondary product box displaying 'KSM-2448' is partially visible on the right shelf edge without a clearly visible brand name."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "2000 W",
+      "source_url": "https://www.vatanbilgisayar.com/king-k462-grill-master-izgara-ve-tost-makinesi.html"
+    },
+    {
+      "label": "Kapasite",
+      "value": "6 tost kapasitesi",
+      "source_url": "https://www.vatanbilgisayar.com/king-k462-grill-master-izgara-ve-tost-makinesi.html"
+    },
+    {
+      "label": "Plaka Özellikleri",
+      "value": "Çıkarılabilir ve bulaşık makinesinde yıkanabilir granit kaplama plakalar",
+      "source_url": "https://www.vatanbilgisayar.com/king-k462-grill-master-izgara-ve-tost-makinesi.html"
+    },
+    {
+      "label": "Izgara Fonksiyonu",
+      "value": "180° açılabilir ızgara özelliği",
+      "source_url": "https://www.vatanbilgisayar.com/king-k462-grill-master-izgara-ve-tost-makinesi.html"
+    },
+    {
+      "label": "Isı Ayarı",
+      "value": "Ayarlanabilir ısı kontrol düğmesi",
+      "source_url": "https://www.vatanbilgisayar.com/king-k462-grill-master-izgara-ve-tost-makinesi.html"
+    }
+  ],
+  "source_urls": [
+    "https://www.vatanbilgisayar.com/king-k462-grill-master-izgara-ve-tost-makinesi.html",
+    "https://www.king.com.tr/products/k462-grillmaster-tost-makinesi-2000-watt"
+  ],
+  "verification_notes": [
+    "King GrillMaster 2000W modelinin üretici katalog ve ticari model numarası K462'dir (K-462).",
+    "Görselde raf kenarında kısmen görünen KSM-2448 kodu bu ürüne değil, yan rafta bulunan Kiwi KSM-2448 tost makinesine aittir."
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "folder": "tefal-fv8042-2900w-50g-min-270g-boost",
+  "brand": "Tefal",
+  "model": "FV8042",
+  "name": "Puregliss FV8042",
+  "variant": "2900W 50g/min 270g boost",
+  "identity_confidence": "high",
+  "source_folders": [
+    "tefal-fv5770-fv9e50-fv8042-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/tefal-fv5770-fv9e50-fv8042-buharli-utu/past_tefal-fv5770-fv9e50-fv8042-buharli-utu_00000087.jpg"
+  ],
+  "readable_evidence": [
+    "Tefal",
+    "PUREGLISS",
+    "QUICK & EFFICIENT",
+    "2900",
+    "50",
+    "270",
+    "MICRO-CALC FILTER"
+  ],
+  "issues": [
+    "Storage shelf photo behind a payment counter containing multiple iron models; no single deliberate primary subject.",
+    "Alphanumeric model codes (e.g. FV8042, FV5770, FV9E50) mentioned in folder name are not legibly confirmed on the Tefal boxes beyond the line names 'PUREGLISS' and 'ULTIMATE PURE'."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "2900 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmIWxTlA_Jo9NKrGDJbE97Fay3g8eUeQkwX136oAr-JUj8Oh9sctd0_XrWvbYHAN47WhzGV7XBPr7jkwYzSWhJJJfjSvzUU985JUdAesodHDqt2oqIKu2Fh_ITVkymjv994C-zhaJOZ3igMrF7M6wqd9N1EMv7WuUNoOAwtioxvKOm4ue-qVQ="
+    },
+    {
+      "label": "Sürekli Buhar Çıkışı",
+      "value": "50 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmIWxTlA_Jo9NKrGDJbE97Fay3g8eUeQkwX136oAr-JUj8Oh9sctd0_XrWvbYHAN47WhzGV7XBPr7jkwYzSWhJJJfjSvzUU985JUdAesodHDqt2oqIKu2Fh_ITVkymjv994C-zhaJOZ3igMrF7M6wqd9N1EMv7WuUNoOAwtioxvKOm4ue-qVQ="
+    },
+    {
+      "label": "Şok Buhar Gücü",
+      "value": "270 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmIWxTlA_Jo9NKrGDJbE97Fay3g8eUeQkwX136oAr-JUj8Oh9sctd0_XrWvbYHAN47WhzGV7XBPr7jkwYzSWhJJJfjSvzUU985JUdAesodHDqt2oqIKu2Fh_ITVkymjv994C-zhaJOZ3igMrF7M6wqd9N1EMv7WuUNoOAwtioxvKOm4ue-qVQ="
+    },
+    {
+      "label": "Taban Teknolojisi",
+      "value": "Durilium Airglide AutoClean",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmIWxTlA_Jo9NKrGDJbE97Fay3g8eUeQkwX136oAr-JUj8Oh9sctd0_XrWvbYHAN47WhzGV7XBPr7jkwYzSWhJJJfjSvzUU985JUdAesodHDqt2oqIKu2Fh_ITVkymjv994C-zhaJOZ3igMrF7M6wqd9N1EMv7WuUNoOAwtioxvKOm4ue-qVQ="
+    },
+    {
+      "label": "Kireç Filtresi",
+      "value": "Micro Calc Filter",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmIWxTlA_Jo9NKrGDJbE97Fay3g8eUeQkwX136oAr-JUj8Oh9sctd0_XrWvbYHAN47WhzGV7XBPr7jkwYzSWhJJJfjSvzUU985JUdAesodHDqt2oqIKu2Fh_ITVkymjv994C-zhaJOZ3igMrF7M6wqd9N1EMv7WuUNoOAwtioxvKOm4ue-qVQ="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmIWxTlA_Jo9NKrGDJbE97Fay3g8eUeQkwX136oAr-JUj8Oh9sctd0_XrWvbYHAN47WhzGV7XBPr7jkwYzSWhJJJfjSvzUU985JUdAesodHDqt2oqIKu2Fh_ITVkymjv994C-zhaJOZ3igMrF7M6wqd9N1EMv7WuUNoOAwtioxvKOm4ue-qVQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF55yjEvV0fGH5TWSAUH_VDCyMg9tZLMXa0cdx8N32wTljuWTKjNuKU1OebkRBODRHq2zcvfQbNGh_IhwD8Q4C07bfNtRaYY1nkdIyOMGc5nGKRq-961VAl3dojoAeh6PSG4GDqCFkqwDCMvFrF5hOiOX41sHj-npxG7uZyY0fM0lVFWTHhdLRvJn-rfdGx0wYoY3vpC09YYbuUM_7kFDRvPXC-M5TbHpe8InGTeEI="
+  ],
+  "verification_notes": [
+    "The 2900W power, 50 g/min continuous steam, 270 g steam boost, and Micro-Calc Filter uniquely identify the Tefal Puregliss model code as FV8042."
+  ]
+}

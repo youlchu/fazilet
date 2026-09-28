@@ -1,0 +1,61 @@
+{
+  "folder": "goldmaster-by-5315-kirmizi",
+  "brand": "Goldmaster",
+  "model": "BY-5315",
+  "name": "Dem Çay Makinesi",
+  "variant": "Kırmızı",
+  "identity_confidence": "high",
+  "source_folders": [
+    "goldmaster-dem-cay-makinesi"
+  ],
+  "source_images": [
+    "new_images/goldmaster-dem-cay-makinesi/past_goldmaster-dem-cay-makinesi_00000412.jpg"
+  ],
+  "readable_evidence": [
+    "Goldmaster",
+    "DEM",
+    "ÇAY MAKİNESİ",
+    "İLAVE GÖVDE KAPAĞI İLE SU ISITICISI OLARAK KULLANIM"
+  ],
+  "issues": [
+    "The secondary model code printed in the small rectangle beneath 'ÇAY MAKİNESİ' (appears similar to BY-5315) is too blurry to read with certainty."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "2200 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeNIWpOzvzMZsSgYNtqc6uvRCwDvzEXOm4F3DOpfrL0ff8cqFAN-QXlM7aN7EU21VhDIYDV4h8gOZGFS1HsPiCOpvv1SZymwPZFqVGiZe4xx-XiapuET0A9lWQPkWm_Z7AXJDd2bl_TFozCyzYAY9s1WlXuivIVq_VyEhqnfpketan5HBbZdQ9qWEcjAvh6ME-IgIVIe6R6nHEu2BIogrfWJwAv5_ndGFjRT9c"
+    },
+    {
+      "label": "Demlik Malzemesi",
+      "value": "Cam",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeNIWpOzvzMZsSgYNtqc6uvRCwDvzEXOm4F3DOpfrL0ff8cqFAN-QXlM7aN7EU21VhDIYDV4h8gOZGFS1HsPiCOpvv1SZymwPZFqVGiZe4xx-XiapuET0A9lWQPkWm_Z7AXJDd2bl_TFozCyzYAY9s1WlXuivIVq_VyEhqnfpketan5HBbZdQ9qWEcjAvh6ME-IgIVIe6R6nHEu2BIogrfWJwAv5_ndGFjRT9c"
+    },
+    {
+      "label": "Demlik Kapasitesi",
+      "value": "1.0 lt",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeNIWpOzvzMZsSgYNtqc6uvRCwDvzEXOm4F3DOpfrL0ff8cqFAN-QXlM7aN7EU21VhDIYDV4h8gOZGFS1HsPiCOpvv1SZymwPZFqVGiZe4xx-XiapuET0A9lWQPkWm_Z7AXJDd2bl_TFozCyzYAY9s1WlXuivIVq_VyEhqnfpketan5HBbZdQ9qWEcjAvh6ME-IgIVIe6R6nHEu2BIogrfWJwAv5_ndGFjRT9c"
+    },
+    {
+      "label": "Su Isıtıcı Kapasitesi",
+      "value": "2.0 lt",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeNIWpOzvzMZsSgYNtqc6uvRCwDvzEXOm4F3DOpfrL0ff8cqFAN-QXlM7aN7EU21VhDIYDV4h8gOZGFS1HsPiCOpvv1SZymwPZFqVGiZe4xx-XiapuET0A9lWQPkWm_Z7AXJDd2bl_TFozCyzYAY9s1WlXuivIVq_VyEhqnfpketan5HBbZdQ9qWEcjAvh6ME-IgIVIe6R6nHEu2BIogrfWJwAv5_ndGFjRT9c"
+    },
+    {
+      "label": "360 Derece Döner Taban",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeNIWpOzvzMZsSgYNtqc6uvRCwDvzEXOm4F3DOpfrL0ff8cqFAN-QXlM7aN7EU21VhDIYDV4h8gOZGFS1HsPiCOpvv1SZymwPZFqVGiZe4xx-XiapuET0A9lWQPkWm_Z7AXJDd2bl_TFozCyzYAY9s1WlXuivIVq_VyEhqnfpketan5HBbZdQ9qWEcjAvh6ME-IgIVIe6R6nHEu2BIogrfWJwAv5_ndGFjRT9c"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeNIWpOzvzMZsSgYNtqc6uvRCwDvzEXOm4F3DOpfrL0ff8cqFAN-QXlM7aN7EU21VhDIYDV4h8gOZGFS1HsPiCOpvv1SZymwPZFqVGiZe4xx-XiapuET0A9lWQPkWm_Z7AXJDd2bl_TFozCyzYAY9s1WlXuivIVq_VyEhqnfpketan5HBbZdQ9qWEcjAvh6ME-IgIVIe6R6nHEu2BIogrfWJwAv5_ndGFjRT9c",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGywTRFwE01e58hoiMVeApEvfuNL5NkwzahkYu0z0kqeNPYXSn2wA1x3pndN25dhuUX4YXNmU_C8anA4A-nWOMw6fkBUMwMpGZPEm6CzFs8xcSZua1YL0s3nII0uxKwcBbUOZXCJXKu_UJBTzPUAIF5v_fINZseR0AVg9GdGMT9S8Fu7TqvRK6cJlV26b990BoYtEaQ8l9RrPYQm6E8Ov6-JEGLcyocwBa3rYY6"
+  ],
+  "verification_notes": [
+    "The blurred secondary model code beneath 'ÇAY MAKİNESİ' is confirmed to be BY-5315 (with the red variant code listed as BY-5315TK).",
+    "The model series name is 'DEM', while the primary technical model code is BY-5315."
+  ]
+}

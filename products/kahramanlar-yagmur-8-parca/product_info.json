@@ -1,0 +1,60 @@
+{
+  "folder": "kahramanlar-yagmur-8-parca",
+  "brand": "Kahramanlar",
+  "model": "Yağmur",
+  "name": "Yağmur İndüksiyon Tabanlı 8 Parça Tencere Seti",
+  "variant": "8 Parça",
+  "identity_confidence": "high",
+  "source_folders": [
+    "ozkent-gurme-plus-6-parca-celik-tencere-seti"
+  ],
+  "source_images": [
+    "new_images/ozkent-gurme-plus-6-parca-celik-tencere-seti/past_ozkent-gurme-plus-6-parca-celik-tencere-seti_00000117.jpg"
+  ],
+  "readable_evidence": [
+    "KAHRAMANLAR",
+    "Yağmur",
+    "İndüksiyon Tabanlı",
+    "8 Parça Tencere Seti"
+  ],
+  "issues": [
+    "The current folder name specifies Özkent Gurme Plus 6 Parça Çelik Tencere Seti, but the primary centered item is Kahramanlar Yağmur 8 Parça Tencere Seti. Özkent Gurme boxes are partially shown on the right side."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Malzeme",
+      "value": "18/10 Paslanmaz Çelik",
+      "source_url": "https://www.zuccaciyecim.com/uploads/urunler/kahramanlar-yagmur-8-parca-tencere-takimi-9005-6291.webp"
+    },
+    {
+      "label": "Taban Kalınlığı",
+      "value": "0.8 mm",
+      "source_url": "https://www.zuccaciyecim.com/uploads/urunler/kahramanlar-yagmur-8-parca-tencere-takimi-9005-6291.webp"
+    },
+    {
+      "label": "Ocak Uyumu",
+      "value": "Tüm ocak tipleri için uygun (İndüksiyon uyumlu)",
+      "source_url": "https://www.zuccaciyecim.com/uploads/urunler/kahramanlar-yagmur-8-parca-tencere-takimi-9005-6291.webp"
+    },
+    {
+      "label": "Kapak Tipi",
+      "value": "Cam kapak",
+      "source_url": "https://www.zuccaciyecim.com/uploads/urunler/kahramanlar-yagmur-8-parca-tencere-takimi-9005-6291.webp"
+    },
+    {
+      "label": "Kulp Özelliği",
+      "value": "Ergonomik & ısıya dayanıklı kulplar",
+      "source_url": "https://www.zuccaciyecim.com/uploads/urunler/kahramanlar-yagmur-8-parca-tencere-takimi-9005-6291.webp"
+    }
+  ],
+  "source_urls": [
+    "https://www.zuccaciyecim.com/uploads/urunler/kahramanlar-yagmur-8-parca-tencere-takimi-9005-6291.webp",
+    "https://cdn.akakce.com/z/kahramanlar/kahramanlar-yagmur-induksiyon-tabanli-8-parca-seti.jpg"
+  ],
+  "verification_notes": [
+    "The centered primary product in the visual audit corresponds to Kahramanlar Yağmur 8 Parça Tencere Seti, confirming the visually identified details over the folder naming."
+  ]
+}

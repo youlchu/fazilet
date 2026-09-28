@@ -1,0 +1,35 @@
+{
+  "folder": "powertec-ipl-buz-lazer-epilasyon",
+  "brand": "POWERTEC",
+  "model": "",
+  "name": "IPL Buz Lazer Epilasyon",
+  "variant": "",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "powertec-lazer-epilasyon-cihazi"
+  ],
+  "source_images": [
+    "new_images/powertec-lazer-epilasyon-cihazi/past_powertec-lazer-epilasyon-cihazi_00000312.jpg"
+  ],
+  "readable_evidence": [
+    "POWERTEC",
+    "TERCİH EDİLEN MARKA",
+    "IPL",
+    "LAZER",
+    "EPİLASYON"
+  ],
+  "issues": [
+    "Image suffers from significant blur/motion blur, rendering the exact model number unreadable."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4XtUwnR0murPOArS_pqNlQn_xg-CSy2wun14kkRuSK49c8vysGTEwOpb9BO-8l7J-d4OCUoLKGS-OZyiO1kDHvDm3-2NQ45Q_rQzwV64W2ixrQZmRa06ElZWFDBotPvNGQy1cjsynr4XI0-Wr"
+  ],
+  "verification_notes": [
+    "The readable text on the packaging indicates a Powertec IPL laser epilator, but the exact model code is obscured by motion blur.",
+    "Powertec offers multiple IPL epilator models in this category (including TR-999 and TR-9999), preventing definitive confirmation of the exact model."
+  ]
+}

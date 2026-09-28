@@ -1,0 +1,36 @@
+{
+  "folder": "king-teapro-red",
+  "brand": "King",
+  "model": "TeaPro",
+  "name": "TeaPro Inox Tea Maker",
+  "variant": "Red",
+  "identity_confidence": "high",
+  "source_folders": [
+    "king-teapro-cay-makinesi"
+  ],
+  "source_images": [
+    "new_images/king-teapro-cay-makinesi/past_king-teapro-cay-makinesi_00000238.jpg",
+    "new_images/king-teapro-cay-makinesi/past_king-teapro-cay-makinesi_00000243.jpg"
+  ],
+  "readable_evidence": [
+    "king",
+    "TeaPro",
+    "Inox Tea Maker"
+  ],
+  "issues": [
+    "The image set contains four distinct models/material variants of King TeaPro tea makers (Red Inox, Black Plastic, Glass/Cam, and Inox/Silver) across different photos, so there is no single primary product."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjTHVUnW2vKodY--DGZrL7kX-D_NmRfAi70bZaIK0y8q1QQMvV0whefGTQz_yrGa4wu_a2dmOfIagSCj0PCJ_CCOv9JvnjFZSMFyaB6nwKBy6NAvyVObcZP74QkKpiFr37bUsxZND8Xvg3dfR1xfPPFUPwmiPPk8bl2DZDBGk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmTCb3geX_HoT2USWQ-wqMQyHwVwLeIv6_5KKFj7cHYtK-6tEqgr_8q0uVJAI5PmuSVuBB1Qvzzwm47ctYYPdMSWZyEVxvmLmxTuVCCC9Ht2f1nQC1w4zMyC5tLqgo8aUBbAxGSzAUw-_853ksZkvEwEOtbUKrSDLc1Hwk4Q=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyEpNJf5kqAN7dQuuDho3tT3dQbFyAnMlqxiPT_bfGEL_ZuB8RQ_TBarCJeT1LN4VU9wtbhYQB1NN4sTcxFB4_KtkaEtIKW00yJSJBvbDVV9RIg-FFq89Ugq_U-Na2M5lfES2-VrCHvNQ8GlX-FHwJu9qFn73JGmTngk1DwJShu_vE6uxVB_TG56Vfw_DIfU8GfCN24NdmooFxydb8mpqyc9BzXcc="
+  ],
+  "verification_notes": [
+    "The source photos display multiple distinct models and material variants from the King TeaPro product line, including KCM330 (glass), KCM331 (inox), and KCM332 (plastic).",
+    "Because the image set contains multiple conflicting products with no single primary product identified, the exact model cannot be confirmed."
+  ]
+}

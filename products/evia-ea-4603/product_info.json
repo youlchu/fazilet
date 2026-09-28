@@ -1,0 +1,64 @@
+{
+  "folder": "evia-ea-4603",
+  "brand": "Evia",
+  "model": "EA-4603",
+  "name": "Holiday Seyahat Ütüsü",
+  "variant": "",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "evia-holiday-ea-4603-1100-w-seyahat-utusu"
+  ],
+  "source_images": [
+    "new_images/evia-holiday-ea-4603-1100-w-seyahat-utusu/past_evia-holiday-ea-4603-1100-w-seyahat-utusu_00000077.jpg"
+  ],
+  "readable_evidence": [
+    "evia",
+    "HOLIDAY SEYAHAT ÜTÜSÜ",
+    "EA-4603",
+    "1100 Watt"
+  ],
+  "issues": [
+    "The folder contains photographs of two completely different products: Evia Holiday travel irons stored on warehouse shelves in 00000077.jpg, and an Arzum Tripper travel iron shown in 00000330.jpg.",
+    "Because there are two conflicting primary subjects across the reference files, no single primary product exists for this folder.",
+    "Model number EA-4603 on the Evia iron boxes is small and low-contrast, set to medium confidence.",
+    "Smartness SK-1079 Bluetooth scale boxes appear in the lower shelf background of 00000077.jpg."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Taban Tipi",
+      "value": "Nanoseramik gold kaygan seramik taban",
+      "source_url": "https://www.goldmaster.com.tr/idea/jy/08/myassets/products/262/b5e900545ad64738b6767aff7029fe5c-1.jpg?revision=1747381356"
+    },
+    {
+      "label": "Şok Buhar",
+      "value": "45 g",
+      "source_url": "https://www.goldmaster.com.tr/idea/jy/08/myassets/products/262/b5e900545ad64738b6767aff7029fe5c-1.jpg?revision=1747381356"
+    },
+    {
+      "label": "Sürekli Buhar",
+      "value": "12 g",
+      "source_url": "https://www.goldmaster.com.tr/idea/jy/08/myassets/products/262/b5e900545ad64738b6767aff7029fe5c-1.jpg?revision=1747381356"
+    },
+    {
+      "label": "Su Haznesi",
+      "value": "60 ml transparan su tankı",
+      "source_url": "https://www.goldmaster.com.tr/idea/jy/08/myassets/products/262/b5e900545ad64738b6767aff7029fe5c-1.jpg?revision=1747381356"
+    },
+    {
+      "label": "Tasarım Özelliği",
+      "value": "Katlanabilir tutma sapı ve dikey ütüleme desteği",
+      "source_url": "https://www.goldmaster.com.tr/idea/jy/08/myassets/products/262/b5e900545ad64738b6767aff7029fe5c-1.jpg?revision=1747381356"
+    }
+  ],
+  "source_urls": [
+    "https://www.goldmaster.com.tr/idea/jy/08/myassets/products/262/b5e900545ad64738b6767aff7029fe5c-1.jpg?revision=1747381356",
+    "https://www.akakce.com/buharli-utu/en-ucuz-evia-holiday-ea-4603-1100-w-fiyati,614349339.html"
+  ],
+  "verification_notes": [
+    "Evia markası Goldmaster bünyesinde yer alan bir küçük ev aletleri markasıdır.",
+    "Ürün Goldmaster ve perakende satış kanallarında 'Evia Holiday EA-4603 Şok Buharlı Katlanabilir Dikey Ütüleme Özellikli Seyahat Ütüsü' olarak listelenmektedir."
+  ]
+}

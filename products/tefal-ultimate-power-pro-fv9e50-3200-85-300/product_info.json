@@ -1,0 +1,64 @@
+{
+  "folder": "tefal-ultimate-power-pro-fv9e50-3200-85-300",
+  "brand": "Tefal",
+  "model": "Ultimate Power Pro FV9E50",
+  "name": "Buharlı Ütü",
+  "variant": "3200 85 300",
+  "identity_confidence": "high",
+  "source_folders": [
+    "philips-5000-tefal-fv8062-fv9e50-fv8042-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/philips-5000-tefal-fv8062-fv9e50-fv8042-buharli-utu/past_philips-5000-tefal-fv8062-fv9e50-fv8042-buharli-utu_00000088.jpg"
+  ],
+  "readable_evidence": [
+    "Tefal",
+    "ULTIMATE POWER PRO",
+    "POWERFUL & EFFICIENT",
+    "COMPACT STEAM GENERATOR",
+    "3200",
+    "85",
+    "300"
+  ],
+  "issues": [
+    "Shelf storage view containing multiple distinct steam iron packages; no single primary subject is featured.",
+    "Exact alphanumeric model codes (such as FV8062, FV9E50, FV8042) indicated in the folder name are not legibly printed on the visible package faces."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "3200 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwkIkKx19HjBgLRCJb4_Wnsx4u0ZfGXg4bgjE0UnP-lwWEEk6PgxYJL5BvYNlsF0XTTYSgDYKKR9UV6P_UOmIslQEJk_-cAubuTewMZ1exCE79GRC4wCSTzHdBtVgEY2NzQRjBF00wpEQI94D2m7MEooDWouojFqByLGQ3gzI="
+    },
+    {
+      "label": "Sürekli Buhar Çıkışı",
+      "value": "85 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwkIkKx19HjBgLRCJb4_Wnsx4u0ZfGXg4bgjE0UnP-lwWEEk6PgxYJL5BvYNlsF0XTTYSgDYKKR9UV6P_UOmIslQEJk_-cAubuTewMZ1exCE79GRC4wCSTzHdBtVgEY2NzQRjBF00wpEQI94D2m7MEooDWouojFqByLGQ3gzI="
+    },
+    {
+      "label": "Şok Buhar",
+      "value": "300 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwkIkKx19HjBgLRCJb4_Wnsx4u0ZfGXg4bgjE0UnP-lwWEEk6PgxYJL5BvYNlsF0XTTYSgDYKKR9UV6P_UOmIslQEJk_-cAubuTewMZ1exCE79GRC4wCSTzHdBtVgEY2NzQRjBF00wpEQI94D2m7MEooDWouojFqByLGQ3gzI="
+    },
+    {
+      "label": "Taban Teknolojisi",
+      "value": "Durilium AirGlide",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwkIkKx19HjBgLRCJb4_Wnsx4u0ZfGXg4bgjE0UnP-lwWEEk6PgxYJL5BvYNlsF0XTTYSgDYKKR9UV6P_UOmIslQEJk_-cAubuTewMZ1exCE79GRC4wCSTzHdBtVgEY2NzQRjBF00wpEQI94D2m7MEooDWouojFqByLGQ3gzI="
+    },
+    {
+      "label": "Su Haznesi Kapasitesi",
+      "value": "350 ml",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwkIkKx19HjBgLRCJb4_Wnsx4u0ZfGXg4bgjE0UnP-lwWEEk6PgxYJL5BvYNlsF0XTTYSgDYKKR9UV6P_UOmIslQEJk_-cAubuTewMZ1exCE79GRC4wCSTzHdBtVgEY2NzQRjBF00wpEQI94D2m7MEooDWouojFqByLGQ3gzI="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwkIkKx19HjBgLRCJb4_Wnsx4u0ZfGXg4bgjE0UnP-lwWEEk6PgxYJL5BvYNlsF0XTTYSgDYKKR9UV6P_UOmIslQEJk_-cAubuTewMZ1exCE79GRC4wCSTzHdBtVgEY2NzQRjBF00wpEQI94D2m7MEooDWouojFqByLGQ3gzI="
+  ],
+  "verification_notes": [
+    "The package markings 'ULTIMATE POWER PRO', '3200', '85', and '300' correspond to 3200 W power, 85 g/min continuous steam, and 300 g/min steam boost.",
+    "Among the model codes indicated in the folder name, FV8062 and FV8042 belong to the Tefal Puregliss series (3000 W and 2900 W respectively), whereas FV9E50 (marketed in Turkey as FV9E5 / FV9E50 / FV9E50E0) corresponds directly to the Ultimate Power Pro model with matching specifications."
+  ]
+}

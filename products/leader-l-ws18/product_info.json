@@ -1,0 +1,63 @@
+{
+  "folder": "leader-l-ws18",
+  "brand": "LEADER",
+  "model": "L-WS18",
+  "name": "WINDSHAPE 8 i 1 Arada Saç Kurutma ve Şekillendirici",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "leader-l-ws18-sac-sekillendirici"
+  ],
+  "source_images": [
+    "new_images/leader-l-ws18-sac-sekillendirici/past_leader-l-ws18-sac-sekillendirici_00000203.jpg"
+  ],
+  "readable_evidence": [
+    "LEADER®",
+    "WINDSHAPE",
+    "L-WS18",
+    "8 i 1 ARADA SAÇ KURUTMA VE ŞEKİLLENDİRİCİ",
+    "8 IN 1 HAIR DRYER AND STYLER"
+  ],
+  "issues": [
+    "LEADER LP-8100 is visible on an upside-down background shipping carton behind the main product."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Kullanım",
+      "value": "8'i 1 arada salon seviyesinde şekillendirme ve kurutma",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk-wQB6u7ij-M7IzhWrVDekmHn662lkSjKSjMSZCp4VcLYqNxTACocQt4JYg482HrP2ZDo0QOTmTkqkUbGWfyUJC6BLbfB_LbZdWekV73bZAWRcxi-Obz6pwU2sotLFyhh_ezg3xstnv0-B-f-f9kEDNjVCUHKrmlZOvvaJ-2CKi8InwWCnp2ukm1KLzI6HTV39DFMHkGNMCQN"
+    },
+    {
+      "label": "Hava Akımı Teknolojisi",
+      "value": "Havanın dönen bir girdap oluşturmasıyla ısı hasarı riskini azaltır",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk-wQB6u7ij-M7IzhWrVDekmHn662lkSjKSjMSZCp4VcLYqNxTACocQt4JYg482HrP2ZDo0QOTmTkqkUbGWfyUJC6BLbfB_LbZdWekV73bZAWRcxi-Obz6pwU2sotLFyhh_ezg3xstnv0-B-f-f9kEDNjVCUHKrmlZOvvaJ-2CKi8InwWCnp2ukm1KLzI6HTV39DFMHkGNMCQN"
+    },
+    {
+      "label": "Saç Koruma Özelliği",
+      "value": "Saç kütikülünü kapatmaya yardımcı olarak kırılma ve elektriklenmeyi önler",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3a8EHCLi4cSL77UN5rf-zASRtEXXTfM_Elr4-ARsE4gRI_hdIU2sPqe9xj9un4UVKPLbQ7M4FritUk8fIMBm7P1yefDWK2BGBxxfIe-ASoqn7EVB321FfhCpdAKEBtAP_bnxYkq0o-K1Kw5XSZPbCeszkCY5DzGS9nNd8P4NqT-RERMbqSwLbvU8OPbBv_gLc"
+    },
+    {
+      "label": "Kurutma Teknolojisi",
+      "value": "Hava ile akıllı kurutma ve kök uçlarını hedef alan kurutma teknolojisi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3a8EHCLi4cSL77UN5rf-zASRtEXXTfM_Elr4-ARsE4gRI_hdIU2sPqe9xj9un4UVKPLbQ7M4FritUk8fIMBm7P1yefDWK2BGBxxfIe-ASoqn7EVB321FfhCpdAKEBtAP_bnxYkq0o-K1Kw5XSZPbCeszkCY5DzGS9nNd8P4NqT-RERMbqSwLbvU8OPbBv_gLc"
+    },
+    {
+      "label": "Güvenlik ve Hava Ayarı",
+      "value": "Aşırı ısınma emniyeti ve soğuk hava üfleme desteği",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzFSq4Ddrt_yUlazwo_chcx4bW32UobeoG37flRM2U-QpkLSVCkbPoj5uy9uAEwPuYsq_yDLoVBuF_eYPeSlmcXVWtpSyRwT1fQYOsnkNlMei91P9FMs00i1veV5r0iW9OartAtBbasqLtVscWirZTjmWjVntbyekP9tgGRw=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk-wQB6u7ij-M7IzhWrVDekmHn662lkSjKSjMSZCp4VcLYqNxTACocQt4JYg482HrP2ZDo0QOTmTkqkUbGWfyUJC6BLbfB_LbZdWekV73bZAWRcxi-Obz6pwU2sotLFyhh_ezg3xstnv0-B-f-f9kEDNjVCUHKrmlZOvvaJ-2CKi8InwWCnp2ukm1KLzI6HTV39DFMHkGNMCQN",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3a8EHCLi4cSL77UN5rf-zASRtEXXTfM_Elr4-ARsE4gRI_hdIU2sPqe9xj9un4UVKPLbQ7M4FritUk8fIMBm7P1yefDWK2BGBxxfIe-ASoqn7EVB321FfhCpdAKEBtAP_bnxYkq0o-K1Kw5XSZPbCeszkCY5DzGS9nNd8P4NqT-RERMbqSwLbvU8OPbBv_gLc",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzFSq4Ddrt_yUlazwo_chcx4bW32UobeoG37flRM2U-QpkLSVCkbPoj5uy9uAEwPuYsq_yDLoVBuF_eYPeSlmcXVWtpSyRwT1fQYOsnkNlMei91P9FMs00i1veV5r0iW9OartAtBbasqLtVscWirZTjmWjVntbyekP9tgGRw=="
+  ],
+  "verification_notes": [
+    "The model L-WS18 WindShape is confirmed as an 8-in-1 hot air hair styler and dryer by Leader.",
+    "The 'LP-8100' markings visible on the background packaging belong to a Leader portable speaker box, not this hair styler product."
+  ]
+}

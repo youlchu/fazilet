@@ -1,0 +1,32 @@
+{
+  "folder": "philips-2000",
+  "brand": "Philips",
+  "model": "2000",
+  "name": "Epilatör 2000",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "philips-epilator-series-2000-bre228-05"
+  ],
+  "source_images": [
+    "new_images/philips-epilator-series-2000-bre228-05/past_philips-epilator-series-2000-bre228-05_00000095.jpg"
+  ],
+  "readable_evidence": [
+    "PHILIPS",
+    "Epilatör",
+    "2000"
+  ],
+  "issues": [
+    "Specific model code 'bre228-05' is not visible on the packaging; only series designation '2000' is readable."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNH1dLall2kbmCfrojcPUg_ggHVQVbO6kmKrJ_LquDd5OqDjBtutB8-ulCEi-fSph_PClEQPektud12fq14qNeB8YRTx4pUiXHgI6JBUeBkUdeOg8xjEQ8RJ5coSj8gnv0wXtHTRHj8jzqguUs634FoCfrKaILINgV2tzasfho-Aq75N_-GQ=="
+  ],
+  "verification_notes": [
+    "Ambalaj üzerinde yalnızca seri adı '2000' okunabilmekte olup, Philips Epilator Series 2000 altında birden fazla model (ör. BRE228/05, BRE237/05) bulunduğu için spesifik model kodu doğrulanamamıştır."
+  ]
+}

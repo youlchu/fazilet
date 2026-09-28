@@ -1,0 +1,63 @@
+{
+  "folder": "falez-serafit",
+  "brand": "Falez",
+  "model": "Serafit",
+  "name": "7 Parça Set",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "mehtap-orkide-plus-7-parca-tencere-seti"
+  ],
+  "source_images": [
+    "new_images/mehtap-orkide-plus-7-parca-tencere-seti/past_mehtap-orkide-plus-7-parca-tencere-seti_00000061.jpg",
+    "new_images/mehtap-orkide-plus-7-parca-tencere-seti/past_mehtap-orkide-plus-7-parca-tencere-seti_00000126.jpg"
+  ],
+  "readable_evidence": [
+    "Falez",
+    "SERAFİT",
+    "7 PARÇA SET"
+  ],
+  "issues": [
+    "Shelf photograph contains multiple distinct cookware sets: Falez Serafit 7 Parça Set in the foreground and Mehtap Orkide Plus 7 Parça Set in the background.",
+    "Neither product is clearly the single primary subject, so suggested_folder is left empty.",
+    "A third product box on the right edge is partially visible and cut off ('Co...' / 'FIESTA' / 'CES-105')."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Malzeme",
+      "value": "Granit seramik kaplama",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJzm-6RGkIalsrppYSVHBAGGJmHmAelu5rQir2fkSxNzTEW1SIIX9FsoZ7dW_o2X4COT_r5gv9nq_rQYYfnI8czzv_nVRtRr3_JdNTc1sJjZ7qlMtDWY_CyCAIrU7TIvhrUxzuN7cHHp9SDD-ssPyBJsydX6DPvlj7wQ61PFUpmEvLLaFaw6cJtA=="
+    },
+    {
+      "label": "Set İçeriği",
+      "value": "18 cm derin tencere + kapak, 22 cm derin tencere + kapak, 26 cm karnıyarık tencere + kapak, 26 cm tava",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErLc0Q3SirdnA7JfVageY0reSiS70mrtSV9al9I2Did-4zxhk0nmqKb2ys5kmEViZlxCu9931obQFasi_HMThoqGnQ3SVZN3W0bq4N5J7pLrtT9hSynOeH_13SeycTtkzZdUUb9ddyFVOxDftCWP_MYaNBBdLhDht5JD7HS7lNx6PeBNDBvqJJ9Ns="
+    },
+    {
+      "label": "Sağlık Standardı",
+      "value": "PFOA içermez",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJzm-6RGkIalsrppYSVHBAGGJmHmAelu5rQir2fkSxNzTEW1SIIX9FsoZ7dW_o2X4COT_r5gv9nq_rQYYfnI8czzv_nVRtRr3_JdNTc1sJjZ7qlMtDWY_CyCAIrU7TIvhrUxzuN7cHHp9SDD-ssPyBJsydX6DPvlj7wQ61PFUpmEvLLaFaw6cJtA=="
+    },
+    {
+      "label": "Kapak",
+      "value": "Isıya dayanıklı cam kapak",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJzm-6RGkIalsrppYSVHBAGGJmHmAelu5rQir2fkSxNzTEW1SIIX9FsoZ7dW_o2X4COT_r5gv9nq_rQYYfnI8czzv_nVRtRr3_JdNTc1sJjZ7qlMtDWY_CyCAIrU7TIvhrUxzuN7cHHp9SDD-ssPyBJsydX6DPvlj7wQ61PFUpmEvLLaFaw6cJtA=="
+    },
+    {
+      "label": "Kulp",
+      "value": "Isıya dayanıklı ergonomik kulplar",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJzm-6RGkIalsrppYSVHBAGGJmHmAelu5rQir2fkSxNzTEW1SIIX9FsoZ7dW_o2X4COT_r5gv9nq_rQYYfnI8czzv_nVRtRr3_JdNTc1sJjZ7qlMtDWY_CyCAIrU7TIvhrUxzuN7cHHp9SDD-ssPyBJsydX6DPvlj7wQ61PFUpmEvLLaFaw6cJtA=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJzm-6RGkIalsrppYSVHBAGGJmHmAelu5rQir2fkSxNzTEW1SIIX9FsoZ7dW_o2X4COT_r5gv9nq_rQYYfnI8czzv_nVRtRr3_JdNTc1sJjZ7qlMtDWY_CyCAIrU7TIvhrUxzuN7cHHp9SDD-ssPyBJsydX6DPvlj7wQ61PFUpmEvLLaFaw6cJtA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErLc0Q3SirdnA7JfVageY0reSiS70mrtSV9al9I2Did-4zxhk0nmqKb2ys5kmEViZlxCu9931obQFasi_HMThoqGnQ3SVZN3W0bq4N5J7pLrtT9hSynOeH_13SeycTtkzZdUUb9ddyFVOxDftCWP_MYaNBBdLhDht5JD7HS7lNx6PeBNDBvqJJ9Ns="
+  ],
+  "verification_notes": [
+    "Ürün üretici sitesinde Falez Serafit 7 Parça Seramik Kaplama Tencere Seti olarak listelenmektedir.",
+    "Model kodu bazı perakendecilerde SRT1017 olarak geçmektedir."
+  ]
+}

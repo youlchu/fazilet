@@ -1,0 +1,58 @@
+{
+  "folder": "kahramanlar-stone-28-cm",
+  "brand": "KAHRAMANLAR",
+  "model": "STONE",
+  "name": "BASIK TENCERE",
+  "variant": "28 CM",
+  "identity_confidence": "high",
+  "source_folders": [
+    "kahramanlar-stone-28-cm-basik-tencere"
+  ],
+  "source_images": [
+    "new_images/kahramanlar-stone-28-cm-basik-tencere/past_kahramanlar-stone-28-cm-basik-tencere_00000363.jpg"
+  ],
+  "readable_evidence": [
+    "KAHRAMANLAR",
+    "STONE",
+    "BASIK TENCERE",
+    "28 CM"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Ölçü",
+      "value": "28 cm",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJcywgbOtz9yBBmZW3EoazPeiZ0CBQvAW9-KYJjXStxwSqM4h7j628zeRaaoTy9uDR1KXZdikWsTJJKH2DARJOLu2fCe-FxvzcNg0TpeB4Ove8MnCstIB_7QihcuZFU4A6OAI-rKKyFnExU17lz1N9eSmtxCQjXHV3WAKX2IPSqewvm4ioLtZGzUlj8Si54uT4Ziv_wGbV35PTaV6b"
+    },
+    {
+      "label": "Tencere Tipi",
+      "value": "Basık",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJcywgbOtz9yBBmZW3EoazPeiZ0CBQvAW9-KYJjXStxwSqM4h7j628zeRaaoTy9uDR1KXZdikWsTJJKH2DARJOLu2fCe-FxvzcNg0TpeB4Ove8MnCstIB_7QihcuZFU4A6OAI-rKKyFnExU17lz1N9eSmtxCQjXHV3WAKX2IPSqewvm4ioLtZGzUlj8Si54uT4Ziv_wGbV35PTaV6b"
+    },
+    {
+      "label": "Kapak Malzemesi",
+      "value": "Cam",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJcywgbOtz9yBBmZW3EoazPeiZ0CBQvAW9-KYJjXStxwSqM4h7j628zeRaaoTy9uDR1KXZdikWsTJJKH2DARJOLu2fCe-FxvzcNg0TpeB4Ove8MnCstIB_7QihcuZFU4A6OAI-rKKyFnExU17lz1N9eSmtxCQjXHV3WAKX2IPSqewvm4ioLtZGzUlj8Si54uT4Ziv_wGbV35PTaV6b"
+    },
+    {
+      "label": "Sap Malzemesi",
+      "value": "Metal",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJcywgbOtz9yBBmZW3EoazPeiZ0CBQvAW9-KYJjXStxwSqM4h7j628zeRaaoTy9uDR1KXZdikWsTJJKH2DARJOLu2fCe-FxvzcNg0TpeB4Ove8MnCstIB_7QihcuZFU4A6OAI-rKKyFnExU17lz1N9eSmtxCQjXHV3WAKX2IPSqewvm4ioLtZGzUlj8Si54uT4Ziv_wGbV35PTaV6b"
+    },
+    {
+      "label": "Materyal",
+      "value": "Döküm",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQvQwKSsIsnhLBWseCOa81wxN7ZiKbJBDjYGOBpd3LwV1yy8JX2K4SIC2-czgXtTJDgSwsJPZK7lqPPpvpHnzPF9kii01ffsJNrU63YBKMKhwi9aNHcmnbwI6VZKyS6DatmTMjquXp4a6VY302cfDwPBREYSBaAv3gKdgW6Q6A1FVsE0XTsMK-Zos0Fctts60="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJcywgbOtz9yBBmZW3EoazPeiZ0CBQvAW9-KYJjXStxwSqM4h7j628zeRaaoTy9uDR1KXZdikWsTJJKH2DARJOLu2fCe-FxvzcNg0TpeB4Ove8MnCstIB_7QihcuZFU4A6OAI-rKKyFnExU17lz1N9eSmtxCQjXHV3WAKX2IPSqewvm4ioLtZGzUlj8Si54uT4Ziv_wGbV35PTaV6b",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQvQwKSsIsnhLBWseCOa81wxN7ZiKbJBDjYGOBpd3LwV1yy8JX2K4SIC2-czgXtTJDgSwsJPZK7lqPPpvpHnzPF9kii01ffsJNrU63YBKMKhwi9aNHcmnbwI6VZKyS6DatmTMjquXp4a6VY302cfDwPBREYSBaAv3gKdgW6Q6A1FVsE0XTsMK-Zos0Fctts60="
+  ],
+  "verification_notes": [
+    "The product is cataloged under manufacturer and retailer listings as Kahramanlar Stone Basık/Karnıyarık Tencere (Product Code: 3402), 28 cm."
+  ]
+}

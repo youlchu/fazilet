@@ -1,0 +1,59 @@
+{
+  "folder": "cvs-dn-3908-red-50-lt",
+  "brand": "CVS",
+  "model": "DN 3908",
+  "name": "Gurme Maxi Zaman Ayarlı Elektrikli Fırın",
+  "variant": "Red 50 Lt",
+  "identity_confidence": "high",
+  "source_folders": [
+    "cvs-dn-3908-gurme-maxi-50-l-midi-firin"
+  ],
+  "source_images": [
+    "new_images/cvs-dn-3908-gurme-maxi-50-l-midi-firin/past_cvs-dn-3908-gurme-maxi-50-l-midi-firin_00000200.jpg"
+  ],
+  "readable_evidence": [
+    "CVS",
+    "Gurme Maxi",
+    "Zaman Ayarlı Elektrikli Fırın",
+    "50 Lt GENİŞ HACİM",
+    "DN 3908"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Termostat",
+      "value": "50°C – 320°C ayarlanabilir termostat",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlKeUJoJvdRp9GOBZskkCUU7rGHVoh4HI7_83XCVacRBkdsTHR0yvupWmxaHXGCSzIJkQUhCXcJORGrJKSbrFTVgIk7iv27C-KTt9-wib0OA9zR4YJNoX7X1ltpx6_vCoWHHKusICNY7LydKI9az0d6PtsLh3tU4CGriTzap-dT9rk"
+    },
+    {
+      "label": "Zamanlayıcı",
+      "value": "Zamanlayıcı ve uyarı zili",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlKeUJoJvdRp9GOBZskkCUU7rGHVoh4HI7_83XCVacRBkdsTHR0yvupWmxaHXGCSzIJkQUhCXcJORGrJKSbrFTVgIk7iv27C-KTt9-wib0OA9zR4YJNoX7X1ltpx6_vCoWHHKusICNY7LydKI9az0d6PtsLh3tU4CGriTzap-dT9rk"
+    },
+    {
+      "label": "Fonksiyon",
+      "value": "Izgara ve fırın fonksiyonu",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlKeUJoJvdRp9GOBZskkCUU7rGHVoh4HI7_83XCVacRBkdsTHR0yvupWmxaHXGCSzIJkQUhCXcJORGrJKSbrFTVgIk7iv27C-KTt9-wib0OA9zR4YJNoX7X1ltpx6_vCoWHHKusICNY7LydKI9az0d6PtsLh3tU4CGriTzap-dT9rk"
+    },
+    {
+      "label": "Ön Cam",
+      "value": "Yüksek ısıya dayanıklı temperli ön cam",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlKeUJoJvdRp9GOBZskkCUU7rGHVoh4HI7_83XCVacRBkdsTHR0yvupWmxaHXGCSzIJkQUhCXcJORGrJKSbrFTVgIk7iv27C-KTt9-wib0OA9zR4YJNoX7X1ltpx6_vCoWHHKusICNY7LydKI9az0d6PtsLh3tU4CGriTzap-dT9rk"
+    },
+    {
+      "label": "Isıtıcı Rezistans",
+      "value": "Üst ve alt ısıtıcı rezistans",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlKeUJoJvdRp9GOBZskkCUU7rGHVoh4HI7_83XCVacRBkdsTHR0yvupWmxaHXGCSzIJkQUhCXcJORGrJKSbrFTVgIk7iv27C-KTt9-wib0OA9zR4YJNoX7X1ltpx6_vCoWHHKusICNY7LydKI9az0d6PtsLh3tU4CGriTzap-dT9rk"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlKeUJoJvdRp9GOBZskkCUU7rGHVoh4HI7_83XCVacRBkdsTHR0yvupWmxaHXGCSzIJkQUhCXcJORGrJKSbrFTVgIk7iv27C-KTt9-wib0OA9zR4YJNoX7X1ltpx6_vCoWHHKusICNY7LydKI9az0d6PtsLh3tU4CGriTzap-dT9rk",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlMbSil3Er07McETzaLR0ZwTDJZwfFcpKYPH7KKqNZ4pTi6ZB6gzJwvFYnTimCM2P9pmsnx-KmBpky_9GWxTGJRzDPXBKnuSNhI_PqKQDfWTI0S146sYPQXKjENz3CwK-ufx1gfMIQcgPdlel8piCYGXCMB2A0PY4a9piDV8BSiONtCmHJFVDGYrzobWjHVC_7pA=="
+  ],
+  "verification_notes": [
+    "Product verified under Turkish retail listings as CVS DN 3908 Gurme Maxi / Gurme Maxx 50 Lt Midi Fırın."
+  ]
+}

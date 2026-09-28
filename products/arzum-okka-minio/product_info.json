@@ -1,0 +1,48 @@
+{
+  "folder": "arzum-okka-minio",
+  "brand": "Arzum",
+  "model": "OKKA MINIO",
+  "name": "Türk Kahvesi Makinesi",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "arzum-okka-minio-turk-kahvesi-makinesi"
+  ],
+  "source_images": [
+    "new_images/arzum-okka-minio-turk-kahvesi-makinesi/past_arzum-okka-minio-turk-kahvesi-makinesi_00000471.jpg"
+  ],
+  "readable_evidence": [
+    "arzum",
+    "OKKA",
+    "MINIO",
+    "TÜRK KAHVESİ MAKİNESİ"
+  ],
+  "issues": [
+    "The primary packaging has edge wear, creasing, and corner damage.",
+    "Multiple secondary products and boxes are visible in the background and foreground."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Fincan Kapasitesi",
+      "value": "4 fincan",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmb2So5OJG-G-7DzivE56e_wiRSOr_1klg0-ubGZCJNMrDAI8CF87bP02tqh9ZZ6vS5P0GL_L94YoYcB05GEsnCy0zwg_TkJrb9RcTdXM4nOzm9E7G7SZSl3Yn54HOsbffs9CPpqVc7R3fETur5PkXf7_WN-S32oRP1LU="
+    },
+    {
+      "label": "Emniyet Sistemi",
+      "value": "Taşma önleyici sistem",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmb2So5OJG-G-7DzivE56e_wiRSOr_1klg0-ubGZCJNMrDAI8CF87bP02tqh9ZZ6vS5P0GL_L94YoYcB05GEsnCy0zwg_TkJrb9RcTdXM4nOzm9E7G7SZSl3Yn54HOsbffs9CPpqVc7R3fETur5PkXf7_WN-S32oRP1LU="
+    },
+    {
+      "label": "Uyarı Sistemi",
+      "value": "Sesli ve ışıklı uyarı sistemi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmb2So5OJG-G-7DzivE56e_wiRSOr_1klg0-ubGZCJNMrDAI8CF87bP02tqh9ZZ6vS5P0GL_L94YoYcB05GEsnCy0zwg_TkJrb9RcTdXM4nOzm9E7G7SZSl3Yn54HOsbffs9CPpqVc7R3fETur5PkXf7_WN-S32oRP1LU="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmb2So5OJG-G-7DzivE56e_wiRSOr_1klg0-ubGZCJNMrDAI8CF87bP02tqh9ZZ6vS5P0GL_L94YoYcB05GEsnCy0zwg_TkJrb9RcTdXM4nOzm9E7G7SZSl3Yn54HOsbffs9CPpqVc7R3fETur5PkXf7_WN-S32oRP1LU="
+  ],
+  "verification_notes": []
+}

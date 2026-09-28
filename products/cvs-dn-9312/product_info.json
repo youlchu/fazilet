@@ -1,0 +1,58 @@
+{
+  "folder": "cvs-dn-9312",
+  "brand": "CVS",
+  "model": "DN 9312",
+  "name": "Yaşam Elektrikli Su Isıtıcısı",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "cvs-dn-9312-yasam-cam-kettle"
+  ],
+  "source_images": [
+    "new_images/cvs-dn-9312-yasam-cam-kettle/past_cvs-dn-9312-yasam-cam-kettle_00000357.jpg"
+  ],
+  "readable_evidence": [
+    "CVS",
+    "Yaşam",
+    "Elektrikli Su Isıtıcısı",
+    "DN 9312"
+  ],
+  "issues": [
+    "CVS Turkish coffee makers are visible on the lower shelf, but their specific model numbers cannot be read with certainty."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Kapasite",
+      "value": "1.8 L",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0uEplyvbkojzg9NKXZkAIhbPIF50dckAsG8f6xVdiEfSzHBfpw1rzZVOoI3DSNnzfsMLVDHT7cCOSckQj3QZNbMiWIMfTspk_vpJ_TipwVUphF1wPMcC18ioN7A75db5a6W-bNRmngrRo2XtX1YVdyUQwYnYOp2K-IKeb1XU="
+    },
+    {
+      "label": "Materyal",
+      "value": "Cam",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0uEplyvbkojzg9NKXZkAIhbPIF50dckAsG8f6xVdiEfSzHBfpw1rzZVOoI3DSNnzfsMLVDHT7cCOSckQj3QZNbMiWIMfTspk_vpJ_TipwVUphF1wPMcC18ioN7A75db5a6W-bNRmngrRo2XtX1YVdyUQwYnYOp2K-IKeb1XU="
+    },
+    {
+      "label": "Rezistans Tipi",
+      "value": "Gizli",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0uEplyvbkojzg9NKXZkAIhbPIF50dckAsG8f6xVdiEfSzHBfpw1rzZVOoI3DSNnzfsMLVDHT7cCOSckQj3QZNbMiWIMfTspk_vpJ_TipwVUphF1wPMcC18ioN7A75db5a6W-bNRmngrRo2XtX1YVdyUQwYnYOp2K-IKeb1XU="
+    },
+    {
+      "label": "Otomatik Kapanma",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0uEplyvbkojzg9NKXZkAIhbPIF50dckAsG8f6xVdiEfSzHBfpw1rzZVOoI3DSNnzfsMLVDHT7cCOSckQj3QZNbMiWIMfTspk_vpJ_TipwVUphF1wPMcC18ioN7A75db5a6W-bNRmngrRo2XtX1YVdyUQwYnYOp2K-IKeb1XU="
+    },
+    {
+      "label": "Susuz Çalışmayı Önleme",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0uEplyvbkojzg9NKXZkAIhbPIF50dckAsG8f6xVdiEfSzHBfpw1rzZVOoI3DSNnzfsMLVDHT7cCOSckQj3QZNbMiWIMfTspk_vpJ_TipwVUphF1wPMcC18ioN7A75db5a6W-bNRmngrRo2XtX1YVdyUQwYnYOp2K-IKeb1XU="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0uEplyvbkojzg9NKXZkAIhbPIF50dckAsG8f6xVdiEfSzHBfpw1rzZVOoI3DSNnzfsMLVDHT7cCOSckQj3QZNbMiWIMfTspk_vpJ_TipwVUphF1wPMcC18ioN7A75db5a6W-bNRmngrRo2XtX1YVdyUQwYnYOp2K-IKeb1XU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-QRYYTXGEbdC0nzD1nr1eXTKcw5e_HP8JPQgivPR-bNxTX2gFlkmDw6bD6H5-pxlyW1HgyNpEVrW54D0SMKFZC3KxWwBd5aUhfzXU7sREIdW1rl8Kb6Lgsg7EHR0RCpBTOni1oJR6vbDXk7X8TQm9s9939uFq8E_xvJ3k-0OM"
+  ],
+  "verification_notes": []
+}

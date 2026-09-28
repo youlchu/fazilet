@@ -1,0 +1,62 @@
+{
+  "folder": "braun-st710-iontec-technology-slim-plates",
+  "brand": "Braun",
+  "model": "ST710",
+  "name": "Satin Hair 7 Straightener",
+  "variant": "IONTEC Technology / Slim Plates",
+  "identity_confidence": "high",
+  "source_folders": [
+    "braun-satin-hair-7-sac-sekillendirici"
+  ],
+  "source_images": [
+    "new_images/braun-satin-hair-7-sac-sekillendirici/past_braun-satin-hair-7-sac-sekillendirici_00000439.jpg"
+  ],
+  "readable_evidence": [
+    "BRAUN",
+    "Satin Hair 7",
+    "IONTEC Technology",
+    "Straightener ST710 Slim Plates"
+  ],
+  "issues": [
+    "A partially visible box above shows text mentioning ceramic tourmaline and keratin coated plates, but the brand and model are cropped out."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "İyon Teknolojisi",
+      "value": "IONTEC",
+      "source_url": "https://www.trendyol.com/braun/satin-hair-7-iontec-st710-sac-duzlestirici-81652831-p-1383863"
+    },
+    {
+      "label": "Sıcaklık Aralığı",
+      "value": "130 °C - 200 °C",
+      "source_url": "https://www.teknosa.com/braun-satin-hair-es2-st710-sac-duzlestirici-p-120200232"
+    },
+    {
+      "label": "Sıcaklık Kademesi",
+      "value": "15 kademe",
+      "source_url": "https://www.vatanbilgisayar.com/braun-st-710-es-2-sac-duzlestirici.html"
+    },
+    {
+      "label": "Plaka Materyali",
+      "value": "Seramik",
+      "source_url": "https://www.vatanbilgisayar.com/braun-st-710-es-2-sac-duzlestirici.html"
+    },
+    {
+      "label": "Isınma Süresi",
+      "value": "40 saniye",
+      "source_url": "https://www.vatanbilgisayar.com/braun-st-710-es-2-sac-duzlestirici.html"
+    }
+  ],
+  "source_urls": [
+    "https://www.trendyol.com/braun/satin-hair-7-iontec-st710-sac-duzlestirici-81652831-p-1383863",
+    "https://www.teknosa.com/braun-satin-hair-es2-st710-sac-duzlestirici-p-120200232",
+    "https://www.vatanbilgisayar.com/braun-st-710-es-2-sac-duzlestirici.html"
+  ],
+  "verification_notes": [
+    "Ürün Braun Satin Hair 7 ST710 (ES2) IONTEC saç düzleştirici olarak doğrulanmıştır.",
+    "Görseldeki üst kutuda yer alan kısmi metin başka bir ürüne ait olup ana ürünü etkilememektedir."
+  ]
+}

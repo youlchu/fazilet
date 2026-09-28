@@ -1,0 +1,59 @@
+{
+  "folder": "farg-pro-clean-epa-1609",
+  "brand": "farg",
+  "model": "Pro Clean Epa-1609",
+  "name": "Buharlı Temizlik Makinesi",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "farg-pro-clean-epa-1609-buharli-temizleyici"
+  ],
+  "source_images": [
+    "new_images/farg-pro-clean-epa-1609-buharli-temizleyici/past_farg-pro-clean-epa-1609-buharli-temizleyici_00000500.jpg"
+  ],
+  "readable_evidence": [
+    "farg",
+    "Pro Clean Epa-1609",
+    "BUHARLI TEMİZLİK MAKİNESİ",
+    "5 BAR BUHARLI TEMİZLEYİCİ"
+  ],
+  "issues": [
+    "Surrounding boxes on the shelf are partially visible and cut off (e.g., a top box marked 'CB-101A Buharlı Temizlik Makinesi', a red 'farg' box on the right, and a lower-right box showing partial text 'Piran... CB-103A'), but their complete brand/model identities cannot be verified reliably."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "2000 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExnImXXDm7A_KvMyNa5AQPB2yTRNzzT5LbvJ4lg93OVUYAmFyGDQGxZ0GO0ab8wytFaAPoBVuSEYz1KFW5165ZPWxWXw4jgjaLc66ZPUZvY9V_9bA8NPdcRpyVyV3cFH-Lcri3W2bTFwvPszjkx3tAFLDgD0lFVvdHTFbZ5UPrGd0F"
+    },
+    {
+      "label": "Çalışma Basıncı",
+      "value": "2–5 bar",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExnImXXDm7A_KvMyNa5AQPB2yTRNzzT5LbvJ4lg93OVUYAmFyGDQGxZ0GO0ab8wytFaAPoBVuSEYz1KFW5165ZPWxWXw4jgjaLc66ZPUZvY9V_9bA8NPdcRpyVyV3cFH-Lcri3W2bTFwvPszjkx3tAFLDgD0lFVvdHTFbZ5UPrGd0F"
+    },
+    {
+      "label": "Buhar Tankı Kapasitesi",
+      "value": "2 L (Önerilen: 1.8 L)",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExnImXXDm7A_KvMyNa5AQPB2yTRNzzT5LbvJ4lg93OVUYAmFyGDQGxZ0GO0ab8wytFaAPoBVuSEYz1KFW5165ZPWxWXw4jgjaLc66ZPUZvY9V_9bA8NPdcRpyVyV3cFH-Lcri3W2bTFwvPszjkx3tAFLDgD0lFVvdHTFbZ5UPrGd0F"
+    },
+    {
+      "label": "Isınma Süresi",
+      "value": "Yaklaşık 8 dakika",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExnImXXDm7A_KvMyNa5AQPB2yTRNzzT5LbvJ4lg93OVUYAmFyGDQGxZ0GO0ab8wytFaAPoBVuSEYz1KFW5165ZPWxWXw4jgjaLc66ZPUZvY9V_9bA8NPdcRpyVyV3cFH-Lcri3W2bTFwvPszjkx3tAFLDgD0lFVvdHTFbZ5UPrGd0F"
+    },
+    {
+      "label": "Kesintisiz Buhar Süresi",
+      "value": "35 dakika",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExnImXXDm7A_KvMyNa5AQPB2yTRNzzT5LbvJ4lg93OVUYAmFyGDQGxZ0GO0ab8wytFaAPoBVuSEYz1KFW5165ZPWxWXw4jgjaLc66ZPUZvY9V_9bA8NPdcRpyVyV3cFH-Lcri3W2bTFwvPszjkx3tAFLDgD0lFVvdHTFbZ5UPrGd0F"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExnImXXDm7A_KvMyNa5AQPB2yTRNzzT5LbvJ4lg93OVUYAmFyGDQGxZ0GO0ab8wytFaAPoBVuSEYz1KFW5165ZPWxWXw4jgjaLc66ZPUZvY9V_9bA8NPdcRpyVyV3cFH-Lcri3W2bTFwvPszjkx3tAFLDgD0lFVvdHTFbZ5UPrGd0F"
+  ],
+  "verification_notes": [
+    "Ürün üreticinin resmi web sitesinde 'Farg Pro Clean Epa-1609 Çok Fonksiyonlu Buharlı Temizlik Makinesi' olarak teyit edilmiştir."
+  ]
+}

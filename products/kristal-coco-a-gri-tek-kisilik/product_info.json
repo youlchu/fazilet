@@ -1,0 +1,61 @@
+{
+  "folder": "kristal-coco-a-gri-tek-kisilik",
+  "brand": "KRİSTAL",
+  "model": "COCO",
+  "name": "PİKE TAKIMI",
+  "variant": "A.GRİ TEK KİŞİLİK",
+  "identity_confidence": "high",
+  "source_folders": [
+    "kristal-coco-a-gri-pike-takimi"
+  ],
+  "source_images": [
+    "new_images/kristal-coco-a-gri-pike-takimi/past_kristal-coco-a-gri-pike-takimi_00000297.jpg"
+  ],
+  "readable_evidence": [
+    "KRİSTAL",
+    "PİKE TAKIMI",
+    "COCO A.GRİ",
+    "TEK KİŞİLİK",
+    "Pike / Pique : 160 x 230 cm",
+    "ZORLU"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Model",
+      "value": "Coco",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqAeYi3Aq-VFc5ephWYbg93zzjSMcDF2LCNFHO1tjAKIltTtFFLgGp3cNyldgYMXM41UDFaxj4Dyh3UicTuKFenXVnBnWY_KF80CH2oz8HcfV3rfelzurlwWhqjTlFOKtAHQ=="
+    },
+    {
+      "label": "Beden",
+      "value": "Tek Kişilik",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqAeYi3Aq-VFc5ephWYbg93zzjSMcDF2LCNFHO1tjAKIltTtFFLgGp3cNyldgYMXM41UDFaxj4Dyh3UicTuKFenXVnBnWY_KF80CH2oz8HcfV3rfelzurlwWhqjTlFOKtAHQ=="
+    },
+    {
+      "label": "Renk",
+      "value": "Gri",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqAeYi3Aq-VFc5ephWYbg93zzjSMcDF2LCNFHO1tjAKIltTtFFLgGp3cNyldgYMXM41UDFaxj4Dyh3UicTuKFenXVnBnWY_KF80CH2oz8HcfV3rfelzurlwWhqjTlFOKtAHQ=="
+    },
+    {
+      "label": "Barkod",
+      "value": "8698285081306",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ1ihFLgSf4CFLDzSe80e0MLK73RAcDLbj_oQGUhqpdEbdOhHUM-3Ruil5PdbWYmEI-RNL5mb758fXyRdt9sUWL469sQjLYnuUqhZm-wyjvrwFrDXbgrAD13ySgZwLMFXv8EoF63h132zLLQzeL53Tkm75GL3q_t-ef2RL2votTDuaGPuHCZ-r3xx14eso4bHfp0IH"
+    },
+    {
+      "label": "Üretici",
+      "value": "Zorlu Tekstil (Taç)",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ1ihFLgSf4CFLDzSe80e0MLK73RAcDLbj_oQGUhqpdEbdOhHUM-3Ruil5PdbWYmEI-RNL5mb758fXyRdt9sUWL469sQjLYnuUqhZm-wyjvrwFrDXbgrAD13ySgZwLMFXv8EoF63h132zLLQzeL53Tkm75GL3q_t-ef2RL2votTDuaGPuHCZ-r3xx14eso4bHfp0IH"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqAeYi3Aq-VFc5ephWYbg93zzjSMcDF2LCNFHO1tjAKIltTtFFLgGp3cNyldgYMXM41UDFaxj4Dyh3UicTuKFenXVnBnWY_KF80CH2oz8HcfV3rfelzurlwWhqjTlFOKtAHQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ1ihFLgSf4CFLDzSe80e0MLK73RAcDLbj_oQGUhqpdEbdOhHUM-3Ruil5PdbWYmEI-RNL5mb758fXyRdt9sUWL469sQjLYnuUqhZm-wyjvrwFrDXbgrAD13ySgZwLMFXv8EoF63h132zLLQzeL53Tkm75GL3q_t-ef2RL2votTDuaGPuHCZ-r3xx14eso4bHfp0IH"
+  ],
+  "verification_notes": [
+    "Kristal is a home textile brand produced by Zorlu Tekstil / Taç.",
+    "The Coco single pique set (Tek Kişilik Pike Takımı) in light grey (A.Gri / Gri) is cataloged under barcode 8698285081306."
+  ]
+}

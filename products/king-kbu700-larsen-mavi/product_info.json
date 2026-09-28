@@ -1,0 +1,60 @@
+{
+  "folder": "king-kbu700-larsen-mavi",
+  "brand": "King",
+  "model": "KBÜ700 Larsen",
+  "name": "King KBÜ700 Larsen Buharlı Ütü",
+  "variant": "Mavi",
+  "identity_confidence": "high",
+  "source_folders": [
+    "king-larsen-karina-osborn-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/king-larsen-karina-osborn-buharli-utu/past_king-larsen-karina-osborn-buharli-utu_00000069.jpg"
+  ],
+  "readable_evidence": [
+    "king",
+    "LARSEN",
+    "BUHARLI ÜTÜ"
+  ],
+  "issues": [
+    "The image displays three distinct boxed products stacked together (King Larsen, King Karina, King Osborn steam irons); no single product is the exclusive primary subject."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "2600 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHKhQTlGDk66gb15DXesfaJW8k_IPGQsKzOMtd3gAHKrvpo6aibg1Qip6snJfatWo4j_kt546SU3sgVl7oqzm1NkFlsN5muL3Y_fCYWSkYAFFP7UzktzTTMuGMsjCkkVV9fgC9jEj4jn66KINUp1RWiylZUg=="
+    },
+    {
+      "label": "Taban",
+      "value": "Seramik taban",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHKhQTlGDk66gb15DXesfaJW8k_IPGQsKzOMtd3gAHKrvpo6aibg1Qip6snJfatWo4j_kt546SU3sgVl7oqzm1NkFlsN5muL3Y_fCYWSkYAFFP7UzktzTTMuGMsjCkkVV9fgC9jEj4jn66KINUp1RWiylZUg=="
+    },
+    {
+      "label": "Dikey Buhar",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHKhQTlGDk66gb15DXesfaJW8k_IPGQsKzOMtd3gAHKrvpo6aibg1Qip6snJfatWo4j_kt546SU3sgVl7oqzm1NkFlsN5muL3Y_fCYWSkYAFFP7UzktzTTMuGMsjCkkVV9fgC9jEj4jn66KINUp1RWiylZUg=="
+    },
+    {
+      "label": "Damlama Emniyeti",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHKhQTlGDk66gb15DXesfaJW8k_IPGQsKzOMtd3gAHKrvpo6aibg1Qip6snJfatWo4j_kt546SU3sgVl7oqzm1NkFlsN5muL3Y_fCYWSkYAFFP7UzktzTTMuGMsjCkkVV9fgC9jEj4jn66KINUp1RWiylZUg=="
+    },
+    {
+      "label": "Su Tankı Kapasitesi",
+      "value": "285 ml",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQghTiUgSRSEL3uErkf_aOXv8CXekx3A4pKi2Y8MZGHp1g6SRDJO9_47HshjkFNHd4xdB8NZ5-yM8c3AwqU9GfnpeanVDbs3crryioiZFa2CgohC4H_qsFY3FDKCUUm7QfhoC042GCbRRlLrRu8O_qp32g5EOmA2A="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHKhQTlGDk66gb15DXesfaJW8k_IPGQsKzOMtd3gAHKrvpo6aibg1Qip6snJfatWo4j_kt546SU3sgVl7oqzm1NkFlsN5muL3Y_fCYWSkYAFFP7UzktzTTMuGMsjCkkVV9fgC9jEj4jn66KINUp1RWiylZUg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQghTiUgSRSEL3uErkf_aOXv8CXekx3A4pKi2Y8MZGHp1g6SRDJO9_47HshjkFNHd4xdB8NZ5-yM8c3AwqU9GfnpeanVDbs3crryioiZFa2CgohC4H_qsFY3FDKCUUm7QfhoC042GCbRRlLrRu8O_qp32g5EOmA2A="
+  ],
+  "verification_notes": [
+    "The official manufacturer model code for the King Larsen steam iron is KBÜ700.",
+    "The source image shows multiple stacked boxes; this verification covers the King Larsen buharlı ütü."
+  ]
+}

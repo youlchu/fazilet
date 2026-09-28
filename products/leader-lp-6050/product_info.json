@@ -1,0 +1,55 @@
+{
+  "folder": "leader-lp-6050",
+  "brand": "LEADER",
+  "model": "LP-6050",
+  "name": "Portatif Aktif Ses Sistemi",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "leader-lp-6050-tasinabilir-ses-sistemi"
+  ],
+  "source_images": [
+    "new_images/leader-lp-6050-tasinabilir-ses-sistemi/past_leader-lp-6050-tasinabilir-ses-sistemi_00000269.jpg"
+  ],
+  "readable_evidence": [
+    "LEADER",
+    "LP-6050",
+    "PORTATİF AKTİF SES SİSTEMİ"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Çıkış Gücü",
+      "value": "500W PMPO / 50W RMS",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZToIBCgHns_syRBdyLA0_GvlUNGVgGdvlSgwVAGM_drPSn9DnZyYIqMUD61CABHSTg4ao9bY5ohbfsP3JVeQKxQceATVuliAWsTQzsORmJ96OJ3RF5yu7L2RLg2txng8X4IqZv15CFuMxqrqlKSAf1w=="
+    },
+    {
+      "label": "Hoparlör Yapısı",
+      "value": "2 x 6.5\" Woofer + 1.5\" Tweeter",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZToIBCgHns_syRBdyLA0_GvlUNGVgGdvlSgwVAGM_drPSn9DnZyYIqMUD61CABHSTg4ao9bY5ohbfsP3JVeQKxQceATVuliAWsTQzsORmJ96OJ3RF5yu7L2RLg2txng8X4IqZv15CFuMxqrqlKSAf1w=="
+    },
+    {
+      "label": "Bluetooth Versiyonu",
+      "value": "Bluetooth 5.0",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZToIBCgHns_syRBdyLA0_GvlUNGVgGdvlSgwVAGM_drPSn9DnZyYIqMUD61CABHSTg4ao9bY5ohbfsP3JVeQKxQceATVuliAWsTQzsORmJ96OJ3RF5yu7L2RLg2txng8X4IqZv15CFuMxqrqlKSAf1w=="
+    },
+    {
+      "label": "Mikrofon",
+      "value": "Kablosuz UHF el mikrofonu dahil",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZToIBCgHns_syRBdyLA0_GvlUNGVgGdvlSgwVAGM_drPSn9DnZyYIqMUD61CABHSTg4ao9bY5ohbfsP3JVeQKxQceATVuliAWsTQzsORmJ96OJ3RF5yu7L2RLg2txng8X4IqZv15CFuMxqrqlKSAf1w=="
+    },
+    {
+      "label": "Aydınlatma",
+      "value": "6 modlu RGB LED",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZToIBCgHns_syRBdyLA0_GvlUNGVgGdvlSgwVAGM_drPSn9DnZyYIqMUD61CABHSTg4ao9bY5ohbfsP3JVeQKxQceATVuliAWsTQzsORmJ96OJ3RF5yu7L2RLg2txng8X4IqZv15CFuMxqrqlKSAf1w=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZToIBCgHns_syRBdyLA0_GvlUNGVgGdvlSgwVAGM_drPSn9DnZyYIqMUD61CABHSTg4ao9bY5ohbfsP3JVeQKxQceATVuliAWsTQzsORmJ96OJ3RF5yu7L2RLg2txng8X4IqZv15CFuMxqrqlKSAf1w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnWWDcMGmpUWh9iHTZxOU0_pAaHAHfMZr3YO8lV1tn_cfwzBOjP2ET2RQXDIXp4TSW9v489td65GKVILPhqdzxqwvXX3m2Bhm4K_hOdxDx-5AD2RUSyy2S_pJOShz6Pv2KRfDKu-rS3Wd1nkQ1BgmGX8cQY4Vzd-Mw4S3OjMPic8H37LcEd0Fe1CRtnLymFQ=="
+  ],
+  "verification_notes": []
+}

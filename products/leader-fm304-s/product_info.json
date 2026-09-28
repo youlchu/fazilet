@@ -1,0 +1,48 @@
+{
+  "folder": "leader-fm304-s",
+  "brand": "Leader",
+  "model": "FM304-S",
+  "name": "Yüksek Hızlı Saç Kurutma Makinesi Standı",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "leader-fm304-s-sac-kurutma-makinesi-standi"
+  ],
+  "source_images": [
+    "new_images/leader-fm304-s-sac-kurutma-makinesi-standi/past_leader-fm304-s-sac-kurutma-makinesi-standi_00000350.jpg"
+  ],
+  "readable_evidence": [
+    "FM304-S",
+    "FM304 Yüksek Hızlı Saç Kurutma Makinesi Sıtandı"
+  ],
+  "issues": [
+    "Brand name 'Leader' from folder name is not visible in the image."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Ürün Tipi",
+      "value": "Saç kurutma makinesi metal standı / ayağı",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPrZUINBW17_DI-PY_SfnP1pLlcu1QcpoI5N2PRAvzYf0hJtqgLQbjWgm4EMXiXLuHQI-2azzSfSF67tAh9kPv51EdsaXf1m5DIOnZN6q-zK3Yu8RTp0ILUfih-Cx52gRSuM51HyUsaTM9Xbd6Ylz7UsCv4dPS5D54R81D"
+    },
+    {
+      "label": "Gövde Yapısı",
+      "value": "Metal ayak yapısı",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPrZUINBW17_DI-PY_SfnP1pLlcu1QcpoI5N2PRAvzYf0hJtqgLQbjWgm4EMXiXLuHQI-2azzSfSF67tAh9kPv51EdsaXf1m5DIOnZN6q-zK3Yu8RTp0ILUfih-Cx52gRSuM51HyUsaTM9Xbd6Ylz7UsCv4dPS5D54R81D"
+    },
+    {
+      "label": "Uyumlu Model",
+      "value": "Leader FM-304 yüksek hızlı saç kurutma makinesi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPrZUINBW17_DI-PY_SfnP1pLlcu1QcpoI5N2PRAvzYf0hJtqgLQbjWgm4EMXiXLuHQI-2azzSfSF67tAh9kPv51EdsaXf1m5DIOnZN6q-zK3Yu8RTp0ILUfih-Cx52gRSuM51HyUsaTM9Xbd6Ylz7UsCv4dPS5D54R81D"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPrZUINBW17_DI-PY_SfnP1pLlcu1QcpoI5N2PRAvzYf0hJtqgLQbjWgm4EMXiXLuHQI-2azzSfSF67tAh9kPv51EdsaXf1m5DIOnZN6q-zK3Yu8RTp0ILUfih-Cx52gRSuM51HyUsaTM9Xbd6Ylz7UsCv4dPS5D54R81D"
+  ],
+  "verification_notes": [
+    "Leader markası perakendeci listelemeleri üzerinden FM-304 / FM-304-S model eşleşmesiyle doğrulanmıştır.",
+    "Kutu üzerinde 'Sıtandı' olarak yazılan kelime Türkçe standart yazımı olan 'Standı' şeklinde düzeltilmiştir."
+  ]
+}

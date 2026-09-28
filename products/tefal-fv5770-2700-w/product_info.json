@@ -1,0 +1,62 @@
+{
+  "folder": "tefal-fv5770-2700-w",
+  "brand": "Tefal",
+  "model": "FV5770",
+  "name": "Tefal Easygliss Plus FV5770 Buharlı Ütü",
+  "variant": "2700 W",
+  "identity_confidence": "high",
+  "source_folders": [
+    "tefal-fv5770-easygliss-plus-2700-w-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/tefal-fv5770-easygliss-plus-2700-w-buharli-utu/past_tefal-fv5770-easygliss-plus-2700-w-buharli-utu_00000295.jpg"
+  ],
+  "readable_evidence": [
+    "Tefal",
+    "EASYGLISS PLUS",
+    "2700 WATTS",
+    "UP TO 50 g/min",
+    "UP TO 240 g/min",
+    "DURILIUM AIRGLIDE",
+    "AUTO OFF"
+  ],
+  "issues": [
+    "The specific model code 'FV5770' is not visible on this face of the packaging; only the product line 'Easygliss Plus' and specification '2700 WATTS' are legible."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "2700 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWDu46reb9Okux_1Lzezm2evtZQUW4CEJ1H5pwCqLTT9trzK2HkJvHrhzOEvxO-nroaBKa5ak3Fzi_nVexqt0eKnB3SJvDLXmf6xAO0OkGsreQE190O3Ebf3wm5u-I_rRTr-iJtCW1llBzML0mnZc-E08LZnnO9jKj6rw0"
+    },
+    {
+      "label": "Sürekli Buhar Çıkışı",
+      "value": "50 g/dk'ya kadar",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWDu46reb9Okux_1Lzezm2evtZQUW4CEJ1H5pwCqLTT9trzK2HkJvHrhzOEvxO-nroaBKa5ak3Fzi_nVexqt0eKnB3SJvDLXmf6xAO0OkGsreQE190O3Ebf3wm5u-I_rRTr-iJtCW1llBzML0mnZc-E08LZnnO9jKj6rw0"
+    },
+    {
+      "label": "Şok Buhar",
+      "value": "240 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWDu46reb9Okux_1Lzezm2evtZQUW4CEJ1H5pwCqLTT9trzK2HkJvHrhzOEvxO-nroaBKa5ak3Fzi_nVexqt0eKnB3SJvDLXmf6xAO0OkGsreQE190O3Ebf3wm5u-I_rRTr-iJtCW1llBzML0mnZc-E08LZnnO9jKj6rw0"
+    },
+    {
+      "label": "Taban Teknolojisi",
+      "value": "Durilium Airglide",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWDu46reb9Okux_1Lzezm2evtZQUW4CEJ1H5pwCqLTT9trzK2HkJvHrhzOEvxO-nroaBKa5ak3Fzi_nVexqt0eKnB3SJvDLXmf6xAO0OkGsreQE190O3Ebf3wm5u-I_rRTr-iJtCW1llBzML0mnZc-E08LZnnO9jKj6rw0"
+    },
+    {
+      "label": "Otomatik Kapanma",
+      "value": "Var (Auto Off)",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWDu46reb9Okux_1Lzezm2evtZQUW4CEJ1H5pwCqLTT9trzK2HkJvHrhzOEvxO-nroaBKa5ak3Fzi_nVexqt0eKnB3SJvDLXmf6xAO0OkGsreQE190O3Ebf3wm5u-I_rRTr-iJtCW1llBzML0mnZc-E08LZnnO9jKj6rw0"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWDu46reb9Okux_1Lzezm2evtZQUW4CEJ1H5pwCqLTT9trzK2HkJvHrhzOEvxO-nroaBKa5ak3Fzi_nVexqt0eKnB3SJvDLXmf6xAO0OkGsreQE190O3Ebf3wm5u-I_rRTr-iJtCW1llBzML0mnZc-E08LZnnO9jKj6rw0"
+  ],
+  "verification_notes": [
+    "The packaging specifications (2700 W, up to 50 g/min continuous steam, up to 240 g/min boost, Durilium Airglide soleplate, and Auto Off) uniquely match manufacturer model code FV5770."
+  ]
+}

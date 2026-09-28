@@ -1,0 +1,60 @@
+{
+  "folder": "sarex-sr-7000-easy-fit-1500-w",
+  "brand": "Sarex",
+  "model": "SR-7000 Easy Fit",
+  "name": "SR-7000 Easy Fit Sıcak Hava Fritözü",
+  "variant": "1500 W",
+  "identity_confidence": "high",
+  "source_folders": [
+    "sarex-easyfry-airfryer"
+  ],
+  "source_images": [
+    "new_images/sarex-easyfry-airfryer/past_sarex-easyfry-airfryer_00000505.jpg"
+  ],
+  "readable_evidence": [
+    "sarex",
+    "houseware",
+    "easy Fit",
+    "Sıcak Hava Fritözü",
+    "1500 W"
+  ],
+  "issues": [
+    "Current folder name indicates 'easyfry', but the packaging clearly identifies the product model line as 'easy Fit'."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Isıtma Gücü",
+      "value": "1500 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_5w6KcOx0Jw0CDQ153Oqzvb7yKneh8Ifh1OFnbTH13Pi_2xfx2YjMErxWHZbzQvG84nIqoYt4caEx4uu4gz_O0r5ys_uehYS1_AI81M_2sUND_GSB0EDavDLNAhg2x88NyRSyImd3g1VZwnDHdnOSEAAGkdRS"
+    },
+    {
+      "label": "Hazne Kapasitesi",
+      "value": "5 L çıkarılabilir yapışmaz sepet ve 5.5 L çıkarılabilir yapışmaz tava",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_5w6KcOx0Jw0CDQ153Oqzvb7yKneh8Ifh1OFnbTH13Pi_2xfx2YjMErxWHZbzQvG84nIqoYt4caEx4uu4gz_O0r5ys_uehYS1_AI81M_2sUND_GSB0EDavDLNAhg2x88NyRSyImd3g1VZwnDHdnOSEAAGkdRS"
+    },
+    {
+      "label": "Kontrol Paneli",
+      "value": "Dokunmatik dijital panel ve LCD gösterge",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_5w6KcOx0Jw0CDQ153Oqzvb7yKneh8Ifh1OFnbTH13Pi_2xfx2YjMErxWHZbzQvG84nIqoYt4caEx4uu4gz_O0r5ys_uehYS1_AI81M_2sUND_GSB0EDavDLNAhg2x88NyRSyImd3g1VZwnDHdnOSEAAGkdRS"
+    },
+    {
+      "label": "Pişirme Programı",
+      "value": "8 ayrı pişirme programı",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_5w6KcOx0Jw0CDQ153Oqzvb7yKneh8Ifh1OFnbTH13Pi_2xfx2YjMErxWHZbzQvG84nIqoYt4caEx4uu4gz_O0r5ys_uehYS1_AI81M_2sUND_GSB0EDavDLNAhg2x88NyRSyImd3g1VZwnDHdnOSEAAGkdRS"
+    },
+    {
+      "label": "Sıcaklık Aralığı",
+      "value": "80°C - 200°C arasında ayarlanabilir ısı ayarı",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_5w6KcOx0Jw0CDQ153Oqzvb7yKneh8Ifh1OFnbTH13Pi_2xfx2YjMErxWHZbzQvG84nIqoYt4caEx4uu4gz_O0r5ys_uehYS1_AI81M_2sUND_GSB0EDavDLNAhg2x88NyRSyImd3g1VZwnDHdnOSEAAGkdRS"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_5w6KcOx0Jw0CDQ153Oqzvb7yKneh8Ifh1OFnbTH13Pi_2xfx2YjMErxWHZbzQvG84nIqoYt4caEx4uu4gz_O0r5ys_uehYS1_AI81M_2sUND_GSB0EDavDLNAhg2x88NyRSyImd3g1VZwnDHdnOSEAAGkdRS"
+  ],
+  "verification_notes": [
+    "The product model code is officially designated as SR-7000 Easy Fit by Sarex."
+  ]
+}

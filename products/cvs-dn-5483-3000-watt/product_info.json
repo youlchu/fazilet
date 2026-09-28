@@ -1,0 +1,56 @@
+{
+  "folder": "cvs-dn-5483-3000-watt",
+  "brand": "CVS",
+  "model": "DN 5483",
+  "name": "FİRUZE Seramik Tabanlı Buharlı Ütü",
+  "variant": "3000 WATT",
+  "identity_confidence": "high",
+  "source_folders": [
+    "cvs-dn-5483-firuze-3000-w-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/cvs-dn-5483-firuze-3000-w-buharli-utu/past_cvs-dn-5483-firuze-3000-w-buharli-utu_00000076.jpg"
+  ],
+  "readable_evidence": [
+    "CVS",
+    "FİRUZE",
+    "SERAMİK TABANLI BUHARLI ÜTÜ",
+    "DN 5483",
+    "3000 WATT"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "3000 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMIKW5Ywm5Z1KzLSCFpk_GO1J8y60XmGkdeAwhlxwsUDUrYoRWdGD-mFuHQlplAfxK8SfgduqbldAzr0r7MWwitEfgH_nfS2qhnTqowC0dAJX_gKgLltvyjMHy4osnxi7TcKVRjbHn4YPHiPR5ZkjPq6Xkc0w3nHK_nY-pPdNxT3FBYjfi18KWCA=="
+    },
+    {
+      "label": "Taban Türü",
+      "value": "Seramik",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMIKW5Ywm5Z1KzLSCFpk_GO1J8y60XmGkdeAwhlxwsUDUrYoRWdGD-mFuHQlplAfxK8SfgduqbldAzr0r7MWwitEfgH_nfS2qhnTqowC0dAJX_gKgLltvyjMHy4osnxi7TcKVRjbHn4YPHiPR5ZkjPq6Xkc0w3nHK_nY-pPdNxT3FBYjfi18KWCA=="
+    },
+    {
+      "label": "Damlama Önleme",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMIKW5Ywm5Z1KzLSCFpk_GO1J8y60XmGkdeAwhlxwsUDUrYoRWdGD-mFuHQlplAfxK8SfgduqbldAzr0r7MWwitEfgH_nfS2qhnTqowC0dAJX_gKgLltvyjMHy4osnxi7TcKVRjbHn4YPHiPR5ZkjPq6Xkc0w3nHK_nY-pPdNxT3FBYjfi18KWCA=="
+    },
+    {
+      "label": "Kireç Önleme",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMIKW5Ywm5Z1KzLSCFpk_GO1J8y60XmGkdeAwhlxwsUDUrYoRWdGD-mFuHQlplAfxK8SfgduqbldAzr0r7MWwitEfgH_nfS2qhnTqowC0dAJX_gKgLltvyjMHy4osnxi7TcKVRjbHn4YPHiPR5ZkjPq6Xkc0w3nHK_nY-pPdNxT3FBYjfi18KWCA=="
+    },
+    {
+      "label": "Dikey Buhar",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMIKW5Ywm5Z1KzLSCFpk_GO1J8y60XmGkdeAwhlxwsUDUrYoRWdGD-mFuHQlplAfxK8SfgduqbldAzr0r7MWwitEfgH_nfS2qhnTqowC0dAJX_gKgLltvyjMHy4osnxi7TcKVRjbHn4YPHiPR5ZkjPq6Xkc0w3nHK_nY-pPdNxT3FBYjfi18KWCA=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMIKW5Ywm5Z1KzLSCFpk_GO1J8y60XmGkdeAwhlxwsUDUrYoRWdGD-mFuHQlplAfxK8SfgduqbldAzr0r7MWwitEfgH_nfS2qhnTqowC0dAJX_gKgLltvyjMHy4osnxi7TcKVRjbHn4YPHiPR5ZkjPq6Xkc0w3nHK_nY-pPdNxT3FBYjfi18KWCA=="
+  ],
+  "verification_notes": []
+}

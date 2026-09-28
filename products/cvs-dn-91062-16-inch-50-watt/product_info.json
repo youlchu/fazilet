@@ -1,0 +1,57 @@
+{
+  "folder": "cvs-dn-91062-16-inch-50-watt",
+  "brand": "CVS",
+  "model": "DN 91062",
+  "name": "16\" Ayaklı Vantilatör",
+  "variant": "16 inch / 50 Watt",
+  "identity_confidence": "high",
+  "source_folders": [
+    "cvs-dn-91062-16-inc-ayakli-vantilator"
+  ],
+  "source_images": [
+    "new_images/cvs-dn-91062-16-inc-ayakli-vantilator/past_cvs-dn-91062-16-inc-ayakli-vantilator_00000401.jpg"
+  ],
+  "readable_evidence": [
+    "CVS",
+    "16\" INCH Ayaklı Vantilatör",
+    "Stand Fan",
+    "DN 91062",
+    "50 Watt"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Motor Gücü",
+      "value": "50 Watt",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg6oM2bsFs32QMWo-nH2k8XxcqpH-K7w1LD5AuJQhuraFYlxvAvKrm7d8fUJCQQE75tuzYmi7kCfdD6m-Jv7MRdpwqhZHnG-iQC6q3Nin9SVIFNafJvEirhMvcZAQtMa_a1TPBoqPRKF63aYlTPeaaRJaeVoAOnN3gjqprHA=="
+    },
+    {
+      "label": "Pervane Tipi",
+      "value": "5 kanatlı pervane",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg6oM2bsFs32QMWo-nH2k8XxcqpH-K7w1LD5AuJQhuraFYlxvAvKrm7d8fUJCQQE75tuzYmi7kCfdD6m-Jv7MRdpwqhZHnG-iQC6q3Nin9SVIFNafJvEirhMvcZAQtMa_a1TPBoqPRKF63aYlTPeaaRJaeVoAOnN3gjqprHA=="
+    },
+    {
+      "label": "Hız Kademesi",
+      "value": "3 kademe hız ayarı",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg6oM2bsFs32QMWo-nH2k8XxcqpH-K7w1LD5AuJQhuraFYlxvAvKrm7d8fUJCQQE75tuzYmi7kCfdD6m-Jv7MRdpwqhZHnG-iQC6q3Nin9SVIFNafJvEirhMvcZAQtMa_a1TPBoqPRKF63aYlTPeaaRJaeVoAOnN3gjqprHA=="
+    },
+    {
+      "label": "Salınım",
+      "value": "Sağ-sol salınım",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg6oM2bsFs32QMWo-nH2k8XxcqpH-K7w1LD5AuJQhuraFYlxvAvKrm7d8fUJCQQE75tuzYmi7kCfdD6m-Jv7MRdpwqhZHnG-iQC6q3Nin9SVIFNafJvEirhMvcZAQtMa_a1TPBoqPRKF63aYlTPeaaRJaeVoAOnN3gjqprHA=="
+    },
+    {
+      "label": "Tip",
+      "value": "Ayaklı vantilatör",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnXFQgVc069zG9bUeklvS66kk1McEVFZNZ25Emc-i5CA47nVVrbRHfGFOAusDJYbkCIMn6vxJAHnJhIJw1OwwMqIS77zbzRrDv9t-v6FOr45x341nlE2mdvNA_0OU0wXIugztH0pCuI8dyFi7bdev_kKtwlt0tzU0U9Z6Bw-so"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg6oM2bsFs32QMWo-nH2k8XxcqpH-K7w1LD5AuJQhuraFYlxvAvKrm7d8fUJCQQE75tuzYmi7kCfdD6m-Jv7MRdpwqhZHnG-iQC6q3Nin9SVIFNafJvEirhMvcZAQtMa_a1TPBoqPRKF63aYlTPeaaRJaeVoAOnN3gjqprHA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnXFQgVc069zG9bUeklvS66kk1McEVFZNZ25Emc-i5CA47nVVrbRHfGFOAusDJYbkCIMn6vxJAHnJhIJw1OwwMqIS77zbzRrDv9t-v6FOr45x341nlE2mdvNA_0OU0wXIugztH0pCuI8dyFi7bdev_kKtwlt0tzU0U9Z6Bw-so"
+  ],
+  "verification_notes": []
+}

@@ -1,0 +1,59 @@
+{
+  "folder": "king-kbu703-osborn-kirmizi",
+  "brand": "King",
+  "model": "KBÜ703 Osborn",
+  "name": "King KBÜ703 Osborn Buharlı Ütü",
+  "variant": "Kırmızı",
+  "identity_confidence": "high",
+  "source_folders": [
+    "king-larsen-karina-osborn-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/king-larsen-karina-osborn-buharli-utu/past_king-larsen-karina-osborn-buharli-utu_00000069.jpg"
+  ],
+  "readable_evidence": [
+    "king",
+    "OSBORN",
+    "BUHARLI ÜTÜ"
+  ],
+  "issues": [
+    "The image displays three distinct boxed products stacked together (King Larsen, King Karina, King Osborn steam irons); no single product is the exclusive primary subject."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "2600 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4bd6J2sl4zYbQq2E6zn8QZvJyA-RswGuOlq2ADm2gB05iEblU9APbhX3F0oGOahFAqYc2ziT26O8eovzqKISeMhxt1jSCWrgU7qO_7L0QI1pflVzOvTZZKuBZyyGtwKkh4VPEdYJIpoe2mfSWsN4DzX0="
+    },
+    {
+      "label": "Taban",
+      "value": "Seramik taban",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4bd6J2sl4zYbQq2E6zn8QZvJyA-RswGuOlq2ADm2gB05iEblU9APbhX3F0oGOahFAqYc2ziT26O8eovzqKISeMhxt1jSCWrgU7qO_7L0QI1pflVzOvTZZKuBZyyGtwKkh4VPEdYJIpoe2mfSWsN4DzX0="
+    },
+    {
+      "label": "Su Haznesi Kapasitesi",
+      "value": "285 ml",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4bd6J2sl4zYbQq2E6zn8QZvJyA-RswGuOlq2ADm2gB05iEblU9APbhX3F0oGOahFAqYc2ziT26O8eovzqKISeMhxt1jSCWrgU7qO_7L0QI1pflVzOvTZZKuBZyyGtwKkh4VPEdYJIpoe2mfSWsN4DzX0="
+    },
+    {
+      "label": "Sürekli Buhar Çıkışı",
+      "value": "40 g/dk",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4bd6J2sl4zYbQq2E6zn8QZvJyA-RswGuOlq2ADm2gB05iEblU9APbhX3F0oGOahFAqYc2ziT26O8eovzqKISeMhxt1jSCWrgU7qO_7L0QI1pflVzOvTZZKuBZyyGtwKkh4VPEdYJIpoe2mfSWsN4DzX0="
+    },
+    {
+      "label": "Şok Buhar",
+      "value": "190 g",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4bd6J2sl4zYbQq2E6zn8QZvJyA-RswGuOlq2ADm2gB05iEblU9APbhX3F0oGOahFAqYc2ziT26O8eovzqKISeMhxt1jSCWrgU7qO_7L0QI1pflVzOvTZZKuBZyyGtwKkh4VPEdYJIpoe2mfSWsN4DzX0="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4bd6J2sl4zYbQq2E6zn8QZvJyA-RswGuOlq2ADm2gB05iEblU9APbhX3F0oGOahFAqYc2ziT26O8eovzqKISeMhxt1jSCWrgU7qO_7L0QI1pflVzOvTZZKuBZyyGtwKkh4VPEdYJIpoe2mfSWsN4DzX0="
+  ],
+  "verification_notes": [
+    "Model adı ve kodu üretici kataloğunda KBÜ703 Osborn olarak tanımlanmıştır.",
+    "Ürünün orijinal renk seçeneği üreticide Kırmızı / Rose olarak geçmektedir."
+  ]
+}

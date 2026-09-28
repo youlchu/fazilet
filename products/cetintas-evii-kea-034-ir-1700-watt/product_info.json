@@ -1,0 +1,59 @@
+{
+  "folder": "cetintas-evii-kea-034-ir-1700-watt",
+  "brand": "Çetintaş evii",
+  "model": "KEA 034 IR",
+  "name": "Multi Blender Seti",
+  "variant": "1700 WATT",
+  "identity_confidence": "high",
+  "source_folders": [
+    "cetintas-evi-kea-034-ir-1700-w-multi-blender-seti"
+  ],
+  "source_images": [
+    "new_images/cetintas-evi-kea-034-ir-1700-w-multi-blender-seti/past_cetintas-evi-kea-034-ir-1700-w-multi-blender-seti_00000457.jpg"
+  ],
+  "readable_evidence": [
+    "Çetintaş evii",
+    "KEA 034 IR Multi Blender Seti",
+    "1700 WATT",
+    "Çetintaş"
+  ],
+  "issues": [
+    "The brand name on the box is printed as 'Çetintaş evii' with two i's, whereas the current folder uses single 'evi'."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Motor Gücü",
+      "value": "1700 Watt",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiSTcqlVMpPSoLPrK2Q_hAxiDGhHCqRh97W33NRBKz2YEHfCb2ZqQpoqee9kY98BE1xXfH3OijBHkZQEG1u36Def_QA8OSdA_X9dtaMB1Ib4EsNkXMpiLxl8SLQXnBX51iZypL_1EDc5UNx7sydy2p041-9q5i43tfBWOX"
+    },
+    {
+      "label": "Doğrayıcı Hazne Kapasitesi",
+      "value": "1500 ml",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiSTcqlVMpPSoLPrK2Q_hAxiDGhHCqRh97W33NRBKz2YEHfCb2ZqQpoqee9kY98BE1xXfH3OijBHkZQEG1u36Def_QA8OSdA_X9dtaMB1Ib4EsNkXMpiLxl8SLQXnBX51iZypL_1EDc5UNx7sydy2p041-9q5i43tfBWOX"
+    },
+    {
+      "label": "Ölçü Kabı Kapasitesi",
+      "value": "600 ml",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiSTcqlVMpPSoLPrK2Q_hAxiDGhHCqRh97W33NRBKz2YEHfCb2ZqQpoqee9kY98BE1xXfH3OijBHkZQEG1u36Def_QA8OSdA_X9dtaMB1Ib4EsNkXMpiLxl8SLQXnBX51iZypL_1EDc5UNx7sydy2p041-9q5i43tfBWOX"
+    },
+    {
+      "label": "Kullanım Fonksiyonları",
+      "value": "Blender, Mikser, Rondo, Dilimleyici ve Rendeleyici",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiSTcqlVMpPSoLPrK2Q_hAxiDGhHCqRh97W33NRBKz2YEHfCb2ZqQpoqee9kY98BE1xXfH3OijBHkZQEG1u36Def_QA8OSdA_X9dtaMB1Ib4EsNkXMpiLxl8SLQXnBX51iZypL_1EDc5UNx7sydy2p041-9q5i43tfBWOX"
+    },
+    {
+      "label": "Bıçak Yapısı",
+      "value": "Isıya dayanıklı, çift tarafı paslanmaz ikili çelik bıçak",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiSTcqlVMpPSoLPrK2Q_hAxiDGhHCqRh97W33NRBKz2YEHfCb2ZqQpoqee9kY98BE1xXfH3OijBHkZQEG1u36Def_QA8OSdA_X9dtaMB1Ib4EsNkXMpiLxl8SLQXnBX51iZypL_1EDc5UNx7sydy2p041-9q5i43tfBWOX"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiSTcqlVMpPSoLPrK2Q_hAxiDGhHCqRh97W33NRBKz2YEHfCb2ZqQpoqee9kY98BE1xXfH3OijBHkZQEG1u36Def_QA8OSdA_X9dtaMB1Ib4EsNkXMpiLxl8SLQXnBX51iZypL_1EDc5UNx7sydy2p041-9q5i43tfBWOX"
+  ],
+  "verification_notes": [
+    "The product is officially listed under Çetintaş Beyaz Eşya's Evii line as KEA 034 IR Blender Seti with 1700 Watt power rating."
+  ]
+}

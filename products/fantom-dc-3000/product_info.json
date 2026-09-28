@@ -1,0 +1,58 @@
+{
+  "folder": "fantom-dc-3000",
+  "brand": "Fantom",
+  "model": "DC 3000",
+  "name": "Çekici DC 3000",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "fantom-cekici-elektrikli-supurge"
+  ],
+  "source_images": [
+    "new_images/fantom-cekici-elektrikli-supurge/past_fantom-cekici-elektrikli-supurge_00000227.jpg"
+  ],
+  "readable_evidence": [
+    "Fantom",
+    "ÇEKİCİ",
+    "YÜKSEK EMİŞ GÜCÜ"
+  ],
+  "issues": [
+    "Specific alphanumeric model number (e.g., C2350 or similar) is not printed or visible on the front box panel."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Motor Gücü",
+      "value": "850 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE6PNNRWJ1MOYV8MKu2qtYMEIB19iqcwFGlpcbsab8v3dnRJURVj0EP5kCLWWHrTx5N6Suib7uYpHsIWNlz3cvBGDHLhk_M7YS4uBK0-gFdcf1tgSee7Q6T48ZfwE="
+    },
+    {
+      "label": "Toz Kapasitesi",
+      "value": "5 Lt.",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE6PNNRWJ1MOYV8MKu2qtYMEIB19iqcwFGlpcbsab8v3dnRJURVj0EP5kCLWWHrTx5N6Suib7uYpHsIWNlz3cvBGDHLhk_M7YS4uBK0-gFdcf1tgSee7Q6T48ZfwE="
+    },
+    {
+      "label": "Filtreleme",
+      "value": "3 Aşamalı Filtreleme Sistemi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE6PNNRWJ1MOYV8MKu2qtYMEIB19iqcwFGlpcbsab8v3dnRJURVj0EP5kCLWWHrTx5N6Suib7uYpHsIWNlz3cvBGDHLhk_M7YS4uBK0-gFdcf1tgSee7Q6T48ZfwE="
+    },
+    {
+      "label": "Kablo Sarma",
+      "value": "Otomatik",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE6PNNRWJ1MOYV8MKu2qtYMEIB19iqcwFGlpcbsab8v3dnRJURVj0EP5kCLWWHrTx5N6Suib7uYpHsIWNlz3cvBGDHLhk_M7YS4uBK0-gFdcf1tgSee7Q6T48ZfwE="
+    },
+    {
+      "label": "Kablo Uzunluğu",
+      "value": "5 m",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE6PNNRWJ1MOYV8MKu2qtYMEIB19iqcwFGlpcbsab8v3dnRJURVj0EP5kCLWWHrTx5N6Suib7uYpHsIWNlz3cvBGDHLhk_M7YS4uBK0-gFdcf1tgSee7Q6T48ZfwE="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE6PNNRWJ1MOYV8MKu2qtYMEIB19iqcwFGlpcbsab8v3dnRJURVj0EP5kCLWWHrTx5N6Suib7uYpHsIWNlz3cvBGDHLhk_M7YS4uBK0-gFdcf1tgSee7Q6T48ZfwE="
+  ],
+  "verification_notes": [
+    "Kutu üzerinde serinin ticari adı 'Çekici' öne çıkarılsa da Fantom üretici belgelerinde ve ürün kataloğunda model numarası DC 3000 olarak tanımlanmaktadır."
+  ]
+}

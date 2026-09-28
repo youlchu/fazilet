@@ -1,0 +1,60 @@
+{
+  "folder": "leader-l-ws01-blue-rose-gold",
+  "brand": "LEADER",
+  "model": "L-WS01",
+  "name": "WindStraight",
+  "variant": "Blue / Rose Gold",
+  "identity_confidence": "high",
+  "source_folders": [
+    "leader-l-ws01-windstraight-sac-sekillendirici"
+  ],
+  "source_images": [
+    "new_images/leader-l-ws01-windstraight-sac-sekillendirici/past_leader-l-ws01-windstraight-sac-sekillendirici_00000334.jpg"
+  ],
+  "readable_evidence": [
+    "LEADER®",
+    "WindStraight",
+    "L-WS01"
+  ],
+  "issues": [
+    "Two distinct color variants of the same styler design are displayed in the foreground; the retail box explicitly confirms model 'L-WS01' and 'WindStraight' for the blue variant, while the black/purple variant only displays 'LEADER®' directly on the handle."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Maksimum Sıcaklık",
+      "value": "220 Derece",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoPYNS2NZCwKFjVlKkyzNf840-BaApOp_jBmniXclu_MEpXaZ49ptoIrDTobVWNEMQ1OPO5PVQ78gqvIiEJHM4rblRQNAMjIjBlI96axdsGI-psZhbpQspYyNe0VnDRvxN0nAY3XOZz6MWnTmaaUDWhgbwSyl9KSopIHxIl7DVOxhDHSCWE7JsvIfJt7vnlmKMvIU="
+    },
+    {
+      "label": "Isı Ayarı",
+      "value": "3 Kademeli",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoPYNS2NZCwKFjVlKkyzNf840-BaApOp_jBmniXclu_MEpXaZ49ptoIrDTobVWNEMQ1OPO5PVQ78gqvIiEJHM4rblRQNAMjIjBlI96axdsGI-psZhbpQspYyNe0VnDRvxN0nAY3XOZz6MWnTmaaUDWhgbwSyl9KSopIHxIl7DVOxhDHSCWE7JsvIfJt7vnlmKMvIU="
+    },
+    {
+      "label": "Dijital Ekran",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoPYNS2NZCwKFjVlKkyzNf840-BaApOp_jBmniXclu_MEpXaZ49ptoIrDTobVWNEMQ1OPO5PVQ78gqvIiEJHM4rblRQNAMjIjBlI96axdsGI-psZhbpQspYyNe0VnDRvxN0nAY3XOZz6MWnTmaaUDWhgbwSyl9KSopIHxIl7DVOxhDHSCWE7JsvIfJt7vnlmKMvIU="
+    },
+    {
+      "label": "Kurutma Teknolojisi",
+      "value": "Hava ile akıllı kurutma teknolojisi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGXgMhnRd6JXWCr0SXYDNGQpi5TpYRej1b7W_kOFIW38ANKwA7M37RnIWHpTjvZ16Tu7dwnptsHZlHG_O5haya2_FD5U7SCVxaKVI58-w8EeXoeAZVm-UgWnRfaAuIIfymRU1U-KJAoGo07aJeJRW-Us3nCmttTtFnWm1BDVem1CDBDLct9dIWpnmjbA9ZAkrrFR5K98W6QVA6OQ=="
+    },
+    {
+      "label": "Plaka Yapısı",
+      "value": "Hareketli plakalar",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGXgMhnRd6JXWCr0SXYDNGQpi5TpYRej1b7W_kOFIW38ANKwA7M37RnIWHpTjvZ16Tu7dwnptsHZlHG_O5haya2_FD5U7SCVxaKVI58-w8EeXoeAZVm-UgWnRfaAuIIfymRU1U-KJAoGo07aJeJRW-Us3nCmttTtFnWm1BDVem1CDBDLct9dIWpnmjbA9ZAkrrFR5K98W6QVA6OQ=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoPYNS2NZCwKFjVlKkyzNf840-BaApOp_jBmniXclu_MEpXaZ49ptoIrDTobVWNEMQ1OPO5PVQ78gqvIiEJHM4rblRQNAMjIjBlI96axdsGI-psZhbpQspYyNe0VnDRvxN0nAY3XOZz6MWnTmaaUDWhgbwSyl9KSopIHxIl7DVOxhDHSCWE7JsvIfJt7vnlmKMvIU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGXgMhnRd6JXWCr0SXYDNGQpi5TpYRej1b7W_kOFIW38ANKwA7M37RnIWHpTjvZ16Tu7dwnptsHZlHG_O5haya2_FD5U7SCVxaKVI58-w8EeXoeAZVm-UgWnRfaAuIIfymRU1U-KJAoGo07aJeJRW-Us3nCmttTtFnWm1BDVem1CDBDLct9dIWpnmjbA9ZAkrrFR5K98W6QVA6OQ=="
+  ],
+  "verification_notes": [
+    "The model Leader L-WS01 WindStraight (Sıcak Havalı Saç Düzleştirici) is confirmed via Turkish retail listings including Trendyol and Hepsiburada.",
+    "The candidate's visual identification matches the blue and rose gold variant shown on the packaging."
+  ]
+}

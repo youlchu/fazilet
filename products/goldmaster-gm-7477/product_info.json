@@ -1,0 +1,56 @@
+{
+  "folder": "goldmaster-gm-7477",
+  "brand": "Goldmaster",
+  "model": "GM-7477",
+  "name": "Vital Air Fryer",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "goldmaster-vital-airfryer"
+  ],
+  "source_images": [
+    "new_images/goldmaster-vital-airfryer/past_goldmaster-vital-airfryer_00000148.jpg"
+  ],
+  "readable_evidence": [
+    "Goldmaster",
+    "Vital",
+    "Air Fryer",
+    "GM-7477",
+    "1300W PERFORMANCE"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Kapasite",
+      "value": "3.8 L",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjwRLiH9w9TypxjcPD-fs6UEf5RS1kkmA8KWWmTSc0x-MGlDP44vpp4T6Mu5bFDLogra_5bx0kwTj_J9wPqRxqBECcKF37ufA_QDQ1PS7tZBH42dVDN7DF-aNVmU6wBZ-XnfgoeszfjrGM0eHW_SwxwsoQhl_mHZDXONy0yzsg_RvPvTE7rZRsNdEEeTzZQ0Tjxw=="
+    },
+    {
+      "label": "Zamanlayıcı",
+      "value": "60 dakikaya kadar",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjwRLiH9w9TypxjcPD-fs6UEf5RS1kkmA8KWWmTSc0x-MGlDP44vpp4T6Mu5bFDLogra_5bx0kwTj_J9wPqRxqBECcKF37ufA_QDQ1PS7tZBH42dVDN7DF-aNVmU6wBZ-XnfgoeszfjrGM0eHW_SwxwsoQhl_mHZDXONy0yzsg_RvPvTE7rZRsNdEEeTzZQ0Tjxw=="
+    },
+    {
+      "label": "Otomatik Programlar",
+      "value": "8 hazır program",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjwRLiH9w9TypxjcPD-fs6UEf5RS1kkmA8KWWmTSc0x-MGlDP44vpp4T6Mu5bFDLogra_5bx0kwTj_J9wPqRxqBECcKF37ufA_QDQ1PS7tZBH42dVDN7DF-aNVmU6wBZ-XnfgoeszfjrGM0eHW_SwxwsoQhl_mHZDXONy0yzsg_RvPvTE7rZRsNdEEeTzZQ0Tjxw=="
+    },
+    {
+      "label": "Sıcaklık Ayarı",
+      "value": "200 dereceye kadar",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjwRLiH9w9TypxjcPD-fs6UEf5RS1kkmA8KWWmTSc0x-MGlDP44vpp4T6Mu5bFDLogra_5bx0kwTj_J9wPqRxqBECcKF37ufA_QDQ1PS7tZBH42dVDN7DF-aNVmU6wBZ-XnfgoeszfjrGM0eHW_SwxwsoQhl_mHZDXONy0yzsg_RvPvTE7rZRsNdEEeTzZQ0Tjxw=="
+    },
+    {
+      "label": "Hava Sirkülasyonu",
+      "value": "Dinamik hava akımı teknolojisi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjwRLiH9w9TypxjcPD-fs6UEf5RS1kkmA8KWWmTSc0x-MGlDP44vpp4T6Mu5bFDLogra_5bx0kwTj_J9wPqRxqBECcKF37ufA_QDQ1PS7tZBH42dVDN7DF-aNVmU6wBZ-XnfgoeszfjrGM0eHW_SwxwsoQhl_mHZDXONy0yzsg_RvPvTE7rZRsNdEEeTzZQ0Tjxw=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjwRLiH9w9TypxjcPD-fs6UEf5RS1kkmA8KWWmTSc0x-MGlDP44vpp4T6Mu5bFDLogra_5bx0kwTj_J9wPqRxqBECcKF37ufA_QDQ1PS7tZBH42dVDN7DF-aNVmU6wBZ-XnfgoeszfjrGM0eHW_SwxwsoQhl_mHZDXONy0yzsg_RvPvTE7rZRsNdEEeTzZQ0Tjxw=="
+  ],
+  "verification_notes": []
+}

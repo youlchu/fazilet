@@ -1,0 +1,61 @@
+{
+  "folder": "leader-lp121",
+  "brand": "LEADER",
+  "model": "LP121",
+  "name": "PORTABLE WIRELESS SPEAKER",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "leader-lp121-portatif-kablosuz-hoparlor"
+  ],
+  "source_images": [
+    "new_images/leader-lp121-portatif-kablosuz-hoparlor/past_leader-lp121-portatif-kablosuz-hoparlor_00000191.jpg"
+  ],
+  "readable_evidence": [
+    "LEADER®",
+    "LP121",
+    "PORTABLE WIRELESS SPEAKER",
+    "IPX5 Waterproof",
+    "RGB LED"
+  ],
+  "issues": [
+    "The current folder name uses the Turkish description 'portatif-kablosuz-hoparlor', whereas the primary LP121 packaging displays the English name 'PORTABLE WIRELESS SPEAKER'."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Suya Dayanıklılık",
+      "value": "IPX5",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIJeD-fQmNQW4PUqmGoZHXIlN2Y8kcvQK7JIdSx6xYD76WZ0EAsE_GljywGnXiIoz65fr4-4sgI7yXHcByfYliBG1BSQ7CjUn9NMUGVcS3Utv5UJ8CqA8dKcfKFPpsgpKp4AdCbWF7muuI2gXMSoYtGqEwrPu51-X-tnq4IS_KUZQI97lsxaJk1hNLPJk="
+    },
+    {
+      "label": "Ses Çıkış Gücü",
+      "value": "20W RMS",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIJeD-fQmNQW4PUqmGoZHXIlN2Y8kcvQK7JIdSx6xYD76WZ0EAsE_GljywGnXiIoz65fr4-4sgI7yXHcByfYliBG1BSQ7CjUn9NMUGVcS3Utv5UJ8CqA8dKcfKFPpsgpKp4AdCbWF7muuI2gXMSoYtGqEwrPu51-X-tnq4IS_KUZQI97lsxaJk1hNLPJk="
+    },
+    {
+      "label": "Batarya Kapasitesi",
+      "value": "7.4V 4400 mAh",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIJeD-fQmNQW4PUqmGoZHXIlN2Y8kcvQK7JIdSx6xYD76WZ0EAsE_GljywGnXiIoz65fr4-4sgI7yXHcByfYliBG1BSQ7CjUn9NMUGVcS3Utv5UJ8CqA8dKcfKFPpsgpKp4AdCbWF7muuI2gXMSoYtGqEwrPu51-X-tnq4IS_KUZQI97lsxaJk1hNLPJk="
+    },
+    {
+      "label": "Oynatma Süresi",
+      "value": "10 saate kadar",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIJeD-fQmNQW4PUqmGoZHXIlN2Y8kcvQK7JIdSx6xYD76WZ0EAsE_GljywGnXiIoz65fr4-4sgI7yXHcByfYliBG1BSQ7CjUn9NMUGVcS3Utv5UJ8CqA8dKcfKFPpsgpKp4AdCbWF7muuI2gXMSoYtGqEwrPu51-X-tnq4IS_KUZQI97lsxaJk1hNLPJk="
+    },
+    {
+      "label": "Bağlantı ve Fonksiyonlar",
+      "value": "Bluetooth, USB, AUX, FM Radyo ve RGB ışık efekti",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIJeD-fQmNQW4PUqmGoZHXIlN2Y8kcvQK7JIdSx6xYD76WZ0EAsE_GljywGnXiIoz65fr4-4sgI7yXHcByfYliBG1BSQ7CjUn9NMUGVcS3Utv5UJ8CqA8dKcfKFPpsgpKp4AdCbWF7muuI2gXMSoYtGqEwrPu51-X-tnq4IS_KUZQI97lsxaJk1hNLPJk="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIJeD-fQmNQW4PUqmGoZHXIlN2Y8kcvQK7JIdSx6xYD76WZ0EAsE_GljywGnXiIoz65fr4-4sgI7yXHcByfYliBG1BSQ7CjUn9NMUGVcS3Utv5UJ8CqA8dKcfKFPpsgpKp4AdCbWF7muuI2gXMSoYtGqEwrPu51-X-tnq4IS_KUZQI97lsxaJk1hNLPJk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUio8eBGE2ic4VPHiNsUixnfkVe4DIUT7QNOloEcYl9dZDt-BS915LaEl6L7Y9wrBcylNu-_JmRmFtJGU4FbektLOOF6xX2_UYwMr0O1Q8ZRKQJAuZm-wAFfWmatCFvWMrKao2vM3biCPNyNmIFT77J3EL0dw8O6Whvu2GKRyeqtusPTVw8S_vZTK8Zg6KluGsclBrmYe1xn802mf5BPeqJXAo92MEriOBqGlsP0a5TLbyi9xlYEqffmhP0w=="
+  ],
+  "verification_notes": [
+    "Turkish retail listings commonly list the model as 'Leader LP121 / LP-121 Taşınabilir Toplantı Amfisi / Bluetooth Hoparlör', matching the visual packaging designation 'PORTABLE WIRELESS SPEAKER'."
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "folder": "arzum-ar-4075",
+  "brand": "Arzum",
+  "model": "AR 4075",
+  "name": "Pronto Lux 2'si 1 Arada Dikey Elektrikli Süpürge",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "arzum-pronto-lux-dikey-supurge"
+  ],
+  "source_images": [
+    "new_images/arzum-pronto-lux-dikey-supurge/past_arzum-pronto-lux-dikey-supurge_00000407.jpg"
+  ],
+  "readable_evidence": [
+    "arzum",
+    "PRONTO LUX",
+    "AR 4075 2'Sİ 1 ARADA DİKEY ELEKTRİKLİ SÜPÜRGE",
+    "AR 4075 2 IN 1 STICK VACUUM CLEANER",
+    "2'Sİ 1 ARADA KULLANIM",
+    "TORBASIZ KULLANIM"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Kullanım Tipi",
+      "value": "2'si 1 arada (dikey ve el süpürgesi olarak kullanım)",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtvCw-BOUyIILB3QHKqcU4x56s4ppexXPsb6QXKibwJcuB_6unufnHosU9H3G0P_XzrxAIZYPZ5D8V7w_WqMd1_sqPOG-47V62KJg2dIT3AnpzbNcNnSBKK5rZRiCfi03ZCXdztBvzGOMXsYJMfrLqOny2b8fFmJbINJjCxDKJhwhsj-e0nEl8vq0z"
+    },
+    {
+      "label": "Toz Haznesi Kapasitesi",
+      "value": "1,5 L",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtvCw-BOUyIILB3QHKqcU4x56s4ppexXPsb6QXKibwJcuB_6unufnHosU9H3G0P_XzrxAIZYPZ5D8V7w_WqMd1_sqPOG-47V62KJg2dIT3AnpzbNcNnSBKK5rZRiCfi03ZCXdztBvzGOMXsYJMfrLqOny2b8fFmJbINJjCxDKJhwhsj-e0nEl8vq0z"
+    },
+    {
+      "label": "Filtre",
+      "value": "Yıkanabilir toz filtresi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtvCw-BOUyIILB3QHKqcU4x56s4ppexXPsb6QXKibwJcuB_6unufnHosU9H3G0P_XzrxAIZYPZ5D8V7w_WqMd1_sqPOG-47V62KJg2dIT3AnpzbNcNnSBKK5rZRiCfi03ZCXdztBvzGOMXsYJMfrLqOny2b8fFmJbINJjCxDKJhwhsj-e0nEl8vq0z"
+    },
+    {
+      "label": "Süpürme Başlığı",
+      "value": "Üçgen yer başlığı",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtvCw-BOUyIILB3QHKqcU4x56s4ppexXPsb6QXKibwJcuB_6unufnHosU9H3G0P_XzrxAIZYPZ5D8V7w_WqMd1_sqPOG-47V62KJg2dIT3AnpzbNcNnSBKK5rZRiCfi03ZCXdztBvzGOMXsYJMfrLqOny2b8fFmJbINJjCxDKJhwhsj-e0nEl8vq0z"
+    },
+    {
+      "label": "Park Pozisyonu",
+      "value": "Dik konumda saklayabilme",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtvCw-BOUyIILB3QHKqcU4x56s4ppexXPsb6QXKibwJcuB_6unufnHosU9H3G0P_XzrxAIZYPZ5D8V7w_WqMd1_sqPOG-47V62KJg2dIT3AnpzbNcNnSBKK5rZRiCfi03ZCXdztBvzGOMXsYJMfrLqOny2b8fFmJbINJjCxDKJhwhsj-e0nEl8vq0z"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtvCw-BOUyIILB3QHKqcU4x56s4ppexXPsb6QXKibwJcuB_6unufnHosU9H3G0P_XzrxAIZYPZ5D8V7w_WqMd1_sqPOG-47V62KJg2dIT3AnpzbNcNnSBKK5rZRiCfi03ZCXdztBvzGOMXsYJMfrLqOny2b8fFmJbINJjCxDKJhwhsj-e0nEl8vq0z"
+  ],
+  "verification_notes": []
+}

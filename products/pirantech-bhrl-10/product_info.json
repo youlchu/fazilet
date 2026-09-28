@@ -1,0 +1,62 @@
+{
+  "folder": "pirantech-bhrl-10",
+  "brand": "PiranTech",
+  "model": "BHRL-10",
+  "name": "IPL Lazer Epilasyon Cihazı",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "pirantech-bhrl-10-ipl-epilasyon-cihazi"
+  ],
+  "source_images": [
+    "new_images/pirantech-bhrl-10-ipl-epilasyon-cihazi/past_pirantech-bhrl-10-ipl-epilasyon-cihazi_00000096.jpg",
+    "new_images/pirantech-bhrl-10-ipl-epilasyon-cihazi/past_pirantech-bhrl-10-ipl-epilasyon-cihazi_00000391.jpg"
+  ],
+  "readable_evidence": [
+    "PiranTech",
+    "IPL LAZER EPİLASYON CİHAZI",
+    "BHRL-10",
+    "1-9 Enerji Seviyesi"
+  ],
+  "issues": [
+    "The package illustration in past_pirantech-bhrl-10-ipl-epilasyon-cihazi_00000096.jpg displays a white color device whereas past_pirantech-bhrl-10-ipl-epilasyon-cihazi_00000391.jpg displays a gold/bronze color device, though no explicit color variant name is printed on the boxes.",
+    "Partially visible background packages (Lucid Elektronik and a 9-in-1 trimmer) lack clearly legible model identities."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Atış Kapasitesi",
+      "value": "1.000.000'dan fazla atım",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTNck08HV5Cb3CK5M7S163Od6I_CGv9VUWq8Fw4ixg6pOVxdPam94XNCxptvso_fDacNwGR96Sfi4o1O6H8s7_HExmexxAQUq4PnOOs3DFpzczlK0gYas65pH-1xqLrbZ8-6oaQrFQ1mTl9WtmOtT_spPDQzPNkcjzZzcfi-PbKCU_i3z-_YvYYMyaLzp2YmTVE8IyXXlr3LMgrJ-3MKflkarVeJaT1k7y"
+    },
+    {
+      "label": "Güç Seviyesi",
+      "value": "9 ayarlanabilir seviye",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTNck08HV5Cb3CK5M7S163Od6I_CGv9VUWq8Fw4ixg6pOVxdPam94XNCxptvso_fDacNwGR96Sfi4o1O6H8s7_HExmexxAQUq4PnOOs3DFpzczlK0gYas65pH-1xqLrbZ8-6oaQrFQ1mTl9WtmOtT_spPDQzPNkcjzZzcfi-PbKCU_i3z-_YvYYMyaLzp2YmTVE8IyXXlr3LMgrJ-3MKflkarVeJaT1k7y"
+    },
+    {
+      "label": "Soğutma Sistemi",
+      "value": "Buz başlık teknolojisi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTNck08HV5Cb3CK5M7S163Od6I_CGv9VUWq8Fw4ixg6pOVxdPam94XNCxptvso_fDacNwGR96Sfi4o1O6H8s7_HExmexxAQUq4PnOOs3DFpzczlK0gYas65pH-1xqLrbZ8-6oaQrFQ1mTl9WtmOtT_spPDQzPNkcjzZzcfi-PbKCU_i3z-_YvYYMyaLzp2YmTVE8IyXXlr3LMgrJ-3MKflkarVeJaT1k7y"
+    },
+    {
+      "label": "Ekran",
+      "value": "LCD ekran",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTNck08HV5Cb3CK5M7S163Od6I_CGv9VUWq8Fw4ixg6pOVxdPam94XNCxptvso_fDacNwGR96Sfi4o1O6H8s7_HExmexxAQUq4PnOOs3DFpzczlK0gYas65pH-1xqLrbZ8-6oaQrFQ1mTl9WtmOtT_spPDQzPNkcjzZzcfi-PbKCU_i3z-_YvYYMyaLzp2YmTVE8IyXXlr3LMgrJ-3MKflkarVeJaT1k7y"
+    },
+    {
+      "label": "Kullanım Şekli",
+      "value": "Kablolu",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvvWQyi_hRpmkEFQWQxbYeNPbGrZOeJaj5I7dNWfTCQI-TYRmCDv6oFKm4E4VptZEYOjtK-je2ua3kcPJd-Ldr35H6UXzlJIMmRjEvpUsfmho2VomZiNN_OqF3jy92FFpfXnlWSBn61iCWGve25RG2_Yyx6d-hHRA0PEoZJk5Vk8kXeMcrNZwpjafdZQskUES9bWyUtKuLaT3KmuVQLIut9N5Ed_t4eDNhpuroCy9nZySEAkdPztlMosOhiZ6C"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTNck08HV5Cb3CK5M7S163Od6I_CGv9VUWq8Fw4ixg6pOVxdPam94XNCxptvso_fDacNwGR96Sfi4o1O6H8s7_HExmexxAQUq4PnOOs3DFpzczlK0gYas65pH-1xqLrbZ8-6oaQrFQ1mTl9WtmOtT_spPDQzPNkcjzZzcfi-PbKCU_i3z-_YvYYMyaLzp2YmTVE8IyXXlr3LMgrJ-3MKflkarVeJaT1k7y",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvvWQyi_hRpmkEFQWQxbYeNPbGrZOeJaj5I7dNWfTCQI-TYRmCDv6oFKm4E4VptZEYOjtK-je2ua3kcPJd-Ldr35H6UXzlJIMmRjEvpUsfmho2VomZiNN_OqF3jy92FFpfXnlWSBn61iCWGve25RG2_Yyx6d-hHRA0PEoZJk5Vk8kXeMcrNZwpjafdZQskUES9bWyUtKuLaT3KmuVQLIut9N5Ed_t4eDNhpuroCy9nZySEAkdPztlMosOhiZ6C"
+  ],
+  "verification_notes": [
+    "The model BHRL-10 is produced and marketed in both white and gold/bronze color options under the same base model number."
+  ]
+}

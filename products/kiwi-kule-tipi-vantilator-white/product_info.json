@@ -1,0 +1,31 @@
+{
+  "folder": "kiwi-kule-tipi-vantilator-white",
+  "brand": "kiwi",
+  "model": "",
+  "name": "Kule Tipi Vantilatör",
+  "variant": "White",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "kiwi-kule-tipi-vantilator"
+  ],
+  "source_images": [
+    "new_images/kiwi-kule-tipi-vantilator/past_kiwi-kule-tipi-vantilator_00000419.jpg"
+  ],
+  "readable_evidence": [
+    "kiwi"
+  ],
+  "issues": [
+    "Specific model number is not visible on the fan body."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [
+    "https://www.akakce.com/vantilator/kule-tipi,kiwi.html"
+  ],
+  "verification_notes": [
+    "The specific model designation is not visible on the unit.",
+    "Multiple white tower fan models are produced under the Kiwi brand (such as KFAN-7429 and KFAN-7670), preventing definitive identification."
+  ]
+}

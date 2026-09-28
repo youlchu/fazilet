@@ -1,0 +1,61 @@
+{
+  "folder": "fakir-spring",
+  "brand": "Fakir",
+  "model": "Spring",
+  "name": "Buharlı Ütü",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "fakir-spring-2600-w-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/fakir-spring-2600-w-buharli-utu/past_fakir-spring-2600-w-buharli-utu_00000265.jpg",
+    "new_images/fakir-spring-2600-w-buharli-utu/past_fakir-spring-2600-w-buharli-utu_00000290.jpg"
+  ],
+  "readable_evidence": [
+    "Fakir HAUSGERÄTE",
+    "SPRING",
+    "Dampfbügeleisen Steam Iron",
+    "2600 W POWER*",
+    "Spring 2600 W"
+  ],
+  "issues": [
+    "Reference file past_fakir-spring-2600-w-buharli-utu_00000265.jpg is a mobile screenshot of a shopping comparison website displaying multiple color options."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "2600 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHciel9oEM013sITovmMSaRhT-9626cgatJCBt-Rnuz4aJLKRxxkEdDMN9fP2uQXUfEIe22a0JaHW8iCbWoksQhV0TkRyPvrV-370Ijs7bVFichJCMVHQwO0d6ow1kPM4tijxtczKGVum70BcyWp6SyiF-kj9vFXAto9Eh4TZ9UllG-Q=="
+    },
+    {
+      "label": "Su haznesi kapasitesi",
+      "value": "330 ml",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHciel9oEM013sITovmMSaRhT-9626cgatJCBt-Rnuz4aJLKRxxkEdDMN9fP2uQXUfEIe22a0JaHW8iCbWoksQhV0TkRyPvrV-370Ijs7bVFichJCMVHQwO0d6ow1kPM4tijxtczKGVum70BcyWp6SyiF-kj9vFXAto9Eh4TZ9UllG-Q=="
+    },
+    {
+      "label": "Taban türü",
+      "value": "Seramik taban",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHciel9oEM013sITovmMSaRhT-9626cgatJCBt-Rnuz4aJLKRxxkEdDMN9fP2uQXUfEIe22a0JaHW8iCbWoksQhV0TkRyPvrV-370Ijs7bVFichJCMVHQwO0d6ow1kPM4tijxtczKGVum70BcyWp6SyiF-kj9vFXAto9Eh4TZ9UllG-Q=="
+    },
+    {
+      "label": "Damlatma önleme özelliği",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHciel9oEM013sITovmMSaRhT-9626cgatJCBt-Rnuz4aJLKRxxkEdDMN9fP2uQXUfEIe22a0JaHW8iCbWoksQhV0TkRyPvrV-370Ijs7bVFichJCMVHQwO0d6ow1kPM4tijxtczKGVum70BcyWp6SyiF-kj9vFXAto9Eh4TZ9UllG-Q=="
+    },
+    {
+      "label": "Kireç önleme özelliği",
+      "value": "Var",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHciel9oEM013sITovmMSaRhT-9626cgatJCBt-Rnuz4aJLKRxxkEdDMN9fP2uQXUfEIe22a0JaHW8iCbWoksQhV0TkRyPvrV-370Ijs7bVFichJCMVHQwO0d6ow1kPM4tijxtczKGVum70BcyWp6SyiF-kj9vFXAto9Eh4TZ9UllG-Q=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHciel9oEM013sITovmMSaRhT-9626cgatJCBt-Rnuz4aJLKRxxkEdDMN9fP2uQXUfEIe22a0JaHW8iCbWoksQhV0TkRyPvrV-370Ijs7bVFichJCMVHQwO0d6ow1kPM4tijxtczKGVum70BcyWp6SyiF-kj9vFXAto9Eh4TZ9UllG-Q=="
+  ],
+  "verification_notes": [
+    "The product is confirmed as Fakir Spring 2600 W Buharlı Ütü."
+  ]
+}

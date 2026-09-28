@@ -1,0 +1,55 @@
+{
+  "folder": "leader-lt-58",
+  "brand": "LEADER",
+  "model": "LT-58",
+  "name": "Profesyonel Traş Makinesi Saç Sakal Düzeltici",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "leader-lt-58-profesyonel-sac-ve-sakal-kesme-makinesi"
+  ],
+  "source_images": [
+    "new_images/leader-lt-58-profesyonel-sac-ve-sakal-kesme-makinesi/past_leader-lt-58-profesyonel-sac-ve-sakal-kesme-makinesi_00000102.jpg"
+  ],
+  "readable_evidence": [
+    "LEADER",
+    "PROFESYONEL TRAŞ MAKİNESİ",
+    "SAÇ SAKAL DÜZELTİCİ",
+    "MODEL: LT-58"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Kullanım Süresi",
+      "value": "180 dakika kablosuz kullanım",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVtCjU-0XskpBMmISD7Mnp9b4xpKAijwSbcxw3iyUCLaFyk-kaAH_TWkqVkJYY4jLTL1e0A3arhC1hgoQQ06arjBwdT3kfJysEwvF2I6agTBw3C0pG84lR18rV2MROyvTUJze_EFwpZM4oZ95up8LPmWY26p6Xb1SvvLStrpg6o64="
+    },
+    {
+      "label": "Şarj Süresi",
+      "value": "2 saat",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVtCjU-0XskpBMmISD7Mnp9b4xpKAijwSbcxw3iyUCLaFyk-kaAH_TWkqVkJYY4jLTL1e0A3arhC1hgoQQ06arjBwdT3kfJysEwvF2I6agTBw3C0pG84lR18rV2MROyvTUJze_EFwpZM4oZ95up8LPmWY26p6Xb1SvvLStrpg6o64="
+    },
+    {
+      "label": "Batarya Kapasitesi",
+      "value": "1400 mAh Li-ion batarya",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVtCjU-0XskpBMmISD7Mnp9b4xpKAijwSbcxw3iyUCLaFyk-kaAH_TWkqVkJYY4jLTL1e0A3arhC1hgoQQ06arjBwdT3kfJysEwvF2I6agTBw3C0pG84lR18rV2MROyvTUJze_EFwpZM4oZ95up8LPmWY26p6Xb1SvvLStrpg6o64="
+    },
+    {
+      "label": "Bıçak Tipi",
+      "value": "Paslanmaz çelik dar açılı keskin T-bıçak",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVtCjU-0XskpBMmISD7Mnp9b4xpKAijwSbcxw3iyUCLaFyk-kaAH_TWkqVkJYY4jLTL1e0A3arhC1hgoQQ06arjBwdT3kfJysEwvF2I6agTBw3C0pG84lR18rV2MROyvTUJze_EFwpZM4oZ95up8LPmWY26p6Xb1SvvLStrpg6o64="
+    },
+    {
+      "label": "Gövde Malzemesi",
+      "value": "Metal gövde",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVtCjU-0XskpBMmISD7Mnp9b4xpKAijwSbcxw3iyUCLaFyk-kaAH_TWkqVkJYY4jLTL1e0A3arhC1hgoQQ06arjBwdT3kfJysEwvF2I6agTBw3C0pG84lR18rV2MROyvTUJze_EFwpZM4oZ95up8LPmWY26p6Xb1SvvLStrpg6o64="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVtCjU-0XskpBMmISD7Mnp9b4xpKAijwSbcxw3iyUCLaFyk-kaAH_TWkqVkJYY4jLTL1e0A3arhC1hgoQQ06arjBwdT3kfJysEwvF2I6agTBw3C0pG84lR18rV2MROyvTUJze_EFwpZM4oZ95up8LPmWY26p6Xb1SvvLStrpg6o64="
+  ],
+  "verification_notes": []
+}

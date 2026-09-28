@@ -1,0 +1,65 @@
+{
+  "folder": "pirantech-ks-92",
+  "brand": "PiranTech",
+  "model": "KS-92",
+  "name": "PiranTech KS-92 Profesyonel Saç Kurutma Makinesi ve Şekillendirici",
+  "variant": "",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "pirantech-5-in-1-sac-sekillendirme-seti"
+  ],
+  "source_images": [
+    "new_images/pirantech-5-in-1-sac-sekillendirme-seti/past_pirantech-5-in-1-sac-sekillendirme-seti_00000389.jpg"
+  ],
+  "readable_evidence": [
+    "PiranTech",
+    "Teknolojik Ev Çözümleri",
+    "Hızlı Kurutma Başlığı",
+    "Hacimlendirici Başlık",
+    "Fön Başlığı",
+    "Düzleştirme Başlığı",
+    "Bukle Başlığı",
+    "0 757279 262553"
+  ],
+  "issues": [
+    "The visible panel of the packaging shows the brand PiranTech and five hair styling attachments (Hızlı Kurutma Başlığı, Hacimlendirici Başlık, Fön Başlığı, Düzleştirme Başlığı, Bukle Başlığı), but does not explicitly print a model name or product title."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Isı Ayarı",
+      "value": "3 kademeli",
+      "source_url": "https://www.trendyol.com/pirantech/ks-92-profesyonel-sac-kurutma-makinesi-ve-sekillendirici-negatif-iyon-teknolojisi-p-994646194"
+    },
+    {
+      "label": "Hız Ayarı",
+      "value": "3 kademeli",
+      "source_url": "https://www.trendyol.com/pirantech/ks-92-profesyonel-sac-kurutma-makinesi-ve-sekillendirici-negatif-iyon-teknolojisi-p-994646194"
+    },
+    {
+      "label": "Teknoloji",
+      "value": "Negatif iyon",
+      "source_url": "https://www.trendyol.com/pirantech/ks-92-profesyonel-sac-kurutma-makinesi-ve-sekillendirici-negatif-iyon-teknolojisi-p-994646194"
+    },
+    {
+      "label": "Kontrol Paneli",
+      "value": "LED göstergeli",
+      "source_url": "https://www.trendyol.com/pirantech/ks-92-profesyonel-sac-kurutma-makinesi-ve-sekillendirici-negatif-iyon-teknolojisi-p-994646194"
+    },
+    {
+      "label": "Hava Filtresi",
+      "value": "Çıkarılabilir ve temizlenebilir",
+      "source_url": "https://www.trendyol.com/pirantech/ks-92-profesyonel-sac-kurutma-makinesi-ve-sekillendirici-negatif-iyon-teknolojisi-p-994646194"
+    }
+  ],
+  "source_urls": [
+    "https://www.cakapazarlama.com/pirantech-ks-92-iyonlu-profesyonel-sac-kurutma-makinesi-ve-sekillendirici",
+    "https://www.trendyol.com/pirantech/ks-92-profesyonel-sac-kurutma-makinesi-ve-sekillendirici-negatif-iyon-teknolojisi-p-994646194"
+  ],
+  "verification_notes": [
+    "The barcode 0 757279 262553 corresponds directly to the PiranTech KS-92 hair styler and dryer set.",
+    "The package attachment list (Hızlı Kurutma, Hacimlendirici, Fön, Düzleştirme, Bukle) corresponds to the 5-in-1 accessory setup of model KS-92."
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "folder": "arzum-ar6020-pressa-black-red",
+  "brand": "Arzum",
+  "model": "AR6020 Pressa",
+  "name": "Arzum AR6020 Pressa 2400 W Buharlı Ütü",
+  "variant": "Black/Red",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "arzum-ar6020-pressa-2400-w-buharli-utu"
+  ],
+  "source_images": [
+    "new_images/arzum-ar6020-pressa-2400-w-buharli-utu/past_arzum-ar6020-pressa-2400-w-buharli-utu_00000081.jpg"
+  ],
+  "readable_evidence": [
+    "arzum",
+    "PRESSA",
+    "2400 W",
+    "SERAMİK TABAN",
+    "CERAMIC SOLEPLATE"
+  ],
+  "issues": [
+    "Specific alphanumeric model number (such as AR6020) is too blurry/small to read with certainty; 'PRESSA' and '2400 W' are distinctly visible."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "corrected",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "2400 W",
+      "source_url": "https://www.evkur.com.tr/arzum-pressa-buharli-utu"
+    },
+    {
+      "label": "Taban Tipi",
+      "value": "Seramik taban",
+      "source_url": "https://www.evkur.com.tr/arzum-pressa-buharli-utu"
+    },
+    {
+      "label": "Sürekli Buhar Çıkışı",
+      "value": "35 gr/dk",
+      "source_url": "https://www.evkur.com.tr/arzum-pressa-buharli-utu"
+    },
+    {
+      "label": "Şok Buhar",
+      "value": "120 gr",
+      "source_url": "https://www.evkur.com.tr/arzum-pressa-buharli-utu"
+    },
+    {
+      "label": "Su Haznesi Kapasitesi",
+      "value": "320 ml",
+      "source_url": "https://www.evkur.com.tr/arzum-pressa-buharli-utu"
+    }
+  ],
+  "source_urls": [
+    "https://www.evkur.com.tr/arzum-pressa-buharli-utu"
+  ],
+  "verification_notes": [
+    "Model adı üretici ve perakende kayıtları doğrultusunda AR6020 Pressa olarak netleştirilmiştir."
+  ]
+}

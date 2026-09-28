@@ -1,0 +1,61 @@
+{
+  "folder": "kahramanlar-brown-kare-tutku-24-parca",
+  "brand": "KAHRAMANLAR",
+  "model": "BROWN KARE",
+  "name": "Porselen Yemek Takımı",
+  "variant": "Tutku 24 Parça",
+  "identity_confidence": "high",
+  "source_folders": [
+    "kahramanlar-brown-kare-24-parca-porselen-yemek-takimi"
+  ],
+  "source_images": [
+    "new_images/kahramanlar-brown-kare-24-parca-porselen-yemek-takimi/past_kahramanlar-brown-kare-24-parca-porselen-yemek-takimi_00000340.jpg"
+  ],
+  "readable_evidence": [
+    "KAHRAMANLAR",
+    "BROWN KARE",
+    "Porselen YEMEK TAKIMI",
+    "TUTKU",
+    "24 PARÇA"
+  ],
+  "issues": [
+    "\"TUTKU\" printed on the bottom left appears to denote the specific pattern variant of the 24-piece Brown Kare porcelain dinner set."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Parça Sayısı",
+      "value": "24 Parça",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGznqXRa_c4a8YvFrMYTF0jaLq3aYsBY7zYYdtdAckfs283MjInq-waLdGOaBVkYC0Lxey01qaRpwJyX6kDdHk2KDqpn1-RMYf6nGVwytaG4LpdSuFSte-dhV9h22mr59yS00E-lnbdXFYmNHls28I3T26UJVp7IxnF_weLOFohMdlx"
+    },
+    {
+      "label": "Kişi Sayısı",
+      "value": "6 Kişilik",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGznqXRa_c4a8YvFrMYTF0jaLq3aYsBY7zYYdtdAckfs283MjInq-waLdGOaBVkYC0Lxey01qaRpwJyX6kDdHk2KDqpn1-RMYf6nGVwytaG4LpdSuFSte-dhV9h22mr59yS00E-lnbdXFYmNHls28I3T26UJVp7IxnF_weLOFohMdlx"
+    },
+    {
+      "label": "Set İçeriği",
+      "value": "6 adet yemek tabağı, 6 adet servis tabağı, 6 adet pasta tabağı, 6 adet kase",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGznqXRa_c4a8YvFrMYTF0jaLq3aYsBY7zYYdtdAckfs283MjInq-waLdGOaBVkYC0Lxey01qaRpwJyX6kDdHk2KDqpn1-RMYf6nGVwytaG4LpdSuFSte-dhV9h22mr59yS00E-lnbdXFYmNHls28I3T26UJVp7IxnF_weLOFohMdlx"
+    },
+    {
+      "label": "Ürün Kodu",
+      "value": "5603",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGznqXRa_c4a8YvFrMYTF0jaLq3aYsBY7zYYdtdAckfs283MjInq-waLdGOaBVkYC0Lxey01qaRpwJyX6kDdHk2KDqpn1-RMYf6nGVwytaG4LpdSuFSte-dhV9h22mr59yS00E-lnbdXFYmNHls28I3T26UJVp7IxnF_weLOFohMdlx"
+    },
+    {
+      "label": "Barkod",
+      "value": "8697418721744",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfAifevZiFhpOUo3YGCkMU8J3N3otNzhy7VUX7naW067zarUXByQipI3r7HCb4smoxMFC2nhG0-YuzzXViQsinmHljNihM-MSuDVaFfsaPv3ScH-Z10Ll8zHT0wtwGsSpnP4sdKKFw_AMgSj7KAdNvePTiZxaeIw=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGznqXRa_c4a8YvFrMYTF0jaLq3aYsBY7zYYdtdAckfs283MjInq-waLdGOaBVkYC0Lxey01qaRpwJyX6kDdHk2KDqpn1-RMYf6nGVwytaG4LpdSuFSte-dhV9h22mr59yS00E-lnbdXFYmNHls28I3T26UJVp7IxnF_weLOFohMdlx",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfAifevZiFhpOUo3YGCkMU8J3N3otNzhy7VUX7naW067zarUXByQipI3r7HCb4smoxMFC2nhG0-YuzzXViQsinmHljNihM-MSuDVaFfsaPv3ScH-Z10Ll8zHT0wtwGsSpnP4sdKKFw_AMgSj7KAdNvePTiZxaeIw=="
+  ],
+  "verification_notes": [
+    "The product is confirmed as Kahramanlar Brown Kare 24-piece porcelain dinner set (product code 5603), with Tutku denoting the specific motif variant."
+  ]
+}

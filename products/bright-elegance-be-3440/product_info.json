@@ -1,0 +1,61 @@
+{
+  "folder": "bright-elegance-be-3440",
+  "brand": "Bright Elegance",
+  "model": "BE-3440",
+  "name": "Multifunction Steam Cleaner",
+  "variant": "",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "bright-cb-107c-cok-amacli-buharli-temizleyici"
+  ],
+  "source_images": [
+    "new_images/bright-cb-107c-cok-amacli-buharli-temizleyici/past_bright-cb-107c-cok-amacli-buharli-temizleyici_00000504.jpg"
+  ],
+  "readable_evidence": [
+    "BRIGHT ELEGANCE",
+    "Multifunction Steam Cleaner",
+    "BE-3440"
+  ],
+  "issues": [
+    "The primary subject is BE-3440 Multifunction Steam Cleaner, which conflicts with the current folder model CB-107C.",
+    "The model BE-3440 is slightly truncated at the right image border, leaving a small possibility of an additional trailing character.",
+    "The box cropped at the top edge shows 'CB-107C Buharlı Temizlik Makinesi', but lacks readable brand markings in view and is not the primary subject."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Isıtma Kapasitesi",
+      "value": "2000 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTlu18Otn7AfDdZupWFsMBhArrlv7NhjPRfZKyaRqu0SbUy_Eus4wxCvDUvh_M_1F5Sgy3LCpHQUAL5s3mBB4GaA4UUPX4BARp4-R_wwZ1EqQBVFbmrQxE1cRS2u23CZcB_nqdlU8AI0RRh0gZFevO2r4OqRTbaduJVGTYETBcc9-QoLrs82o4I4Vh9fPBaVtkLocI441fSO1mpF64P385ZqZqEZfJLgY-nyYH3BHpEA=="
+    },
+    {
+      "label": "Buhar Basıncı",
+      "value": "4 bar",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTlu18Otn7AfDdZupWFsMBhArrlv7NhjPRfZKyaRqu0SbUy_Eus4wxCvDUvh_M_1F5Sgy3LCpHQUAL5s3mBB4GaA4UUPX4BARp4-R_wwZ1EqQBVFbmrQxE1cRS2u23CZcB_nqdlU8AI0RRh0gZFevO2r4OqRTbaduJVGTYETBcc9-QoLrs82o4I4Vh9fPBaVtkLocI441fSO1mpF64P385ZqZqEZfJLgY-nyYH3BHpEA=="
+    },
+    {
+      "label": "Buhar Sıcaklığı",
+      "value": "110°C",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTlu18Otn7AfDdZupWFsMBhArrlv7NhjPRfZKyaRqu0SbUy_Eus4wxCvDUvh_M_1F5Sgy3LCpHQUAL5s3mBB4GaA4UUPX4BARp4-R_wwZ1EqQBVFbmrQxE1cRS2u23CZcB_nqdlU8AI0RRh0gZFevO2r4OqRTbaduJVGTYETBcc9-QoLrs82o4I4Vh9fPBaVtkLocI441fSO1mpF64P385ZqZqEZfJLgY-nyYH3BHpEA=="
+    },
+    {
+      "label": "Su Tankı Kapasitesi",
+      "value": "1.5 l",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTlu18Otn7AfDdZupWFsMBhArrlv7NhjPRfZKyaRqu0SbUy_Eus4wxCvDUvh_M_1F5Sgy3LCpHQUAL5s3mBB4GaA4UUPX4BARp4-R_wwZ1EqQBVFbmrQxE1cRS2u23CZcB_nqdlU8AI0RRh0gZFevO2r4OqRTbaduJVGTYETBcc9-QoLrs82o4I4Vh9fPBaVtkLocI441fSO1mpF64P385ZqZqEZfJLgY-nyYH3BHpEA=="
+    },
+    {
+      "label": "Güç Kablosu Uzunluğu",
+      "value": "5 m",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTlu18Otn7AfDdZupWFsMBhArrlv7NhjPRfZKyaRqu0SbUy_Eus4wxCvDUvh_M_1F5Sgy3LCpHQUAL5s3mBB4GaA4UUPX4BARp4-R_wwZ1EqQBVFbmrQxE1cRS2u23CZcB_nqdlU8AI0RRh0gZFevO2r4OqRTbaduJVGTYETBcc9-QoLrs82o4I4Vh9fPBaVtkLocI441fSO1mpF64P385ZqZqEZfJLgY-nyYH3BHpEA=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTlu18Otn7AfDdZupWFsMBhArrlv7NhjPRfZKyaRqu0SbUy_Eus4wxCvDUvh_M_1F5Sgy3LCpHQUAL5s3mBB4GaA4UUPX4BARp4-R_wwZ1EqQBVFbmrQxE1cRS2u23CZcB_nqdlU8AI0RRh0gZFevO2r4OqRTbaduJVGTYETBcc9-QoLrs82o4I4Vh9fPBaVtkLocI441fSO1mpF64P385ZqZqEZfJLgY-nyYH3BHpEA=="
+  ],
+  "verification_notes": [
+    "The model BE-3440 is confirmed as an exact product model under Bright Elegance.",
+    "The secondary model code CB-107C seen in the background corresponds to a different branded product (PiranTech CB-107C)."
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "folder": "kiwi-kfan-7429",
+  "brand": "Kiwi",
+  "model": "KFAN-7429",
+  "name": "Tower Fan",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "kiwi-kfan-7429-vantilator"
+  ],
+  "source_images": [
+    "new_images/kiwi-kfan-7429-vantilator/past_kiwi-kfan-7429-vantilator_00000408.jpg"
+  ],
+  "readable_evidence": [
+    "kiwi",
+    "Tower Fan",
+    "KFAN-7429",
+    "74cm 29\""
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Güç",
+      "value": "45 W",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC04QhBKOgCur9PDsLceAckt_gG_7x1364BlCIkG5SU037c9R2Aa7_4KutPP_6K55_63vf1fUN9GQZXpB3_WgnTi1SmDULD12ymMdFzW23u-gtKNYRE8feltuIEeYHqJI4j3gygNuJiBv_PJZWQvEp5_ocbWq8V5UD4x9S"
+    },
+    {
+      "label": "Hız Kademesi",
+      "value": "3 ayarlanabilir hız",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC04QhBKOgCur9PDsLceAckt_gG_7x1364BlCIkG5SU037c9R2Aa7_4KutPP_6K55_63vf1fUN9GQZXpB3_WgnTi1SmDULD12ymMdFzW23u-gtKNYRE8feltuIEeYHqJI4j3gygNuJiBv_PJZWQvEp5_ocbWq8V5UD4x9S"
+    },
+    {
+      "label": "Salınım Açısı",
+      "value": "80° salınım fonksiyonu",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC04QhBKOgCur9PDsLceAckt_gG_7x1364BlCIkG5SU037c9R2Aa7_4KutPP_6K55_63vf1fUN9GQZXpB3_WgnTi1SmDULD12ymMdFzW23u-gtKNYRE8feltuIEeYHqJI4j3gygNuJiBv_PJZWQvEp5_ocbWq8V5UD4x9S"
+    },
+    {
+      "label": "Çap / Yükseklik",
+      "value": "74 cm",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC04QhBKOgCur9PDsLceAckt_gG_7x1364BlCIkG5SU037c9R2Aa7_4KutPP_6K55_63vf1fUN9GQZXpB3_WgnTi1SmDULD12ymMdFzW23u-gtKNYRE8feltuIEeYHqJI4j3gygNuJiBv_PJZWQvEp5_ocbWq8V5UD4x9S"
+    },
+    {
+      "label": "Çalışma Gerilimi",
+      "value": "AC 220V, 50Hz",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC04QhBKOgCur9PDsLceAckt_gG_7x1364BlCIkG5SU037c9R2Aa7_4KutPP_6K55_63vf1fUN9GQZXpB3_WgnTi1SmDULD12ymMdFzW23u-gtKNYRE8feltuIEeYHqJI4j3gygNuJiBv_PJZWQvEp5_ocbWq8V5UD4x9S"
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC04QhBKOgCur9PDsLceAckt_gG_7x1364BlCIkG5SU037c9R2Aa7_4KutPP_6K55_63vf1fUN9GQZXpB3_WgnTi1SmDULD12ymMdFzW23u-gtKNYRE8feltuIEeYHqJI4j3gygNuJiBv_PJZWQvEp5_ocbWq8V5UD4x9S"
+  ],
+  "verification_notes": []
+}

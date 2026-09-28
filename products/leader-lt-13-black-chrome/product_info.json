@@ -1,0 +1,60 @@
+{
+  "folder": "leader-lt-13-black-chrome",
+  "brand": "LEADER",
+  "model": "LT-13",
+  "name": "13 in 1 Kişisel Tıraş Bakım Seti",
+  "variant": "Black / Chrome",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "leader-lt13-13-in-1-kisisel-bakim-seti"
+  ],
+  "source_images": [
+    "new_images/leader-lt13-13-in-1-kisisel-bakim-seti/past_leader-lt13-13-in-1-kisisel-bakim-seti_00000344.jpg",
+    "new_images/leader-lt13-13-in-1-kisisel-bakim-seti/past_leader-lt13-13-in-1-kisisel-bakim-seti_00000346.jpg"
+  ],
+  "readable_evidence": [
+    "LEADER®",
+    "13 IN 1"
+  ],
+  "issues": [
+    "Model number 'LT13' from the folder name is not visible anywhere on the product body or the background packaging."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Motor Hızı",
+      "value": "7000 RPM",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtrgDVYFOZ3789xfkq0wWA2nu8EdPj_-jtIAsl-E_vJq24ZCIfhaq1Iu-2B72qJPpoL0wTDBIkLVtuVbL8XHIzSP1SZuzldlJj-2FGOi9pfJNBvgoqwQGgUL7cIflKpDHbQN3x8vOs7QiEH0IJilxTeyq0A77DhVIZ0gsbV-cSxRjNWQ=="
+    },
+    {
+      "label": "Batarya Kapasitesi",
+      "value": "1200 mAh Li-ion",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtrgDVYFOZ3789xfkq0wWA2nu8EdPj_-jtIAsl-E_vJq24ZCIfhaq1Iu-2B72qJPpoL0wTDBIkLVtuVbL8XHIzSP1SZuzldlJj-2FGOi9pfJNBvgoqwQGgUL7cIflKpDHbQN3x8vOs7QiEH0IJilxTeyq0A77DhVIZ0gsbV-cSxRjNWQ=="
+    },
+    {
+      "label": "Çalışma ve Şarj Süresi",
+      "value": "2 saat şarj ile 200 dakika kablosuz kullanım",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtrgDVYFOZ3789xfkq0wWA2nu8EdPj_-jtIAsl-E_vJq24ZCIfhaq1Iu-2B72qJPpoL0wTDBIkLVtuVbL8XHIzSP1SZuzldlJj-2FGOi9pfJNBvgoqwQGgUL7cIflKpDHbQN3x8vOs7QiEH0IJilxTeyq0A77DhVIZ0gsbV-cSxRjNWQ=="
+    },
+    {
+      "label": "Suya Dayanıklılık",
+      "value": "IPX6 ıslak-kuru kullanım",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtrgDVYFOZ3789xfkq0wWA2nu8EdPj_-jtIAsl-E_vJq24ZCIfhaq1Iu-2B72qJPpoL0wTDBIkLVtuVbL8XHIzSP1SZuzldlJj-2FGOi9pfJNBvgoqwQGgUL7cIflKpDHbQN3x8vOs7QiEH0IJilxTeyq0A77DhVIZ0gsbV-cSxRjNWQ=="
+    },
+    {
+      "label": "Şarj Bağlantısı",
+      "value": "Type-C USB",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtrgDVYFOZ3789xfkq0wWA2nu8EdPj_-jtIAsl-E_vJq24ZCIfhaq1Iu-2B72qJPpoL0wTDBIkLVtuVbL8XHIzSP1SZuzldlJj-2FGOi9pfJNBvgoqwQGgUL7cIflKpDHbQN3x8vOs7QiEH0IJilxTeyq0A77DhVIZ0gsbV-cSxRjNWQ=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtrgDVYFOZ3789xfkq0wWA2nu8EdPj_-jtIAsl-E_vJq24ZCIfhaq1Iu-2B72qJPpoL0wTDBIkLVtuVbL8XHIzSP1SZuzldlJj-2FGOi9pfJNBvgoqwQGgUL7cIflKpDHbQN3x8vOs7QiEH0IJilxTeyq0A77DhVIZ0gsbV-cSxRjNWQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVUNhEpGxrIwbeNzqrQeb5b0FktNevkMla-FMjw69RnwmYUTQWmXd2s5zfl_f1-UVaq9BK9Lg-tFW4znBwbgpiUMgVZgoir1kxiQt5t_oR-chGZzXlzT-p6XcX2KieCDzYPFP0e930NbDyY87UWx0VGaLBRQ4hR9zWJgNyYkdg3Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3_vq9Pznu_jzPgoCckEyPEIM3GoCwhIuOMBOYc0JO1oaCD2Q6_DeXndZF1KO9GQH6LvM9mXYuBghh7pcIBkA3Wanqj0e4xe9k5LGiOlDg9CcGbuQ3c9K54Kd-oRdFr_uwfaEJ-CD5sLiJK708YGVM7MTOlImLULhPQWEx_Prs8wvQ-ErHLRVcGpteIOO7"
+  ],
+  "verification_notes": [
+    "The model designation LT-13 corresponds directly to Leader's 13-in-1 multi-grooming personal care kit listed across major Turkish retailers."
+  ]
+}

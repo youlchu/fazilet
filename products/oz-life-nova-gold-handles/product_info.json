@@ -1,0 +1,34 @@
+{
+  "folder": "oz-life-nova-gold-handles",
+  "brand": "Öz Life",
+  "model": "Nova",
+  "name": "18 Parça Çelik Çeyiz Seti",
+  "variant": "Gold handles",
+  "identity_confidence": "medium",
+  "source_folders": [
+    "oz-life-alaz-18-parca-celik-ceyiz-seti"
+  ],
+  "source_images": [
+    "new_images/oz-life-alaz-18-parca-celik-ceyiz-seti/past_oz-life-alaz-18-parca-celik-ceyiz-seti_00000125.jpg"
+  ],
+  "readable_evidence": [
+    "Öz Life",
+    "yenilik ve sen",
+    "Nov",
+    "18 Parça Çelik Çeyiz Seti"
+  ],
+  "issues": [
+    "The primary centered box is an Öz Life 18-piece stainless steel dowry set where the model name in the upper right is cropped at 'Nov...' (consistent with the Özlife Nova line).",
+    "The bottom box is labeled 'ALAZ', which matches the current folder name prior, but it is partially cropped and secondary."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [],
+  "verification_notes": [
+    "No manufacturer or retail listings could be found confirming an Öz Life 18-piece dowry set under the model name 'Nova'.",
+    "In Öz Life's catalog, the 'Nova' designation is primarily used for pressure cooker lines (e.g., Nova 4L, 6L, 8L, 10L, 13L, 15L düdüklü tencere), whereas 18-piece stainless steel dowry sets are sold under series names such as Alaz (SKU 4023/4024), Enza, Ceylin, Dolce, and Irmak.",
+    "Per instructions, because exact model evidence for 'Nova 18 Parça Çelik Çeyiz Seti' cannot be confirmed and cannot be definitively corrected from the visible 'Nov...' text, the verdict is set to unverified and the visually read identity is retained."
+  ]
+}

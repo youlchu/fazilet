@@ -1,0 +1,64 @@
+{
+  "folder": "goldmaster-gm-8184",
+  "brand": "Goldmaster",
+  "model": "GM-8184",
+  "name": "FENOMEN 9in1 Erkek Bakım Seti",
+  "variant": "",
+  "identity_confidence": "high",
+  "source_folders": [
+    "goldmaster-gm-8184-fenomen-9-in-1-erkek-bakim-seti"
+  ],
+  "source_images": [
+    "new_images/goldmaster-gm-8184-fenomen-9-in-1-erkek-bakim-seti/past_goldmaster-gm-8184-fenomen-9-in-1-erkek-bakim-seti_00000100.jpg",
+    "new_images/goldmaster-gm-8184-fenomen-9-in-1-erkek-bakim-seti/past_goldmaster-gm-8184-fenomen-9-in-1-erkek-bakim-seti_00000101.jpg",
+    "new_images/goldmaster-gm-8184-fenomen-9-in-1-erkek-bakim-seti/past_goldmaster-gm-8184-fenomen-9-in-1-erkek-bakim-seti_00000190.jpg",
+    "new_images/goldmaster-gm-8184-fenomen-9-in-1-erkek-bakim-seti/past_goldmaster-gm-8184-fenomen-9-in-1-erkek-bakim-seti_00000254.jpg",
+    "new_images/goldmaster-gm-8184-fenomen-9-in-1-erkek-bakim-seti/past_goldmaster-gm-8184-fenomen-9-in-1-erkek-bakim-seti_00000256.jpg",
+    "new_images/goldmaster-gm-8184-fenomen-9-in-1-erkek-bakim-seti/past_goldmaster-gm-8184-fenomen-9-in-1-erkek-bakim-seti_00000397.jpg",
+    "new_images/goldmaster-gm-8184-fenomen-9-in-1-erkek-bakim-seti/past_goldmaster-gm-8184-fenomen-9-in-1-erkek-bakim-seti_00000398.jpg"
+  ],
+  "readable_evidence": [
+    "Goldmaster",
+    "FENOMEN",
+    "9in1 Erkek Bakım Seti",
+    "Men Grooming Set",
+    "GM-8184",
+    "9 Fonksiyon Bir Arada"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Kullanım Süresi",
+      "value": "120 dakikaya kadar kesintisiz kullanım",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHustrbMvKQCvG1KObWrDFDSsPuEdE_srf1-Do2c6OeCjb0CaOCAfuFkbyMSNahMx68X0ETHadkjSQA9PdtVVNypnluCY_Dgym4vCF0YT8MmG5EN1XOOUxIge4nbAXOSuDEOVZ1g42-s6OAMRJ9i4nr07YLYavqTEAEb7FHxCBFc0L7L8q0ag=="
+    },
+    {
+      "label": "Kullanım Tipi",
+      "value": "Kablolu ve kablosuz kullanım",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1Wvk9Ag5ozTRG98qBOvGdRgwg3u2ukgs154n1G2D72wO1QaVbWFpkOgEWsE9mxrgMwhy2LDcIthMltotdD1-GErHdT850rDWLgedNg5TCGEGwzBWNnudnszzLVg70RmvvinZrK7aTmknFUOXmm1GxJFGQf5OQsJidKVMHeMbFX11iM955Pz_KL4NHuxf2UsqgLvv6ojCA9AS8FUJyhyUhCxGyoGaTHPF0lnewdRw9YZPZw8ZqwpTHOpLw74tjBpsUDNDPdjlvRupHSTHLCOspECul4jDeE4Vdwwg="
+    },
+    {
+      "label": "Bıçak Özelliği",
+      "value": "Paslanmaz çelik bıçak",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1Wvk9Ag5ozTRG98qBOvGdRgwg3u2ukgs154n1G2D72wO1QaVbWFpkOgEWsE9mxrgMwhy2LDcIthMltotdD1-GErHdT850rDWLgedNg5TCGEGwzBWNnudnszzLVg70RmvvinZrK7aTmknFUOXmm1GxJFGQf5OQsJidKVMHeMbFX11iM955Pz_KL4NHuxf2UsqgLvv6ojCA9AS8FUJyhyUhCxGyoGaTHPF0lnewdRw9YZPZw8ZqwpTHOpLw74tjBpsUDNDPdjlvRupHSTHLCOspECul4jDeE4Vdwwg="
+    },
+    {
+      "label": "Şarj Süresi",
+      "value": "120 dakika şarj süresi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1Wvk9Ag5ozTRG98qBOvGdRgwg3u2ukgs154n1G2D72wO1QaVbWFpkOgEWsE9mxrgMwhy2LDcIthMltotdD1-GErHdT850rDWLgedNg5TCGEGwzBWNnudnszzLVg70RmvvinZrK7aTmknFUOXmm1GxJFGQf5OQsJidKVMHeMbFX11iM955Pz_KL4NHuxf2UsqgLvv6ojCA9AS8FUJyhyUhCxGyoGaTHPF0lnewdRw9YZPZw8ZqwpTHOpLw74tjBpsUDNDPdjlvRupHSTHLCOspECul4jDeE4Vdwwg="
+    },
+    {
+      "label": "Şarj Bağlantısı",
+      "value": "USB ile şarj edilebilme",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHustrbMvKQCvG1KObWrDFDSsPuEdE_srf1-Do2c6OeCjb0CaOCAfuFkbyMSNahMx68X0ETHadkjSQA9PdtVVNypnluCY_Dgym4vCF0YT8MmG5EN1XOOUxIge4nbAXOSuDEOVZ1g42-s6OAMRJ9i4nr07YLYavqTEAEb7FHxCBFc0L7L8q0ag=="
+    }
+  ],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHustrbMvKQCvG1KObWrDFDSsPuEdE_srf1-Do2c6OeCjb0CaOCAfuFkbyMSNahMx68X0ETHadkjSQA9PdtVVNypnluCY_Dgym4vCF0YT8MmG5EN1XOOUxIge4nbAXOSuDEOVZ1g42-s6OAMRJ9i4nr07YLYavqTEAEb7FHxCBFc0L7L8q0ag==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1Wvk9Ag5ozTRG98qBOvGdRgwg3u2ukgs154n1G2D72wO1QaVbWFpkOgEWsE9mxrgMwhy2LDcIthMltotdD1-GErHdT850rDWLgedNg5TCGEGwzBWNnudnszzLVg70RmvvinZrK7aTmknFUOXmm1GxJFGQf5OQsJidKVMHeMbFX11iM955Pz_KL4NHuxf2UsqgLvv6ojCA9AS8FUJyhyUhCxGyoGaTHPF0lnewdRw9YZPZw8ZqwpTHOpLw74tjBpsUDNDPdjlvRupHSTHLCOspECul4jDeE4Vdwwg="
+  ],
+  "verification_notes": []
+}

@@ -1,0 +1,33 @@
+{
+  "folder": "king-teapro-inox",
+  "brand": "King",
+  "model": "TeaPro",
+  "name": "TeaPro Inox Çay Makinesi",
+  "variant": "Inox",
+  "identity_confidence": "high",
+  "source_folders": [
+    "king-teapro-cay-makinesi"
+  ],
+  "source_images": [
+    "new_images/king-teapro-cay-makinesi/past_king-teapro-cay-makinesi_00000411.jpg"
+  ],
+  "readable_evidence": [
+    "king",
+    "TeaPro",
+    "Inox Çay Makinesi"
+  ],
+  "issues": [
+    "The image set contains four distinct models/material variants of King TeaPro tea makers (Red Inox, Black Plastic, Glass/Cam, and Inox/Silver) across different photos, so there is no single primary product."
+  ],
+  "status": "identity-audited",
+  "web_verdict": "unverified",
+  "web_confidence": "low",
+  "features": [],
+  "source_urls": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhSdFnpe3lN1rsCgTug5APik12EbtW_faAg6mEeB7tM4OlPdAQQProEFJQ9LEjGDqXpRymBk5bZlWch9O-rXuxBX17cYAlD5wfISq0wW7ZpuIcwQbrgee9zrESsqqqh498cNax0nPPRWGQstEcHf5FdfKY9ZjPZcVMCBdP"
+  ],
+  "verification_notes": [
+    "The source photographs depict multiple distinct models and material variants of King TeaPro tea makers (including Red Inox, Black Plastic, Glass, and Inox/Silver), precluding the confirmation of a single primary product.",
+    "Per instructions, when an exact model cannot be confirmed due to conflicting product representations, the verdict is marked unverified and the visually read candidate identity is preserved."
+  ]
+}
