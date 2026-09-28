@@ -1,0 +1,59 @@
+{
+  "folder": "sinbo-svc-8613-toz-torbasiz-supurge",
+  "brand": "Sinbo",
+  "model": "SVC-8613",
+  "name": "890 W Toz Torbasız Elektrikli Süpürge",
+  "variant": null,
+  "identity_confidence": "high",
+  "source_folders": [
+    "sinbo-svc-8613-toz-torbasiz-supurge"
+  ],
+  "source_images": [
+    "new_images/sinbo-svc-8613-toz-torbasiz-supurge/past_sinbo-svc-8613-toz-torbasiz-supurge_00000499.jpg"
+  ],
+  "readable_evidence": [
+    "sinbo",
+    "SVC-8613",
+    "Torbasız Siklonik Elektrikli Süpürge"
+  ],
+  "issues": [],
+  "status": "identity-audited",
+  "web_verdict": "confirmed",
+  "web_confidence": "high",
+  "features": [
+    {
+      "label": "Motor gücü",
+      "value": "890 W",
+      "source_url": "https://www.epey.com/supurge/sinbo-svc-8613.html"
+    },
+    {
+      "label": "Toz kapasitesi",
+      "value": "2,8 L",
+      "source_url": "https://www.epey.com/supurge/sinbo-svc-8613.html"
+    },
+    {
+      "label": "Filtreleme",
+      "value": "Torbasız siklonik sistem",
+      "source_url": "https://www.epey.com/supurge/sinbo-svc-8613.html"
+    },
+    {
+      "label": "Filtre",
+      "value": "HEPA H13",
+      "source_url": "https://www.epey.com/supurge/sinbo-svc-8613.html"
+    },
+    {
+      "label": "Çalışma yarıçapı",
+      "value": "7,5 m",
+      "source_url": "https://www.epey.com/supurge/sinbo-svc-8613.html"
+    }
+  ],
+  "source_urls": [
+    "https://www.epey.com/supurge/sinbo-svc-8613.html",
+    "https://www.trendyol.com/sinbo/svc-8613-890-w-elektrikli-supurge-p-1038080282",
+    "https://www.akakce.com/elektrikli-supurge/en-ucuz-sinbo-svc-8613-toz-torbasiz-fiyati,747764399.html"
+  ],
+  "verification_notes": [
+    "Marka ve SVC-8613 model kodu özgün kutu görseli ile güncel perakende kayıtlarında birbiriyle eşleşti.",
+    "Ürün, 890 W torbasız siklonik elektrikli süpürge olarak doğrulandı."
+  ]
+}
