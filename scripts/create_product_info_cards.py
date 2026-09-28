@@ -12,6 +12,13 @@ ROOT = Path(__file__).resolve().parents[1]
 IMAGE_ROOT = ROOT / "new_images"
 FONT_REGULAR = "/System/Library/Fonts/Supplemental/Arial.ttf"
 FONT_BOLD = "/System/Library/Fonts/Supplemental/Arial Bold.ttf"
+LOGO_PATH = ROOT / "assets" / "branding" / "fazilet-ceyiz-logo.png"
+# The logo stays a discreet watermark-like signature in the top-right corner.
+LOGO_WIDTH = 200
+LOGO_TOP = 48
+LOGO_RIGHT_MARGIN = 55
+LOGO_PADDING = 14
+LOGO_PLATE_ALPHA = 232
 
 PRODUCTS = {
     "akdeniz-zumrut-soft-siraz-bakalit-kulp-orta-boy-caydanlik": {
@@ -117,6 +124,48 @@ def rounded_image(source: Image.Image, size: tuple[int, int], radius: int) -> Im
     return canvas
 
 
+def load_logo(width: int) -> Image.Image:
+    """Return the branding logo trimmed to its visible pixels at the requested width."""
+    if not LOGO_PATH.is_file():
+        raise FileNotFoundError(f"Branding logo not found: {LOGO_PATH}")
+    logo = Image.open(LOGO_PATH).convert("RGBA")
+    bbox = logo.getchannel("A").getbbox()
+    if bbox is None:
+        raise ValueError(f"Branding logo is fully transparent: {LOGO_PATH}")
+    logo = logo.crop(bbox)
+    height = max(1, round(logo.height * width / logo.width))
+    return logo.resize((width, height), Image.Resampling.LANCZOS)
+
+
+def paste_logo(canvas: Image.Image, accent: tuple[int, int, int]) -> None:
+    """Overlay the small logo on a rounded plate in the top-right corner of a card."""
+    logo = load_logo(LOGO_WIDTH)
+    plate_size = (logo.width + LOGO_PADDING * 2, logo.height + LOGO_PADDING * 2)
+    x0 = canvas.width - LOGO_RIGHT_MARGIN - plate_size[0]
+    y0 = LOGO_TOP
+    radius = plate_size[1] // 2
+
+    plate = Image.new("RGBA", plate_size, (0, 0, 0, 0))
+    plate_draw = ImageDraw.Draw(plate)
+    plate_draw.rounded_rectangle(
+        (0, 0, plate_size[0] - 1, plate_size[1] - 1),
+        radius=radius,
+        fill=(255, 255, 255, LOGO_PLATE_ALPHA),
+        outline=mix(accent, (255, 255, 255), 0.68) + (150,),
+        width=2,
+    )
+    plate.alpha_composite(logo, (LOGO_PADDING, LOGO_PADDING))
+
+    shadow = Image.new("RGBA", canvas.size, (0, 0, 0, 0))
+    ImageDraw.Draw(shadow).rounded_rectangle(
+        (x0 + 2, y0 + 7, x0 + plate_size[0] + 2, y0 + plate_size[1] + 7),
+        radius=radius,
+        fill=(20, 24, 32, 30),
+    )
+    canvas.paste(shadow, (0, 0), shadow.filter(ImageFilter.GaussianBlur(11)))
+    canvas.paste(plate, (x0, y0), plate)
+
+
 def create_card(slug: str, spec: dict[str, object]) -> Path:
     width = height = 1254
     accent = spec["accent"]
@@ -141,6 +190,8 @@ def create_card(slug: str, spec: dict[str, object]) -> Path:
     draw.text((55, 177), str(spec["title"]), font=font(62, bold=True), fill=(25, 29, 38))
     draw.text((58, 252), str(spec["subtitle"]), font=font(27), fill=(76, 82, 94))
     draw.line((55, 305, 1199, 305), fill=mix(accent, (255, 255, 255), 0.65), width=3)
+
+    paste_logo(canvas, accent)
 
     shadow = Image.new("RGBA", canvas.size, (0, 0, 0, 0))
     shadow_draw = ImageDraw.Draw(shadow)

@@ -20,6 +20,11 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Iterable
 
+try:
+    from image_branding import brand_file
+except ModuleNotFoundError:  # Allow importing as scripts.generate_product_images in tests/tools.
+    from scripts.image_branding import brand_file
+
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_PROMPT = ROOT / "generation" / "prompt.txt"
@@ -191,6 +196,7 @@ def run_sync(args: argparse.Namespace, jobs: list[ProductJob], template: str) ->
             image = extract_sync_image(response)
             job.output_path.parent.mkdir(parents=True, exist_ok=True)
             job.output_path.write_bytes(image)
+            brand_file(job.output_path)
             write_event(
                 state_file,
                 {
@@ -341,6 +347,7 @@ def fetch_batch(args: argparse.Namespace, output_dir: Path) -> None:
             continue
         output.parent.mkdir(parents=True, exist_ok=True)
         output.write_bytes(image)
+        brand_file(output)
         saved += 1
     print(f"Kaydedilen aday gorsel: {saved}")
 

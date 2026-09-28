@@ -40,6 +40,12 @@ def main() -> None:
             if reference
             else '<figure class="missing"><figcaption>Referans yok</figcaption></figure>'
         )
+        info_html = (
+            f'<figure><img src="{folder_name}/product_info.png" alt="Ürün bilgi kartı">'
+            '<figcaption>product_info.png</figcaption></figure>'
+            if (folder / "product_info.png").is_file()
+            else '<figure class="missing"><figcaption>Bilgi kartı henüz yok</figcaption></figure>'
+        )
         cards.append(
             f"""
             <article class="card">
@@ -54,6 +60,7 @@ def main() -> None:
                 {ref_html}
                 <figure><img src="{folder_name}/product_hero.png" alt="Temiz ürün"><figcaption>product_hero.png</figcaption></figure>
                 <figure><img src="{folder_name}/product_box.png" alt="Kutulu ürün"><figcaption>product_box.png</figcaption></figure>
+                {info_html}
               </div>
               <footer>{source_html}</footer>
             </article>
@@ -80,7 +87,7 @@ def main() -> None:
     h2 {{ margin: 0 0 7px; font-size: 19px; }}
     code {{ color: #647180; font-size: 12px; }}
     .confidence {{ align-self: flex-start; padding: 5px 9px; border-radius: 999px; background: #eaf3ee; color: #276246; font-size: 12px; }}
-    .images {{ display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }}
+    .images {{ display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px; }}
     figure {{ margin: 0; min-width: 0; }}
     img {{ width: 100%; aspect-ratio: 1; object-fit: contain; display: block; border-radius: 10px; background: #f7f8fa; border: 1px solid #e7ebef; }}
     figcaption {{ margin-top: 7px; color: #566575; font-size: 12px; }}
@@ -91,7 +98,7 @@ def main() -> None:
 </head>
 <body>
   <main class="page">
-    <div class="summary"><h1>Ürün katalog görsel kontrolü</h1><span>{len(cards)} ürün · referans / temiz / kutulu</span></div>
+    <div class="summary"><h1>Ürün katalog görsel kontrolü</h1><span>{len(cards)} ürün · referans / temiz / kutulu / bilgi</span></div>
     <section class="grid">{''.join(cards)}</section>
   </main>
 </body>
